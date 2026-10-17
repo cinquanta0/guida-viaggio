@@ -1,0 +1,82 @@
+
+== 4 Archi  (Milo, 163 esercizi)
+     1.00  Osteria Quattro Archi
+     0.00  Il Bocconcino
+     0.00  A' Matticana
+     0.00  Mannik Cafè
+     0.00  Bar Spartini
+     -> 26 min, 19 km   OSM: Osteria Quattro Archi
+
+== Trattoria LinguaGrossa  (Linguaglossa, 67 esercizi)
+     0.00  Gole Alcantara
+     0.00  Arte Caffè
+     0.00  Bar Scrivano
+     0.00  Storie di un Chicco di Grano
+     0.00  Bar Valery
+     -> ancora niente
+
+== L’Osteria di Cantine Nicosia  (Trecastagni, 532 esercizi)
+     0.00  Albatros
+     0.00  McDonald's
+     0.00  Al Ficodindia
+     0.00  Al Però
+     0.00  Etna Bar
+     -> ancora niente
+
+== Vico Astemio  (Riposto, 149 esercizi)
+     0.50  Ristorante Pizzeria Astemio
+     0.00  Il Bocconcino
+     0.00  A' Matticana
+     0.00  Mannik Cafè
+     0.00  Bar Spartini
+     -> ancora niente
+
+== Agricolab  (Catania, 1452 esercizi)
+     0.00  Cortile Alessi
+     0.00  Uramakao
+     0.00  Albatros
+     0.00  A Casa d'Amici
+     0.00  Bar Sapienza
+     -> 20 min, 19 km   Nominatim: Agricolab al Borgo dell'Etna
+
+== Angiò, macelleria di mare  (Catania, 1452 esercizi)
+     1.00  Trattoria Il Mare
+     0.50  Macelleria Triolo
+     0.50  Macelleria Equina
+     0.50  Macelleria La Fauci
+     0.50  Macelleria e Preparati
+     -> 23 min, 15 km   OSM: Trattoria Il Mare
+
+== U Sulicce’nti  (Rosolini, 73 esercizi)
+     0.00  Royal Bar
+     0.00  Il Mercato
+     0.00  Il Giardino dei Sapori
+     0.00  Donna Patrizia
+     0.00  Antica Osteria U Suliccenti
+     -> ancora niente
+
+== Fattoria Borrello — Osteria del Maiale Nero  (Raccuja, 65 esercizi)
+     0.50  Fratelli Borrello
+     0.50  Angelo Borrello
+     0.00  A baracca du rizzu
+     0.00  Maturi
+     0.00  Roxy Bar
+     -> ancora niente
+
+== Palazzaccio  (Castelbuono, 58 esercizi)
+     0.00  Don Jon
+     0.00  Real carne
+     0.00  Bolero Bar
+     0.00  Bar del Corso
+     0.00  Pink Panther
+     -> ancora niente
+
+totale verificati 23/29
+
+RESTANO FUORI:
+  Trattoria LinguaGrossa (Linguaglossa)
+  L’Osteria di Cantine Nicosia (Trecastagni)
+  Vico Astemio (Riposto)
+  U Sulicce’nti (Rosolini)
+  Fattoria Borrello — Osteria del Maiale Nero (Raccuja)
+  Palazzaccio (Castelbuono)

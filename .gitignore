@@ -1,0 +1,18 @@
+# === SICUREZZA: mai online ===
+**/chiave_google.js
+*.key
+.env
+
+# dipendenze e cache (si rigenerano)
+**/node_modules/
+**/.firebase/
+**/places_cache/
+**/chrome_raw/
+**/osm_raw/
+**/grezze_*/
+
+# dump grezzi pesanti e backup (storico locale, inutile nel repo)
+**/_backup*/
+**/overture_grezzo*.json
+**/spazza_*_risultati.json
+**/*.log

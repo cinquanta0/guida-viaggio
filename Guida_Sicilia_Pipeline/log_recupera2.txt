@@ -1,0 +1,80 @@
+
+== L’Osteria di Cantine Nicosia  (Trecastagni, 532 esercizi)
+     0.00  Albatros
+     0.00  McDonald's
+     0.00  Al Ficodindia
+     0.00  Al Però
+     0.00  Etna Bar
+     -> ancora niente
+
+== Agricolab  (Catania, 1452 esercizi)
+     0.00  Cortile Alessi
+     0.00  Uramakao
+     0.00  Albatros
+     0.00  A Casa d'Amici
+     0.00  Bar Sapienza
+     -> 20 min, 19 km   Nominatim: Agricolab al Borgo dell'Etna
+
+== Angiò, macelleria di mare  (Catania, 1452 esercizi)
+     1.00  Trattoria Il Mare
+     0.50  Macelleria Triolo
+     0.50  Macelleria Equina
+     0.50  Macelleria La Fauci
+     0.50  Macelleria e Preparati
+     -> 23 min, 15 km   OSM: Trattoria Il Mare
+
+== Fattoria Borrello — Osteria del Maiale Nero  (Raccuja, 65 esercizi)
+     0.50  Fratelli Borrello
+     0.50  Angelo Borrello
+     0.00  A baracca du rizzu
+     0.00  Maturi
+     0.00  Roxy Bar
+     -> ancora niente
+
+== Palazzaccio  (Castelbuono, 58 esercizi)
+     0.00  Don Jon
+     0.00  Real carne
+     0.00  Bolero Bar
+     0.00  Bar del Corso
+     0.00  Pink Panther
+     -> ancora niente
+
+== Ginger People & Food  (Agrigento, 274 esercizi)
+     1.00  Ginger People & Food
+     1.00  Ginger people and food
+     0.00  Trattoria Caico
+     0.00  Kokalos
+     0.00  Gelateria La Sosta
+     -> 135 min, 168 km   OSM: Ginger People & Food
+
+== Terracotta  (Agrigento, 274 esercizi)
+     1.00  Terracotta
+     0.00  Trattoria Caico
+     0.00  Kokalos
+     0.00  Gelateria La Sosta
+     0.00  Bar Garden
+     -> 138 min, 173 km   OSM: Terracotta
+
+== Oasi Osteria del Mare  (Licata, 32 esercizi)
+     1.00  Oasi Beach Osteria Del Mare
+     0.00  La Madia
+     0.00  Logico
+     0.00  Taverna del Duca
+     0.00  Drogheria
+     -> 140 min, 146 km   OSM: Oasi Beach Osteria Del Mare
+
+== Arrhais  (Pollina, 0 esercizi)
+     -> 162 min, 225 km   Nominatim: Arrhais
+
+== Caupona Taverna di Sicilia  (Trapani, 0 esercizi)
+     -> 260 min, 332 km   Nominatim: Caupona Taverna di Sicilia
+
+== Agriturismo Giannavì  (Palazzolo Acreide, 0 esercizi)
+     -> 104 min, 92 km   Nominatim: Agriturismo Giannavì
+
+totale verificati 32/35
+
+RESTANO FUORI:
+  L’Osteria di Cantine Nicosia (Trecastagni)
+  Fattoria Borrello — Osteria del Maiale Nero (Raccuja)
+  Palazzaccio (Castelbuono)

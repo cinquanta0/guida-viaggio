@@ -1,0 +1,346 @@
+[
+ {
+  "nome": "Il Cortile delle Fate",
+  "zona": "Aci Castello",
+  "tag": "pizza pesce",
+  "indirizzo": "Via Savoia, 16",
+  "min": 13,
+  "km": 7.8
+ },
+ {
+  "nome": "Bonu Jè",
+  "zona": "Aci Trezza",
+  "tag": "pizza street",
+  "indirizzo": "Via Provinciale 140",
+  "min": 11,
+  "km": 6.5
+ },
+ {
+  "nome": "Absolut RistoPub",
+  "zona": "Aci Catena",
+  "tag": "pizza",
+  "indirizzo": "Via Vincenzo Ricca, 1",
+  "min": 10,
+  "km": 6.6
+ },
+ {
+  "nome": "Quattro Elementi",
+  "zona": "Valverde",
+  "tag": "pizza street",
+  "indirizzo": "Corso Vittorio Emanuele III, 120",
+  "min": 13,
+  "km": 7.7
+ },
+ {
+  "nome": "Cazzalora",
+  "zona": "Valverde",
+  "tag": "pasta street",
+  "indirizzo": "Corso Vittorio Emanuele III, 116",
+  "min": 13,
+  "km": 7.7
+ },
+ {
+  "nome": "Antica Taverna di Capomulini",
+  "zona": "Acireale",
+  "tag": "pesce pizza",
+  "indirizzo": "Via Capomulini, 34",
+  "min": 7,
+  "km": 4.4
+ },
+ {
+  "nome": "Osteria 1877",
+  "zona": "Nicolosi",
+  "tag": "pasta",
+  "indirizzo": "Via Etnea, 63",
+  "min": 24,
+  "km": 16.1
+ },
+ {
+  "nome": "Chiosco Al Centro",
+  "zona": "Acireale",
+  "tag": "dolci",
+  "indirizzo": "Via Vittorio Emanuele II, 219",
+  "min": 4,
+  "km": 1.7
+ },
+ {
+  "nome": "Sikelia Beer and More",
+  "zona": "Acireale",
+  "tag": "street",
+  "indirizzo": "Via Lancaster, 22-24",
+  "min": 1,
+  "km": 0.5
+ },
+ {
+  "nome": "Moro Acireale",
+  "zona": "Acireale",
+  "tag": "street",
+  "indirizzo": "P.za Duomo, 18",
+  "min": 3,
+  "km": 1.3
+ },
+ {
+  "nome": "La Nuova Veranda Risto Pub",
+  "zona": "Acireale",
+  "tag": "pizza pesce",
+  "indirizzo": "Via Antillo, 18",
+  "min": 5,
+  "km": 2.7
+ },
+ {
+  "nome": "Ristobar Srl",
+  "zona": "Acireale",
+  "tag": "pizza",
+  "indirizzo": "Piazza Agostino Pennisi, 1",
+  "min": 2,
+  "km": 1
+ },
+ {
+  "nome": "Cavallino d'Oro",
+  "zona": "Trecastagni",
+  "tag": "carne pizza",
+  "indirizzo": "Via Catania, 67",
+  "min": 19,
+  "km": 10.7
+ },
+ {
+  "nome": "Chiosco City Drink",
+  "zona": "Aci Bonaccorsi",
+  "tag": "dolci",
+  "indirizzo": "Via Garibaldi, Villetta dei Pini",
+  "min": 14,
+  "km": 7.6
+ },
+ {
+  "nome": "Tabare Bistrò Caffè",
+  "zona": "Acireale",
+  "tag": "dolci",
+  "indirizzo": "Via Loreto Balatelle, 190",
+  "min": 7,
+  "km": 3.7
+ },
+ {
+  "nome": "Trattoria Scalo Grande",
+  "zona": "Acireale",
+  "tag": "pesce",
+  "indirizzo": "Via Scalo Grande, 68",
+  "min": 7,
+  "km": 3.2
+ },
+ {
+  "nome": "Zuccaro Giuseppe",
+  "zona": "Trecastagni",
+  "tag": "street",
+  "indirizzo": "Via Giuseppe Verdi, 69",
+  "min": 20,
+  "km": 12.2
+ },
+ {
+  "nome": "La Cantoniera Etna",
+  "zona": "Nicolosi",
+  "tag": "pasta",
+  "indirizzo": "Piazzale Cantoniera",
+  "min": 49,
+  "km": 31
+ },
+ {
+  "nome": "I Camurriusi",
+  "zona": "Nicolosi",
+  "tag": "pesce carne pasta",
+  "indirizzo": "Via Fratelli Gemmellaro, 50",
+  "min": 24,
+  "km": 16
+ },
+ {
+  "nome": "Officina Gastronomica",
+  "zona": "Acireale",
+  "tag": "pesce carne street",
+  "indirizzo": "Via Provinciale Per Santa Maria Ammalati, 152",
+  "min": 7,
+  "km": 4.6
+ },
+ {
+  "nome": "Azienda Agricola Oasi dell'Etna",
+  "zona": "Santa Venerina",
+  "tag": "pizza",
+  "indirizzo": "Via Princessa 56",
+  "min": 17,
+  "km": 10.8
+ },
+ {
+  "nome": "Chiosco La Briciola",
+  "zona": "Giarre",
+  "tag": "dolci",
+  "indirizzo": "Piazza Trepunti",
+  "min": 16,
+  "km": 14.9
+ },
+ {
+  "nome": "Al panino sotto le stelle by Angelo",
+  "zona": "Giarre",
+  "tag": "street",
+  "indirizzo": "Piazza trepunti ",
+  "min": 16,
+  "km": 14.9
+ },
+ {
+  "nome": "Gnam Gnam",
+  "zona": "Giarre",
+  "tag": "pesce pasta",
+  "indirizzo": "Via Luigi Pirandello, 39",
+  "min": 20,
+  "km": 17.3
+ },
+ {
+  "nome": "Andremo da Gio",
+  "zona": "Giarre",
+  "tag": "street",
+  "indirizzo": "Via Callipoli, 144",
+  "min": 20,
+  "km": 17.6
+ },
+ {
+  "nome": "Il Chiosco di Santa Maria La Strada",
+  "zona": "Giarre",
+  "tag": "dolci street",
+  "indirizzo": "Via Ruggero I, 1",
+  "min": 21,
+  "km": 18.8
+ },
+ {
+  "nome": "Lido Moby Dick",
+  "zona": "Mascali",
+  "tag": "mare",
+  "indirizzo": "Via Spiaggia, 205",
+  "min": 26,
+  "km": 21.5
+ },
+ {
+  "nome": "C'era Cu C'era",
+  "zona": "Giardini Naxos",
+  "tag": "pasta pesce",
+  "indirizzo": "Via Naxos, 197",
+  "min": 29,
+  "km": 33.9
+ },
+ {
+  "nome": "Lido la Romantica",
+  "zona": "Giardini Naxos",
+  "tag": "pizza pesce mare",
+  "indirizzo": "Via Naxos",
+  "min": 29,
+  "km": 33.9
+ },
+ {
+  "nome": "Che Bella PinsaTa",
+  "zona": "Giardini Naxos",
+  "tag": "pizza",
+  "indirizzo": "Lungomare Naxos, 257",
+  "min": 29,
+  "km": 33.9
+ },
+ {
+  "nome": "Rendez Vous",
+  "zona": "Giardini Naxos",
+  "tag": "pizza pesce",
+  "indirizzo": "Via Schisò, 4",
+  "min": 29,
+  "km": 34
+ },
+ {
+  "nome": "Ristorante da Angelina",
+  "zona": "Giardini Naxos",
+  "tag": "pesce pizza",
+  "indirizzo": "Via Calcide Eubea, n°2",
+  "min": 31,
+  "km": 34.5
+ },
+ {
+  "nome": "Ristorante Pozzo Greco",
+  "zona": "Giardini Naxos",
+  "tag": "pizza pesce",
+  "indirizzo": "Via Stracina, 20",
+  "min": 31,
+  "km": 34.6
+ },
+ {
+  "nome": "Ristorante Claire De Lune",
+  "zona": "Giardini Naxos",
+  "tag": "pesce pasta",
+  "indirizzo": "Via Calcide Eubea, 8",
+  "min": 31,
+  "km": 34.7
+ },
+ {
+  "nome": "Gustá Food and Drink",
+  "zona": "Giardini Naxos",
+  "tag": "street pesce",
+  "indirizzo": "Via Naxos, 281",
+  "min": 30,
+  "km": 34
+ },
+ {
+  "nome": "Osteria Cotto&Mangiato",
+  "zona": "Giardini Naxos",
+  "tag": "pizza pesce",
+  "indirizzo": "Viale Jannuzzo",
+  "min": 31,
+  "km": 35
+ },
+ {
+  "nome": "Ristorante Sire",
+  "zona": "Giardini Naxos",
+  "tag": "pizza pesce",
+  "indirizzo": "Viale Jannuzzo, 31 f",
+  "min": 31,
+  "km": 34.7
+ },
+ {
+  "nome": "Lido Pirata Beach",
+  "zona": "Giardini Naxos",
+  "tag": "mare",
+  "indirizzo": "Italy",
+  "min": 38,
+  "km": 35.7
+ },
+ {
+  "nome": "Passioni e Sapori Gastronomia",
+  "zona": "Fiumefreddo di Sicilia",
+  "tag": "street pasta",
+  "indirizzo": "Via Diana, 18",
+  "min": 26,
+  "km": 28.3
+ },
+ {
+  "nome": "7+ Nicolosi",
+  "zona": "Nicolosi",
+  "tag": "pizza carne",
+  "indirizzo": "Viale della Regione, 7/A",
+  "min": 24,
+  "km": 16.5
+ },
+ {
+  "nome": "Le Desir Piquant",
+  "zona": "Giardini Naxos",
+  "tag": "pesce",
+  "indirizzo": "Lungomare IV Novembre, 59",
+  "min": 32,
+  "km": 35.4
+ },
+ {
+  "nome": "Chiosco ai Muretti",
+  "zona": "Aci Castello",
+  "tag": "dolci",
+  "indirizzo": "Lungomare dei Ciclopi, 99",
+  "min": 11,
+  "km": 6.5
+ },
+ {
+  "nome": "Cafe O'Neil",
+  "zona": "Giardini Naxos",
+  "tag": "dolci",
+  "indirizzo": "Viale Jannuzzo, 12",
+  "min": 31,
+  "km": 34.9
+ }
+]

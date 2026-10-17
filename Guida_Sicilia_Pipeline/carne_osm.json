@@ -1,0 +1,130 @@
+{
+ "Acireale": [
+  {
+   "nome": "Bottega della Carne",
+   "tipo": "butcher",
+   "cucina": "",
+   "via": "",
+   "tel": "",
+   "lat": 37.6154826,
+   "lon": 15.1592875
+  },
+  {
+   "nome": "Macelleria Battiato",
+   "tipo": "butcher",
+   "cucina": "",
+   "via": "",
+   "tel": "+39 095 871577",
+   "lat": 37.649182,
+   "lon": 15.1776573
+  },
+  {
+   "nome": "Macelleria Messina",
+   "tipo": "butcher",
+   "cucina": "",
+   "via": "",
+   "tel": "",
+   "lat": 37.6446442,
+   "lon": 15.1570579
+  },
+  {
+   "nome": "Macelleria Paradiso",
+   "tipo": "butcher",
+   "cucina": "",
+   "via": "",
+   "tel": "",
+   "lat": 37.6595763,
+   "lon": 15.1813453
+  },
+  {
+   "nome": "Macelleria Tarda Nunzia",
+   "tipo": "butcher",
+   "cucina": "",
+   "via": "",
+   "tel": "",
+   "lat": 37.6517257,
+   "lon": 15.1787093
+  },
+  {
+   "nome": "Delizie di Carne",
+   "tipo": "butcher",
+   "cucina": "",
+   "via": "",
+   "tel": "",
+   "lat": 37.6221794,
+   "lon": 15.1623707
+  },
+  {
+   "nome": "Macelleria Fresta",
+   "tipo": "butcher",
+   "cucina": "",
+   "via": "",
+   "tel": "",
+   "lat": 37.6163141,
+   "lon": 15.1670484
+  },
+  {
+   "nome": "Macelleria Somma",
+   "tipo": "butcher",
+   "cucina": "",
+   "via": "",
+   "tel": "",
+   "lat": 37.6073099,
+   "lon": 15.161043
+  },
+  {
+   "nome": "Macelleria Aloisio",
+   "tipo": "butcher",
+   "cucina": "",
+   "via": "",
+   "tel": "",
+   "lat": 37.608978,
+   "lon": 15.1564859
+  },
+  {
+   "nome": "Macelleria Carne & Natura",
+   "tipo": "butcher",
+   "cucina": "",
+   "via": "",
+   "tel": "",
+   "lat": 37.6182204,
+   "lon": 15.1592928
+  },
+  {
+   "nome": "Macelleria Fazzio",
+   "tipo": "butcher",
+   "cucina": "",
+   "via": "",
+   "tel": "",
+   "lat": 37.6011286,
+   "lon": 15.1669135
+  },
+  {
+   "nome": "Carni & Capricci",
+   "tipo": "butcher",
+   "cucina": "",
+   "via": "",
+   "tel": "",
+   "lat": 37.6071926,
+   "lon": 15.1668389
+  },
+  {
+   "nome": "Le Bontà della Carne",
+   "tipo": "butcher",
+   "cucina": "",
+   "via": "Corso Italia 61",
+   "tel": "",
+   "lat": 37.6198499,
+   "lon": 15.1645996
+  },
+  {
+   "nome": "Carni Tipiche Siciliane",
+   "tipo": "butcher",
+   "cucina": "",
+   "via": "Piazza Europa 13",
+   "tel": "",
+   "lat": 37.6190741,
+   "lon": 15.1657653
+  }
+ ]
+}

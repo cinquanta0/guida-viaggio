@@ -1,0 +1,373 @@
+[
+  {
+    "nome": "Bar La Svolta",
+    "lat": 37.6551708,
+    "lon": 15.0980502,
+    "tipo": "amenity=cafe",
+    "indirizzo": null
+  },
+  {
+    "nome": "Ilice di Carrinu",
+    "lat": 37.7182055,
+    "lon": 15.094998,
+    "tipo": "natural=tree,tourism=attraction",
+    "indirizzo": null
+  },
+  {
+    "nome": "Croce dell'Azione Cattolica",
+    "lat": 37.71446,
+    "lon": 15.0561689,
+    "tipo": "historic=wayside_cross",
+    "indirizzo": null
+  },
+  {
+    "nome": "Blue Bar New",
+    "lat": 37.6598013,
+    "lon": 15.0977592,
+    "tipo": "amenity=cafe",
+    "indirizzo": null
+  },
+  {
+    "nome": "Bar Etna",
+    "lat": 37.6640387,
+    "lon": 15.1099343,
+    "tipo": "amenity=cafe",
+    "indirizzo": null
+  },
+  {
+    "nome": "Orchidea",
+    "lat": 37.6948862,
+    "lon": 15.1073083,
+    "tipo": "amenity=restaurant",
+    "indirizzo": null
+  },
+  {
+    "nome": "Il Porcino",
+    "lat": 37.687882,
+    "lon": 15.1046114,
+    "tipo": "amenity=restaurant",
+    "indirizzo": null
+  },
+  {
+    "nome": "Parco dei Principi",
+    "lat": 37.6862692,
+    "lon": 15.1032806,
+    "tipo": "amenity=restaurant",
+    "indirizzo": null
+  },
+  {
+    "nome": "Marisa",
+    "lat": 37.6927698,
+    "lon": 15.1063746,
+    "tipo": "shop=convenience",
+    "indirizzo": null
+  },
+  {
+    "nome": "Il Castello di Bacco",
+    "lat": 37.6919523,
+    "lon": 15.1067127,
+    "tipo": "amenity=restaurant",
+    "indirizzo": null
+  },
+  {
+    "nome": "In Coop",
+    "lat": 37.6649964,
+    "lon": 15.1108865,
+    "tipo": "shop=convenience",
+    "indirizzo": null
+  },
+  {
+    "nome": "Faggio dell'Acqua Rocca",
+    "lat": 37.7054536,
+    "lon": 15.046721,
+    "tipo": "natural=tree,tourism=attraction",
+    "indirizzo": null
+  },
+  {
+    "nome": "La Rocca della Rosa",
+    "lat": 37.6936939,
+    "lon": 15.1203738,
+    "tipo": "amenity=restaurant",
+    "indirizzo": null
+  },
+  {
+    "nome": "Pizza Tirilla",
+    "lat": 37.6547745,
+    "lon": 15.097674,
+    "tipo": "amenity=fast_food",
+    "indirizzo": null
+  },
+  {
+    "nome": "Neviera di Casa del Vescovo",
+    "lat": 37.6969205,
+    "lon": 15.0251555,
+    "tipo": "historic=ruins,natural=cave_entrance",
+    "indirizzo": null
+  },
+  {
+    "nome": "Il Cinquino",
+    "lat": 37.6840685,
+    "lon": 15.1034788,
+    "tipo": "amenity=cafe",
+    "indirizzo": null
+  },
+  {
+    "nome": "Panificio La Spiga",
+    "lat": 37.6564897,
+    "lon": 15.0984372,
+    "tipo": "shop=bakery",
+    "indirizzo": null
+  },
+  {
+    "nome": "Fleri Coffee",
+    "lat": 37.6565778,
+    "lon": 15.098446,
+    "tipo": "amenity=cafe,shop=tobacco",
+    "indirizzo": null
+  },
+  {
+    "nome": "Ilice della Portella (Leccio Monumentale)",
+    "lat": 37.7103987,
+    "lon": 15.0836731,
+    "tipo": "natural=tree,tourism=attraction",
+    "indirizzo": null
+  },
+  {
+    "nome": "Grotta di Monte Arcimis",
+    "lat": 37.6876367,
+    "lon": 15.0691962,
+    "tipo": "natural=cave_entrance,tourism=attraction",
+    "indirizzo": null
+  },
+  {
+    "nome": "Grotta del Gatto",
+    "lat": 37.6830654,
+    "lon": 15.0857563,
+    "tipo": "natural=cave_entrance,tourism=attraction",
+    "indirizzo": null
+  },
+  {
+    "nome": "Lapide F. Malerba",
+    "lat": 37.7095088,
+    "lon": 15.0259822,
+    "tipo": "historic=memorial",
+    "indirizzo": null
+  },
+  {
+    "nome": "Pianta di Leccio",
+    "lat": 37.7097392,
+    "lon": 15.0849767,
+    "tipo": "natural=tree,tourism=attraction",
+    "indirizzo": null
+  },
+  {
+    "nome": "Pianta di Leccio (dialettale Ilice)",
+    "lat": 37.7095077,
+    "lon": 15.0811669,
+    "tipo": "natural=tree,tourism=attraction",
+    "indirizzo": null
+  },
+  {
+    "nome": "Roverella Cugnu di mezzo",
+    "lat": 37.7017691,
+    "lon": 15.0873408,
+    "tipo": "natural=tree,tourism=attraction",
+    "indirizzo": null
+  },
+  {
+    "nome": "A Cezza di Panzazza",
+    "lat": 37.7253035,
+    "lon": 15.0897067,
+    "tipo": "natural=tree,tourism=attraction",
+    "indirizzo": null
+  },
+  {
+    "nome": "Madonna della Provvidenza",
+    "lat": 37.7022295,
+    "lon": 15.0946922,
+    "tipo": "amenity=place_of_worship,historic=memorial",
+    "indirizzo": null
+  },
+  {
+    "nome": "Targa Saru Ruspa",
+    "lat": 37.7400534,
+    "lon": 15.0793239,
+    "tipo": "historic=memorial",
+    "indirizzo": null
+  },
+  {
+    "nome": "Monumento a Giuseppe Sciuti",
+    "lat": 37.692304,
+    "lon": 15.1057681,
+    "tipo": "historic=memorial",
+    "indirizzo": null
+  },
+  {
+    "nome": "Paghi Poco",
+    "lat": 37.6870479,
+    "lon": 15.1033546,
+    "tipo": "shop=supermarket",
+    "indirizzo": null
+  },
+  {
+    "nome": "Al Monterosso",
+    "lat": 37.6489894,
+    "lon": 15.0926037,
+    "tipo": "amenity=restaurant",
+    "indirizzo": null
+  },
+  {
+    "nome": "Pizzeria A Modo Mio",
+    "lat": 37.689918,
+    "lon": 15.1053784,
+    "tipo": "amenity=restaurant",
+    "indirizzo": null
+  },
+  {
+    "nome": "È Tipico",
+    "lat": 37.6956828,
+    "lon": 15.1084765,
+    "tipo": "shop=pastry",
+    "indirizzo": null
+  },
+  {
+    "nome": "Coop",
+    "lat": 37.690896,
+    "lon": 15.1063876,
+    "tipo": "shop=supermarket",
+    "indirizzo": null
+  },
+  {
+    "nome": "Gli Aragona",
+    "lat": 37.6926502,
+    "lon": 15.1056272,
+    "tipo": "amenity=restaurant",
+    "indirizzo": null
+  },
+  {
+    "nome": "Antica Dolceria dell'Etna",
+    "lat": 37.6919461,
+    "lon": 15.1053978,
+    "tipo": "shop=pastry",
+    "indirizzo": null
+  },
+  {
+    "nome": "Donna Peppina",
+    "lat": 37.6925154,
+    "lon": 15.1062515,
+    "tipo": "amenity=cafe",
+    "indirizzo": null
+  },
+  {
+    "nome": "Lo & Le Cafè",
+    "lat": 37.6924263,
+    "lon": 15.1064701,
+    "tipo": "amenity=cafe",
+    "indirizzo": null
+  },
+  {
+    "nome": "Dolceria Torrisi",
+    "lat": 37.692162,
+    "lon": 15.1060597,
+    "tipo": "shop=pastry",
+    "indirizzo": null
+  },
+  {
+    "nome": "Caracajada",
+    "lat": 37.6915699,
+    "lon": 15.1060208,
+    "tipo": "amenity=fast_food",
+    "indirizzo": null
+  },
+  {
+    "nome": "Decò",
+    "lat": 37.6840528,
+    "lon": 15.1040997,
+    "tipo": "shop=supermarket",
+    "indirizzo": null
+  },
+  {
+    "nome": "Ard Discount",
+    "lat": 37.6886758,
+    "lon": 15.1017889,
+    "tipo": "shop=supermarket",
+    "indirizzo": null
+  },
+  {
+    "nome": "Il Casale di Sarro",
+    "lat": 37.68212,
+    "lon": 15.1001716,
+    "tipo": "amenity=restaurant",
+    "indirizzo": null
+  },
+  {
+    "nome": "ex isola bella",
+    "lat": 37.7134415,
+    "lon": 15.032274,
+    "tipo": "natural=dagala di faggi,tourism=attraction",
+    "indirizzo": null
+  },
+  {
+    "nome": "Panificio",
+    "lat": 37.6902165,
+    "lon": 15.1054363,
+    "tipo": "shop=bakery",
+    "indirizzo": null
+  },
+  {
+    "nome": "Ristorante La Fenice",
+    "lat": 37.6915053,
+    "lon": 15.0918208,
+    "tipo": "amenity=restaurant",
+    "indirizzo": null
+  },
+  {
+    "nome": "Acqua Rocca degli Zappini",
+    "lat": 37.7054349,
+    "lon": 15.0468141,
+    "tipo": "natural=spring,tourism=attraction",
+    "indirizzo": null
+  },
+  {
+    "nome": "MD",
+    "lat": 37.6851491,
+    "lon": 15.1133607,
+    "tipo": "shop=supermarket",
+    "indirizzo": null
+  },
+  {
+    "nome": "Monumento ai Caduti",
+    "lat": 37.6918023,
+    "lon": 15.1070835,
+    "tipo": "historic=memorial",
+    "indirizzo": null
+  },
+  {
+    "nome": "Pizzeria Belvedere",
+    "lat": 37.6917092,
+    "lon": 15.1073609,
+    "tipo": "amenity=restaurant",
+    "indirizzo": null
+  },
+  {
+    "nome": "Cisternazza di Pisano",
+    "lat": 37.6645943,
+    "lon": 15.1108868,
+    "tipo": "historic=yes,natural=water,tourism=attraction",
+    "indirizzo": null
+  },
+  {
+    "nome": "Neviera",
+    "lat": 37.7365161,
+    "lon": 15.0911976,
+    "tipo": "historic=ruins",
+    "indirizzo": null
+  },
+  {
+    "nome": "Trovato 1929",
+    "lat": 37.6854634,
+    "lon": 15.1040436,
+    "tipo": "amenity=cafe",
+    "indirizzo": null
+  }
+]

@@ -1,0 +1,48 @@
+{
+ "macelleria": [
+  {
+   "title": "Butchers Sicily 1-10-21.jpg",
+   "w": 3264,
+   "h": 1632,
+   "proporzione": 2,
+   "lat": null,
+   "lon": null,
+   "kmDaAciCatena": null,
+   "categorie": [
+    "2021-10-01",
+    "Butchers from Italy",
+    "CC-BY-SA-4.0",
+    "Food in Catania",
+    "Meats",
+    "Photographs taken on 2021-10-01",
+    "Self-published work",
+    "Uploaded with Mobile/Android"
+   ],
+   "descrizione": "array of meats at a Sicilian butcher's. Province of Catania",
+   "author": "Jeanne Griffin",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Salsiccia3.jpg",
+   "w": 2592,
+   "h": 1944,
+   "proporzione": 1.33,
+   "lat": null,
+   "lon": null,
+   "kmDaAciCatena": null,
+   "categorie": [
+    "Barbecue sausages",
+    "CC-BY-3.0",
+    "Coiled sausages",
+    "Cuisine of Sicily",
+    "GFDL",
+    "Grilled sausages",
+    "License migration redundant",
+    "Salsiccia"
+   ],
+   "descrizione": "Bisaquino ( Palermo ): sicilian \"sasizza\" (grilled sausages)",
+   "author": "Dedda 71",
+   "license": "CC BY 3.0"
+  }
+ ]
+}

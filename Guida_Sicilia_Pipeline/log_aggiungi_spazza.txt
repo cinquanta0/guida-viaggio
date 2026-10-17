@@ -1,0 +1,523 @@
+  +    3 min  Aci Catena            La Siciliana
+  +    5 min  Aci Catena            Sensazionipizzeria
+  +    0 min  Aci Catena            Al panino degli amici
+  +    1 min  Aci Catena            Pasticceria Sciacca
+  +    9 min  Acireale              Trattoria Lo Scalo
+  +    8 min  Acireale              Red Fish Ristorante
+  +   14 min  Acireale              Ristorante trattoria "Dal Barone"
+  +    8 min  Acireale              Vulcanica Pizzeria
+  +    8 min  Acireale              Al Ficodindia
+  +    8 min  Acireale              Times Food
+  +    8 min  Acireale              Vecchia Aci
+  +    8 min  Acireale              Pizzeria Le Quattro Stagioni
+  +    8 min  Aci Sant’Antonio      Agriturismo Fossa Lupo
+  +    5 min  Aci Sant’Antonio      Pizzeria I Love Pizza Di Gaetano Di Grazia
+  +    5 min  Aci Sant’Antonio      L'angolo Sfizioso
+  +    9 min  Aci Sant’Antonio      Pizzeria Le Tre Stelle
+  +    7 min  Aci Sant’Antonio      Non Solo Pizza Di Rigano Camillo
+  +    9 min  Valverde              Cuce Grazia
+  +    9 min  Aci Bonaccorsi        Milù Ristorante
+  +    9 min  Aci Bonaccorsi        Bar Di Bella
+  +    9 min  Aci Bonaccorsi        Cantina 24
+  +    8 min  Aci Bonaccorsi        Le Quattro Volte
+  +   11 min  Aci Trezza            La Luna Rossa Pizzeria(Acitrezza)
+  +   13 min  Trecastagni           Osteria I Saponari
+  +   14 min  Trecastagni           Peccati Di Gola
+  +   14 min  Trecastagni           Antichi Sapori Trattoria Siciliana
+  +   13 min  Trecastagni           I Pizzari
+  +   15 min  Trecastagni           Pizza Connection
+  +   14 min  Trecastagni           Euro Pizza
+  +   16 min  Aci Castello          Off Restaurant
+  +   12 min  Aci Castello          Ristorante Cambusa del Capitano
+  +   18 min  Aci Castello          Antichi Sapori di Tony
+  +   13 min  Aci Castello          Ancora, street food di pesce
+  +   15 min  Aci Castello          Mondo Pizza
+  +   16 min  Aci Castello          Pizzeria Cuore di pizza Aci Castello
+  +   11 min  Aci Castello          Isola Del Dolce
+  +   22 min  Catania               BIF - Steak house & hamburgheria
+  +   22 min  Catania               Steak House da Rino
+  +   20 min  Catania               Eusebio restaurant
+  +   24 min  Catania               Ciauru i mari
+  +   22 min  Catania               Osteria Antica Marina
+  +   23 min  Catania               Il Gambero Pazzo
+  +   22 min  Catania               Trattoria da Mario
+  +   23 min  Catania               Trattoria Giglio Rosso
+  +   20 min  Catania               Trattoria Da Peppino di Tumia Giovanni
+  +   22 min  Catania               Eat Pizzeria
+  +   23 min  Catania               Pizzeria Deposito Bagagli - Pizzeria Catania Centro
+  +   21 min  Catania               I Santi Pizza & more
+  +   23 min  Catania               Lanzafame Bar Pasticceria Gelateria
+  +   22 min  Catania               Munnu Arancinu
+  +   23 min  Catania               Centumila
+  +   21 min  Catania               Friggitoria Stella
+  +   18 min  Giarre                LE SERRE Pizzeria Tipicità Siciliane
+  +   20 min  Giarre                250 Grammi Hamburgeria
+  +   21 min  Giarre                Antiche Botti
+  +   20 min  Giarre                Scialacore
+  +   21 min  Giarre                Il Noceto dell'Etna
+  +   16 min  Giarre                Osteria Sicilia
+  +   19 min  Giarre                Pizzeria Quattro Quarti
+  +   19 min  Giarre                NONNA BURMELA
+  +   18 min  Giarre                Novecento
+  +   20 min  Giarre                PizzaTime
+  +   20 min  Giarre                Fumía “Fronte Stazione “
+  +   18 min  Giarre                Fermento pizza contemporanea
+  +   19 min  Giarre                Crystal Bar
+  +   19 min  Giarre                Lo spizzico di zia Pina
+  +   19 min  Giarre                FrittoLab
+  +   20 min  Gravina di Catania    I Sapori della Nonna
+  +   19 min  Gravina di Catania    Piazzetta del gusto
+  +   19 min  Gravina di Catania    Panineria Bacciulli...
+  +   19 min  Gravina di Catania    Al Montana
+  +   19 min  Gravina di Catania    Ramses Pub Pizzeria
+  +   18 min  Gravina di Catania    Pizzeria I Famosi
+  +   18 min  Gravina di Catania    I.Girasoli
+  +   19 min  Gravina di Catania    Pizzeria Next Please da Massimo
+  +   19 min  Gravina di Catania    Rapisarda Caffè
+  +   19 min  Nicolosi              Trattoria carnezzeria la chianina
+  +   22 min  Nicolosi              Filetteria Marconi
+  +   20 min  Nicolosi              Scorzonera Ristorante Pizzeria a Nicolosi
+  +   21 min  Nicolosi              Antichi Proverbi STORICO
+  +   21 min  Nicolosi              Osteria Garibaldi
+  +   20 min  Nicolosi              Pudamuri
+  +   19 min  Nicolosi              L'Osteria del Siciliano
+  +   21 min  Nicolosi              Antichi proverbi n'festa
+  +   20 min  Nicolosi              Santa Rita Garden
+  +   20 min  Nicolosi              Accussì è Pizzeria Ristorante
+  +   20 min  Nicolosi              Il Giardino Pizzeria a Nicolosi
+  +   24 min  Zafferana Etnea       Trattoria N'Da Calata Zafferana
+  +   19 min  Zafferana Etnea       Trattoria Ardichetto
+  +   20 min  Zafferana Etnea       Sabir
+  +   24 min  Zafferana Etnea       La Fenice Medieval Restaurant
+  +   20 min  Zafferana Etnea       Oleum Zafferana
+  +   20 min  Zafferana Etnea       Caracajada Pub Pizzeria
+  +   20 min  Zafferana Etnea       Ristorante Cunzatu e Mangiato
+  +   16 min  Zafferana Etnea       Pizzeria "Take Away"
+  +   25 min  Riposto               Ristorante La Terrazza
+  +   22 min  Riposto               Da Nonna Rosa
+  +   24 min  Riposto               Zash
+  +   21 min  Riposto               Birreria Riposto
+  +   22 min  Riposto               L’Angolo Di Don Pippo
+  +   21 min  Riposto               Il Ciliegino Pizzeria
+  +   21 min  Riposto               Pizzeria birreria al 105 di Antonio campolo
+  +   21 min  Riposto               Piccolo Scalo - Enoteca Bistrot
+  +   21 min  Riposto               A' Matticana
+  +   19 min  Santa Venerina        La Bisteccona Trattoria - Carnezzeria -
+  +   19 min  Santa Venerina        Antica Pizzeria Napoletana
+  +   19 min  Santa Venerina        I Russo'
+  +   19 min  Santa Venerina        Zest - Ristorante, Pizzeria, Panini gourmet, Sicilian Food
+  +   21 min  Santa Venerina        Trattoria A Munacedda
+  +   15 min  Santa Venerina        Terra di Venera
+  +   20 min  Santa Venerina        Al Giandale
+  +   17 min  Santa Venerina        TrattoriaDonGiovanni
+  +   20 min  Santa Venerina        Ristorante Pizzeria Santa Venerina | Etna in bocca
+  +   19 min  Santa Venerina        Kurtisia Restaurant sull'Etna
+  +   24 min  Mascali               Il Pozzo Antico
+  +   23 min  Mascali               Pizzeria Le Sette Torri
+  +   33 min  Mascali               Ristorante Osteria del Gusto
+  +   22 min  Mascali               Pizzeria Broadway Pub
+  +   22 min  Mascali               Pizza Shop
+  +   23 min  Mascali               Pizzeria Grano Mascali
+  +   24 min  Mascali               Sauvage di Marika e Alfredo Intelisano
+  +   22 min  Mascali               Bar Paradise
+  +   24 min  Mascali               Il Capriccio dello Sfizio
+  +   29 min  Milo                  Ristorante Da Rinuccio
+  +   28 min  Milo                  Le case del Merlo Turismo Rurale
+  +   24 min  Fiumefreddo di SiciliaDe Natale Pizza e Cucina
+  +   24 min  Fiumefreddo di SiciliaFlumen Alley
+  +   25 min  Fiumefreddo di SiciliaCohiba Cafè
+  +   24 min  Fiumefreddo di SiciliaBella - Pizzeria Con Cucina & Bar
+  +   25 min  Fiumefreddo di SiciliaBar Castello
+  +   24 min  Fiumefreddo di SiciliaBeddaMaki
+  +   31 min  Giardini Naxos        Ristorante Don Diego
+  +   29 min  Giardini Naxos        Garden da Nino
+  +   29 min  Giardini Naxos        La Bussola Ristorante Pizzeria Grill
+  +   30 min  Giardini Naxos        Ristorante pizzeria La Spelonca
+  +   30 min  Giardini Naxos        Da Lino Trattoria Sicilia Bedda
+  +   28 min  Giardini Naxos        Ristorante Pizzeria SPIZZICANNU
+  +   28 min  Giardini Naxos        Ristorante Pizzeria La Sirenetta
+  +   29 min  Giardini Naxos        Al Vicolo dei Capricci
+  +   28 min  Giardini Naxos        Gustá Sicily Restaurant and Burger
+  +   34 min  Taormina              Ristorante Pirandello 2.0
+  +   36 min  Taormina              Osteria da Rita (dal 1991)
+  +   36 min  Taormina              Trattorie - ristorante Trattoria Mamma Rosa
+  +   36 min  Taormina              Trattoria Tiramisù
+  +   34 min  Taormina              Ristorante Pizzeria Porta Messina
+  +   36 min  Taormina              Ristorante Pizzeria Gambero Rosso Taormina dal 1949
+  +   35 min  Taormina              Bar Novè a Taormina, Gelati e Prodotti tipici col Pistacchio di Bronte
+  +   32 min  Linguaglossa          Profumi dell'Etna trattoria-pizzeria da Rosalba
+  +   34 min  Linguaglossa          ristorante boccaperta SC.
+  +   34 min  Linguaglossa          Osteria Vinetna
+  +   34 min  Linguaglossa          Pizzeria Damino Antonio
+  +   33 min  Linguaglossa          Garden Bar
+  +   34 min  Linguaglossa          Mungibeddu Pizzeria
+  +   33 min  Letojanni             Ristorante da Nino
+  +   34 min  Letojanni             Golà
+  +   32 min  Letojanni             Ristorante Da Fabiana
+  +   34 min  Letojanni             Antico Borgo Ristorante Pizzeria Di Emanuele Leo
+  +   34 min  Letojanni             Ristorante Victor
+  +   33 min  Letojanni             Il Peperoncino
+  +   33 min  Letojanni             Lido Pizzeria Tortuga Beach
+  +   33 min  Letojanni             Punto Pizza
+  +   34 min  Letojanni             Caffè Il Gabbiano
+  +   33 min  Letojanni             Gelateria Siciliana
+  +   36 min  Paternò               IKKO Paternò Ramen & Asia Fusion
+  +   37 min  Paternò               Pizzeria Rimini
+  +   36 min  Paternò               Capricci di Gola
+  +   35 min  Paternò               Pizzeria Dilizi
+  +   35 min  Paternò               Pizzeria Rimini di Camonita
+  +   35 min  Paternò               Pizzeria Stuzzicadenti
+  +   34 min  Paternò               Bar F.lli Lo Faro
+  +   37 min  Paternò               Fratelli Atanasio
+  +   36 min  Paternò               Parenti Rosticceria
+  +   40 min  Motta Camastra        Trattoria La Porta del Re all' Al-Qantarah
+  +   41 min  Motta Camastra        I sapori dell' Alcantara ex trattoria del corso
+  +   41 min  Motta Camastra        Trattoria Pizzeria I Due Compari
+  +   51 min  Motta Camastra        Agriturismo San Cataldo
+  +   46 min  Motta Camastra        Le Mamme Del Borgo Comune di Motta Camastra
+  +   41 min  Motta Camastra        Agriturismo Valle Alcantara
+  +   40 min  Motta Camastra        Chioschetto dell'Alcantara
+  +   42 min  Santa Teresa di Riva  Aloha Mare
+  +   41 min  Santa Teresa di Riva  Il Gatto Nero
+  +   41 min  Santa Teresa di Riva  Ristorante Pizzeria ed Enoteca a Santa Teresa di Riva - Fronte Mare
+  +   41 min  Santa Teresa di Riva  Ristorante Trattoria tipica siciliana Edonè
+  +   42 min  Santa Teresa di Riva  Cafè Sicilia
+  +   41 min  Santa Teresa di Riva  Mola Beach
+  +   41 min  Santa Teresa di Riva  PIZZERIA GASTRONOMIA DAL NERO
+  +   41 min  Santa Teresa di Riva  Magic Lime
+  +   42 min  Santa Teresa di Riva  Bar Tabacchi L'Incontro
+  +   41 min  Santa Teresa di Riva  Bar Fiorino
+  +   46 min  Castiglione di SiciliaLa dispensa dell'Etna
+  +   48 min  Castiglione di SiciliaAgriturismo "Al Vecchio Torchio del Casale"
+  +   45 min  Castiglione di SiciliaPresident Ristorante
+  +   46 min  Castiglione di SiciliaBelvedere 2.0
+  +   44 min  Castiglione di SiciliaBar Valastro-Damico
+  +   46 min  Castiglione di SiciliaLa Cantina di Monsignore
+  +   47 min  Castiglione di SiciliaAl Ponte Risto-Degustazione Pizzeria
+  +   44 min  Castiglione di SiciliaTreffiletti Anacleto Salvatore
+  +   43 min  Forza d'Agrò          Ristorante Il Padrino
+  +   45 min  Forza d'Agrò          Trattoria anni 60
+  +   44 min  Forza d'Agrò          Antichi Muri
+  +   44 min  Forza d'Agrò          Borgo d'Agrò
+  +   44 min  Forza d'Agrò          'O Dammuseddu
+  +   44 min  Lentini               Massimiliano Romano Chef- Sicilia Nostra Ristorante
+  +   45 min  Lentini               Ristorante America
+  +   47 min  Lentini               Lanterna Bianca
+  +   46 min  Lentini               Hana ristorante giapponese
+  +   50 min  Lentini               Oneida
+  +   46 min  Lentini               TAG PIZZERIA CONTEMPORANEA
+  +   45 min  Lentini               La Tavernetta - Pizzeria, pizzoleria
+  +   47 min  Lentini               San Luca's Cafè & Grill di Nuccio Malignaggi
+  +   45 min  Lentini               Etna Rouge
+  +   46 min  Lentini               Golden Bar
+  +   48 min  Savoca                Osteria del borgo
+  +   48 min  Savoca                Il Sambuco PANE CUNZATU
+  +   48 min  Savoca                Bar Vitelli
+  +   49 min  Savoca                Resort Borgo San Rocco
+  +   43 min  Savoca                Valle D'Agrò B&B - Pizzeria - Ristorante -
+  +   50 min  Savoca                Dioniso Di Morabito Andrea
+  +   60 min  Augusta               Archi Vuoti
+  +   58 min  Augusta               Al Braciere
+  +   58 min  Augusta               Ristorante Roma
+  +   58 min  Augusta               Locanda Scorfano Rosso
+  +   58 min  Augusta               Tinchite' trattoria pub
+  +   58 min  Augusta               Gorbuska
+  +   59 min  Augusta               Ristorante Pizzeria Gastronomia Da Eustachio
+  +   60 min  Augusta               Pizzeria Paradiso
+  +   57 min  Augusta               Bar Pasticceria Fichera
+  +   50 min  Randazzo              Ristorante da Antonio Tenute di Villa Giulia
+  +   58 min  Randazzo              Gli Antichi Sapori
+  +   54 min  Randazzo              Turismo Rurale "Parco Statella"
+  +   58 min  Randazzo              il brillo parlante
+  +   58 min  Randazzo              U Curtigghiu
+  +   58 min  Randazzo              Kaff Ristopub
+  +   59 min  Randazzo              Kaleidos
+  +   59 min  Randazzo              Pizzeria Eclipse
+  +   63 min  Messina               La Matta
+  +   59 min  Messina               Ristorante Arcadia
+  +   63 min  Messina               M'inchìa!
+  +   62 min  Messina               Trattoria Del Popolo
+  +   62 min  Messina               Trattoria Paradisiculo
+  +   62 min  Messina               Fratelli La Bufala
+  +   64 min  Messina               Antenati
+  +   65 min  Messina               La Pitoneria di Via Palermo
+  +   62 min  Messina               Bistrot La Ruota 100% Minutoli
+  +   60 min  Brucoli               Ristorante Al Castello
+  +   60 min  Brucoli               Pizzicotto da Napoli
+  +   60 min  Brucoli               Ristorante Stravento
+  +   60 min  Brucoli               Il Chiosco Di Savaglia
+  +   60 min  Brucoli               Surf House Sicily
+  +   63 min  Bronte                Vinù Food Bronte
+  +   76 min  Bronte                Il Casolare delle Balze
+  +   72 min  Bronte                Ristorante Feudo Marullo Bronte
+  +   63 min  Bronte                Protosteria
+  +   63 min  Bronte                Trattoria Conti
+  +   63 min  Bronte                Bona Bonè
+  +   64 min  Bronte                MURPHY'S PUB
+  +   63 min  Bronte                Bar Il Tartufo
+  +   62 min  Bronte                Bar Collina Verde
+  +   71 min  Siracusa              Rittufilu Trattoria Siracusa
+  +   71 min  Siracusa              Sapuri e... Amuri
+  +   71 min  Siracusa              Apollonion - Osteria da Carlo
+  +   72 min  Siracusa              Kantunera Ristorante Ortigia
+  +   72 min  Siracusa              La Tavernetta da Piero
+  +   74 min  Siracusa              Trattoria La Foglia
+  +   72 min  Siracusa              Schiticchio in Via Cavour
+  +   71 min  Siracusa              PUROS Sicilian Restaurant & Pizzeria
+  +   70 min  Siracusa              PastaRun
+  +   74 min  Siracusa              Pane di Mare
+  +   68 min  Militello             U trappitu 1926
+  +   68 min  Militello             Pizzeria A Zizza
+  +  129 min  Militello             Ristorante Asteria di Pino
+  +  130 min  Militello             A Modo Nostro
+  +   67 min  Militello             Bulla
+  +   69 min  Militello             Bar Punto
+  +   72 min  Ortigia               Antica Corte dei Bottari
+  +   72 min  Ortigia               Ci Voleva Ortigia Restaurant
+  +   72 min  Ortigia               Il Cortile di Archimede
+  +   72 min  Ortigia               Celestina Ortigia - Porto
+  +   71 min  Priolo Gargallo       Agriturismo Masseria Scrivilleri
+  +   58 min  Priolo Gargallo       Trattoria Le sorelle
+  +   57 min  Priolo Gargallo       Delizie Dei Sensi Di Sena Gianfranco
+  +   57 min  Priolo Gargallo       Ristorante Alchimia
+  +   58 min  Priolo Gargallo       Chiosco Barcollando
+  +   57 min  Priolo Gargallo       Carpe Diem
+  +   81 min  Avola                 Veni A Tastari
+  +   79 min  Avola                 La Vecchia Fontana
+  +   79 min  Avola                 Trattoria Chapeau
+  +   80 min  Avola                 Miramare Sea Restaurant
+  +   80 min  Avola                 Pizzeria Fuori Binario
+  +   80 min  Avola                 Summeat Steakhouse
+  +   82 min  Avola                 Augustus
+  +   80 min  Avola                 Piquadro Risto Pizza&Burger
+  +   80 min  Avola                 Blu Bar S.a S di Montoneri & C
+  +   80 min  Avola                 Roxy Bar
+  +   80 min  Avola                 Amuri e Sapuri da Smeralda
+  +   76 min  Maniace               Agriturismo Nelson Bronte
+  +   73 min  Maniace               Locanda Maniace
+  +   78 min  Maniace               Al Castello
+  +   73 min  Maniace               Pizza Cono Break
+  +   85 min  Enna                  Trattoria La Rustica
+  +   85 min  Enna                  Le Tre Rose
+  +   86 min  Enna                  Il Mito di Kore
+  +   85 min  Enna                  Sciabbè
+  +   85 min  Enna                  Baglio Balata Ristorante Pizzeria
+  +   84 min  Enna                  Bistrò Paradiso con giardino
+  +   82 min  Enna                  Pizzeria Pinocchio
+  +   86 min  Enna                  L'angolo dei mille sapori
+  +   82 min  Enna                  Gio Caffè
+  +   84 min  Enna                  Bar 2000 di Roberto Frontino
+  +   86 min  Caltagirone           Trattoria Anima e Core
+  +   86 min  Caltagirone           A Cumacca
+  +   86 min  Caltagirone           Pinsé / traditional street food
+  +   85 min  Caltagirone           Gusto e arte
+  +   84 min  Caltagirone           L'Incanto Pizzeria Gourmet
+  +   85 min  Caltagirone           Pizzeria Da Ciccio
+  +   85 min  Caltagirone           Bar Forte
+  +   87 min  Caltagirone           Kahvé: Dolceria_Caffetteria
+  +   86 min  Caltagirone           Il_Piacere_official Street-food
+  +   85 min  Caltagirone           Rosticceria Sapori di Casa di Federica e Salvo
+  +   76 min  Buccheri              Da Antonio
+  +   86 min  Buccheri              Ristorante Pizzeria da Mimmo
+  +   87 min  Buccheri              A Niviera, Ristorante e Pizzeria
+  +   89 min  Noto                  Ristorante Tannur
+  +   89 min  Noto                  Gastro matto
+  +   89 min  Noto                  L'assiette Baroque
+  +   89 min  Noto                  Putia del Coppo
+  +   88 min  Noto                  Pizzeria Nonna Maria Frazzata & co. Since 1951
+  +   89 min  Noto                  Umberto - Ristorante Pizzeria
+  +   92 min  Milazzo               Ristorante Doppio Gusto
+  +   93 min  Milazzo               Ristorante Filippo
+  +   93 min  Milazzo               Totò passami l'olio
+  +   92 min  Milazzo               Ristorante Panzakina
+  +   92 min  Milazzo               DOPPIOZERO
+  +   91 min  Milazzo               La Bitta Milazzo Ristorante Pizzeria Cucina siciliana Trattoria Restaurant Pizza
+  +   91 min  Milazzo               Rusticando
+  +   93 min  Milazzo               La Siciliana 2.0
+  +   94 min  Palazzolo Acreide     Gusto Ibleo
+  +  103 min  Palazzolo Acreide     Estro Restaurant
+  +  103 min  Palazzolo Acreide     Al Punto Giusto
+  +  101 min  Palazzolo Acreide     Sapuritu
+  +  101 min  Palazzolo Acreide     Pdpizza Peppe Danilo
+  +  101 min  Palazzolo Acreide     J'Live
+  +  102 min  Palazzolo Acreide     Ucumpanaggiu
+  +  103 min  Palazzolo Acreide     Clasy Pub
+  +  104 min  San Piero Patti       non solo pizzaSPP
+  +  101 min  San Piero Patti       Ristorante Il Daino
+  +  105 min  Raccuja               Agriturismo Ponte Due Archi
+  +  101 min  Tindari               La Boutique Del Gusto
+  +  104 min  Rosolini              Il Faretto Rosolini
+  +  103 min  Rosolini              RISTORANTE A CAVA
+  +  102 min  Rosolini              Antica Osteria U Suliccenti
+  +  104 min  Rosolini              PASS pizza&sfizi
+  +  106 min  Rosolini              Al Papiro
+  +  102 min  Rosolini              I Versi Wine Bar
+  +  104 min  Rosolini              CalaCala Bistrot
+  +  103 min  Rosolini              Residencial Bar Pizzeria
+  +  104 min  Rosolini              Pasticceria Sacro Cuore
+  +  104 min  Rosolini              Bar Santa Alessandra
+  +  102 min  Rosolini              SiLiccu
+  +  102 min  Sinagra               Ristorante Angelo Borrello
+  +  107 min  Sinagra               La Pergola Ristorante Pizzeria
+  +  108 min  Sinagra               Bar Il Castello
+  +  107 min  Pachino               Orlando
+  +  106 min  Pachino               I Pupi Bistrò
+  +  107 min  Pachino               Drago azzurro
+  +  112 min  Pachino               Agriturismo La Fattoria di Angelica - Cucina Tipica Siciliana
+  +  107 min  Pachino               Fast and Furious
+  +  108 min  Pachino               Pizzeria Mangia e Bevi
+  +  106 min  Pachino               Pizzeria il Capriccio
+  +  106 min  Pachino               Bar Mediterraneo
+  +  104 min  Pachino               Caffe' New Generation dei F.lli Cugno
+  +   98 min  Piazza Armerina       Trattoria Del Goloso
+  +  105 min  Piazza Armerina       Trattoria La Ruota
+  +   97 min  Piazza Armerina       Ristorante corte dei mosaici
+  +   98 min  Piazza Armerina       Osteria del Conte
+  +   99 min  Piazza Armerina       Da Elide Ristorante Pizzeria
+  +   96 min  Piazza Armerina       Pizzeria Europa villetta (Piazza Armerina - Enna)
+  +   98 min  Piazza Armerina       Pizza e Core Pizza & Cocktail Bar
+  +   96 min  Piazza Armerina       Melino
+  +  109 min  Marzamemi             Spizzuliu Sicilian Bistrot di GIRAMAPAO
+  +  109 min  Marzamemi             Ristorante Nassa
+  +  109 min  Marzamemi             Acquamadre
+  +  109 min  Marzamemi             Chiosco La Diga
+  +  109 min  Marzamemi             Ciauru Tempo da Gustare
+  +  108 min  Marzamemi             Home Restaurant - Stasera a casa di Anna - Solo su prenotazione (almeno 24 ore prima)
+  +  109 min  Marzamemi             PFM Premiata Focacceria Mazzini
+  +  111 min  Ispica                Lounge bar Osteria Sapi Bella cucina casereccia
+  +  112 min  Ispica                Il Giardino Dei Sapori
+  +  111 min  Ispica                Ristorante Pizzeria Il Tempio
+  +  110 min  Ispica                Incavó
+  +  111 min  Ispica                Pizzeria Forno a legna
+  +  111 min  Ispica                Panineria 99
+  +  111 min  Ispica                Pizzeria Carramba
+  +  137 min  Ragusa                Ristorante Il Delfino - Da Vince'
+  +  117 min  Ragusa                Ristorante Tipico
+  +  120 min  Ragusa                Cucina Sincera - Chiacchiere e Pancia Piena
+  +  117 min  Ragusa                Basilico ristorante trattoria
+  +  118 min  Ragusa                Konza Pizzeria Pizzoleria Ristorante
+  +  117 min  Ragusa                Pizzeria La Perla Ragusa..ristorante
+  +  118 min  Ragusa                La Grotta Ragusa - True Sicilian Character
+  +  117 min  Portopalo di Capo PasseroTrattoria Mare diVino
+  +  116 min  Portopalo di Capo PasseroColapesce Sicilian seafood Ristorante
+  +  117 min  Portopalo di Capo PasseroRistorante Jonic
+  +  116 min  Portopalo di Capo PasseroAl Gambero Rosso
+  +  119 min  Portopalo di Capo PasseroPizzeria Quattroventi
+  +  117 min  Pozzallo              TRATTORIA ‘NTA NONNA
+  +  119 min  Pozzallo              Caribù
+  +  117 min  Pozzallo              Ristorante Zabbatana - Cocktail Bar & Caffetteria
+  +  119 min  Pozzallo              Ristorante Cianciuolo
+  +  119 min  Pozzallo              A Valata
+  +  116 min  Pozzallo              Sicilia e Sapori
+  +  117 min  Pozzallo              Squitty Di Cintoli Battista Maria
+  +  116 min  Pozzallo              Mazzini60 Pizza & Bistrot
+  +  116 min  Pozzallo              Beddarancina Pozzallo
+  +  128 min  Modica                Osteria dei Sapori Perduti
+  +  130 min  Modica                A Putia Ro Vinu
+  +  123 min  Modica                Ristorante Al Monaco
+  +  127 min  Modica                La Sirenetta
+  +  129 min  Modica                Osteria Ricotta & Co mangiare di casa
+  +  129 min  Modica                Trattoria Il Girasole
+  +  128 min  Modica                Egopizza
+  +  125 min  Modica                Granum Pizzeria
+  +  125 min  Modica                Rosticceria Paradise
+  +  132 min  Sampieri              Calabistrot
+  +  132 min  Sampieri              Pizzeria Atzè Sampieri
+  +  133 min  Sampieri              Rabbuso trattoria di mare
+  +  134 min  Scicli                Prosit Sicilian Bistrot
+  +  135 min  Scicli                MOSCABIANCA
+  +  135 min  Scicli                My Name is Tannino
+  +  135 min  Scicli                Ristorante Baqqalà
+  +  135 min  Scicli                'O Spicu
+  +  135 min  Scicli                Ùmmara - vineria con cucina
+  +  136 min  Scicli                Pizzeria Ristorante Busacca
+  +  135 min  Scicli                Granifero
+  +  138 min  Agrigento             Ristorante Sal8
+  +  139 min  Agrigento             Yellove RistoVintage
+  +  138 min  Agrigento             Pititto Ristorante
+  +  140 min  Agrigento             Il Re di Girgenti
+  +  140 min  Agrigento             Ristorante Osteria ExPanificio
+  +  142 min  Agrigento             Trattoria dei Templi
+  +  138 min  Agrigento             MANHATTAN
+  +  139 min  Agrigento             Pizzeria La Tana del Lupo
+  +  138 min  Agrigento             Bar Primavera
+  +  136 min  Marina di Ragusa      BurgerArt
+  +  137 min  Marina di Ragusa      Marisco
+  +  139 min  Marina di Ragusa      FRESCO è bottega
+  +  136 min  Marina di Ragusa      La Grotta Beach
+  +  136 min  Marina di Ragusa      Sottosale Salt A Tempo
+  +  136 min  Marina di Ragusa      Trepercaso Pizza&Drink
+  +  137 min  Marina di Ragusa      Holiday'S Pizza
+  +  145 min  Licata                Senza Funnu Ristorante
+  +  145 min  Licata                Ristorante la Madia
+  +  151 min  Licata                N’ZEMMULA RISTORANTE
+  +  145 min  Licata                La Taverna del Duca - Licata
+  +  145 min  Licata                Ristorante De Gustibus Licata
+  +  147 min  Licata                La Bottega Ristorante
+  +  143 min  Licata                Premiata Pizzeria Sardasalata - Licata
+  +  142 min  Licata                Pizzeria La Fornarina
+  +  145 min  Licata                Bar Florio
+  +  144 min  Licata                Bar Azzurro
+  +  153 min  Cefalù                Masquenada
+  +  158 min  Cefalù                Le Chat Noir
+  +  157 min  Cefalù                History Pinsa
+  +  153 min  Cefalù                Da Saro - Gastronomia
+  +  157 min  Realmonte             Belvedere Kainon
+  +  154 min  Realmonte             Nodo Bistrot
+  +  154 min  Realmonte             Ristorante e Pizzeria Pizzi cotti
+  +  153 min  Realmonte             Ristorante Pizzeria Bar 'Ni Tanu
+  +  154 min  Realmonte             Bar Belvedere
+  +  155 min  Realmonte             Eclisse cafe spaghetteria panineria gelateria pasticceria t.calda
+  +  159 min  Castelbuono           Trattoria La Lanterna Castelbuono
+  +  160 min  Castelbuono           Antico Baglio
+  +  159 min  Castelbuono           Palazzaccio Ristorante
+  +  159 min  Castelbuono           Hostaria Cycas
+  +  158 min  Castelbuono           La Forgia del Gusto
+  +  161 min  Bagheria              Di Peri Bagheria steakhouse
+  +  161 min  Bagheria              Trattoria da Dario
+  +  161 min  Bagheria              Osteria Pizzeria Giovanni & Barone
+  +  159 min  Bagheria              Antica Focacceria 1856 Bagheria
+  +  161 min  Bagheria              ANNI20 Bagheria
+  +  161 min  Bagheria              Palumbo Friggitoria
+  +  163 min  Pollina               Rosticceria Gastropoli di Ventimiglia
+  +  164 min  Pollina               Mangia's Pollina Resort
+  +  177 min  Pollina               CASALE MARGHERITA Pollina - Turismo Rurale
+  +  177 min  Pollina               Alla Torre
+  +  177 min  Palermo               DOC - Cucina e Griglia
+  +  173 min  Palermo               Taverna Dei Canti
+  +  174 min  Palermo               OSTERIA NORMA
+  +  174 min  Palermo               Timilia
+  +  180 min  Monreale              Osteria Peper's
+  +  180 min  Monreale              Taverna del Pavone
+  +  180 min  Monreale              Fuori Orario Trattoria
+  +  177 min  Monreale              La Locanda Del Drago
+  +  180 min  Monreale              Perna - no figghiu ru zu giovanni
+  +  192 min  Mondello              Ristorante Marino
+  +  192 min  Mondello              DIDUE SEA
+  +  228 min  Castellammare del GolfoRistorante La Cambusa di Fazio Giuseppa
+  +  227 min  Castellammare del GolfoRistorante Egesta Mare
+  +  225 min  Castellammare del GolfoRistorante Pizzeria La Duchessa
+  +  224 min  Castellammare del GolfoTropical Bar
+  +  228 min  Castellammare del GolfoLa Varcuzza
+  +  260 min  Trapani               Ristorante Antichi Sapori
+  +  258 min  Trapani               Trattoria al Solito Posto
+  +  260 min  Trapani               Pizzeria Calvino
+  +  260 min  Trapani               Sapurito Street Food & Goloserie
+  +  265 min  Erice                 Osteria di Venere
+  +  266 min  Erice                 Ristorante Sirena di Sansica Girolamo
+  +  264 min  Erice                 La Tonda Fritta
+  +  265 min  Erice                 Ristorante Caffé San Rocco
+  +  291 min  San Vito Lo Capo      Ristorante Ruggirello Carni | Grill & Food
+  +  290 min  San Vito Lo Capo      Ristorante Profumi di Cous Cous
+  +  291 min  San Vito Lo Capo      Lo Stagnone Ristorante
+  +  291 min  San Vito Lo Capo      Buena Vida Siciliana Ristorante
+  +  291 min  Favignana             Quello Che C’è C’è... Ristorantemediterraneo sull’isola dal 2004
+  +  291 min  Favignana             Trattoria La Pinnata - da Mamma Rina
+  +  291 min  Favignana             Trattoria da Papu'
+  +  292 min  Favignana             Walk On Pizza & Drink
+  +  291 min  Favignana             Pasticceria Effecì
+  +  291 min  Favignana             Santi E Marinai
+
+inseriti: 519 su 519
+posti: 523 -> 1042
+nessun campo perso.

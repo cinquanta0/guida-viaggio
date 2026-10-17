@@ -1,0 +1,128 @@
+  ok  timpa-2.jpg               145KB  <- Timpa di Acireale.jpg
+  ok  acitrezza-2.jpg           102KB  <- Aci Trezza01.jpg
+      acitrezza-3.jpg :: HTTP 429 (aspetto 45s)
+  ok  acitrezza-3.jpg           107KB  <- Aci Trezza-Italy-Castielli CC0 HQ2.jpg
+  ok  capomulini-2.jpg          66KB  <- Port of Capo Mulini (Acireale).jpg
+      santamarialascala-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  santamarialascala-2.jpg   44KB  <- Santa Maria la Scala night.JPG
+  ok  santamarialascala-3.jpg   104KB  <- Santa Maria la Scala 01.jpg
+  ok  lachea-2.jpg              50KB  <- Isola Lachea.jpg
+      santatecla-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  santatecla-2.jpg          59KB  <- Santa Tecla coast.JPG
+  ok  santatecla-3.jpg          79KB  <- Santa Tecla BW 2012-10-05 08-06-21.JPG
+      scoglieraacicastello-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  scoglieraacicastello-2.jpg31KB  <- Aci Castello Sicily Italy - Creative Commons by gnuckx (5085355685).jpg
+  ok  scoglieraacicastello-3.jpg54KB  <- Acitrezza Cyclops Faraglioni Sicily Italy - Creative Commons by gnuckx - panoramio (80).jpg
+      pozzillo-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  pozzillo-2.jpg            49KB  <- Pozzillo-Catania-Sicilia-Italy-Castielli CC0 HQ - panoramio.jpg
+  ok  licuti-2.jpg              90KB  <- Praia "vulcânica" (2761234130).jpg
+      licuti-3.jpg :: HTTP 429 (aspetto 45s)
+  ok  licuti-3.jpg              24KB  <- San Giovanni li Cuti - panoramio.jpg
+  ok  riposto-2.jpg             83KB  <- Etna Volcano Paroxysmal Eruption July 30 2011 - Creative Commons by gnuckx (5992125965).jpg
+      riposto-3.jpg :: HTTP 429 (aspetto 45s)
+  ok  riposto-3.jpg             86KB  <- Etna Volcano Paroxysmal Eruption July 30 2011 - Creative Commons by gnuckx (5992121523).jpg
+  ok  torrearchirafi-2.jpg      90KB  <- Torre Archirafi 01.jpg
+      torrearchirafi-3.jpg :: HTTP 429 (aspetto 45s)
+  ok  torrearchirafi-3.jpg      116KB  <- Torre Archirafi 03.jpg
+  ok  fiumefreddo-2.jpg         135KB  <- Fiumefreddo.jpg
+  ok  fiumefreddo-3.jpg         157KB  <- Foce del Fiumefreddo.jpg
+      giardininaxos-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  giardininaxos-2.jpg       115KB  <- Beach Giardini Naxos.jpg
+  ok  giardininaxos-3.jpg       94KB  <- Giardini-naxsos02.jpg
+  ok  mazzaro-2.jpg             82KB  <- Taormina-Messina-Sicilia-Italy-Castielli CC0 HQ - panoramio (14).jpg
+      mazzaro-3.jpg :: HTTP 429 (aspetto 45s)
+      mazzaro-3.jpg :: HTTP 429 (aspetto 45s)
+      mazzaro-3.jpg :: HTTP 429 (aspetto 45s)
+      mazzaro-3.jpg :: HTTP 429 (aspetto 45s)
+  ok  isolabella-2.jpg          125KB  <- Isola Bella Island Sicily.jpg
+      isolabella-3.jpg :: HTTP 429 (aspetto 45s)
+      isolabella-3.jpg :: HTTP 429 (aspetto 45s)
+      isolabella-3.jpg :: HTTP 429 (aspetto 45s)
+      isolabella-3.jpg :: HTTP 429 (aspetto 45s)
+  ok  alcantara-2.jpg           88KB  <- Alcantara canyon 4.jpg
+  ok  alcantara-3.jpg           100KB  <- Alcantara canyon 5.jpg
+      brucoli-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  brucoli-2.jpg             53KB  <- Brucoli Sicilia Italy - Creative Commons by gnuckx (5017927153).jpg
+  ok  brucoli-3.jpg             52KB  <- Brucoli Sicilia Italy - Creative Commons by gnuckx (5017932333).jpg
+  ok  farosantacroce-2.jpg      46KB  <- Faro di Augusta - Sicilia.jpg
+  ok  farosantacroce-3.jpg      101KB  <- Costa nord da Faro Santa Croce 2.jpg
+      magnisi-2.jpg :: HTTP 429 (aspetto 45s)
+      magnisi-2.jpg :: HTTP 429 (aspetto 45s)
+      magnisi-2.jpg :: HTTP 429 (aspetto 45s)
+      magnisi-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  ganzirri-2.jpg            106KB  <- LagoGanzirri.jpg
+  ok  ganzirri-3.jpg            38KB  <- Peloro.JPG
+      fontanebianche-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  fontanebianche-2.jpg      40KB  <- Swimming in the Sea - Fontane Bianche Siracusa Italy - Creative Commons by gnuckx (3628864986).jpg
+  ok  fontanebianche-3.jpg      109KB  <- Sea beach at summer in Fontane Bianche, Sicily.jpg
+  ok  torrefaro-2.jpg           66KB  <- Pilone di Torre Faro, Messina, Italy.jpg
+  ok  torrefaro-3.jpg           90KB  <- Torre Faro.JPG
+      arenella-2.jpg :: HTTP 429 (aspetto 45s)
+      arenella-2.jpg :: HTTP 429 (aspetto 45s)
+      arenella-2.jpg :: HTTP 429 (aspetto 45s)
+      arenella-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  arenella-3.jpg            114KB  <- Scogliera dell'Arenella.jpg
+  ok  plemmirio-2.jpg           101KB  <- Paesaggio scogliera Plemmirio.jpg
+  ok  plemmirio-3.jpg           89KB  <- Grotta Pillirina.JPG
+      milazzo-2.jpg :: HTTP 429 (aspetto 45s)
+      milazzo-2.jpg :: HTTP 429 (aspetto 45s)
+      milazzo-2.jpg :: HTTP 429 (aspetto 45s)
+      milazzo-2.jpg :: HTTP 429 (aspetto 45s)
+      milazzo-3.jpg :: HTTP 429 (aspetto 45s)
+      milazzo-3.jpg :: HTTP 429 (aspetto 45s)
+      milazzo-3.jpg :: HTTP 429 (aspetto 45s)
+      milazzo-3.jpg :: HTTP 429 (aspetto 45s)
+  ok  vendicari-2.jpg           28KB  <- Natural Reserve Vendicari Noto Sicilia Italy - Creative Commons by gnuckx (5788596441).jpg
+  ok  vendicari-3.jpg           20KB  <- Natural Reserve Vendicari Noto Sicilia Italy - Creative Commons by gnuckx (5787749784).jpg
+  ok  tindari-2.jpg             36KB  <- Tindari.jpg
+      tindari-3.jpg :: HTTP 429 (aspetto 45s)
+  ok  tindari-3.jpg             51KB  <- PattiTindarisLagune.jpg
+  ok  cavagrande-2.jpg          85KB  <- Riserva Naturale Orientata Cava Grande del Cassibile.jpg
+  ok  cavagrande-3.jpg          118KB  <- Cava Grande del Cassibile Avola.jpg
+      capopassero-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  capopassero-2.jpg         33KB  <- Isola Capo Passero.JPG
+  ok  capopassero-3.jpg         52KB  <- Stella maris portopalo.jpg
+      focallo-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  focallo-2.jpg             49KB  <- Marispica - Santa Maria del focallo.jpg
+  ok  focallo-3.jpg             74KB  <- Isola dei Porri.jpg
+      isolacorrenti-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  isolacorrenti-2.jpg       53KB  <- Isola delle Correnti, 2007.jpg
+  ok  isolacorrenti-3.jpg       36KB  <- Isola delle correnti.jpg
+      sampieri-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  sampieri-2.jpg            115KB  <- FornacePenna.JPG
+  ok  sampieri-3.jpg            71KB  <- Fornace Penna (Sicilia).JPG
+      marinaragusa-2.jpg :: HTTP 429 (aspetto 45s)
+      marinaragusa-2.jpg :: HTTP 429 (aspetto 45s)
+      marinaragusa-2.jpg :: HTTP 429 (aspetto 45s)
+      marinaragusa-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  sanleone-2.jpg            72KB  <- San Leone, Agrigento, Sicily, Italy - panoramio.jpg
+  ok  sanleone-3.jpg            97KB  <- San Leone AG, Italy - panoramio.jpg
+      donnalucata-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  donnalucata-2.jpg         61KB  <- Passeggiata di donna lucata - panoramio.jpg
+      donnalucata-3.jpg :: HTTP 429 (aspetto 45s)
+      donnalucata-3.jpg :: HTTP 429 (aspetto 45s)
+      donnalucata-3.jpg :: HTTP 429 (aspetto 45s)
+      donnalucata-3.jpg :: HTTP 429 (aspetto 45s)
+      cefalu-2.jpg :: HTTP 429 (aspetto 45s)
+      cefalu-2.jpg :: HTTP 429 (aspetto 45s)
+      cefalu-2.jpg :: HTTP 429 (aspetto 45s)
+      cefalu-2.jpg :: HTTP 429 (aspetto 45s)
+  ok  scaladeiturchi-2.jpg      46KB  <- 173Scala dei Turchi (Ag) Sicily, Italy.jpg
+  ok  scaladeiturchi-3.jpg      109KB  <- 532 Scala dei Turchi (Ag) Sicily, Italy.jpg
+      zingaro-2.jpg :: HTTP 429 (aspetto 45s)
+      zingaro-2.jpg :: HTTP 429 (aspetto 45s)
+      zingaro-2.jpg :: HTTP 429 (aspetto 45s)
+      zingaro-2.jpg :: HTTP 429 (aspetto 45s)
+      zingaro-3.jpg :: HTTP 429 (aspetto 45s)
+      zingaro-3.jpg :: HTTP 429 (aspetto 45s)
+      zingaro-3.jpg :: HTTP 429 (aspetto 45s)
+      zingaro-3.jpg :: HTTP 429 (aspetto 45s)
+  ok  egadi-2.jpg               99KB  <- Sicily - Favignana - Cala Rossa.jpg
+      egadi-3.jpg :: HTTP 429 (aspetto 45s)
+      egadi-3.jpg :: HTTP 429 (aspetto 45s)
+      egadi-3.jpg :: HTTP 429 (aspetto 45s)
+      egadi-3.jpg :: HTTP 429 (aspetto 45s)
+
+scaricate 59, gia' presenti 0
+NON RIUSCITE: mazzaro-3.jpg, isolabella-3.jpg, magnisi-2.jpg, arenella-2.jpg, milazzo-2.jpg, milazzo-3.jpg, marinaragusa-2.jpg, donnalucata-3.jpg, cefalu-2.jpg, zingaro-2.jpg, zingaro-3.jpg, egadi-3.jpg
+elenco per dati.js scritto in gallerie_fatte.json

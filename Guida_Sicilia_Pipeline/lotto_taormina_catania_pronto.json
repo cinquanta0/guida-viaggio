@@ -1,0 +1,402 @@
+[
+ {
+  "nome": "Spaghetteria Seven",
+  "zona": "Catania",
+  "tag": "pasta street",
+  "indirizzo": "Viale Presidente Kennedy, 7",
+  "min": 27,
+  "km": 20.2
+ },
+ {
+  "nome": "Caffe Lore",
+  "zona": "Catania",
+  "tag": "dolci",
+  "indirizzo": "Via Acquicella Porto, 4",
+  "min": 26,
+  "km": 19.1
+ },
+ {
+  "nome": "Grande Birraria Svizzera",
+  "zona": "Catania",
+  "tag": "street",
+  "indirizzo": "Via Piazza S.Nicolella, incrocio Via A.Manzoni - Via G.Biscari",
+  "min": 25,
+  "km": 17.5
+ },
+ {
+  "nome": "Magna Roma",
+  "zona": "Catania",
+  "tag": "pasta",
+  "indirizzo": "Via Beato Cardinale G. Benedetto Dusmet, 47",
+  "min": 24,
+  "km": 17.1
+ },
+ {
+  "nome": "Mafaldineria",
+  "zona": "Catania",
+  "tag": "pasta",
+  "indirizzo": "Via Vasta, 10",
+  "min": 23,
+  "km": 16.4
+ },
+ {
+  "nome": "Vineria Picasso",
+  "zona": "Catania",
+  "tag": "street",
+  "indirizzo": "piazza Ogninella",
+  "min": 25,
+  "km": 16.9
+ },
+ {
+  "nome": "Cu A Voli Cotta",
+  "zona": "Catania",
+  "tag": "pesce",
+  "indirizzo": "Via Euplio Reina, 18",
+  "min": 25,
+  "km": 17
+ },
+ {
+  "nome": "Trattoria Casalinga da Nino Mannino",
+  "zona": "Catania",
+  "tag": "pasta carne",
+  "indirizzo": "Via Biondi, 19",
+  "min": 23,
+  "km": 16.3
+ },
+ {
+  "nome": "Cantina Manganelli",
+  "zona": "Catania",
+  "tag": "street",
+  "indirizzo": "Via Antonino di Sangiuliano, 202",
+  "min": 23,
+  "km": 16.4
+ },
+ {
+  "nome": "Mirò Lounge Bar",
+  "zona": "Catania",
+  "tag": "street",
+  "indirizzo": "Via Vasta, 17",
+  "min": 23,
+  "km": 16.4
+ },
+ {
+  "nome": "Spaghetti & Co.",
+  "zona": "Catania",
+  "tag": "pasta",
+  "indirizzo": "Via Crociferi, 77",
+  "min": 23,
+  "km": 16.6
+ },
+ {
+  "nome": "Trattoria Marinara La Croce del Sud",
+  "zona": "Catania",
+  "tag": "pesce",
+  "indirizzo": "Via Caff, 12",
+  "min": 23,
+  "km": 16.5
+ },
+ {
+  "nome": "Trattoria Aldo Lunch",
+  "zona": "Catania",
+  "tag": "pasta",
+  "indirizzo": "Via calvagna, 3",
+  "min": 23,
+  "km": 15.7
+ },
+ {
+  "nome": "Toasty",
+  "zona": "Catania",
+  "tag": "street",
+  "indirizzo": "Via Etnea, 185",
+  "min": 23,
+  "km": 16.6
+ },
+ {
+  "nome": "Taverna Dei Conti",
+  "zona": "Catania",
+  "tag": "pasta carne",
+  "indirizzo": "Via Guglielmo Oberdan, 43",
+  "min": 22,
+  "km": 15.5
+ },
+ {
+  "nome": "Fud Bottega sicula",
+  "zona": "Catania",
+  "tag": "street",
+  "indirizzo": "Via Santa Filomena, 35",
+  "min": 22,
+  "km": 15.7
+ },
+ {
+  "nome": "Trattoria Don Turiddu Da Gaetano",
+  "zona": "Catania",
+  "tag": "pasta carne",
+  "indirizzo": "Via Musumeci, 50",
+  "min": 23,
+  "km": 15.7
+ },
+ {
+  "nome": "Etna kebab",
+  "zona": "Catania",
+  "tag": "street",
+  "indirizzo": "Via Musumeci, 41",
+  "min": 23,
+  "km": 15.7
+ },
+ {
+  "nome": "Etna Rosso",
+  "zona": "Catania",
+  "tag": "street",
+  "indirizzo": "Via Etnea, 258",
+  "min": 23,
+  "km": 16
+ },
+ {
+  "nome": "Trattoria Saltimbocca Da Giancarlo",
+  "zona": "Catania",
+  "tag": "pasta carne",
+  "indirizzo": "Via Asilo Sant'Agata, 24",
+  "min": 22,
+  "km": 15.6
+ },
+ {
+  "nome": "Du Mori gastrOsteria",
+  "zona": "Catania",
+  "tag": "pasta",
+  "indirizzo": "Via Umberto I, 256",
+  "min": 22,
+  "km": 15.6
+ },
+ {
+  "nome": "Polpetteria",
+  "zona": "Catania",
+  "tag": "carne pesce pizza",
+  "indirizzo": "Via Santa Filomena, 48",
+  "min": 22,
+  "km": 15.7
+ },
+ {
+  "nome": "Al Tortellino",
+  "zona": "Catania",
+  "tag": "pasta",
+  "indirizzo": "Via Alberto Mario, 36",
+  "min": 21,
+  "km": 15.2
+ },
+ {
+  "nome": "Trattoria da Rinaldo",
+  "zona": "Catania",
+  "tag": "pasta carne",
+  "indirizzo": "Via Alberto Mario, 57",
+  "min": 21,
+  "km": 15.3
+ },
+ {
+  "nome": "Gastronomia Vittorio",
+  "zona": "Catania",
+  "tag": "street",
+  "indirizzo": "Viale Jonio, 58/60",
+  "min": 22,
+  "km": 15
+ },
+ {
+  "nome": "Bavetta - Osteria d'Oggi",
+  "zona": "Catania",
+  "tag": "pasta",
+  "indirizzo": "Via Antonino Longo, 26",
+  "min": 22,
+  "km": 15.4
+ },
+ {
+  "nome": "Carboni Ardenti",
+  "zona": "Catania",
+  "tag": "pizza carne",
+  "indirizzo": "Via Cifali, 108",
+  "min": 23,
+  "km": 16.5
+ },
+ {
+  "nome": "Gastronomia Ciu Ricu",
+  "zona": "Catania",
+  "tag": "street",
+  "indirizzo": "Via Lineri, 22",
+  "min": 23,
+  "km": 20.7
+ },
+ {
+  "nome": "Panificio Il Grano D'Oro",
+  "zona": "Catania",
+  "tag": "dolci",
+  "indirizzo": "Via Oliveto Scammacca, 40",
+  "min": 21,
+  "km": 14.7
+ },
+ {
+  "nome": "Taverna Peppino",
+  "zona": "Catania",
+  "tag": "pasta carne",
+  "indirizzo": "Via Empedocle, 43",
+  "min": 22,
+  "km": 15.3
+ },
+ {
+  "nome": "Panificio Giannino",
+  "zona": "Catania",
+  "tag": "dolci",
+  "indirizzo": "Via Galatioto, 129/B",
+  "min": 20,
+  "km": 14.1
+ },
+ {
+  "nome": "Sant'Ana - Pescado y Tequila",
+  "zona": "Catania",
+  "tag": "pesce",
+  "indirizzo": "Via Marittima, 24",
+  "min": 19,
+  "km": 13.1
+ },
+ {
+  "nome": "Kalamarè Fish & Wine Restaurant",
+  "zona": "Catania",
+  "tag": "pesce",
+  "indirizzo": "Vle Artale Alagona, 109",
+  "min": 18,
+  "km": 12.8
+ },
+ {
+  "nome": "Al Nuovo Braciere",
+  "zona": "Catania",
+  "tag": "pizza pasta carne",
+  "indirizzo": "Via San Giovanni Galermo, 310E",
+  "min": 19,
+  "km": 17.1
+ },
+ {
+  "nome": "Le Delizie Dei Saponari ' Tra Due Terre'",
+  "zona": "Catania",
+  "tag": "pizza pasta",
+  "indirizzo": "Via Francesco Crispi 201",
+  "min": 20,
+  "km": 12.3
+ },
+ {
+  "nome": "Il Ghiottone",
+  "zona": "Catania",
+  "tag": "street",
+  "indirizzo": "Via Ravenna, 7",
+  "min": 20,
+  "km": 13.9
+ },
+ {
+  "nome": "Osteria Rosso Divino",
+  "zona": "Taormina",
+  "tag": "pasta",
+  "indirizzo": "Via De Spuches, 8",
+  "min": 35,
+  "km": 41.2
+ },
+ {
+  "nome": "Plaza Champagne",
+  "zona": "Taormina",
+  "tag": "street",
+  "indirizzo": "La Piazzetta, Vico Francesco Paladini, 5",
+  "min": 37,
+  "km": 42.3
+ },
+ {
+  "nome": "Vineria Modi",
+  "zona": "Taormina",
+  "tag": "street",
+  "indirizzo": "Via Calapitrulli, 13",
+  "min": 37,
+  "km": 41.3
+ },
+ {
+  "nome": "Wood house Bar Gastronomia",
+  "zona": "Taormina",
+  "tag": "street",
+  "indirizzo": "Via Giovanni di Giovanni, 36",
+  "min": 37,
+  "km": 41.2
+ },
+ {
+  "nome": "Pescatori Al Bar",
+  "zona": "Taormina",
+  "tag": "pesce",
+  "indirizzo": "Via Giardinazzo, 1",
+  "min": 37,
+  "km": 41.3
+ },
+ {
+  "nome": "Liola Osteria and Bar",
+  "zona": "Taormina",
+  "tag": "pasta",
+  "indirizzo": "Viale S. Pancrazio, 4",
+  "min": 35,
+  "km": 41
+ },
+ {
+  "nome": "Red & White",
+  "zona": "Taormina",
+  "tag": "pasta",
+  "indirizzo": "Via di Giovanni, 47",
+  "min": 36,
+  "km": 41.2
+ },
+ {
+  "nome": "Caffè Solaris",
+  "zona": "Taormina",
+  "tag": "dolci",
+  "indirizzo": "Via Timeo, 31",
+  "min": 36,
+  "km": 41.2
+ },
+ {
+  "nome": "Shaker Bar",
+  "zona": "Taormina",
+  "tag": "street",
+  "indirizzo": "Via Giovanni di Giovanni, 4",
+  "min": 36,
+  "km": 41.1
+ },
+ {
+  "nome": "Ristorante Il Barcaiolo",
+  "zona": "Taormina",
+  "tag": "pesce",
+  "indirizzo": "Via Castelluccio, 43",
+  "min": 32,
+  "km": 39
+ },
+ {
+  "nome": "Ristorante Le Namauchie",
+  "zona": "Taormina",
+  "tag": "pesce",
+  "indirizzo": "Via Giardinazzo 8",
+  "min": 37,
+  "km": 41.3
+ },
+ {
+  "nome": "La drogheria",
+  "zona": "Catania",
+  "tag": "street",
+  "indirizzo": "Viale Ulisse, 10",
+  "min": 18,
+  "km": 12.5
+ },
+ {
+  "nome": "Easycafe",
+  "zona": "Catania",
+  "tag": "dolci",
+  "indirizzo": "Via Spedalieri 14",
+  "min": 23,
+  "km": 16.6
+ },
+ {
+  "nome": "Masaniello - Tradizioni Napoletane",
+  "zona": "Catania",
+  "tag": "pizza",
+  "indirizzo": "Via Pietro Antonio Coppola, 62",
+  "min": 23,
+  "km": 16.4
+ }
+]

@@ -1,0 +1,64 @@
+{
+ "stocco": [
+  {
+   "title": "Stoccafisso alla messinese.jpg",
+   "w": 436,
+   "h": 333,
+   "proporzione": 1.31,
+   "lat": null,
+   "lon": null,
+   "kmDaAciCatena": null,
+   "categorie": [
+    "Cod dishes of Italy",
+    "Cuisine of Messina",
+    "PD-self",
+    "Self-published work",
+    "Stockfish dishes"
+   ],
+   "descrizione": "rivisitazione dello Stoccafisso alla messinese",
+   "author": "Paolo345",
+   "license": "Public domain"
+  }
+ ],
+ "polpo": [
+  {
+   "title": "Polpo all'olio di oliva e limone.jpg",
+   "w": 5472,
+   "h": 3648,
+   "proporzione": 1.5,
+   "lat": null,
+   "lon": null,
+   "kmDaAciCatena": null,
+   "categorie": [
+    "CC-BY-SA-4.0",
+    "Cuisine of Sicily",
+    "Octopus dishes of Italy",
+    "Self-published work"
+   ],
+   "descrizione": "Polpo all'olio di oliva e limone, Dinner at Castelmare di Golfo, Sicily, Italy",
+   "author": "Hartmut Schmidt, Heidelberg",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "neonata": [
+  {
+   "title": "Neonata (novellame).jpg",
+   "w": 795,
+   "h": 528,
+   "proporzione": 1.51,
+   "lat": null,
+   "lon": null,
+   "kmDaAciCatena": null,
+   "categorie": [
+    "CC-BY-SA-4.0",
+    "Cuisine of Sicily",
+    "Seafood dishes of Italy",
+    "Self-published work",
+    "Whitebait"
+   ],
+   "descrizione": "Novellame di pesce azzurro pescato nel canale di Sicilia",
+   "author": "Civa61",
+   "license": "CC BY-SA 4.0"
+  }
+ ]
+}

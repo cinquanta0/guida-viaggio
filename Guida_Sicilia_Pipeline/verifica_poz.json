@@ -1,0 +1,63 @@
+{
+ "pozzallo": [
+  {
+   "title": "Pozzallo Sunset.jpg",
+   "w": 4128,
+   "h": 2322,
+   "proporzione": 1.78,
+   "lat": null,
+   "lon": null,
+   "kmDaAciCatena": null,
+   "categorie": [
+    "CC-BY-SA-4.0",
+    "Pozzallo",
+    "Self-published work",
+    "Sunsets of Sicily"
+   ],
+   "descrizione": "Sunset in Pozzallo from the Pietrenere Beach",
+   "author": "Josif Rosenkreutz",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Pozzallo Coast Panoramic View.jpg",
+   "w": 4030,
+   "h": 672,
+   "proporzione": 6,
+   "lat": null,
+   "lon": null,
+   "kmDaAciCatena": null,
+   "categorie": [
+    "Beaches of Sicily",
+    "CC-BY-SA-4.0",
+    "Images with extracted images",
+    "Pozzallo",
+    "Self-published work"
+   ],
+   "descrizione": "Panomaric View of Pozzallo from the Pietrenere Beach",
+   "author": "Josif Rosenkreutz",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Pozzallo - panoramio.jpg",
+   "w": 2048,
+   "h": 1536,
+   "proporzione": 1.33,
+   "lat": 36.728153,
+   "lon": 14.851284,
+   "kmDaAciCatena": 100,
+   "categorie": [
+    "Beaches of the province of Ragusa",
+    "CC-BY-3.0",
+    "Files with coordinates missing SDC location of creation",
+    "Italy photographs taken on 2008-08-02",
+    "Panoramio files uploaded by Panoramio upload bot",
+    "Panoramio images reviewed by trusted users",
+    "Photos from Panoramio",
+    "Pozzallo"
+   ],
+   "descrizione": "la spiaggia di Pozzallo.",
+   "author": "www.gironavigando.it",
+   "license": "CC BY 3.0"
+  }
+ ]
+}

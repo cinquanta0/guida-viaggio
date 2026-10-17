@@ -1,0 +1,23 @@
+{
+ "crispelle": "intitle:crispelle",
+ "cartocciata": "intitle:cartocciata OR intitle:siciliana rosticceria",
+ "cipollina": "intitle:cipollina catanese",
+ "iris": "intitle:iris fritta ricotta",
+ "minne": "intitle:\"minne di Sant'Agata\" OR intitle:\"cassatelle di Sant'Agata\"",
+ "schiacciata": "intitle:schiacciata siciliana",
+ "pidone": "intitle:pitone messinese OR intitle:pidone",
+ "pignolata": "intitle:pignolata",
+ "spadaghiotta": "intitle:\"pesce spada\" ghiotta OR intitle:\"involtini di pesce spada\"",
+ "scaccia": "intitle:scaccia ragusana",
+ "cioccolatomodica": "intitle:\"cioccolato di Modica\" OR intitle:\"Modica chocolate\"",
+ "mpanatigghi": "intitle:mpanatigghi",
+ "stigghiola": "intitle:stigghiola",
+ "frittola": "intitle:frittola palermo",
+ "panecunzato": "intitle:\"pane cunzato\"",
+ "cassatelle": "intitle:cassatelle",
+ "rianata": "intitle:rianata",
+ "beccafico": "intitle:beccafico",
+ "gelomelone": "intitle:\"gelo di melone\" OR intitle:\"gelo di anguria\"",
+ "pastasarde": "intitle:\"pasta con le sarde\"",
+ "vini": "intitle:\"Etna\" vigneto OR intitle:\"Etna rosso\" vino"
+}

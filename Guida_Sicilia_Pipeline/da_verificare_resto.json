@@ -1,0 +1,443 @@
+[
+  {
+    "n": "Profumi e Sapori di Sicili",
+    "z": "Mascali",
+    "t": "carne",
+    "a": "Via Spiaggia 115",
+    "d": "Ristorante di carne a Mascali. Da Google Maps: 4,7 su 147 recensioni."
+  },
+  {
+    "n": "Masseria Del 2000",
+    "z": "Mascali",
+    "t": "carne",
+    "a": "SS 114 Orientale Sicula 70",
+    "d": "Ristorante di carne a Mascali. Da Google Maps: 4,4 su 370 recensioni."
+  },
+  {
+    "n": "Arrusti e mangia braceria",
+    "z": "Fiumefreddo di Sicilia",
+    "t": "carne",
+    "a": "Cda Mulino SP71i",
+    "d": "Ristorante di carne a Fiumefreddo di Sicilia. Da Google Maps: 4,3 su 184 recensioni."
+  },
+  {
+    "n": "Brace Giardini",
+    "z": "Giardini Naxos",
+    "t": "carne",
+    "a": "Lungomare Tysandros 46",
+    "d": "Ristorante di carne a Giardini Naxos. Da Google Maps: 4,8 su 157 recensioni."
+  },
+  {
+    "n": "Fantasie Di Carne",
+    "z": "Letojanni",
+    "t": "carne",
+    "a": "Contrada Lenza Falco",
+    "d": "Ristorante di carne a Letojanni. Da Google Maps: 4,6 su 112 recensioni."
+  },
+  {
+    "n": "Mama Steak House",
+    "z": "Letojanni",
+    "t": "carne",
+    "a": "Piazza Durante 14",
+    "d": "Ristorante di carne a Letojanni. Da Google Maps: 4,1 su 337 recensioni."
+  },
+  {
+    "n": "Braceria dei Goti",
+    "z": "Motta Camastra",
+    "t": "carne",
+    "a": "Via Kennedy 498",
+    "d": "Ristorante di carne a Motta Camastra. Da Google Maps: 4,7 su 632 recensioni."
+  },
+  {
+    "n": "Macelleria Braceria Greco",
+    "z": "Forza d'Agrò",
+    "t": "carne",
+    "a": "Via Spalato",
+    "d": "Ristorante di carne a Forza d'Agrò. Da Google Maps: 4,8 su 1908 recensioni."
+  },
+  {
+    "n": "Braceria, Macelleria, Osteria del Macellaio",
+    "z": "Forza d'Agrò",
+    "t": "carne",
+    "a": "Via Milano 39",
+    "d": "Ristorante di carne a Forza d'Agrò. Da Google Maps: 4,7 su 418 recensioni."
+  },
+  {
+    "n": "ENJOY FISH",
+    "z": "Aci Bonaccorsi",
+    "t": "pesce",
+    "a": "Viale Cristoforo Colombo 13",
+    "d": "Ristorante di pesce a Aci Bonaccorsi. Da Google Maps: 4,6 su 239 recensioni."
+  },
+  {
+    "n": "Delizie Di Mare",
+    "z": "Valverde",
+    "t": "pesce",
+    "a": "Via Maugeri",
+    "d": "Ristorante di pesce a Valverde. Da Google Maps: 4,2 su 753 recensioni."
+  },
+  {
+    "n": "Il Moro di Trezza",
+    "z": "Aci Trezza",
+    "t": "pesce",
+    "a": "Via Lungomare Dei Ciclopi 153",
+    "d": "Ristorante di pesce a Aci Trezza. Da Google Maps: 4,0 su 1465 recensioni."
+  },
+  {
+    "n": "A' Latruzza L'Antica posada d'Acitrezza",
+    "z": "Aci Trezza",
+    "t": "pesce",
+    "a": "Via Marina 6",
+    "d": "Ristorante di pesce a Aci Trezza. Da Google Maps: 4,2 su 539 recensioni."
+  },
+  {
+    "n": "Ristorante Pianeta Mare",
+    "z": "Frazioni di Acireale",
+    "t": "pesce",
+    "a": "Via Garitta 18",
+    "d": "Ristorante di pesce a Frazioni di Acireale. Da Google Maps: 4,4 su 229 recensioni."
+  },
+  {
+    "n": "Ristorante Solemare",
+    "z": "Frazioni di Acireale",
+    "t": "pesce",
+    "a": "Lungomare Mario Martinez 21",
+    "d": "Ristorante di pesce a Frazioni di Acireale. Da Google Maps: 4,2 su 221 recensioni."
+  },
+  {
+    "n": "Brezza",
+    "z": "Trecastagni",
+    "t": "pesce",
+    "a": "Via Rua Sant'Antonio 5a",
+    "d": "Ristorante di pesce a Trecastagni. Da Google Maps: 4,4 su 87 recensioni."
+  },
+  {
+    "n": "La Bettola dei Marinai",
+    "z": "Acireale nord",
+    "t": "pesce",
+    "a": "Via Canale Torto 34",
+    "d": "Ristorante di pesce a Acireale nord. Da Google Maps: 4,1 su 3246 recensioni."
+  },
+  {
+    "n": "Storie di Mare",
+    "z": "Gravina di Catania",
+    "t": "pesce",
+    "a": "V. Fasano 124",
+    "d": "Ristorante di pesce a Gravina di Catania. Da Google Maps: 4,9 su 35 recensioni."
+  },
+  {
+    "n": "Ristorante Mare dell'Etna",
+    "z": "Mascali",
+    "t": "pesce",
+    "a": "Via Spiaggia 115",
+    "d": "Ristorante di pesce a Mascali. Da Google Maps: 4,1 su 934 recensioni."
+  },
+  {
+    "n": "Ristorante La Vecchia Posta",
+    "z": "Mascali",
+    "t": "pesce",
+    "a": "Via Spiaggia 307",
+    "d": "Ristorante di pesce a Mascali. Da Google Maps: 4,4 su 499 recensioni."
+  },
+  {
+    "n": "Spina",
+    "z": "Mascali",
+    "t": "pesce",
+    "a": "Via Spiaggia 119",
+    "d": "Ristorante di pesce a Mascali. Da Google Maps: 4,0 su 2021 recensioni."
+  },
+  {
+    "n": "Trattoria-pizzeria Brezza di Mare",
+    "z": "Mascali",
+    "t": "pesce",
+    "a": "Via Spiaggia 142",
+    "d": "Ristorante di pesce a Mascali. Da Google Maps: 4,1 su 446 recensioni."
+  },
+  {
+    "n": "Scirocco",
+    "z": "Catania — Pescheria",
+    "t": "pesce",
+    "a": "Piazza Alonzo di Benedetto 7",
+    "d": "Ristorante di pesce a Catania - Pescheria. Da Google Maps: 4,6 su 6326 recensioni."
+  },
+  {
+    "n": "Sprishhh - Spritz and Fish",
+    "z": "Catania — Pescheria",
+    "t": "pesce",
+    "a": "Piazza Alonzo di Benedetto 19",
+    "d": "Ristorante di pesce a Catania - Pescheria. Da Google Maps: 4,7 su 141 recensioni."
+  },
+  {
+    "n": "Polp.Corner",
+    "z": "Catania — Pescheria",
+    "t": "pesce",
+    "a": "Via Pardo 16",
+    "d": "Ristorante di pesce a Catania - Pescheria. Da Google Maps: 4,9 su 177 recensioni."
+  },
+  {
+    "n": "Fishiaria",
+    "z": "Catania — Pescheria",
+    "t": "pesce",
+    "a": "Via Riccioli 4/6",
+    "d": "Ristorante di pesce a Catania - Pescheria. Da Google Maps: 4,3 su 1754 recensioni."
+  },
+  {
+    "n": "Planète Marine",
+    "z": "Catania — Pescheria",
+    "t": "pesce",
+    "a": "Vle Artale Alagona 103",
+    "d": "Ristorante di pesce a Catania - Pescheria. Da Google Maps: 4,6 su 2568 recensioni."
+  },
+  {
+    "n": "La Paglia Antica Trattoria",
+    "z": "Catania — Pescheria",
+    "t": "pesce",
+    "a": "Via Pardo 23",
+    "d": "Ristorante di pesce a Catania - Pescheria. Da Google Maps: 4,0 su 541 recensioni."
+  },
+  {
+    "n": "L'ISKA Catania",
+    "z": "Catania — Pescheria",
+    "t": "pesce",
+    "a": "V. Gisira 5",
+    "d": "Ristorante di pesce a Catania - Pescheria. Da Google Maps: 4,2 su 1917 recensioni."
+  },
+  {
+    "n": "Ristorante Valle Reale",
+    "z": "Fiumefreddo di Sicilia",
+    "t": "pesce",
+    "a": "Via Castello 13",
+    "d": "Ristorante di pesce a Fiumefreddo di Sicilia. Da Google Maps: 4,9 su 181 recensioni."
+  },
+  {
+    "n": "Mari criu",
+    "z": "Giardini Naxos",
+    "t": "pesce",
+    "a": "Lungomare Tysandros 104",
+    "d": "Ristorante di pesce a Giardini Naxos. Da Google Maps: 4,7 su 290 recensioni."
+  },
+  {
+    "n": "Ristorante Don Ciccio",
+    "z": "Giardini Naxos",
+    "t": "pesce",
+    "a": "Via Schisò 14",
+    "d": "Ristorante di pesce a Giardini Naxos. Da Google Maps: 4,4 su 435 recensioni."
+  },
+  {
+    "n": "Ristorante LA VELA",
+    "z": "Giardini Naxos",
+    "t": "pesce",
+    "a": "Lungomare Tysandros 88",
+    "d": "Ristorante di pesce a Giardini Naxos. Da Google Maps: 4,6 su 1914 recensioni."
+  },
+  {
+    "n": "Donnasanta",
+    "z": "Letojanni",
+    "t": "pesce",
+    "a": "Via Luigi Rizzo, Lungomare 32",
+    "d": "Ristorante di pesce a Letojanni. Da Google Maps: 4,8 su 99 recensioni."
+  },
+  {
+    "n": "FLAMINGO BEACH",
+    "z": "Letojanni",
+    "t": "pesce",
+    "a": "Via Michelangelo Garufi 34",
+    "d": "Ristorante di pesce a Letojanni. Da Google Maps: 4,2 su 1346 recensioni."
+  },
+  {
+    "n": "Helliot lounge & bistrot",
+    "z": "Paternò",
+    "t": "pesce",
+    "a": "Piazza Armando Diaz 20",
+    "d": "Ristorante di pesce a Paternò. Da Google Maps: 4,7 su 48 recensioni."
+  },
+  {
+    "n": "DROGHERIA BARBERA",
+    "z": "Paternò",
+    "t": "pesce",
+    "a": "Via Umbria 24",
+    "d": "Ristorante di pesce a Paternò. Da Google Maps: 4,7 su 163 recensioni."
+  },
+  {
+    "n": "Casa del Pesce \"A Pescheria\"",
+    "z": "Paternò",
+    "t": "pesce",
+    "a": "Via Mongibello 74",
+    "d": "Ristorante di pesce a Paternò. Da Google Maps: 5,0 su 44 recensioni."
+  },
+  {
+    "n": "MGM Alcantara",
+    "z": "Motta Camastra",
+    "t": "pesce",
+    "a": "SS185",
+    "d": "Ristorante di pesce a Motta Camastra. Da Google Maps: 4,8 su 502 recensioni."
+  },
+  {
+    "n": "Ruvì Restaurant",
+    "z": "Castiglione di Sicilia",
+    "t": "pesce",
+    "a": "Via Nazionale 135",
+    "d": "Ristorante di pesce a Castiglione di Sicilia. Da Google Maps: 4,9 su 51 recensioni."
+  },
+  {
+    "n": "Ristorante Gelso Nero",
+    "z": "Savoca",
+    "t": "pesce",
+    "a": "Via Provinciale Snc",
+    "d": "Ristorante di pesce a Savoca. Da Google Maps: 4,6 su 503 recensioni."
+  },
+  {
+    "n": "A Maidda, Ristorante Siciliano",
+    "z": "Lentini",
+    "t": "pesce",
+    "a": "Via Conte Alaimo 102",
+    "d": "Ristorante di pesce a Lentini. Da Google Maps: 4,6 su 432 recensioni."
+  },
+  {
+    "n": "Le Quattro Volte",
+    "z": "Aci Bonaccorsi",
+    "t": "pasta",
+    "a": "Via Lavina, 373",
+    "d": "Trattoria a Aci Bonaccorsi. Da Google Maps: 4,3 su 150 recensioni."
+  },
+  {
+    "n": "Masseria La Timpa",
+    "z": "Valverde",
+    "t": "pasta",
+    "a": "Via Crocifisso 44a",
+    "d": "Trattoria a Valverde. Da Google Maps: 4,0 su 3208 recensioni."
+  },
+  {
+    "n": "Al nuovo caprice 2",
+    "z": "Valverde",
+    "t": "pasta",
+    "a": "Corso Vittorio Emanuele III 164",
+    "d": "Trattoria a Valverde. Da Google Maps: 4,4 su 270 recensioni."
+  },
+  {
+    "n": "Canto delle Sirene",
+    "z": "Aci Castello",
+    "t": "pasta",
+    "a": "Via Lungomare Dei Ciclopi 115",
+    "d": "Trattoria a Aci Castello. Da Google Maps: 4,7 su 50 recensioni."
+  },
+  {
+    "n": "L'Osteria di Cantine Nicosia",
+    "z": "Trecastagni",
+    "t": "pasta",
+    "a": "Via Luigi Capuana 65",
+    "d": "Trattoria a Trecastagni. Da Google Maps: 4,3 su 26 recensioni."
+  },
+  {
+    "n": "Trattoria L'imperiale",
+    "z": "Catania — Via Plebiscito",
+    "t": "pasta",
+    "a": "Via Plebiscito 847",
+    "d": "Trattoria a Catania - Via Plebiscito. Da Google Maps: 4,9 su 276 recensioni."
+  },
+  {
+    "n": "Trattoria Da Zia Tanina",
+    "z": "Catania — Via Plebiscito",
+    "t": "pasta",
+    "a": "Via Plebiscito 428",
+    "d": "Trattoria a Catania - Via Plebiscito. Da Google Maps: 4,4 su 520 recensioni."
+  },
+  {
+    "n": "Chi si mangia?",
+    "z": "Mascali",
+    "t": "pasta",
+    "a": "Via Spiaggia 307/B",
+    "d": "Trattoria a Mascali. Da Google Maps: 4,7 su 58 recensioni."
+  },
+  {
+    "n": "Ristorante Osteria del Gusto",
+    "z": "Mascali",
+    "t": "pasta",
+    "a": "strada provinciale, contrada giuliana",
+    "d": "Trattoria a Mascali. Da Google Maps: 4,6 su 349 recensioni."
+  },
+  {
+    "n": "Pizzeria Broadway Pub",
+    "z": "Mascali",
+    "t": "pasta",
+    "a": "Via Siculo Orientale, 127/b",
+    "d": "Trattoria a Mascali. Da Google Maps: 4,6 su 209 recensioni."
+  },
+  {
+    "n": "mm!! Trattoria",
+    "z": "Catania — Pescheria",
+    "t": "pasta",
+    "a": "Via Pardo 34",
+    "d": "Trattoria a Catania - Pescheria. Da Google Maps: 4,3 su 1746 recensioni."
+  },
+  {
+    "n": "Bella - Pizzeria Con Cucina & Bar",
+    "z": "Fiumefreddo di Sicilia",
+    "t": "pasta",
+    "a": "SP71i, Via Badalà",
+    "d": "Trattoria a Fiumefreddo di Sicilia. Da Google Maps: 4,7 su 872 recensioni."
+  },
+  {
+    "n": "Ristorante pizzeria La Spelonca",
+    "z": "Giardini Naxos",
+    "t": "pasta",
+    "a": "Via Recanati, 8",
+    "d": "Trattoria a Giardini Naxos. Da Google Maps: 4,7 su 1882 recensioni."
+  },
+  {
+    "n": "Da Totò Ristorante Pizzeria",
+    "z": "Giardini Naxos",
+    "t": "pasta",
+    "a": "Viale Jannuzzo",
+    "d": "Trattoria a Giardini Naxos. Da Google Maps: 4,3 su 91 recensioni."
+  },
+  {
+    "n": "Pasta Amore e Fantasia",
+    "z": "Letojanni",
+    "t": "pasta",
+    "a": "Via Luigi Rizzo 25",
+    "d": "Trattoria a Letojanni. Da Google Maps: 4,9 su 367 recensioni."
+  },
+  {
+    "n": "Talia",
+    "z": "Santa Teresa di Riva",
+    "t": "pasta",
+    "a": "V. Giovanni Falcone 27",
+    "d": "Trattoria a Santa Teresa di Riva. Da Google Maps: 4,1 su 1109 recensioni."
+  },
+  {
+    "n": "Cafè Sicilia",
+    "z": "Santa Teresa di Riva",
+    "t": "pasta",
+    "a": "Via F. Crispi, 219/B",
+    "d": "Trattoria a Santa Teresa di Riva. Da Google Maps: 4,6 su 534 recensioni."
+  },
+  {
+    "n": "Bar Valastro-Damico",
+    "z": "Castiglione di Sicilia",
+    "t": "pasta",
+    "a": "Via Guglielmo Marconi, 1",
+    "d": "Trattoria a Castiglione di Sicilia. Da Google Maps: 4,7 su 257 recensioni."
+  },
+  {
+    "n": "Pipispezzi Savoca",
+    "z": "Savoca",
+    "t": "pasta",
+    "a": "Via Cappuccini",
+    "d": "Trattoria a Savoca. Da Google Maps: 4,8 su 499 recensioni."
+  },
+  {
+    "n": "Dioniso Di Morabito Andrea",
+    "z": "Savoca",
+    "t": "pasta",
+    "a": "Via S. Michele, 15",
+    "d": "Trattoria a Savoca. Da Google Maps: 4,9 su 94 recensioni."
+  },
+  {
+    "n": "TAG PIZZERIA CONTEMPORANEA",
+    "z": "Lentini",
+    "t": "pasta",
+    "a": "Via Libertà, 9",
+    "d": "Trattoria a Lentini. Da Google Maps: 4,6 su 309 recensioni."
+  }
+]

@@ -1,0 +1,55 @@
+
+== L’Osteria di Cantine Nicosia  (Trecastagni, 0 esercizi)
+     -> ancora niente
+
+== Fattoria Borrello — Osteria del Maiale Nero  (Raccuja, 0 esercizi)
+     -> ancora niente
+
+== Palazzaccio  (Castelbuono, 0 esercizi)
+     -> ancora niente
+
+== Osteria U’Locale  (Buccheri, 0 esercizi)
+     -> 86 min, 77 km   Nominatim: Osteria U Locale
+
+== Terra Mia  (Castiglione di Sicilia, 0 esercizi)
+     -> ancora niente
+
+== Locanda del Colonnello  (Modica, 0 esercizi)
+     -> 126 min, 124 km   Nominatim: La Locanda del Colonnello
+
+== Al Bagatto  (Milazzo, 0 esercizi)
+     -> ancora niente
+
+== Don Ciccio  (Bagheria, 0 esercizi)
+     -> 160 min, 209 km   Nominatim: Don Ciccio
+
+== La Tonnara  (Castellammare del Golfo, 0 esercizi)
+     -> 227 min, 290 km   Nominatim: La Tonnara
+
+== Osteria dei Folli  (Realmonte, 0 esercizi)
+     -> 154 min, 186 km   Nominatim: Osteria dei Folli
+
+== Terre di Himera  (Termini Imerese, 0 esercizi)
+     -> ancora niente
+
+== Diegolina  (Trapani, 0 esercizi)
+     -> ancora niente
+
+== Antica Forneria Messina  (Monreale, 0 esercizi)
+     -> ancora niente
+
+== Al Ritrovo  (San Vito Lo Capo, 0 esercizi)
+     -> ancora niente
+
+totale verificati 37/48
+
+RESTANO FUORI:
+  L’Osteria di Cantine Nicosia (Trecastagni)
+  Fattoria Borrello — Osteria del Maiale Nero (Raccuja)
+  Palazzaccio (Castelbuono)
+  Terra Mia (Castiglione di Sicilia)
+  Al Bagatto (Milazzo)
+  Terre di Himera (Termini Imerese)
+  Diegolina (Trapani)
+  Antica Forneria Messina (Monreale)
+  Al Ritrovo (San Vito Lo Capo)

@@ -1,0 +1,21 @@
+{
+ "cavallo": [
+  {
+   "title": "Pezzetti-di-carne-di-cavallo.jpg",
+   "w": 598,
+   "h": 393,
+   "proporzione": 1.52,
+   "lat": null,
+   "lon": null,
+   "kmDaAciCatena": null,
+   "categorie": [
+    "CC-BY-SA-4.0",
+    "Food of Italy",
+    "Self-published work"
+   ],
+   "descrizione": "Ricetta tradizionale matinese",
+   "author": "Terroneasiatico",
+   "license": "CC BY-SA 4.0"
+  }
+ ]
+}

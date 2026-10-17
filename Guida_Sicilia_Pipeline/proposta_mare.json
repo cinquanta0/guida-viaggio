@@ -1,0 +1,618 @@
+{
+ "timpa": {
+  "posto": "Spiaggia del Mulino",
+  "zona": "Riserva della Timpa",
+  "categoria": "Riserva naturale orientata La Timpa",
+  "da": 2,
+  "file": [
+   "Laughing Out Loud (254594227).jpeg",
+   "Timpa di Acireale.jpg"
+  ],
+  "misure": [
+   "2048x1365",
+   "960x640"
+  ]
+ },
+ "acitrezza": {
+  "posto": "Aci Trezza — Faraglioni dei Ciclopi",
+  "zona": "Aci Trezza",
+  "categoria": "Aci Trezza",
+  "da": 2,
+  "file": [
+   "Aci Trezza01.jpg",
+   "Aci Trezza-Italy-Castielli CC0 HQ2.jpg"
+  ],
+  "misure": [
+   "1600x1200",
+   "1280x960"
+  ]
+ },
+ "capomulini": {
+  "posto": "Capo Mulini e Stazzo",
+  "zona": "Frazioni di Acireale",
+  "categoria": "Capo Mulini",
+  "da": 2,
+  "file": [
+   "Isole ciclopi.JPG",
+   "Port of Capo Mulini (Acireale).jpg"
+  ],
+  "misure": [
+   "2560x1920",
+   "2560x1920"
+  ]
+ },
+ "santamarialascala": {
+  "posto": "Santa Maria La Scala",
+  "zona": "Sotto Acireale",
+  "categoria": "Santa Maria la Scala",
+  "da": 2,
+  "file": [
+   "Santa Maria la Scala night.JPG",
+   "Santa Maria la Scala 01.jpg"
+  ],
+  "misure": [
+   "2048x1536",
+   "4032x3024"
+  ]
+ },
+ "lachea": {
+  "posto": "Isola Lachea e giro in barca",
+  "zona": "Aci Trezza",
+  "categoria": "Isola Lachea",
+  "da": 2,
+  "file": [
+   "Isola Lachea.jpg",
+   "Isola Lachea Acitrezza Summer.jpg"
+  ],
+  "misure": [
+   "3024x1998",
+   "8208x2444"
+  ]
+ },
+ "santatecla": {
+  "posto": "Santa Tecla",
+  "zona": "Acireale nord",
+  "categoria": "Santa Tecla (Acireale)",
+  "da": 2,
+  "file": [
+   "Santa Tecla coast.JPG",
+   "Santa Tecla BW 2012-10-05 08-06-21.JPG"
+  ],
+  "misure": [
+   "2048x1536",
+   "3872x2592"
+  ]
+ },
+ "scoglieraacicastello": {
+  "posto": "Scogliera di Aci Castello",
+  "zona": "Aci Castello",
+  "categoria": "Faraglioni (Aci Castello)",
+  "da": 2,
+  "file": [
+   "Aci Castello Sicily Italy - Creative Commons by gnuckx (5085355685).jpg",
+   "Acitrezza Cyclops Faraglioni Sicily Italy - Creative Commons by gnuckx - panoramio (80).jpg"
+  ],
+  "misure": [
+   "4076x2707",
+   "1280x840"
+  ]
+ },
+ "pozzillo": {
+  "posto": "Pozzillo",
+  "zona": "Acireale nord",
+  "categoria": "Pozzillo",
+  "da": 2,
+  "file": [
+   "Pozzillo-Catania-Sicilia-Italy-Castielli CC0 HQ - panoramio.jpg",
+   "Etna Vulcano-Sicilia-Italy-Castielli CC0 HQ - panoramio.jpg"
+  ],
+  "misure": [
+   "1920x1440",
+   "1920x1003"
+  ]
+ },
+ "licuti": {
+  "posto": "San Giovanni Li Cuti",
+  "zona": "Catania",
+  "categoria": "San Giovanni Li Cuti",
+  "da": 2,
+  "file": [
+   "Praia \"vulcânica\" (2761234130).jpg",
+   "San Giovanni li Cuti - panoramio.jpg"
+  ],
+  "misure": [
+   "1600x1200",
+   "1600x1200"
+  ]
+ },
+ "riposto": {
+  "posto": "Riposto e il porto dell'Etna",
+  "zona": "Riposto",
+  "categoria": "Port of Riposto",
+  "da": 2,
+  "file": [
+   "Etna Volcano Paroxysmal Eruption July 30 2011 - Creative Commons by gnuckx (5992125965).jpg",
+   "Etna Volcano Paroxysmal Eruption July 30 2011 - Creative Commons by gnuckx (5992121523).jpg"
+  ],
+  "misure": [
+   "4189x2781",
+   "4209x2795"
+  ]
+ },
+ "torrearchirafi": {
+  "posto": "Torre Archirafi",
+  "zona": "Riposto",
+  "categoria": "Torre Archirafi",
+  "da": 2,
+  "file": [
+   "Torre Archirafi 01.jpg",
+   "Torre Archirafi 03.jpg"
+  ],
+  "misure": [
+   "4032x3024",
+   "4032x3024"
+  ]
+ },
+ "fondachello": {
+  "posto": "Fondachello",
+  "zona": "Mascali",
+  "categoria": "Mascali",
+  "da": 2,
+  "file": [
+   "Panorama Mascali.jpg",
+   "Scritta mussoliniana su casa di Mascali.JPG"
+  ],
+  "misure": [
+   "900x480",
+   "3264x2448"
+  ]
+ },
+ "fiumefreddo": {
+  "posto": "Marina di Cottone e riserva del Fiumefreddo",
+  "zona": "Fiumefreddo di Sicilia",
+  "categoria": "Fiumefreddo river",
+  "da": 2,
+  "file": [
+   "Fiumefreddo.jpg",
+   "Foce del Fiumefreddo.jpg"
+  ],
+  "misure": [
+   "1586x1000",
+   "4160x2340"
+  ]
+ },
+ "giardininaxos": {
+  "posto": "Giardini Naxos",
+  "zona": "Giardini Naxos",
+  "categoria": "Views of Giardini-Naxos",
+  "da": 2,
+  "file": [
+   "Beach Giardini Naxos.jpg",
+   "Giardini-naxsos02.jpg"
+  ],
+  "misure": [
+   "2560x1920",
+   "1024x768"
+  ]
+ },
+ "mazzaro": {
+  "posto": "Mazzarò",
+  "zona": "Taormina",
+  "categoria": "Baia delle Sirene (Taormina)",
+  "da": 2,
+  "file": [
+   "Taormina-Messina-Sicilia-Italy-Castielli CC0 HQ - panoramio (14).jpg",
+   "Taormina-Messina-Sicilia-Italy-Castielli CC0 HQ - panoramio (19).jpg"
+  ],
+  "misure": [
+   "1280x960",
+   "1280x960"
+  ]
+ },
+ "isolabella": {
+  "posto": "Isola Bella",
+  "zona": "Taormina",
+  "categoria": "Isola Bella (Taormina)",
+  "da": 2,
+  "file": [
+   "Isola Bella Island Sicily.jpg",
+   "Baía de Isola Bella (3759240839).jpg"
+  ],
+  "misure": [
+   "2048x1536",
+   "1600x1200"
+  ]
+ },
+ "laplaia": {
+  "posto": "La Plaia",
+  "zona": "Catania",
+  "categoria": "Mount Etna viewed from Catania",
+  "da": 2,
+  "file": [
+   "Cataniaetnaecirco.jpg",
+   "Catania mit Aetna.JPG"
+  ],
+  "misure": [
+   "3532x2332",
+   "2525x1857"
+  ]
+ },
+ "alcantara": {
+  "posto": "Gole dell'Alcantara",
+  "zona": "Motta Camastra",
+  "categoria": "Columnar igneous rocks of Alcantara canyon",
+  "da": 2,
+  "file": [
+   "Alcantara canyon 4.jpg",
+   "Alcantara canyon 5.jpg"
+  ],
+  "misure": [
+   "3264x2448",
+   "4228x2332"
+  ]
+ },
+ "brucoli": {
+  "posto": "Brucoli",
+  "zona": "Augusta",
+  "categoria": "Boats in Brucoli",
+  "da": 2,
+  "file": [
+   "Brucoli Sicilia Italy - Creative Commons by gnuckx (5017927153).jpg",
+   "Brucoli Sicilia Italy - Creative Commons by gnuckx (5017932333).jpg"
+  ],
+  "misure": [
+   "4288x2848",
+   "4288x2848"
+  ]
+ },
+ "farosantacroce": {
+  "posto": "Faro di Capo Santa Croce",
+  "zona": "Augusta",
+  "categoria": "Capo Santa Croce lighthouse",
+  "da": 2,
+  "file": [
+   "Faro di Augusta - Sicilia.jpg",
+   "Costa nord da Faro Santa Croce 2.jpg"
+  ],
+  "misure": [
+   "3334x1816",
+   "3264x2448"
+  ]
+ },
+ "magnisi": {
+  "posto": "Penisola Magnisi (Thapsos)",
+  "zona": "Priolo Gargallo",
+  "categoria": "Peninsula Magnisi",
+  "da": 2,
+  "file": [
+   "Priolo-Panorama.JPG",
+   "Istmo Magnisi.JPG"
+  ],
+  "misure": [
+   "1165x382",
+   "1596x923"
+  ]
+ },
+ "ortigia_lungomare": {
+  "posto": "Cala Rossa e Solarium Forte Vigliena",
+  "zona": "Ortigia, Siracusa",
+  "categoria": "Views of Ortigia",
+  "da": 2,
+  "file": [
+   "Veduta aerea di Siracusa e con l'Etna sullo sfondo (Foto di Angelo Bonomo).jpg",
+   "Ortigia dall'alto.jpg"
+  ],
+  "misure": [
+   "961x573",
+   "3264x1836"
+  ]
+ },
+ "ganzirri": {
+  "posto": "Laghi di Ganzirri",
+  "zona": "Messina",
+  "categoria": "Lago di Ganzirri",
+  "da": 2,
+  "file": [
+   "LagoGanzirri.jpg",
+   "Peloro.JPG"
+  ],
+  "misure": [
+   "2048x1536",
+   "2048x1536"
+  ]
+ },
+ "fontanebianche": {
+  "posto": "Fontane Bianche",
+  "zona": "Siracusa sud",
+  "categoria": "Fontane Bianche (Syracuse)",
+  "da": 2,
+  "file": [
+   "Swimming in the Sea - Fontane Bianche Siracusa Italy - Creative Commons by gnuckx (3628864986).jpg",
+   "Sea beach at summer in Fontane Bianche, Sicily.jpg"
+  ],
+  "misure": [
+   "3488x1756",
+   "1024x765"
+  ]
+ },
+ "torrefaro": {
+  "posto": "Torre Faro e Capo Peloro",
+  "zona": "Messina",
+  "categoria": "Capo Peloro lighthouse",
+  "da": 2,
+  "file": [
+   "Pilone di Torre Faro, Messina, Italy.jpg",
+   "Torre Faro.JPG"
+  ],
+  "misure": [
+   "1600x1200",
+   "2048x1536"
+  ]
+ },
+ "arenella": {
+  "posto": "Arenella",
+  "zona": "Siracusa",
+  "categoria": "Arenella (Syracuse)",
+  "da": 2,
+  "file": [
+   "Arenella rocks.jpg",
+   "Scogliera dell'Arenella.jpg"
+  ],
+  "misure": [
+   "1600x1200",
+   "4000x2556"
+  ]
+ },
+ "plemmirio": {
+  "posto": "Plemmirio",
+  "zona": "Penisola della Maddalena",
+  "categoria": "Plemmirio",
+  "da": 2,
+  "file": [
+   "Paesaggio scogliera Plemmirio.jpg",
+   "Grotta Pillirina.JPG"
+  ],
+  "misure": [
+   "2357x1559",
+   "3264x2448"
+  ]
+ },
+ "milazzo": {
+  "posto": "Milazzo — porto per le Eolie",
+  "zona": "Milazzo",
+  "categoria": "Porto di Milazzo",
+  "da": 2,
+  "file": [
+   "Porto di Milazzo - panoramio.jpg",
+   "Porto di Milazzo - panoramio - kajikawa.jpg"
+  ],
+  "misure": [
+   "1280x960",
+   "1280x960"
+  ]
+ },
+ "vendicari": {
+  "posto": "Riserva di Vendicari e Calamosche",
+  "zona": "Noto",
+  "categoria": "Riserva naturale orientata Oasi faunistica di Vendicari",
+  "da": 2,
+  "file": [
+   "Natural Reserve Vendicari Noto Sicilia Italy - Creative Commons by gnuckx (5788596441).jpg",
+   "Natural Reserve Vendicari Noto Sicilia Italy - Creative Commons by gnuckx (5787749784).jpg"
+  ],
+  "misure": [
+   "4288x2848",
+   "4288x2848"
+  ]
+ },
+ "tindari": {
+  "posto": "Tindari e i Laghetti di Marinello",
+  "zona": "Tindari",
+  "categoria": "Riserva naturale orientata Laghetti di Marinello",
+  "da": 2,
+  "file": [
+   "Tindari.jpg",
+   "PattiTindarisLagune.jpg"
+  ],
+  "misure": [
+   "2989x2089",
+   "4085x2613"
+  ]
+ },
+ "cavagrande": {
+  "posto": "Cava Grande del Cassibile",
+  "zona": "Avola",
+  "categoria": "Riserva naturale orientata Cavagrande del Cassibile",
+  "da": 2,
+  "file": [
+   "Riserva Naturale Orientata Cava Grande del Cassibile.jpg",
+   "Cava Grande del Cassibile Avola.jpg"
+  ],
+  "misure": [
+   "2272x1704",
+   "2272x1704"
+  ]
+ },
+ "spinazza": {
+  "posto": "Spiaggia della Spinazza",
+  "zona": "Marzamemi, Pachino",
+  "categoria": "Marzamemi",
+  "da": 2,
+  "file": [
+   "Marzamemi01 flickr.jpg",
+   "Marzamemi 3.JPG"
+  ],
+  "misure": [
+   "1024x689",
+   "2560x1920"
+  ]
+ },
+ "capopassero": {
+  "posto": "Isola di Capo Passero e il Forte",
+  "zona": "Portopalo di Capo Passero",
+  "categoria": "Isola di Capo Passero",
+  "da": 2,
+  "file": [
+   "Isola Capo Passero.JPG",
+   "Stella maris portopalo.jpg"
+  ],
+  "misure": [
+   "1280x671",
+   "5419x3612"
+  ]
+ },
+ "portopalo": {
+  "posto": "Portopalo di Capo Passero",
+  "zona": "Portopalo di Capo Passero",
+  "categoria": "Isola di Capo Passero",
+  "da": 2,
+  "file": [
+   "Isola Capo Passero.JPG",
+   "Stella maris portopalo.jpg"
+  ],
+  "misure": [
+   "1280x671",
+   "5419x3612"
+  ]
+ },
+ "focallo": {
+  "posto": "Santa Maria del Focallo",
+  "zona": "Ispica",
+  "categoria": "Santa Maria del Focallo",
+  "da": 2,
+  "file": [
+   "Marispica - Santa Maria del focallo.jpg",
+   "Isola dei Porri.jpg"
+  ],
+  "misure": [
+   "4000x3000",
+   "2816x2120"
+  ]
+ },
+ "isolacorrenti": {
+  "posto": "Isola delle Correnti",
+  "zona": "Portopalo di Capo Passero",
+  "categoria": "Isola delle Correnti",
+  "da": 2,
+  "file": [
+   "Isola delle Correnti, 2007.jpg",
+   "Isola delle correnti.jpg"
+  ],
+  "misure": [
+   "2816x1880",
+   "1600x1200"
+  ]
+ },
+ "sampieri": {
+  "posto": "Sampieri e la Fornace Penna",
+  "zona": "Sampieri",
+  "categoria": "Fornace Penna",
+  "da": 2,
+  "file": [
+   "FornacePenna.JPG",
+   "Fornace Penna (Sicilia).JPG"
+  ],
+  "misure": [
+   "2288x1712",
+   "3648x2736"
+  ]
+ },
+ "marinaragusa": {
+  "posto": "Marina di Ragusa",
+  "zona": "Marina di Ragusa",
+  "categoria": "Marina di Ragusa",
+  "da": 2,
+  "file": [
+   "MarinadiRagusa2.jpg",
+   "MarinadiRagusa.jpg"
+  ],
+  "misure": [
+   "1024x250",
+   "1600x1200"
+  ]
+ },
+ "sanleone": {
+  "posto": "San Leone",
+  "zona": "Agrigento",
+  "categoria": "San Leone (Agrigento)",
+  "da": 2,
+  "file": [
+   "San Leone, Agrigento, Sicily, Italy - panoramio.jpg",
+   "San Leone AG, Italy - panoramio.jpg"
+  ],
+  "misure": [
+   "4896x2756",
+   "4896x2756"
+  ]
+ },
+ "donnalucata": {
+  "posto": "Donnalucata",
+  "zona": "Scicli",
+  "categoria": "Donnalucata",
+  "da": 2,
+  "file": [
+   "Passeggiata di donna lucata - panoramio.jpg",
+   "Porto Donnalucata.jpg"
+  ],
+  "misure": [
+   "2560x1920",
+   "1037x664"
+  ]
+ },
+ "cefalu": {
+  "posto": "Cefalù",
+  "zona": "Cefalù",
+  "categoria": "Views of Cefalù",
+  "da": 2,
+  "file": [
+   "Panoramica Cefalù.JPG",
+   "Ficchidindia.JPG"
+  ],
+  "misure": [
+   "1024x768",
+   "3072x2304"
+  ]
+ },
+ "scaladeiturchi": {
+  "posto": "Scala dei Turchi",
+  "zona": "Realmonte",
+  "categoria": "Scala dei Turchi",
+  "da": 2,
+  "file": [
+   "173Scala dei Turchi (Ag) Sicily, Italy.jpg",
+   "532 Scala dei Turchi (Ag) Sicily, Italy.jpg"
+  ],
+  "misure": [
+   "2010x1380",
+   "2803x1865"
+  ]
+ },
+ "zingaro": {
+  "posto": "Riserva dello Zingaro",
+  "zona": "Tra San Vito e Scopello",
+  "categoria": "Zingaro reserve",
+  "da": 2,
+  "file": [
+   "Bosco di Scardina (Zingaro ) 033.jpg",
+   "Bosco di Scardina (Zingaro) 009.jpg"
+  ],
+  "misure": [
+   "1280x960",
+   "1280x960"
+  ]
+ },
+ "egadi": {
+  "posto": "Isole Egadi — Cala Rossa",
+  "zona": "Favignana",
+  "categoria": "Cala rossa (Favignana)",
+  "da": 2,
+  "file": [
+   "Sicily - Favignana - Cala Rossa.jpg",
+   "Favignana - Cala rossa - panoramio.jpg"
+  ],
+  "misure": [
+   "2592x1944",
+   "1174x852"
+  ]
+ }
+}

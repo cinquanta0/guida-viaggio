@@ -1,0 +1,34 @@
+{
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      ".firebaserc",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "headers": [
+      {
+        "comment": "La homepage e' servita come '/', che i glob tipo **/*.html non intercettano: serve la regola esplicita.",
+        "source": "/",
+        "headers": [
+          { "key": "Cache-Control", "value": "no-cache, max-age=0, must-revalidate" }
+        ]
+      },
+      {
+        "comment": "La pagina, il CSS e il JS devono sempre ricontrollare col server, altrimenti il telefono mostra la versione vecchia per un'ora.",
+        "source": "**/*.@(html|css|js)",
+        "headers": [
+          { "key": "Cache-Control", "value": "no-cache, max-age=0, must-revalidate" }
+        ]
+      },
+      {
+        "comment": "Le foto invece non cambiano mai nome, quindi si possono tenere in cache a lungo.",
+        "source": "**/*.@(jpg|jpeg|png|webp)",
+        "headers": [
+          { "key": "Cache-Control", "value": "public, max-age=604800" }
+        ]
+      }
+    ]
+  }
+}

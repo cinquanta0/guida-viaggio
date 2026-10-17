@@ -1,0 +1,17 @@
+# === SEGRETI: non devono MAI finire su GitHub ===
+chiave_google.js
+*.key
+.env
+
+# dipendenze e cache
+node_modules/
+places_cache/
+chrome_raw/
+osm_raw/
+grezze_*/
+
+# backup e dump grezzi pesanti (si rigenerano, inutili nel repo)
+_backup*/
+overture_grezzo*.json
+spazza_*_risultati.json
+*.log

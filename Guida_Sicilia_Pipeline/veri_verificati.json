@@ -1,0 +1,289 @@
+{
+ "sangiorgiodrago": {
+  "km": 54.5,
+  "min": 58,
+  "lat": 37.879796,
+  "lon": 14.9521117,
+  "come": "OSM: San Giorgio e il Drago"
+ },
+ "veneziano": {
+  "km": 52.2,
+  "min": 55,
+  "lat": 37.8759624,
+  "lon": 14.9724324,
+  "come": "OSM: Ristorante Veneziano"
+ },
+ "daipennisi": {
+  "km": 34.7,
+  "min": 34,
+  "lat": 37.8424734,
+  "lon": 15.1414852,
+  "come": "OSM: In Cucina dai Pennisi"
+ },
+ "pasticceriarusso": {
+  "km": 12.4,
+  "min": 20,
+  "lat": 37.6882163,
+  "lon": 15.1408844,
+  "come": "OSM: Pasticceria Russo"
+ },
+ "musumeci": {
+  "km": 54.5,
+  "min": 58,
+  "lat": 37.8789809,
+  "lon": 14.9485938,
+  "come": "OSM: Santo Musumeci"
+ },
+ "casu": {
+  "km": 17.5,
+  "min": 20,
+  "lat": 37.7292282,
+  "lon": 15.1934909,
+  "come": "OSM: Casu"
+ },
+ "cumparituriddu": {
+  "km": 14.6,
+  "min": 22,
+  "lat": 37.5063381,
+  "lon": 15.0884727,
+  "come": "OSM: Me Cumpari Turiddu"
+ },
+ "andrea": {
+  "km": 96.1,
+  "min": 100,
+  "lat": 37.0600251,
+  "lon": 14.9069703,
+  "come": "OSM: Sapori Montani"
+ },
+ "scrigno": {
+  "km": 90.5,
+  "min": 103,
+  "lat": 37.0614337,
+  "lon": 14.9024901,
+  "come": "OSM: Scrigno dei Sapori"
+ },
+ "trattoriagallo": {
+  "km": 90.1,
+  "min": 101,
+  "lat": 37.0646149,
+  "lon": 14.9032751,
+  "come": "OSM: Trattoria del Gallo"
+ },
+ "cucinaevino": {
+  "km": 115.3,
+  "min": 117,
+  "lat": 36.9272183,
+  "lon": 14.744564,
+  "come": "OSM: Cucina & Vino"
+ },
+ "mammaiabica": {
+  "km": 81.7,
+  "min": 70,
+  "lat": 37.0653759,
+  "lon": 15.2856904,
+  "come": "Nominatim: Latteria Mamma Iabica"
+ },
+ "casaputia": {
+  "km": 81.5,
+  "min": 63,
+  "lat": 38.1945246,
+  "lon": 15.5556065,
+  "come": "OSM: Casa e Putia Ristorante"
+ },
+ "fratelliborrello": {
+  "km": 93,
+  "min": 103,
+  "lat": 38.0680422,
+  "lon": 14.8679546,
+  "come": "Nominatim: Fratelli Borrello"
+ },
+ "daluciana": {
+  "km": 82.1,
+  "min": 101,
+  "lat": 38.0384373,
+  "lon": 14.9582668,
+  "come": "OSM: Da Luciana"
+ },
+ "tischitoschi": {
+  "km": 41.6,
+  "min": 36,
+  "lat": 37.8509882,
+  "lon": 15.2836937,
+  "come": "Nominatim: Tischi Toschi"
+ },
+ "nangalarruni": {
+  "km": 182.1,
+  "min": 160,
+  "lat": 37.9319725,
+  "lon": 14.0874419,
+  "come": "OSM: Trattoria Nangalarruni"
+ },
+ "coronatrattoria": {
+  "km": 225.3,
+  "min": 176,
+  "lat": 38.1257185,
+  "lon": 13.3501616,
+  "come": "OSM: Corona Trattoria"
+ },
+ "buatta": {
+  "km": 223.3,
+  "min": 174,
+  "lat": 38.117103,
+  "lon": 13.365181,
+  "come": "OSM: Buatta Cucina Popolana"
+ },
+ "cantinasiciliana": {
+  "km": 331.4,
+  "min": 258,
+  "lat": 38.0155049,
+  "lon": 12.5138247,
+  "come": "Nominatim: Cantina Siciliana"
+ },
+ "quattroarchi": {
+  "km": 18.6,
+  "min": 26,
+  "lat": 37.7269925,
+  "lon": 15.1127893,
+  "come": "OSM: Osteria Quattro Archi"
+ },
+ "linguagrossa": {
+  "km": 34.8,
+  "min": 34,
+  "lat": 37.84385,
+  "lon": 15.14203,
+  "come": "OSM: Lingua Grossa (nome staccato)"
+ },
+ "sulliccenti": {
+  "km": 120,
+  "min": 103,
+  "lat": 36.82019,
+  "lon": 14.95234,
+  "come": "OSM: Antica Osteria U Suliccenti"
+ },
+ "vicoastemio": {
+  "km": 18.2,
+  "min": 21,
+  "lat": 37.7310854,
+  "lon": 15.1995894,
+  "come": "indirizzo della guida (via Cavour 34); su OSM \"Ristorante Pizzeria Astemio\" a 484 m"
+ },
+ "ginger": {
+  "km": 167.9,
+  "min": 135,
+  "lat": 37.3134542,
+  "lon": 13.658318,
+  "come": "OSM: Ginger People & Food"
+ },
+ "terracotta": {
+  "km": 172.9,
+  "min": 138,
+  "lat": 37.3095971,
+  "lon": 13.5846487,
+  "come": "OSM: Terracotta"
+ },
+ "oasimare": {
+  "km": 146,
+  "min": 140,
+  "lat": 37.1074602,
+  "lon": 13.9701005,
+  "come": "OSM: Oasi Beach Osteria Del Mare"
+ },
+ "arrhais": {
+  "km": 224.9,
+  "min": 162,
+  "lat": 38.0211793,
+  "lon": 14.1607479,
+  "come": "Nominatim: Arrhais"
+ },
+ "caupona": {
+  "km": 332.2,
+  "min": 260,
+  "lat": 38.0151686,
+  "lon": 12.5073711,
+  "come": "Nominatim: Caupona Taverna di Sicilia"
+ },
+ "giannavi": {
+  "km": 92.5,
+  "min": 104,
+  "lat": 37.0359718,
+  "lon": 14.8615944,
+  "come": "Nominatim: Agriturismo Giannavì"
+ },
+ "ibanchi": {
+  "km": 116.9,
+  "min": 120,
+  "lat": 36.925691,
+  "lon": 14.74527,
+  "come": "indirizzo dichiarato: via Orfanotrofio, Ragusa Ibla (a 130 m da Cucina e Vino, stessa via)"
+ },
+ "maialenero2": {
+  "km": 83.7,
+  "min": 102,
+  "lat": 38.055261,
+  "lon": 14.909578,
+  "come": "centro di Raccuja: contrada Bosco non risulta sulle mappe, ed e detto nella scheda"
+ },
+ "ulocale": {
+  "km": 76.9,
+  "min": 86,
+  "lat": 37.1259035,
+  "lon": 14.8507278,
+  "come": "Nominatim: Osteria U Locale"
+ },
+ "colonnello": {
+  "km": 123.8,
+  "min": 126,
+  "lat": 36.8652279,
+  "lon": 14.7637922,
+  "come": "Nominatim: La Locanda del Colonnello"
+ },
+ "donciccio": {
+  "km": 208.9,
+  "min": 160,
+  "lat": 38.0808363,
+  "lon": 13.5110508,
+  "come": "Nominatim: Don Ciccio"
+ },
+ "latonnara": {
+  "km": 289.7,
+  "min": 227,
+  "lat": 38.0281582,
+  "lon": 12.8801484,
+  "come": "Nominatim: La Tonnara"
+ },
+ "osteriafolli": {
+  "km": 186.3,
+  "min": 154,
+  "lat": 37.3068977,
+  "lon": 13.4620499,
+  "come": "Nominatim: Osteria dei Folli"
+ },
+ "terramia": {
+  "km": 42.3,
+  "min": 43,
+  "lat": 37.8650985,
+  "lon": 15.0729026,
+  "come": "indirizzo dichiarato dalla fonte: Solicchiata, Castiglione di Sicilia, Catania"
+ },
+ "albagatto": {
+  "km": 117.5,
+  "min": 92,
+  "lat": 38.2193384,
+  "lon": 15.2368443,
+  "come": "indirizzo dichiarato dalla fonte: Via Massimiliano Regis, Parco, Milazzo"
+ },
+ "forneriamessina": {
+  "km": 234.8,
+  "min": 188,
+  "lat": 38.0885504,
+  "lon": 13.2510823,
+  "come": "indirizzo dichiarato dalla fonte: San Martino delle Scale, Monreale, Palermo"
+ },
+ "alritrovo": {
+  "km": 321.8,
+  "min": 273,
+  "lat": 38.094461,
+  "lon": 12.7438075,
+  "come": "indirizzo dichiarato dalla fonte: Viale Cristoforo Colombo, Castelluzzo, San Vito Lo Capo"
+ }
+}

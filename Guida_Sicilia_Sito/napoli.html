@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Napoli &amp; Caserta &mdash; i posti</title>
+<meta name="description" content="I posti migliori dove mangiare e cosa vedere a Napoli e Caserta: cibo classico e visite classiche, scelti a mano.">
+<meta name="theme-color" content="#231c17">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23231c17'/%3E%3Ctext x='32' y='46' font-size='40' text-anchor='middle' fill='%23e6b23c' font-family='Georgia,serif'%3EN%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+
+<nav class="dest-nav"><a href="index.html">Sicilia</a><a href="napoli.html" class="on">Napoli &amp; Caserta</a></nav>
+
+<div class="top top-testo" id="su">
+  <div class="top-txt">
+    <p class="when">dicembre 2026 &middot; weekend</p>
+    <h1>Napoli &amp; Caserta</h1>
+    <p class="base">I posti <b>migliori</b> da mangiare e da vedere, scelti a mano.<br>
+    Venerdì Caserta, sabato e domenica Napoli.</p>
+  </div>
+</div>
+
+<div class="filtri">
+  <div class="wrap">
+    <div class="f-cerca">
+      <label class="f-lab" for="cerca">Cerca un posto</label>
+      <input type="search" id="cerca" placeholder="per esempio: pizza, Cristo Velato, Vomero..." autocomplete="off">
+      <button type="button" id="pulisci" class="b-pulisci">&times;</button>
+      <ul id="sugg" class="sugg"></ul>
+    </div>
+    <div class="f-riga">
+      <span class="f-lab">Che cosa</span>
+      <button type="button" class="fb ti-ristorante" data-k="t" data-v="ristorante">Ristoranti</button>
+      <button type="button" class="fb ti-mangiare" data-k="t" data-v="mangiare">Dove si mangia</button>
+      <button type="button" class="fb ti-pizza" data-k="t" data-v="pizza">Pizza</button>
+      <button type="button" class="fb ti-pesce" data-k="t" data-v="pesce">Pesce</button>
+      <button type="button" class="fb ti-carne" data-k="t" data-v="carne">Carne</button>
+      <button type="button" class="fb ti-pasta" data-k="t" data-v="pasta">Pasta e trattorie</button>
+      <button type="button" class="fb ti-dolci" data-k="t" data-v="dolci">Dolci e caffè</button>
+      <button type="button" class="fb ti-street" data-k="t" data-v="street">Street food</button>
+      <button type="button" class="fb ti-vedere" data-k="t" data-v="vedere">Da vedere</button>
+    </div>
+    <div class="f-riga">
+      <span class="f-lab">Come</span>
+      <button type="button" class="fb g-loc" data-k="g" data-v="locali">Da locali</button>
+      <button type="button" class="fb g-gra" data-k="g" data-v="gratis">Gratis</button>
+      <button type="button" class="fb g-pre" data-k="g" data-v="prenotare">Prenotare</button>
+      <button type="button" class="fb g-vis" data-k="g" data-v="vista">Panorama</button>
+    </div>
+    
+    <div class="f-azioni">
+      <button type="button" id="reset" class="b-reset">Mostra tutto</button>
+      <button type="button" id="caso" class="b-caso">Scegli tu per noi &#127922;</button>
+      <span id="conta" class="conta"></span>
+    </div>
+    <p id="oltre-wrap" class="oltre-wrap" style="display:none">
+      <a id="oltre" class="b-oltre" href="#" target="_blank" rel="noopener">Non vedi quello che cerchi? Cerca altro su Google Maps &rarr;</a>
+    </p>
+    <div id="pescato" class="pescato"></div>
+  </div>
+</div>
+
+<div class="wrap">
+  <section id="oggi" class="oggi" hidden></section>
+  <p class="avviso" id="vuoto">Nessun posto con questi filtri. <a href="#" id="reset2">Mostra tutto</a></p>
+<h2 class="sec-h">Caserta</h2>
+<p class="sec-s">Venerdì sera, prima di Napoli — si dorme qui</p>
+<details class="fascia" data-f="1" open>
+  <summary><span class="f-t">Caserta</span><span class="f-c"><b>5</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="pizza mangiare" data-g="" data-aff="sel" data-n="I Masanielli di Francesco Martucci" data-i="i masanielli di francesco martucci caserta caserta" data-s="i masanielli di francesco martucci caserta caserta pizza spesso in cima alle classifiche delle migliori pizze d italia per una cena di pizza d autore a caserta prenota con anticipo">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Caserta</span> Caserta</p>
+        <h3>I Masanielli di Francesco Martucci</h3>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-pizza">Pizza</span></p>
+        <p class="p-d">Spesso in cima alle classifiche delle migliori pizze d'Italia. Per una cena di pizza d'autore a Caserta; prenota con anticipo.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=I%20Masanielli%20di%20Francesco%20Martucci%2C%20Caserta%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="pizza pasta mangiare ristorante" data-g="locali" data-aff="ver" data-n="Trattoria Pizzeria Vasinicola" data-i="trattoria pizzeria vasinicola caserta caserta" data-s="trattoria pizzeria vasinicola caserta caserta pizza pasta antichi sapori casertani segnalata dalle guide locali una cena tradizionale senza spostarsi dal centro">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Caserta</span> Caserta</p>
+        <h3>Trattoria Pizzeria Vasinicola</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-pizza">Pizza</span><span class="ti ti-pasta">Pasta e trattorie</span><span class="tg g-loc">Da locali</span></p>
+        <p class="p-d">Antichi sapori casertani, segnalata dalle guide locali: una cena tradizionale senza spostarsi dal centro.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Trattoria%20Pizzeria%20Vasinicola%2C%20Caserta%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="pasta carne mangiare ristorante" data-g="" data-aff="ver" data-n="Don Lisandro" data-i="don lisandro caserta caserta" data-s="don lisandro caserta caserta pasta carne osteria moderna nel centro di caserta cucina del territorio in chiave piu curata">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Caserta</span> Caserta</p>
+        <h3>Don Lisandro</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-pasta">Pasta e trattorie</span><span class="ti ti-carne">Carne</span></p>
+        <p class="p-d">Osteria moderna nel centro di Caserta, cucina del territorio in chiave più curata.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Don%20Lisandro%2C%20Caserta%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="prenotare" data-aff="sel" data-n="Reggia di Caserta" data-i="reggia di caserta caserta caserta viale douhet 2 a" data-s="reggia di caserta caserta caserta viale douhet 2 a vedere il palazzo reale borbonico patrimonio unesco appartamenti reali cappella palatina e il grande scalone d onore il capolavoro del vanvitelli da non perdere a pagamento meglio il biglietto online">
+      <img src="assets/img/nap-caserta-reggia.jpg" srcset="assets/img/nap-caserta-reggia-480.jpg 480w, assets/img/nap-caserta-reggia.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Reggia di Caserta" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Caserta</span> Caserta</p>
+        <h3>Reggia di Caserta</h3>
+        <p class="p-a">Viale Douhet 2/a</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-pre">Prenotare</span></p>
+        <p class="p-d">Il palazzo reale borbonico, patrimonio UNESCO: Appartamenti Reali, Cappella Palatina e il grande Scalone d'Onore. Il capolavoro del Vanvitelli, da non perdere. A pagamento, meglio il biglietto online.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Reggia%20di%20Caserta%2C%20Caserta%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="" data-aff="sel" data-n="Parco della Reggia e Giardino Inglese" data-i="parco della reggia e giardino inglese caserta caserta" data-s="parco della reggia e giardino inglese caserta caserta vedere tre chilometri di viali fontane e cascate fino alla grande cascata piu il romantico giardino inglese con l oasi di san silvestro si gira a piedi o con la navetta mettici qualche ora">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Caserta</span> Caserta</p>
+        <h3>Parco della Reggia e Giardino Inglese</h3>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-vedere">Da vedere</span></p>
+        <p class="p-d">Tre chilometri di viali, fontane e cascate fino alla Grande Cascata, più il romantico Giardino Inglese con l'Oasi di San Silvestro. Si gira a piedi o con la navetta: mettici qualche ora.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Parco%20della%20Reggia%20e%20Giardino%20Inglese%2C%20Caserta%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="fascia" data-f="2">
+  <summary><span class="f-t">San Leucio</span><span class="f-c"><b>1</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="vedere" data-g="vista" data-aff="ver" data-n="Belvedere di San Leucio" data-i="belvedere di san leucio san leucio caserta" data-s="belvedere di san leucio san leucio caserta vedere il complesso settecentesco della seta voluto dai borbone patrimonio unesco il museo della seta coi telai originali e il belvedere con vista fino al vesuvio pochi km dal centro">
+      <img src="assets/img/nap-caserta-san-leucio.jpg" srcset="assets/img/nap-caserta-san-leucio-480.jpg 480w, assets/img/nap-caserta-san-leucio.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Belvedere di San Leucio" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Caserta</span> San Leucio</p>
+        <h3>Belvedere di San Leucio</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-vis">Panorama</span></p>
+        <p class="p-d">Il complesso settecentesco della seta voluto dai Borbone, patrimonio UNESCO: il Museo della Seta coi telai originali e il belvedere con vista fino al Vesuvio. Pochi km dal centro.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Belvedere%20di%20San%20Leucio%2C%20Caserta%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="fascia" data-f="3">
+  <summary><span class="f-t">San Marco Evangelista (CE)</span><span class="f-c"><b>1</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="pizza mangiare" data-g="" data-aff="ver" data-n="Tèmpora - La Figlia del Pizzaiolo" data-i="tempora la figlia del pizzaiolo san marco evangelista ce caserta viale della liberta 311" data-s="tempora la figlia del pizzaiolo san marco evangelista ce caserta viale della liberta 311 pizza la pizzeria diventata famosa su tiktok con la figlia del pizzaiolo famiglia freddo pizze golose tipo la 2 0 con wurstel fritti e patatine a san marco evangelista pochi minuti da caserta meglio prenotare">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Caserta</span> San Marco Evangelista (CE)</p>
+        <h3>Tèmpora - La Figlia del Pizzaiolo</h3>
+        <p class="p-a">Viale della Libertà 311</p>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-pizza">Pizza</span></p>
+        <p class="p-d">La pizzeria diventata famosa su TikTok con 'la figlia del pizzaiolo' (famiglia Freddo). Pizze golose tipo la 2.0 con wurstel fritti e patatine. A San Marco Evangelista, pochi minuti da Caserta; meglio prenotare.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=T%C3%A8mpora%20-%20La%20Figlia%20del%20Pizzaiolo%2C%20Caserta%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="fascia" data-f="4">
+  <summary><span class="f-t">Caiazzo (CE)</span><span class="f-c"><b>1</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="pizza mangiare" data-g="prenotare" data-aff="sel" data-n="Pepe in Grani (Franco Pepe)" data-i="pepe in grani franco pepe caiazzo ce caserta vico san giovanni battista 3" data-s="pepe in grani franco pepe caiazzo ce caserta vico san giovanni battista 3 pizza una delle pizze piu celebri al mondo di franco pepe nel borgo di caiazzo a circa 30 minuti d auto da caserta da prenotare con largo anticipo">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Caserta</span> Caiazzo (CE)</p>
+        <h3>Pepe in Grani (Franco Pepe)</h3>
+        <p class="p-a">Vico San Giovanni Battista 3</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-pizza">Pizza</span><span class="tg g-pre">Prenotare</span></p>
+        <p class="p-d">Una delle pizze più celebri al mondo, di Franco Pepe, nel borgo di Caiazzo a circa 30 minuti d'auto da Caserta. Da prenotare con largo anticipo.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Pepe%20in%20Grani%20(Franco%20Pepe)%2C%20Caserta%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="fascia" data-f="5">
+  <summary><span class="f-t">Casertavecchia</span><span class="f-c"><b>2</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="pasta carne mangiare ristorante" data-g="vista" data-aff="ver" data-n="La Castellana" data-i="la castellana casertavecchia caserta" data-s="la castellana casertavecchia caserta pasta carne trattoria storica nel borgo medievale di casertavecchia terrazza sotto la pergola e piatti tradizionali una decina di minuti d auto dal centro">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Caserta</span> Casertavecchia</p>
+        <h3>La Castellana</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-pasta">Pasta e trattorie</span><span class="ti ti-carne">Carne</span><span class="tg g-vis">Panorama</span></p>
+        <p class="p-d">Trattoria storica nel borgo medievale di Casertavecchia, terrazza sotto la pergola e piatti tradizionali. Una decina di minuti d'auto dal centro.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=La%20Castellana%2C%20Caserta%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="vista" data-aff="ver" data-n="Borgo di Casertavecchia" data-i="borgo di casertavecchia casertavecchia caserta" data-s="borgo di casertavecchia casertavecchia caserta vedere borgo medievale su una collina a 10 minuti d auto dal centro vicoli in pietra e la cattedrale di san michele arcangelo del xii secolo bello la sera si abbina alla cena a la castellana">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Caserta</span> Casertavecchia</p>
+        <h3>Borgo di Casertavecchia</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-vis">Panorama</span></p>
+        <p class="p-d">Borgo medievale su una collina a ~10 minuti d'auto dal centro: vicoli in pietra e la Cattedrale di San Michele Arcangelo del XII secolo. Bello la sera, si abbina alla cena a La Castellana.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Borgo%20di%20Casertavecchia%2C%20Caserta%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<h2 class="sec-h">Napoli</h2>
+<p class="sec-s">Sabato e domenica — in treno da Caserta, poi a piedi e in metro</p>
+<details class="fascia" data-f="6" open>
+  <summary><span class="f-t">Centro storico</span><span class="f-c"><b>15</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="pizza mangiare" data-g="locali" data-aff="sel" data-n="L'Antica Pizzeria Da Michele" data-i="l antica pizzeria da michele centro storico napoli via cesare sersale 1 3" data-s="l antica pizzeria da michele centro storico napoli via cesare sersale 1 3 pizza la pizzeria piu storica di napoli dal 1870 solo margherita e marinara niente prenotazioni si fa la fila e si mangia la napoletana nella sua forma piu essenziale">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>L'Antica Pizzeria Da Michele</h3>
+        <p class="p-a">Via Cesare Sersale 1/3</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-pizza">Pizza</span><span class="tg g-loc">Da locali</span></p>
+        <p class="p-d">La pizzeria più storica di Napoli, dal 1870. Solo Margherita e Marinara, niente prenotazioni: si fa la fila e si mangia la napoletana nella sua forma più essenziale.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=L'Antica%20Pizzeria%20Da%20Michele%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="pizza mangiare" data-g="" data-aff="sel" data-n="Gino Sorbillo" data-i="gino sorbillo centro storico napoli via dei tribunali 32" data-s="gino sorbillo centro storico napoli via dei tribunali 32 pizza il nome piu celebre di via dei tribunali impasto alto e leggero non prende prenotazioni code lunghe nelle ore di punta">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>Gino Sorbillo</h3>
+        <p class="p-a">Via dei Tribunali 32</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-pizza">Pizza</span></p>
+        <p class="p-d">Il nome più celebre di Via dei Tribunali, impasto alto e leggero. Non prende prenotazioni, code lunghe nelle ore di punta.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Gino%20Sorbillo%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="pizza street mangiare" data-g="" data-aff="sel" data-n="Pizzeria Di Matteo" data-i="pizzeria di matteo centro storico napoli via dei tribunali 94" data-s="pizzeria di matteo centro storico napoli via dei tribunali 94 pizza street tra le piu antiche di napoli dal 1936 famosa anche per la pizza fritta e la frittatina qui nel 1994 mangio bill clinton durante il g7 da allora e un istituzione anche per i turisti">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>Pizzeria Di Matteo</h3>
+        <p class="p-a">Via dei Tribunali 94</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-pizza">Pizza</span><span class="ti ti-street">Street food</span></p>
+        <p class="p-d">Tra le più antiche di Napoli (dal 1936), famosa anche per la pizza fritta e la frittatina. Qui nel 1994 mangiò Bill Clinton durante il G7: da allora è un'istituzione anche per i turisti.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Pizzeria%20Di%20Matteo%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="pizza mangiare" data-g="" data-aff="ver" data-n="Trianon da Ciro" data-i="trianon da ciro centro storico napoli" data-s="trianon da ciro centro storico napoli pizza storica pizzeria di fronte a da michele menu piu ampio e in genere code piu corte">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>Trianon da Ciro</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-pizza">Pizza</span></p>
+        <p class="p-d">Storica pizzeria di fronte a Da Michele, menù più ampio e in genere code più corte.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Trianon%20da%20Ciro%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="dolci mangiare" data-g="" data-aff="sel" data-n="Scaturchio" data-i="scaturchio centro storico napoli piazza san domenico maggiore 19" data-s="scaturchio centro storico napoli piazza san domenico maggiore 19 dolci pasticceria storica baba e sfogliatella frolla sono i pezzi forti servizio al banco in una delle piazze piu belle del centro">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>Scaturchio</h3>
+        <p class="p-a">Piazza San Domenico Maggiore 19</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Pasticceria storica: babà e sfogliatella frolla sono i pezzi forti. Servizio al banco, in una delle piazze più belle del centro.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Scaturchio%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="street mangiare" data-g="" data-aff="ver" data-n="Friggitoria Pizzeria I Decumani" data-i="friggitoria pizzeria i decumani centro storico napoli via dei tribunali 58" data-s="friggitoria pizzeria i decumani centro storico napoli via dei tribunali 58 street frittatina di pasta e fritti napoletani classici da mangiare al volo lungo i tribunali">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>Friggitoria Pizzeria I Decumani</h3>
+        <p class="p-a">Via dei Tribunali 58</p>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-street">Street food</span></p>
+        <p class="p-d">Frittatina di pasta e fritti napoletani classici, da mangiare al volo lungo i Tribunali.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Friggitoria%20Pizzeria%20I%20Decumani%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="street pesce mangiare ristorante" data-g="" data-aff="ver" data-n="Il Cuoppo - Friggitori Napoletani" data-i="il cuoppo friggitori napoletani centro storico napoli via san biagio dei librai 23" data-s="il cuoppo friggitori napoletani centro storico napoli via san biagio dei librai 23 street pesce cuoppo di mare fritto nel cartoccio nel cuore di spaccanapoli mangialo subito caldo e croccante">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>Il Cuoppo - Friggitori Napoletani</h3>
+        <p class="p-a">Via San Biagio dei Librai 23</p>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-street">Street food</span><span class="ti ti-pesce">Pesce</span></p>
+        <p class="p-d">Cuoppo di mare fritto nel cartoccio, nel cuore di Spaccanapoli: mangialo subito, caldo e croccante.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Il%20Cuoppo%20-%20Friggitori%20Napoletani%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="prenotare" data-aff="sel" data-n="Cappella Sansevero (Cristo Velato)" data-i="cappella sansevero cristo velato centro storico napoli via francesco de sanctis 19 21" data-s="cappella sansevero cristo velato centro storico napoli via francesco de sanctis 19 21 vedere il cristo velato di sanmartino e le enigmatiche macchine anatomiche ingresso a pagamento e spesso con coda conviene prenotare">
+      <img src="assets/img/nap-sansevero.jpg" srcset="assets/img/nap-sansevero-480.jpg 480w, assets/img/nap-sansevero.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Cappella Sansevero (Cristo Velato)" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>Cappella Sansevero (Cristo Velato)</h3>
+        <p class="p-a">Via Francesco de Sanctis 19/21</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-pre">Prenotare</span></p>
+        <p class="p-d">Il Cristo Velato di Sanmartino e le enigmatiche macchine anatomiche. Ingresso a pagamento e spesso con coda: conviene prenotare.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Cappella%20Sansevero%20(Cristo%20Velato)%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="gratis" data-aff="sel" data-n="Spaccanapoli e Via dei Tribunali" data-i="spaccanapoli e via dei tribunali centro storico napoli" data-s="spaccanapoli e via dei tribunali centro storico napoli vedere le due strade dritte che tagliano il centro storico unesco chiese botteghe vita di strada si gira a piedi gratis">
+      <img src="assets/img/nap-spaccanapoli.jpg" srcset="assets/img/nap-spaccanapoli-480.jpg 480w, assets/img/nap-spaccanapoli.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Spaccanapoli e Via dei Tribunali" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>Spaccanapoli e Via dei Tribunali</h3>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-gra">Gratis</span></p>
+        <p class="p-d">Le due strade dritte che tagliano il centro storico UNESCO: chiese, botteghe, vita di strada. Si gira a piedi, gratis.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Spaccanapoli%20e%20Via%20dei%20Tribunali%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="gratis" data-aff="sel" data-n="San Gregorio Armeno" data-i="san gregorio armeno centro storico napoli" data-s="san gregorio armeno centro storico napoli vedere la via dei presepi botteghe di pastori e statuine tutto l anno ancora piu scenografica a dicembre">
+      <img src="assets/img/nap-san-gregorio.jpg" srcset="assets/img/nap-san-gregorio-480.jpg 480w, assets/img/nap-san-gregorio.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="San Gregorio Armeno" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>San Gregorio Armeno</h3>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-gra">Gratis</span></p>
+        <p class="p-d">La via dei presepi: botteghe di pastori e statuine tutto l'anno, ancora più scenografica a dicembre.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=San%20Gregorio%20Armeno%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="" data-aff="ver" data-n="Duomo di Napoli e Tesoro di San Gennaro" data-i="duomo di napoli e tesoro di san gennaro centro storico napoli via duomo 147" data-s="duomo di napoli e tesoro di san gennaro centro storico napoli via duomo 147 vedere la cattedrale con la cappella di san gennaro ingresso libero in chiesa il museo del tesoro e a pagamento">
+      <img src="assets/img/nap-duomo.jpg" srcset="assets/img/nap-duomo-480.jpg 480w, assets/img/nap-duomo.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Duomo di Napoli e Tesoro di San Gennaro" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>Duomo di Napoli e Tesoro di San Gennaro</h3>
+        <p class="p-a">Via Duomo 147</p>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span></p>
+        <p class="p-d">La cattedrale con la cappella di San Gennaro: ingresso libero in chiesa, il museo del Tesoro è a pagamento.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Duomo%20di%20Napoli%20e%20Tesoro%20di%20San%20Gennaro%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="prenotare" data-aff="ver" data-n="Napoli Sotterranea" data-i="napoli sotterranea centro storico napoli piazza san gaetano 68" data-s="napoli sotterranea centro storico napoli piazza san gaetano 68 vedere il reticolo di cunicoli greco romani sotto il centro 40 metri sotto strada visita guidata a pagamento meglio prenotare">
+      <img src="assets/img/nap-sotterranea.jpg" srcset="assets/img/nap-sotterranea-480.jpg 480w, assets/img/nap-sotterranea.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Napoli Sotterranea" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>Napoli Sotterranea</h3>
+        <p class="p-a">Piazza San Gaetano 68</p>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-pre">Prenotare</span></p>
+        <p class="p-d">Il reticolo di cunicoli greco-romani sotto il centro, 40 metri sotto strada. Visita guidata a pagamento, meglio prenotare.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Napoli%20Sotterranea%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="prenotare" data-aff="sel" data-n="Museo Archeologico Nazionale (MANN)" data-i="museo archeologico nazionale mann centro storico napoli piazza museo 19" data-s="museo archeologico nazionale mann centro storico napoli piazza museo 19 vedere uno dei musei archeologici piu importanti al mondo i tesori di pompei ed ercolano e il gabinetto segreto a pagamento">
+      <img src="assets/img/nap-mann.jpg" srcset="assets/img/nap-mann-480.jpg 480w, assets/img/nap-mann.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Museo Archeologico Nazionale (MANN)" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>Museo Archeologico Nazionale (MANN)</h3>
+        <p class="p-a">Piazza Museo 19</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-pre">Prenotare</span></p>
+        <p class="p-d">Uno dei musei archeologici più importanti al mondo: i tesori di Pompei ed Ercolano e il Gabinetto Segreto. A pagamento.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Museo%20Archeologico%20Nazionale%20(MANN)%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="pasta carne mangiare ristorante" data-g="locali" data-aff="sel" data-n="Tandem" data-i="tandem centro storico napoli" data-s="tandem centro storico napoli pasta carne il tempio del ragu napoletano in via mezzocannone paccheri al ragu e soprattutto il cuzzetiello pane ripieno di ragu piccolo e sempre pieno metti in conto la coda">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>Tandem</h3>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-pasta">Pasta e trattorie</span><span class="ti ti-carne">Carne</span><span class="tg g-loc">Da locali</span></p>
+        <p class="p-d">Il tempio del ragù napoletano, in Via Mezzocannone: paccheri al ragù e soprattutto il cuzzetiello (pane ripieno di ragù). Piccolo e sempre pieno, metti in conto la coda.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Tandem%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="pasta carne mangiare ristorante" data-g="locali" data-aff="ver" data-n="Osteria da Carmela" data-i="osteria da carmela centro storico napoli via conte di ruvo 12" data-s="osteria da carmela centro storico napoli via conte di ruvo 12 pasta carne osteria familiare dal 1967 vicino al museo archeologico menu breve e stagionale cucina napoletana vera prezzi onesti">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Centro storico</p>
+        <h3>Osteria da Carmela</h3>
+        <p class="p-a">Via Conte di Ruvo 12</p>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-pasta">Pasta e trattorie</span><span class="ti ti-carne">Carne</span><span class="tg g-loc">Da locali</span></p>
+        <p class="p-d">Osteria familiare dal 1967 vicino al Museo Archeologico: menu breve e stagionale, cucina napoletana vera, prezzi onesti.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Osteria%20da%20Carmela%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="fascia" data-f="7">
+  <summary><span class="f-t">Via Toledo / Plebiscito</span><span class="f-c"><b>11</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="dolci mangiare" data-g="" data-aff="sel" data-n="Pintauro" data-i="pintauro via toledo plebiscito napoli via toledo 275" data-s="pintauro via toledo plebiscito napoli via toledo 275 dolci la casa della sfogliatella dal 1785 bancone minuscolo si mangia in piedi riccia o frolla meglio calda">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Via Toledo / Plebiscito</p>
+        <h3>Pintauro</h3>
+        <p class="p-a">Via Toledo 275</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">La 'casa della sfogliatella' dal 1785: bancone minuscolo, si mangia in piedi. Riccia o frolla, meglio calda.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Pintauro%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="gratis" data-aff="sel" data-n="Piazza del Plebiscito e Palazzo Reale" data-i="piazza del plebiscito e palazzo reale via toledo plebiscito napoli" data-s="piazza del plebiscito e palazzo reale via toledo plebiscito napoli vedere la grande piazza con la basilica di san francesco di paola e il palazzo reale la piazza e libera il palazzo a pagamento">
+      <img src="assets/img/nap-plebiscito.jpg" srcset="assets/img/nap-plebiscito-480.jpg 480w, assets/img/nap-plebiscito.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Piazza del Plebiscito e Palazzo Reale" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Via Toledo / Plebiscito</p>
+        <h3>Piazza del Plebiscito e Palazzo Reale</h3>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-gra">Gratis</span></p>
+        <p class="p-d">La grande piazza con la Basilica di San Francesco di Paola e il Palazzo Reale. La piazza è libera; il palazzo a pagamento.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Piazza%20del%20Plebiscito%20e%20Palazzo%20Reale%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="gratis" data-aff="ver" data-n="Galleria Umberto I" data-i="galleria umberto i via toledo plebiscito napoli" data-s="galleria umberto i via toledo plebiscito napoli vedere galleria ottocentesca di vetro e ferro del 1887 di fronte al teatro san carlo due passi dentro gratis">
+      <img src="assets/img/nap-galleria-umberto.jpg" srcset="assets/img/nap-galleria-umberto-480.jpg 480w, assets/img/nap-galleria-umberto.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Galleria Umberto I" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Via Toledo / Plebiscito</p>
+        <h3>Galleria Umberto I</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-gra">Gratis</span></p>
+        <p class="p-d">Galleria ottocentesca di vetro e ferro del 1887, di fronte al Teatro San Carlo. Due passi dentro, gratis.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Galleria%20Umberto%20I%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="gratis" data-aff="ver" data-n="Via Toledo e stazione metro Toledo" data-i="via toledo e stazione metro toledo via toledo plebiscito napoli" data-s="via toledo e stazione metro toledo via toledo plebiscito napoli vedere la via dello struscio napoletano la fermata metro toledo coi mosaici blu e tra le piu belle d europa">
+      <img src="assets/img/nap-via-toledo.jpg" srcset="assets/img/nap-via-toledo-480.jpg 480w, assets/img/nap-via-toledo.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Via Toledo e stazione metro Toledo" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Via Toledo / Plebiscito</p>
+        <h3>Via Toledo e stazione metro Toledo</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-gra">Gratis</span></p>
+        <p class="p-d">La via dello struscio napoletano; la fermata metro Toledo, coi mosaici blu, è tra le più belle d'Europa.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Via%20Toledo%20e%20stazione%20metro%20Toledo%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="dolci mangiare" data-g="" data-aff="sel" data-n="Gran Caffè Gambrinus" data-i="gran caffe gambrinus via toledo plebiscito napoli via chiaia 1 2" data-s="gran caffe gambrinus via toledo plebiscito napoli via chiaia 1 2 dolci caffe storico dal 1860 accanto a piazza del plebiscito sfogliatella baba e il caffe al banco tra stucchi e specchi un pezzo di napoli">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Via Toledo / Plebiscito</p>
+        <h3>Gran Caffè Gambrinus</h3>
+        <p class="p-a">Via Chiaia 1/2</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Caffè storico dal 1860 accanto a Piazza del Plebiscito. Sfogliatella, babà e il caffè al banco tra stucchi e specchi: un pezzo di Napoli.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Gran%20Caff%C3%A8%20Gambrinus%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="pizza mangiare" data-g="" data-aff="ver" data-n="Pizzeria Brandi" data-i="pizzeria brandi via toledo plebiscito napoli" data-s="pizzeria brandi via toledo plebiscito napoli pizza storica pizzeria vicino a chiaia dove secondo la tradizione nel 1889 nacque la margherita piu leggenda che fatto documentato classico">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Via Toledo / Plebiscito</p>
+        <h3>Pizzeria Brandi</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-pizza">Pizza</span></p>
+        <p class="p-d">Storica pizzeria vicino a Chiaia dove, secondo la tradizione, nel 1889 nacque la Margherita (più leggenda che fatto documentato). Classico.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Pizzeria%20Brandi%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="dolci mangiare" data-g="" data-aff="sel" data-n="Gay-Odin" data-i="gay odin via toledo plebiscito napoli via chiaia 237" data-s="gay odin via toledo plebiscito napoli via chiaia 237 dolci cioccolateria storica dal 1894 la foresta di cioccolato e le praline sono leggendarie bottega d altri tempi tra via toledo e il plebiscito">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Via Toledo / Plebiscito</p>
+        <h3>Gay-Odin</h3>
+        <p class="p-a">Via Chiaia 237</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Cioccolateria storica dal 1894: la 'foresta' di cioccolato e le praline sono leggendarie. Bottega d'altri tempi tra Via Toledo e il Plebiscito.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Gay-Odin%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="dolci mangiare" data-g="" data-aff="ver" data-n="Casa Infante" data-i="casa infante via toledo plebiscito napoli" data-s="casa infante via toledo plebiscito napoli dolci storica gelateria su via toledo buona anche per sfogliatella e dolci comoda per una sosta in centro">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Via Toledo / Plebiscito</p>
+        <h3>Casa Infante</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Storica gelateria su Via Toledo, buona anche per sfogliatella e dolci. Comoda per una sosta in centro.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Casa%20Infante%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="prenotare" data-aff="sel" data-n="Teatro San Carlo" data-i="teatro san carlo via toledo plebiscito napoli via san carlo 98" data-s="teatro san carlo via toledo plebiscito napoli via san carlo 98 vedere il piu antico teatro lirico d europa ancora attivo 1737 accanto a piazza trieste e trento si visita con tour guidati a dicembre e in piena stagione">
+      <img src="assets/img/nap-san-carlo.jpg" srcset="assets/img/nap-san-carlo-480.jpg 480w, assets/img/nap-san-carlo.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Teatro San Carlo" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Via Toledo / Plebiscito</p>
+        <h3>Teatro San Carlo</h3>
+        <p class="p-a">Via San Carlo 98</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-pre">Prenotare</span></p>
+        <p class="p-d">Il più antico teatro lirico d'Europa ancora attivo (1737), accanto a Piazza Trieste e Trento. Si visita con tour guidati; a dicembre è in piena stagione.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Teatro%20San%20Carlo%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="prenotare" data-aff="ver" data-n="Galleria Borbonica" data-i="galleria borbonica via toledo plebiscito napoli" data-s="galleria borbonica via toledo plebiscito napoli vedere tunnel ottocentesco sotto il centro voluto dai borbone rifugio di guerra e deposito di auto d epoca visita guidata a pagamento molto scenografica">
+      <img src="assets/img/nap-galleria-borbonica.jpg" srcset="assets/img/nap-galleria-borbonica-480.jpg 480w, assets/img/nap-galleria-borbonica.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Galleria Borbonica" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Via Toledo / Plebiscito</p>
+        <h3>Galleria Borbonica</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-pre">Prenotare</span></p>
+        <p class="p-d">Tunnel ottocentesco sotto il centro, voluto dai Borbone: rifugio di guerra e deposito di auto d'epoca. Visita guidata a pagamento, molto scenografica.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Galleria%20Borbonica%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere street mangiare" data-g="gratis" data-aff="ver" data-n="Mercato della Pignasecca" data-i="mercato della pignasecca via toledo plebiscito napoli" data-s="mercato della pignasecca via toledo plebiscito napoli vedere street il mercato popolare piu antico di napoli appena sotto via toledo banchi di pesce frutta street food e voci gratis da vivere al mattino">
+      <img src="assets/img/nap-pignasecca.jpg" srcset="assets/img/nap-pignasecca-480.jpg 480w, assets/img/nap-pignasecca.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Mercato della Pignasecca" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Via Toledo / Plebiscito</p>
+        <h3>Mercato della Pignasecca</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span><span class="ti ti-street">Street food</span><span class="tg g-gra">Gratis</span></p>
+        <p class="p-d">Il mercato popolare più antico di Napoli, appena sotto Via Toledo: banchi di pesce, frutta, street food e voci. Gratis, da vivere al mattino.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Mercato%20della%20Pignasecca%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="fascia" data-f="8">
+  <summary><span class="f-t">Materdei</span><span class="f-c"><b>1</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="pizza mangiare" data-g="" data-aff="sel" data-n="Pizzeria Starita a Materdei" data-i="pizzeria starita a materdei materdei napoli via materdei 27 28" data-s="pizzeria starita a materdei materdei napoli via materdei 27 28 pizza aperta nel 1901 comparsa ne l oro di napoli la specialita sono le montanare pizzette fritte e poi passate in forno">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Materdei</p>
+        <h3>Pizzeria Starita a Materdei</h3>
+        <p class="p-a">Via Materdei 27/28</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-pizza">Pizza</span></p>
+        <p class="p-d">Aperta nel 1901, comparsa ne L'oro di Napoli. La specialità sono le montanare, pizzette fritte e poi passate in forno.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Pizzeria%20Starita%20a%20Materdei%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="fascia" data-f="9">
+  <summary><span class="f-t">Sanità</span><span class="f-c"><b>4</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="dolci mangiare" data-g="nascosto" data-aff="ver" data-n="Pasticceria Poppella" data-i="pasticceria poppella sanita napoli via arena alla sanita 28" data-s="pasticceria poppella sanita napoli via arena alla sanita 28 dolci nel rione sanita famosa per il fiocco di neve brioche ripiena di crema di latte anche il baba e ottimo">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Sanità</p>
+        <h3>Pasticceria Poppella</h3>
+        <p class="p-a">Via Arena alla Sanità 28</p>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Nel rione Sanità, famosa per il 'fiocco di neve', brioche ripiena di crema di latte. Anche il babà è ottimo.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Pasticceria%20Poppella%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="pizza mangiare" data-g="" data-aff="sel" data-n="Concettina ai Tre Santi" data-i="concettina ai tre santi sanita napoli via arena della sanita 7" data-s="concettina ai tre santi sanita napoli via arena della sanita 7 pizza nel rione sanita la pizzeria di ciro oliva quarta generazione tra le piu premiate di napoli impasti e ingredienti di ricerca meglio prenotare">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Sanità</p>
+        <h3>Concettina ai Tre Santi</h3>
+        <p class="p-a">Via Arena della Sanità 7</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-pizza">Pizza</span></p>
+        <p class="p-d">Nel rione Sanità, la pizzeria di Ciro Oliva (quarta generazione): tra le più premiate di Napoli, impasti e ingredienti di ricerca. Meglio prenotare.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Concettina%20ai%20Tre%20Santi%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="prenotare" data-aff="ver" data-n="Catacombe di San Gennaro" data-i="catacombe di san gennaro sanita napoli" data-s="catacombe di san gennaro sanita napoli vedere le catacombe paleocristiane sotto la collina di capodimonte nel rione sanita visita guidata a pagamento molto suggestiva">
+      <img src="assets/img/nap-catacombe.jpg" srcset="assets/img/nap-catacombe-480.jpg 480w, assets/img/nap-catacombe.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Catacombe di San Gennaro" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Sanità</p>
+        <h3>Catacombe di San Gennaro</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-pre">Prenotare</span></p>
+        <p class="p-d">Le catacombe paleocristiane sotto la collina di Capodimonte, nel rione Sanità. Visita guidata a pagamento, molto suggestiva.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Catacombe%20di%20San%20Gennaro%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="nascosto" data-aff="ver" data-n="Cimitero delle Fontanelle" data-i="cimitero delle fontanelle sanita napoli via fontanelle 80" data-s="cimitero delle fontanelle sanita napoli via fontanelle 80 vedere enorme ossario scavato nel tufo al rione sanita legato al culto delle anime pezzentelle molto amato sui social ingresso in genere gratuito">
+      <img src="assets/img/nap-fontanelle.jpg" srcset="assets/img/nap-fontanelle-480.jpg 480w, assets/img/nap-fontanelle.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Cimitero delle Fontanelle" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Sanità</p>
+        <h3>Cimitero delle Fontanelle</h3>
+        <p class="p-a">Via Fontanelle 80</p>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span></p>
+        <p class="p-d">Enorme ossario scavato nel tufo al rione Sanità, legato al culto delle 'anime pezzentelle'. Molto amato sui social. Ingresso in genere gratuito.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Cimitero%20delle%20Fontanelle%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="fascia" data-f="10">
+  <summary><span class="f-t">Capodimonte</span><span class="f-c"><b>1</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="vedere" data-g="prenotare" data-aff="ver" data-n="Museo e Real Bosco di Capodimonte" data-i="museo e real bosco di capodimonte capodimonte napoli via miano 2" data-s="museo e real bosco di capodimonte capodimonte napoli via miano 2 vedere reggia museo con la collezione farnese caravaggio e tiziano dentro un grande parco un po fuori dal centro ma vale la salita a pagamento">
+      <img src="assets/img/nap-capodimonte.jpg" srcset="assets/img/nap-capodimonte-480.jpg 480w, assets/img/nap-capodimonte.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Museo e Real Bosco di Capodimonte" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Capodimonte</p>
+        <h3>Museo e Real Bosco di Capodimonte</h3>
+        <p class="p-a">Via Miano 2</p>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-pre">Prenotare</span></p>
+        <p class="p-d">Reggia-museo con la collezione Farnese, Caravaggio e Tiziano, dentro un grande parco. Un po' fuori dal centro ma vale la salita. A pagamento.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Museo%20e%20Real%20Bosco%20di%20Capodimonte%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="fascia" data-f="11">
+  <summary><span class="f-t">Quartieri Spagnoli</span><span class="f-c"><b>2</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="vedere" data-g="gratis" data-aff="ver" data-n="Quartieri Spagnoli e murale di Maradona" data-i="quartieri spagnoli e murale di maradona quartieri spagnoli napoli" data-s="quartieri spagnoli e murale di maradona quartieri spagnoli napoli vedere il dedalo di vicoli sopra via toledo col grande murale dedicato a maradona gratis da girare a piedi">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Quartieri Spagnoli</p>
+        <h3>Quartieri Spagnoli e murale di Maradona</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-gra">Gratis</span></p>
+        <p class="p-d">Il dedalo di vicoli sopra Via Toledo, col grande murale dedicato a Maradona. Gratis, da girare a piedi.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Quartieri%20Spagnoli%20e%20murale%20di%20Maradona%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="pasta carne mangiare ristorante" data-g="locali" data-aff="sel" data-n="Trattoria da Nennella" data-i="trattoria da nennella quartieri spagnoli napoli" data-s="trattoria da nennella quartieri spagnoli napoli pasta carne l osteria popolare dei quartieri spagnoli chiassosa economica piatti di casa piu un esperienza che una cena spesso coda si paga in contanti">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Quartieri Spagnoli</p>
+        <h3>Trattoria da Nennella</h3>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-pasta">Pasta e trattorie</span><span class="ti ti-carne">Carne</span><span class="tg g-loc">Da locali</span></p>
+        <p class="p-d">L'osteria popolare dei Quartieri Spagnoli: chiassosa, economica, piatti di casa. Più un'esperienza che una cena. Spesso coda, si paga in contanti.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Nennella%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="fascia" data-f="12">
+  <summary><span class="f-t">Lungomare</span><span class="f-c"><b>4</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="vedere" data-g="gratis" data-aff="ver" data-n="Castel dell'Ovo e Borgo Marinari" data-i="castel dell ovo e borgo marinari lungomare napoli" data-s="castel dell ovo e borgo marinari lungomare napoli vedere il castello sull isolotto di borgo marinari sul lungomare ingresso libero vista aperta sul golfo">
+      <img src="assets/img/nap-castel-ovo.jpg" srcset="assets/img/nap-castel-ovo-480.jpg 480w, assets/img/nap-castel-ovo.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Castel dell'Ovo e Borgo Marinari" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Lungomare</p>
+        <h3>Castel dell'Ovo e Borgo Marinari</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-gra">Gratis</span></p>
+        <p class="p-d">Il castello sull'isolotto di Borgo Marinari, sul lungomare. Ingresso libero, vista aperta sul golfo.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Castel%20dell'Ovo%20e%20Borgo%20Marinari%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="vedere" data-g="gratis" data-aff="ver" data-n="Lungomare Caracciolo" data-i="lungomare caracciolo lungomare napoli" data-s="lungomare caracciolo lungomare napoli vedere la passeggiata sul mare da santa lucia verso mergellina col vesuvio di fronte gratis bella al tramonto">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Lungomare</p>
+        <h3>Lungomare Caracciolo</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-gra">Gratis</span></p>
+        <p class="p-d">La passeggiata sul mare da Santa Lucia verso Mergellina, col Vesuvio di fronte. Gratis, bella al tramonto.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Lungomare%20Caracciolo%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="pizza mangiare" data-g="" data-aff="sel" data-n="50 Kalò di Ciro Salvo" data-i="50 kalo di ciro salvo lungomare napoli piazza sannazaro 201 b" data-s="50 kalo di ciro salvo lungomare napoli piazza sannazaro 201 b pizza a mergellina una delle pizze piu premiate di napoli stabilmente nei primi posti delle classifiche impasto idratato e leggero meglio prenotare">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Lungomare</p>
+        <h3>50 Kalò di Ciro Salvo</h3>
+        <p class="p-a">Piazza Sannazaro 201/B</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-pizza">Pizza</span></p>
+        <p class="p-d">A Mergellina, una delle pizze più premiate di Napoli (stabilmente nei primi posti delle classifiche). Impasto idratato e leggero. Meglio prenotare.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=50%20Kal%C3%B2%20di%20Ciro%20Salvo%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="pesce mangiare ristorante" data-g="vista" data-aff="sel" data-n="La Bersagliera" data-i="la bersagliera lungomare napoli borgo marinari 10 11" data-s="la bersagliera lungomare napoli borgo marinari 10 11 pesce dal 1919 sul porticciolo di borgo marinari ai piedi del castel dell ovo pesce e frutti di mare con vista spaghetti alle vongole frittura di paranza insalata di polpo">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Lungomare</p>
+        <h3>La Bersagliera</h3>
+        <p class="p-a">Borgo Marinari 10/11</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-pesce">Pesce</span><span class="tg g-vis">Panorama</span></p>
+        <p class="p-d">Dal 1919 sul porticciolo di Borgo Marinari, ai piedi del Castel dell'Ovo: pesce e frutti di mare con vista. Spaghetti alle vongole, frittura di paranza, insalata di polpo.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=La%20Bersagliera%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="fascia" data-f="13">
+  <summary><span class="f-t">Vomero</span><span class="f-c"><b>1</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="vedere" data-g="vista prenotare" data-aff="ver" data-n="Certosa di San Martino e Castel Sant'Elmo" data-i="certosa di san martino e castel sant elmo vomero napoli" data-s="certosa di san martino e castel sant elmo vomero napoli vedere in cima al vomero la certosa museo e il castello con la vista piu bella su napoli e il golfo a pagamento si sale in funicolare">
+      <img src="assets/img/nap-san-martino.jpg" srcset="assets/img/nap-san-martino-480.jpg 480w, assets/img/nap-san-martino.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Certosa di San Martino e Castel Sant'Elmo" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Vomero</p>
+        <h3>Certosa di San Martino e Castel Sant'Elmo</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span><span class="tg g-vis">Panorama</span><span class="tg g-pre">Prenotare</span></p>
+        <p class="p-d">In cima al Vomero: la certosa-museo e il castello, con la vista più bella su Napoli e il golfo. A pagamento, si sale in funicolare.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Certosa%20di%20San%20Martino%20e%20Castel%20Sant'Elmo%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="fascia" data-f="14">
+  <summary><span class="f-t">Municipio / porto</span><span class="f-c"><b>1</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="vedere" data-g="" data-aff="ver" data-n="Maschio Angioino (Castel Nuovo)" data-i="maschio angioino castel nuovo municipio porto napoli" data-s="maschio angioino castel nuovo municipio porto napoli vedere la fortezza medievale simbolo della citta vicino al porto dentro il museo civico">
+      <img src="assets/img/nap-maschio-angioino.jpg" srcset="assets/img/nap-maschio-angioino-480.jpg 480w, assets/img/nap-maschio-angioino.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Maschio Angioino (Castel Nuovo)" loading="lazy" decoding="async">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Municipio / porto</p>
+        <h3>Maschio Angioino (Castel Nuovo)</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-vedere">Da vedere</span></p>
+        <p class="p-d">La fortezza medievale simbolo della città, vicino al porto; dentro il Museo Civico.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Maschio%20Angioino%20(Castel%20Nuovo)%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="fascia" data-f="15">
+  <summary><span class="f-t">Vicino alla stazione</span><span class="f-c"><b>3</b> posti</span></summary>
+  <div class="f-in">
+    <div class="p" data-t="dolci mangiare" data-g="" data-aff="ver" data-n="Antico Forno Attanasio" data-i="antico forno attanasio vicino alla stazione napoli" data-s="antico forno attanasio vicino alla stazione napoli dolci sfogliatelle sfornate di continuo molto citate online girano indirizzi diversi controlla sul momento prima di andare">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Vicino alla stazione</p>
+        <h3>Antico Forno Attanasio</h3>
+        <p class="p-tag"><span class="af af-ver">Consigliato</span><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Sfogliatelle sfornate di continuo, molto citate. Online girano indirizzi diversi: controlla sul momento prima di andare.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Antico%20Forno%20Attanasio%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="pasta pesce mangiare ristorante" data-g="" data-aff="sel" data-n="Mimì alla Ferrovia" data-i="mimi alla ferrovia vicino alla stazione napoli via alfonso d aragona 19" data-s="mimi alla ferrovia vicino alla stazione napoli via alfonso d aragona 19 pasta pesce istituzione della cucina napoletana vicino alla stazione pasta e fagioli con le cozze pesce classici di casa da pranzo lungo">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Vicino alla stazione</p>
+        <h3>Mimì alla Ferrovia</h3>
+        <p class="p-a">Via Alfonso d'Aragona 19</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-pasta">Pasta e trattorie</span><span class="ti ti-pesce">Pesce</span></p>
+        <p class="p-d">Istituzione della cucina napoletana vicino alla stazione: pasta e fagioli con le cozze, pesce, classici di casa. Da pranzo lungo.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=Mim%C3%AC%20alla%20Ferrovia%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+    <div class="p" data-t="street pizza mangiare" data-g="" data-aff="sel" data-n="La Masardona" data-i="la masardona vicino alla stazione napoli via giulio cesare capaccio 27" data-s="la masardona vicino alla stazione napoli via giulio cesare capaccio 27 street pizza il tempio della pizza fritta dal 1945 quarta generazione disco di pasta ripieno e poi fritto croccante e per niente unto segnalata da luciano pignataro e dalla critica mette in conto la coda">
+      <div class="p-in">
+        <p class="p-km"><span class="km-n">Napoli</span> Vicino alla stazione</p>
+        <h3>La Masardona</h3>
+        <p class="p-a">Via Giulio Cesare Capaccio 27</p>
+        <p class="p-tag"><span class="af af-sel">I migliori</span><span class="ti ti-street">Street food</span><span class="ti ti-pizza">Pizza</span></p>
+        <p class="p-d">Il tempio della pizza fritta dal 1945, quarta generazione: disco di pasta ripieno e poi fritto, croccante e per niente unto. Segnalata da Luciano Pignataro e dalla critica. Mette in conto la coda.</p>
+        <p class="p-map"><a href="https://www.google.com/maps/search/?api=1&query=La%20Masardona%2C%20Napoli%2C%20Campania" target="_blank" rel="noopener">Apri in mappa &rarr;</a></p>
+      </div>
+    </div>
+  </div>
+</details>
+<h2 class="sec-h">Cosa vi mettono nel piatto</h2>
+<p class="sec-s">I piatti classici di Napoli, spiegati</p>
+<details class="fascia" data-cibo="1" open>
+  <summary><span class="f-t">Piatti tipici</span><span class="f-c"><b>34</b> voci</span></summary>
+  <div class="f-in">
+    <div class="p" data-cibo="1" data-t="pizza" data-n="Pizza Margherita" data-s="pizza margherita pizza la regina pomodoro fior di latte o mozzarella basilico semplice e perfetta cornicione alto e morbido con la marinara e la piu tradizionale">
+      <img src="assets/img/nap-pizza-margherita.jpg" srcset="assets/img/nap-pizza-margherita-480.jpg 480w, assets/img/nap-pizza-margherita.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Pizza Margherita" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Pizza Margherita</h3>
+        <p class="p-tag"><span class="ti ti-pizza">Pizza</span></p>
+        <p class="p-d">La regina: pomodoro, fior di latte (o mozzarella), basilico. Semplice e perfetta, cornicione alto e morbido. Con la marinara è la più tradizionale.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="street" data-n="Pizza fritta" data-s="pizza fritta street disco di pasta ripieno ricotta cicoli provola pomodoro e poi fritto lo street food napoletano per eccellenza da mangiare per strada">
+      <img src="assets/img/nap-pizza-fritta.jpg" srcset="assets/img/nap-pizza-fritta-480.jpg 480w, assets/img/nap-pizza-fritta.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Pizza fritta" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Pizza fritta</h3>
+        <p class="p-tag"><span class="ti ti-street">Street food</span></p>
+        <p class="p-d">Disco di pasta ripieno — ricotta, cicoli, provola, pomodoro — e poi fritto. Lo street food napoletano per eccellenza, da mangiare per strada.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="street" data-n="Cuoppo" data-s="cuoppo street cono di carta con fritti misti di mare alici calamari gamberi o di terra crocche frittatine panzarotti caldo da passeggio">
+      <div class="p-in">
+        <h3>Cuoppo</h3>
+        <p class="p-tag"><span class="ti ti-street">Street food</span></p>
+        <p class="p-d">Cono di carta con fritti misti: di mare (alici, calamari, gamberi) o di terra (crocchè, frittatine, panzarotti). Caldo, da passeggio.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="street" data-n="Frittatina di pasta" data-s="frittatina di pasta street nido di pasta legato con besciamella piselli e provola impanato e fritto il classico della friggitoria da addentare in piedi">
+      <div class="p-in">
+        <h3>Frittatina di pasta</h3>
+        <p class="p-tag"><span class="ti ti-street">Street food</span></p>
+        <p class="p-d">Nido di pasta legato con besciamella, piselli e provola, impanato e fritto. Il classico della friggitoria, da addentare in piedi.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="dolci" data-n="Sfogliatella" data-s="sfogliatella dolci riccia pasta sfoglia croccante o frolla piu morbida ripiena di ricotta semolino canditi e cannella meglio appena sfornata">
+      <img src="assets/img/nap-sfogliatella.jpg" srcset="assets/img/nap-sfogliatella-480.jpg 480w, assets/img/nap-sfogliatella.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Sfogliatella" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Sfogliatella</h3>
+        <p class="p-tag"><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Riccia (pasta sfoglia croccante) o frolla (più morbida): ripiena di ricotta, semolino, canditi e cannella. Meglio appena sfornata.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="dolci" data-n="Babà" data-s="baba dolci piccolo lievitato imbevuto di rum soffice e inzuppato di origine francese ormai simbolo di napoli">
+      <img src="assets/img/nap-baba.jpg" srcset="assets/img/nap-baba-480.jpg 480w, assets/img/nap-baba.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Babà" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Babà</h3>
+        <p class="p-tag"><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Piccolo lievitato imbevuto di rum, soffice e inzuppato. Di origine francese, ormai simbolo di Napoli.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="dolci" data-n="Pastiera" data-s="pastiera dolci crostata di ricotta e grano cotto profumata ai fiori d arancio tipica di pasqua ma si trova tutto l anno">
+      <img src="assets/img/nap-pastiera.jpg" srcset="assets/img/nap-pastiera-480.jpg 480w, assets/img/nap-pastiera.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Pastiera" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Pastiera</h3>
+        <p class="p-tag"><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Crostata di ricotta e grano cotto profumata ai fiori d'arancio. Tipica di Pasqua ma si trova tutto l'anno.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="dolci" data-n="Struffoli" data-s="struffoli dolci palline di pasta fritte legate col miele e decorate con confettini e il dolce di natale napoletano a dicembre li trovi ovunque">
+      <img src="assets/img/nap-struffoli.jpg" srcset="assets/img/nap-struffoli-480.jpg 480w, assets/img/nap-struffoli.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Struffoli" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Struffoli</h3>
+        <p class="p-tag"><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Palline di pasta fritte legate col miele e decorate con confettini. È IL dolce di Natale napoletano: a dicembre li trovi ovunque.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="pasta carne" data-n="Ragù napoletano" data-s="ragu napoletano pasta carne non un ragu qualsiasi carne a pezzi cotta nel pomodoro per ore anche sei condisce gli ziti spezzati la carne e il secondo">
+      <img src="assets/img/nap-ragu-napoletano.jpg" srcset="assets/img/nap-ragu-napoletano-480.jpg 480w, assets/img/nap-ragu-napoletano.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Ragù napoletano" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Ragù napoletano</h3>
+        <p class="p-tag"><span class="ti ti-pasta">Pasta e trattorie</span><span class="ti ti-carne">Carne</span></p>
+        <p class="p-d">Non un ragù qualsiasi: carne a pezzi cotta nel pomodoro per ore (anche sei). Condisce gli ziti spezzati; la carne è il secondo.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="pasta" data-n="Genovese" data-s="genovese pasta sugo di tantissime cipolle e carne cotte a lungo fino a diventare una crema dolce di solito sugli ziti napoletana nonostante il nome">
+      <img src="assets/img/nap-genovese.jpg" srcset="assets/img/nap-genovese-480.jpg 480w, assets/img/nap-genovese.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Genovese" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Genovese</h3>
+        <p class="p-tag"><span class="ti ti-pasta">Pasta e trattorie</span></p>
+        <p class="p-d">Sugo di tantissime cipolle e carne cotte a lungo fino a diventare una crema dolce, di solito sugli ziti. Napoletana nonostante il nome.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="" data-n="Sartù di riso" data-s="sartu di riso ricco timballo di riso con ragu polpettine piselli uova e provola piatto della cucina monzu di radici francesi">
+      <img src="assets/img/nap-sartu.jpg" srcset="assets/img/nap-sartu-480.jpg 480w, assets/img/nap-sartu.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Sartù di riso" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Sartù di riso</h3>
+        <p class="p-d">Ricco timballo di riso con ragù, polpettine, piselli, uova e provola. Piatto della cucina 'monzù', di radici francesi.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="" data-n="Parmigiana di melanzane" data-s="parmigiana di melanzane melanzane fritte a strati con pomodoro mozzarella e parmigiano al forno un classico di casa ottima anche fredda">
+      <img src="assets/img/nap-parmigiana.jpg" srcset="assets/img/nap-parmigiana-480.jpg 480w, assets/img/nap-parmigiana.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Parmigiana di melanzane" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Parmigiana di melanzane</h3>
+        <p class="p-d">Melanzane fritte a strati con pomodoro, mozzarella e parmigiano, al forno. Un classico di casa, ottima anche fredda.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="" data-n="Casatiello" data-s="casatiello rustico salato di pasta lievitata con salumi formaggi e uova intere nel guscio festivo soprattutto a pasqua">
+      <img src="assets/img/nap-casatiello.jpg" srcset="assets/img/nap-casatiello-480.jpg 480w, assets/img/nap-casatiello.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Casatiello" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Casatiello</h3>
+        <p class="p-d">Rustico salato di pasta lievitata con salumi, formaggi e uova intere nel guscio. Festivo, soprattutto a Pasqua.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="" data-n="Mozzarella di bufala campana" data-s="mozzarella di bufala campana la dop delle campagne tra caserta e aversa freschissima va provata sul posto a due passi da dove dormite">
+      <img src="assets/img/nap-mozzarella-bufala.jpg" srcset="assets/img/nap-mozzarella-bufala-480.jpg 480w, assets/img/nap-mozzarella-bufala.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Mozzarella di bufala campana" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Mozzarella di bufala campana</h3>
+        <p class="p-d">La DOP delle campagne tra Caserta e Aversa: freschissima, va provata sul posto. A due passi da dove dormite.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="" data-n="Caffè napoletano" data-s="caffe napoletano espresso corto e intenso spesso servito gia zuccherato chiedilo amaro se lo vuoi senza rito irrinunciabile">
+      <img src="assets/img/nap-caffe-napoletano.jpg" srcset="assets/img/nap-caffe-napoletano-480.jpg 480w, assets/img/nap-caffe-napoletano.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Caffè napoletano" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Caffè napoletano</h3>
+        <p class="p-d">Espresso corto e intenso, spesso servito già zuccherato: chiedilo 'amaro' se lo vuoi senza. Rito irrinunciabile.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="pizza street" data-n="Pizza a portafoglio" data-s="pizza a portafoglio pizza street la margherita piegata in quattro da mangiare per strada con una mano versione veloce ed economica della pizza">
+      <img src="assets/img/nap-pizza-portafoglio.jpg" srcset="assets/img/nap-pizza-portafoglio-480.jpg 480w, assets/img/nap-pizza-portafoglio.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Pizza a portafoglio" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Pizza a portafoglio</h3>
+        <p class="p-tag"><span class="ti ti-pizza">Pizza</span><span class="ti ti-street">Street food</span></p>
+        <p class="p-d">La margherita piegata in quattro, da mangiare per strada con una mano. Versione veloce ed economica della pizza.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="street" data-n="Mozzarella in carrozza" data-s="mozzarella in carrozza street fetta di mozzarella tra due fette di pane impanata e fritta dentro fila fuori e croccante antipasto o street food">
+      <img src="assets/img/nap-mozzarella-carrozza.jpg" srcset="assets/img/nap-mozzarella-carrozza-480.jpg 480w, assets/img/nap-mozzarella-carrozza.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Mozzarella in carrozza" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Mozzarella in carrozza</h3>
+        <p class="p-tag"><span class="ti ti-street">Street food</span></p>
+        <p class="p-d">Fetta di mozzarella tra due fette di pane, impanata e fritta: dentro fila, fuori è croccante. Antipasto o street food.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="carne" data-n="Friarielli e salsiccia" data-s="friarielli e salsiccia carne i friarielli le cime di rapa napoletane un po amarognole saltati in padella con la salsiccia un classico di casa">
+      <div class="p-in">
+        <h3>Friarielli e salsiccia</h3>
+        <p class="p-tag"><span class="ti ti-carne">Carne</span></p>
+        <p class="p-d">I friarielli (le cime di rapa napoletane, un po' amarognole) saltati in padella con la salsiccia. Un classico di casa.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="pesce pasta" data-n="Spaghetti alle vongole" data-s="spaghetti alle vongole pesce pasta vongole veraci aglio olio e prezzemolo in bianco o con qualche pomodorino semplice e di mare">
+      <img src="assets/img/nap-spaghetti-vongole.jpg" srcset="assets/img/nap-spaghetti-vongole-480.jpg 480w, assets/img/nap-spaghetti-vongole.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Spaghetti alle vongole" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Spaghetti alle vongole</h3>
+        <p class="p-tag"><span class="ti ti-pesce">Pesce</span><span class="ti ti-pasta">Pasta e trattorie</span></p>
+        <p class="p-d">Vongole veraci, aglio, olio e prezzemolo. 'In bianco' o con qualche pomodorino: semplice e di mare.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="pesce" data-n="Impepata di cozze" data-s="impepata di cozze pesce cozze aperte col loro sughetto tanto pepe e limone da fare la scarpetta col pane">
+      <div class="p-in">
+        <h3>Impepata di cozze</h3>
+        <p class="p-tag"><span class="ti ti-pesce">Pesce</span></p>
+        <p class="p-d">Cozze aperte col loro sughetto, tanto pepe e limone. Da fare la scarpetta col pane.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="pesce" data-n="Polpo alla Luciana" data-s="polpo alla luciana pesce polpo cotto piano con pomodorino olive e capperi dal borgo di santa lucia morbido e saporito">
+      <img src="assets/img/nap-polpo-luciana.jpg" srcset="assets/img/nap-polpo-luciana-480.jpg 480w, assets/img/nap-polpo-luciana.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Polpo alla Luciana" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Polpo alla Luciana</h3>
+        <p class="p-tag"><span class="ti ti-pesce">Pesce</span></p>
+        <p class="p-d">Polpo cotto piano con pomodorino, olive e capperi, dal borgo di Santa Lucia. Morbido e saporito.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="pasta" data-n="Pasta e patate con la provola" data-s="pasta e patate con la provola pasta comfort food partenopeo pasta mista patate e provola che fila da mangiare col cucchiaio">
+      <div class="p-in">
+        <h3>Pasta e patate con la provola</h3>
+        <p class="p-tag"><span class="ti ti-pasta">Pasta e trattorie</span></p>
+        <p class="p-d">Comfort food partenopeo: pasta mista, patate e provola che fila. Da mangiare col cucchiaio.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="dolci" data-n="Graffe" data-s="graffe dolci ciambelle fritte di patate passate nello zucchero soffici e profumate lo street food dolce napoletano">
+      <div class="p-in">
+        <h3>Graffe</h3>
+        <p class="p-tag"><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Ciambelle fritte di patate passate nello zucchero, soffici e profumate. Lo street food dolce napoletano.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="dolci" data-n="Roccocò" data-s="roccoco dolci biscotti duri a ciambella con mandorle e spezie pisto tipici di natale si inzuppano nel vino o nello spumante a dicembre sono ovunque">
+      <img src="assets/img/nap-roccoco.jpg" srcset="assets/img/nap-roccoco-480.jpg 480w, assets/img/nap-roccoco.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Roccocò" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Roccocò</h3>
+        <p class="p-tag"><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Biscotti duri a ciambella con mandorle e spezie ('pisto'), tipici di Natale: si inzuppano nel vino o nello spumante. A dicembre sono ovunque.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="dolci" data-n="Mostaccioli" data-s="mostaccioli dolci dolcetti a rombo di impasto speziato ricoperti di cioccolato classico natalizio napoletano">
+      <img src="assets/img/nap-mostaccioli.jpg" srcset="assets/img/nap-mostaccioli-480.jpg 480w, assets/img/nap-mostaccioli.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Mostaccioli" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Mostaccioli</h3>
+        <p class="p-tag"><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Dolcetti a rombo di impasto speziato, ricoperti di cioccolato. Classico natalizio napoletano.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="dolci" data-n="Susamielli" data-s="susamielli dolci biscotti natalizi a forma di s con miele mandorle e spezie dolci delle feste">
+      <div class="p-in">
+        <h3>Susamielli</h3>
+        <p class="p-tag"><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Biscotti natalizi a forma di 'S' con miele, mandorle e spezie. Dolci delle feste.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="" data-n="Insalata di rinforzo" data-s="insalata di rinforzo il contorno di natale napoletano cavolfiore lessato papaccelle olive e sottaceti si rinforza aggiungendone nei giorni di festa">
+      <div class="p-in">
+        <h3>Insalata di rinforzo</h3>
+        <p class="p-d">Il contorno di Natale napoletano: cavolfiore lessato, papaccelle, olive e sottaceti. Si 'rinforza' aggiungendone nei giorni di festa.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="street carne" data-n="Cuzzetiello" data-s="cuzzetiello street carne l estremita del pane cafone svuotata della mollica e riempita di polpette al ragu la crosta fa da piatto si mangia con le mani la marenna della tradizione guai a chiamarlo panino">
+      <div class="p-in">
+        <h3>Cuzzetiello</h3>
+        <p class="p-tag"><span class="ti ti-street">Street food</span><span class="ti ti-carne">Carne</span></p>
+        <p class="p-d">L'estremità del pane cafone svuotata della mollica e riempita di polpette al ragù: la crosta fa da piatto. Si mangia con le mani, la 'marenna' della tradizione. Guai a chiamarlo panino.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="street" data-n="'O pere e 'o muss" data-s="o pere e o muss street street food povero piede di maiale e muso di vitello lessati serviti freddi a pezzetti con sale e limone dai carrettini per strada">
+      <img src="assets/img/nap-pere-muss.jpg" srcset="assets/img/nap-pere-muss-480.jpg 480w, assets/img/nap-pere-muss.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="'O pere e 'o muss" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>'O pere e 'o muss</h3>
+        <p class="p-tag"><span class="ti ti-street">Street food</span></p>
+        <p class="p-d">Street food 'povero': piede di maiale e muso di vitello lessati, serviti freddi a pezzetti con sale e limone. Dai carrettini per strada.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="street" data-n="Taralli 'nzogna e pepe" data-s="taralli nzogna e pepe street taralli sugnacciosi con pepe nero e mandorle spesso ancora caldi da sgranocchiare passeggiando sul lungomare">
+      <img src="assets/img/nap-taralli.jpg" srcset="assets/img/nap-taralli-480.jpg 480w, assets/img/nap-taralli.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Taralli 'nzogna e pepe" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Taralli 'nzogna e pepe</h3>
+        <p class="p-tag"><span class="ti ti-street">Street food</span></p>
+        <p class="p-d">Taralli sugnacciosi con pepe nero e mandorle, spesso ancora caldi. Da sgranocchiare passeggiando sul lungomare.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="street" data-n="Scagliozzi" data-s="scagliozzi street rombi di polenta fritta croccanti fuori e morbidi dentro il fritto piu povero e goloso dei friggitori">
+      <img src="assets/img/nap-scagliozzi.jpg" srcset="assets/img/nap-scagliozzi-480.jpg 480w, assets/img/nap-scagliozzi.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Scagliozzi" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Scagliozzi</h3>
+        <p class="p-tag"><span class="ti ti-street">Street food</span></p>
+        <p class="p-d">Rombi di polenta fritta, croccanti fuori e morbidi dentro. Il fritto più povero e goloso dei friggitori.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="street" data-n="Crocchè (panzarotti di patate)" data-s="crocche panzarotti di patate street crocchette di patate fritte a volte con mozzarella o prosciutto dentro immancabili nel cuoppo di terra">
+      <img src="assets/img/nap-crocche.jpg" srcset="assets/img/nap-crocche-480.jpg 480w, assets/img/nap-crocche.jpg 900w" sizes="(max-width: 700px) 100vw, 672px" alt="Crocchè (panzarotti di patate)" loading="lazy" decoding="async">
+      <div class="p-in">
+        <h3>Crocchè (panzarotti di patate)</h3>
+        <p class="p-tag"><span class="ti ti-street">Street food</span></p>
+        <p class="p-d">Crocchette di patate fritte, a volte con mozzarella o prosciutto dentro. Immancabili nel cuoppo di terra.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="street" data-n="Parigina" data-s="parigina street rustico di pasta sfoglia con pomodoro prosciutto e formaggio merenda classica da rosticceria">
+      <div class="p-in">
+        <h3>Parigina</h3>
+        <p class="p-tag"><span class="ti ti-street">Street food</span></p>
+        <p class="p-d">Rustico di pasta sfoglia con pomodoro, prosciutto e formaggio. Merenda classica da rosticceria.</p>
+      </div>
+    </div>
+    <div class="p" data-cibo="1" data-t="dolci" data-n="Sanguinaccio" data-s="sanguinaccio dolci crema dolce di cioccolato un tempo col sangue di maiale oggi senza tipica d inverno e carnevale si intinge coi savoiardi">
+      <div class="p-in">
+        <h3>Sanguinaccio</h3>
+        <p class="p-tag"><span class="ti ti-dolci">Dolci e caffè</span></p>
+        <p class="p-d">Crema dolce di cioccolato (un tempo col sangue di maiale, oggi senza), tipica d'inverno e Carnevale: si intinge coi savoiardi.</p>
+      </div>
+    </div>
+  </div>
+</details>
+<details class="fascia"><summary><span class="f-t">Crediti foto</span><span class="f-c"><b>43</b> immagini</span></summary>
+  <div class="f-in" style="padding:12px 14px">
+    <p class="p-d">Foto dei piatti da Wikimedia Commons, licenze libere (Creative Commons / dominio pubblico), salvate in <code>assets/img/</code>.</p>
+    <ul style="font-size:13px;line-height:1.6;padding-left:18px;margin:8px 0 0">
+      <li>Pizza Margherita &mdash; Bex Walton from London, England &middot; CC BY 2.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Neapolitan_pizza_at_Trappica_(48701940197).jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Pizza fritta &mdash; Horcrux &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Pizza_fritta_in_Rome_(1).jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Sfogliatella &mdash; Saggittarius A &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Sfogliatelle_ricce_e_frolle.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Babà &mdash; Romainbehar &middot; CC0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Lyon_1er_-_Quai_de_la_P%C3%AAcherie_-_Restaurant_Antolio_-_Baba_au_rhum.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Pastiera &mdash; Mattia Luigi Nappi &middot; CC BY-SA 3.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Pastiera_slice_-_ready_to_eat.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Struffoli &mdash; Steve-081 &middot; Public domain &middot; <a href="https://commons.wikimedia.org/wiki/File:Struffoli2.JPG" target="_blank" rel="noopener">fonte</a></li>
+      <li>Ragù napoletano &mdash; CristianoMay &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Paccheri_rigati_al_rag%C3%B9_Napoletano.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Genovese &mdash; Darouet &middot; CC BY-SA 3.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Genovesesauce.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Sartù di riso &mdash; Ruthven &middot; CC0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Sart%C3%B9_di_riso_alla_napoletana-3.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Parmigiana di melanzane &mdash; Andy Li &middot; CC0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Parmiggiana_-_Pizza_500_2024-11-16.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Casatiello &mdash; Effems &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Casatiello_(Barcellona_Pozzo_di_Gotto)_09_04_2023_01.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Mozzarella di bufala campana &mdash; Popo le Chien &middot; CC BY-SA 3.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Mozzarella_di_bufala2.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Caffè napoletano &mdash; Petar Milošević &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Cup_of_coffee_(Serbian_cuisine,_Grand_kava).jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Pizza a portafoglio &mdash; Valerio Capello at English Wikipedia &middot; CC BY-SA 3.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Eq_it-na_pizza-margherita_sep2005_sml.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Mozzarella in carrozza &mdash; Catia Giaccherini &middot; CC BY-SA 3.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Starters_06.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Spaghetti alle vongole &mdash; cyclonebill &middot; CC BY-SA 2.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Spaghetti_med_muslinger.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Polpo alla Luciana &mdash; Enzo Rippa &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Polipo_alla_Luciana.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Roccocò &mdash; Rollopack &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Roccoc%C3%B2_-_1.JPG" target="_blank" rel="noopener">fonte</a></li>
+      <li>Mostaccioli &mdash; Ruthven &middot; CC0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Mustacciuoli.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>'O pere e 'o muss &mdash; jimmyweee &middot; CC BY 2.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:%27O_pere_e_%27o_musso_and_offal,_on_sale_on_a_truck_in_Naples,_Italy.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Taralli 'nzogna e pepe &mdash; Haragayato &middot; Public domain &middot; <a href="https://commons.wikimedia.org/wiki/File:Tarallini2.JPG" target="_blank" rel="noopener">fonte</a></li>
+      <li>Scagliozzi &mdash; La.blasco &middot; CC BY 2.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Scagliozzi.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>Crocchè (panzarotti di patate) &mdash; Catia Giaccherini &middot; CC BY-SA 3.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Crocch%C3%A9_di_patate_(Naples).jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>sansevero &mdash; David Sivyer &middot; CC BY-SA 2.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Immagine_d%27insieme_2,_Cappella_Sansevero.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>spaccanapoli &mdash; Lalupa &middot; CC BY 3.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Spaccanapoli_da_s_Elmo_1050131.JPG" target="_blank" rel="noopener">fonte</a></li>
+      <li>san-gregorio &mdash; Luca Aless &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Napoli_-_Via_San_Gregorio_Armeno.JPG" target="_blank" rel="noopener">fonte</a></li>
+      <li>duomo &mdash; Marco Ober &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Naples_Cathedral_-_Duomo_di_Napoli,_Fa%C3%A7ade_(5315-Pan).jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>sotterranea &mdash; Photo2023 &middot; CC BY 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Napoli_Sotterranea_1.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>plebiscito &mdash; Baku &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:P.Plebiscito_Napoli.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>galleria-umberto &mdash; Enzo Rippa &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Galleria_Umberto_I_ingresso_da_via_Santa_Brigida.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>maschio-angioino &mdash; Santo Mario Gattuso &middot; CC BY-SA 3.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Maschio_angioino1.JPG" target="_blank" rel="noopener">fonte</a></li>
+      <li>castel-ovo &mdash; PaestumPaestum &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Castel_dell%27_Ovo.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>san-martino &mdash; Original uploader was Johnnyrotten at it.wikipedia &middot; CC0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Sant%27Elmo_e_San_Martino_Napoli3.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>via-toledo &mdash; Zaiar95 &middot; CC0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Toledo_(Metropolitana_di_Napoli_L1).jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>mann &mdash; Mister No &middot; CC BY 3.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Museo_Archeologico_Nazionale_di_Napoli_-_panoramio_(1).jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>catacombe &mdash; Dominik Matus &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Catacombe_di_San_Gennaro_023.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>san-carlo &mdash; Diego Delso &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Teatro_de_San_Carlos,_N%C3%A1poles,_Italia,_2023-03-25,_DD_184-186_HDR.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>capodimonte &mdash; Mentnafunangann &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Reggia_di_Capodimonte_1.JPG" target="_blank" rel="noopener">fonte</a></li>
+      <li>fontanelle &mdash; Dominik Matus &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Cimitero_delle_Fontanelle_-_DM_-_001.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>galleria-borbonica &mdash; Associazione Culturale Borbonica Sotterranea &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Galleria_borbonica_-_War_refuge_(Naples).jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>pignasecca &mdash; IlSistemone &middot; CC BY-SA 3.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:MercatoPignasecca6.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>caserta-reggia &mdash; Carlo Napolitano &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:Reggia_di_Caserta_vista_estesa.jpg" target="_blank" rel="noopener">fonte</a></li>
+      <li>caserta-san-leucio &mdash; Mel22 &middot; CC BY-SA 4.0 &middot; <a href="https://commons.wikimedia.org/wiki/File:San_Leucio_-_Fontana.jpg" target="_blank" rel="noopener">fonte</a></li>
+    </ul>
+  </div>
+</details>
+
+</div>
+
+
+<script>window.REGIONE="Napoli Campania";window.MIGLIORI=[{"n":"L'Antica Pizzeria Da Michele","z":"Centro storico","t":"pizza","d":"La pizzeria più storica di Napoli, dal 1870. Solo Margherita e Marinara, niente prenotazioni: si fa la fila e si mangia la napoletana nella sua forma più essenziale.","map":"https://www.google.com/maps/search/?api=1&query=L'Antica%20Pizzeria%20Da%20Michele%2C%20Napoli%2C%20Campania"},{"n":"Gino Sorbillo","z":"Centro storico","t":"pizza","d":"Il nome più celebre di Via dei Tribunali, impasto alto e leggero. Non prende prenotazioni, code lunghe nelle ore di punta.","map":"https://www.google.com/maps/search/?api=1&query=Gino%20Sorbillo%2C%20Napoli%2C%20Campania"},{"n":"Pizzeria Di Matteo","z":"Centro storico","t":"pizza street","d":"Tra le più antiche di Napoli (dal 1936), famosa anche per la pizza fritta e la frittatina. Qui nel 1994 mangiò Bill Clinton durante il G7: da allora è un'istituzione anche per i turisti.","map":"https://www.google.com/maps/search/?api=1&query=Pizzeria%20Di%20Matteo%2C%20Napoli%2C%20Campania"},{"n":"Pizzeria Starita a Materdei","z":"Materdei","t":"pizza","d":"Aperta nel 1901, comparsa ne L'oro di Napoli. La specialità sono le montanare, pizzette fritte e poi passate in forno.","map":"https://www.google.com/maps/search/?api=1&query=Pizzeria%20Starita%20a%20Materdei%2C%20Napoli%2C%20Campania"},{"n":"Pintauro","z":"Via Toledo / Plebiscito","t":"dolci","d":"La 'casa della sfogliatella' dal 1785: bancone minuscolo, si mangia in piedi. Riccia o frolla, meglio calda.","map":"https://www.google.com/maps/search/?api=1&query=Pintauro%2C%20Napoli%2C%20Campania"},{"n":"Scaturchio","z":"Centro storico","t":"dolci","d":"Pasticceria storica: babà e sfogliatella frolla sono i pezzi forti. Servizio al banco, in una delle piazze più belle del centro.","map":"https://www.google.com/maps/search/?api=1&query=Scaturchio%2C%20Napoli%2C%20Campania"},{"n":"Cappella Sansevero (Cristo Velato)","z":"Centro storico","t":"vedere","d":"Il Cristo Velato di Sanmartino e le enigmatiche macchine anatomiche. Ingresso a pagamento e spesso con coda: conviene prenotare.","map":"https://www.google.com/maps/search/?api=1&query=Cappella%20Sansevero%20(Cristo%20Velato)%2C%20Napoli%2C%20Campania"},{"n":"Spaccanapoli e Via dei Tribunali","z":"Centro storico","t":"vedere","d":"Le due strade dritte che tagliano il centro storico UNESCO: chiese, botteghe, vita di strada. Si gira a piedi, gratis.","map":"https://www.google.com/maps/search/?api=1&query=Spaccanapoli%20e%20Via%20dei%20Tribunali%2C%20Napoli%2C%20Campania"},{"n":"San Gregorio Armeno","z":"Centro storico","t":"vedere","d":"La via dei presepi: botteghe di pastori e statuine tutto l'anno, ancora più scenografica a dicembre.","map":"https://www.google.com/maps/search/?api=1&query=San%20Gregorio%20Armeno%2C%20Napoli%2C%20Campania"},{"n":"Piazza del Plebiscito e Palazzo Reale","z":"Via Toledo / Plebiscito","t":"vedere","d":"La grande piazza con la Basilica di San Francesco di Paola e il Palazzo Reale. La piazza è libera; il palazzo a pagamento.","map":"https://www.google.com/maps/search/?api=1&query=Piazza%20del%20Plebiscito%20e%20Palazzo%20Reale%2C%20Napoli%2C%20Campania"},{"n":"I Masanielli di Francesco Martucci","z":"Caserta","t":"pizza","d":"Spesso in cima alle classifiche delle migliori pizze d'Italia. Per una cena di pizza d'autore a Caserta; prenota con anticipo.","map":"https://www.google.com/maps/search/?api=1&query=I%20Masanielli%20di%20Francesco%20Martucci%2C%20Caserta%2C%20Campania"},{"n":"Gran Caffè Gambrinus","z":"Via Toledo / Plebiscito","t":"dolci","d":"Caffè storico dal 1860 accanto a Piazza del Plebiscito. Sfogliatella, babà e il caffè al banco tra stucchi e specchi: un pezzo di Napoli.","map":"https://www.google.com/maps/search/?api=1&query=Gran%20Caff%C3%A8%20Gambrinus%2C%20Napoli%2C%20Campania"},{"n":"Trattoria da Nennella","z":"Quartieri Spagnoli","t":"pasta carne","d":"L'osteria popolare dei Quartieri Spagnoli: chiassosa, economica, piatti di casa. Più un'esperienza che una cena. Spesso coda, si paga in contanti.","map":"https://www.google.com/maps/search/?api=1&query=Trattoria%20da%20Nennella%2C%20Napoli%2C%20Campania"},{"n":"Concettina ai Tre Santi","z":"Sanità","t":"pizza","d":"Nel rione Sanità, la pizzeria di Ciro Oliva (quarta generazione): tra le più premiate di Napoli, impasti e ingredienti di ricerca. Meglio prenotare.","map":"https://www.google.com/maps/search/?api=1&query=Concettina%20ai%20Tre%20Santi%2C%20Napoli%2C%20Campania"},{"n":"Museo Archeologico Nazionale (MANN)","z":"Centro storico","t":"vedere","d":"Uno dei musei archeologici più importanti al mondo: i tesori di Pompei ed Ercolano e il Gabinetto Segreto. A pagamento.","map":"https://www.google.com/maps/search/?api=1&query=Museo%20Archeologico%20Nazionale%20(MANN)%2C%20Napoli%2C%20Campania"},{"n":"Pepe in Grani (Franco Pepe)","z":"Caiazzo (CE)","t":"pizza","d":"Una delle pizze più celebri al mondo, di Franco Pepe, nel borgo di Caiazzo a circa 30 minuti d'auto da Caserta. Da prenotare con largo anticipo.","map":"https://www.google.com/maps/search/?api=1&query=Pepe%20in%20Grani%20(Franco%20Pepe)%2C%20Caserta%2C%20Campania"},{"n":"Tandem","z":"Centro storico","t":"pasta carne","d":"Il tempio del ragù napoletano, in Via Mezzocannone: paccheri al ragù e soprattutto il cuzzetiello (pane ripieno di ragù). Piccolo e sempre pieno, metti in conto la coda.","map":"https://www.google.com/maps/search/?api=1&query=Tandem%2C%20Napoli%2C%20Campania"},{"n":"Mimì alla Ferrovia","z":"Vicino alla stazione","t":"pasta pesce","d":"Istituzione della cucina napoletana vicino alla stazione: pasta e fagioli con le cozze, pesce, classici di casa. Da pranzo lungo.","map":"https://www.google.com/maps/search/?api=1&query=Mim%C3%AC%20alla%20Ferrovia%2C%20Napoli%2C%20Campania"},{"n":"Gay-Odin","z":"Via Toledo / Plebiscito","t":"dolci","d":"Cioccolateria storica dal 1894: la 'foresta' di cioccolato e le praline sono leggendarie. Bottega d'altri tempi tra Via Toledo e il Plebiscito.","map":"https://www.google.com/maps/search/?api=1&query=Gay-Odin%2C%20Napoli%2C%20Campania"},{"n":"Teatro San Carlo","z":"Via Toledo / Plebiscito","t":"vedere","d":"Il più antico teatro lirico d'Europa ancora attivo (1737), accanto a Piazza Trieste e Trento. Si visita con tour guidati; a dicembre è in piena stagione.","map":"https://www.google.com/maps/search/?api=1&query=Teatro%20San%20Carlo%2C%20Napoli%2C%20Campania"},{"n":"50 Kalò di Ciro Salvo","z":"Lungomare","t":"pizza","d":"A Mergellina, una delle pizze più premiate di Napoli (stabilmente nei primi posti delle classifiche). Impasto idratato e leggero. Meglio prenotare.","map":"https://www.google.com/maps/search/?api=1&query=50%20Kal%C3%B2%20di%20Ciro%20Salvo%2C%20Napoli%2C%20Campania"},{"n":"La Bersagliera","z":"Lungomare","t":"pesce","d":"Dal 1919 sul porticciolo di Borgo Marinari, ai piedi del Castel dell'Ovo: pesce e frutti di mare con vista. Spaghetti alle vongole, frittura di paranza, insalata di polpo.","map":"https://www.google.com/maps/search/?api=1&query=La%20Bersagliera%2C%20Napoli%2C%20Campania"},{"n":"Reggia di Caserta","z":"Caserta","t":"vedere","d":"Il palazzo reale borbonico, patrimonio UNESCO: Appartamenti Reali, Cappella Palatina e il grande Scalone d'Onore. Il capolavoro del Vanvitelli, da non perdere. A pagamento, meglio il biglietto online.","map":"https://www.google.com/maps/search/?api=1&query=Reggia%20di%20Caserta%2C%20Caserta%2C%20Campania"},{"n":"Parco della Reggia e Giardino Inglese","z":"Caserta","t":"vedere","d":"Tre chilometri di viali, fontane e cascate fino alla Grande Cascata, più il romantico Giardino Inglese con l'Oasi di San Silvestro. Si gira a piedi o con la navetta: mettici qualche ora.","map":"https://www.google.com/maps/search/?api=1&query=Parco%20della%20Reggia%20e%20Giardino%20Inglese%2C%20Caserta%2C%20Campania"},{"n":"La Masardona","z":"Vicino alla stazione","t":"street pizza","d":"Il tempio della pizza fritta dal 1945, quarta generazione: disco di pasta ripieno e poi fritto, croccante e per niente unto. Segnalata da Luciano Pignataro e dalla critica. Mette in conto la coda.","map":"https://www.google.com/maps/search/?api=1&query=La%20Masardona%2C%20Napoli%2C%20Campania"}];</script>
+<script>window.SUGG=[["Caiazzo (CE)","zona",1,""],["Capodimonte","zona",1,""],["Caserta","zona",5,""],["Casertavecchia","zona",2,""],["Centro storico","zona",15,""],["Lungomare","zona",4,""],["Materdei","zona",1,""],["Municipio / porto","zona",1,""],["Quartieri Spagnoli","zona",2,""],["San Leucio","zona",1,""],["San Marco Evangelista (CE)","zona",1,""],["Sanità","zona",4,""],["Via Toledo / Plebiscito","zona",11,""],["Vicino alla stazione","zona",3,""],["Vomero","zona",1,""],["50 Kalò di Ciro Salvo","Lungomare",0,""],["Antico Forno Attanasio","Vicino alla stazione",0,""],["Belvedere di San Leucio","San Leucio",0,""],["Borgo di Casertavecchia","Casertavecchia",0,""],["Cappella Sansevero (Cristo Velato)","Centro storico",0,""],["Casa Infante","Via Toledo / Plebiscito",0,""],["Castel dell'Ovo e Borgo Marinari","Lungomare",0,""],["Catacombe di San Gennaro","Sanità",0,""],["Certosa di San Martino e Castel Sant'Elmo","Vomero",0,""],["Cimitero delle Fontanelle","Sanità",0,""],["Concettina ai Tre Santi","Sanità",0,""],["Don Lisandro","Caserta",0,""],["Duomo di Napoli e Tesoro di San Gennaro","Centro storico",0,""],["Friggitoria Pizzeria I Decumani","Centro storico",0,""],["Galleria Borbonica","Via Toledo / Plebiscito",0,""],["Galleria Umberto I","Via Toledo / Plebiscito",0,""],["Gay-Odin","Via Toledo / Plebiscito",0,""],["Gino Sorbillo","Centro storico",0,""],["Gran Caffè Gambrinus","Via Toledo / Plebiscito",0,""],["I Masanielli di Francesco Martucci","Caserta",0,""],["Il Cuoppo - Friggitori Napoletani","Centro storico",0,""],["L'Antica Pizzeria Da Michele","Centro storico",0,""],["La Bersagliera","Lungomare",0,""],["La Castellana","Casertavecchia",0,""],["La Masardona","Vicino alla stazione",0,""],["Lungomare Caracciolo","Lungomare",0,""],["Maschio Angioino (Castel Nuovo)","Municipio / porto",0,""],["Mercato della Pignasecca","Via Toledo / Plebiscito",0,""],["Mimì alla Ferrovia","Vicino alla stazione",0,""],["Museo Archeologico Nazionale (MANN)","Centro storico",0,""],["Museo e Real Bosco di Capodimonte","Capodimonte",0,""],["Napoli Sotterranea","Centro storico",0,""],["Osteria da Carmela","Centro storico",0,""],["Parco della Reggia e Giardino Inglese","Caserta",0,""],["Pasticceria Poppella","Sanità",0,""],["Pepe in Grani (Franco Pepe)","Caiazzo (CE)",0,""],["Piazza del Plebiscito e Palazzo Reale","Via Toledo / Plebiscito",0,""],["Pintauro","Via Toledo / Plebiscito",0,""],["Pizzeria Brandi","Via Toledo / Plebiscito",0,""],["Pizzeria Di Matteo","Centro storico",0,""],["Pizzeria Starita a Materdei","Materdei",0,""],["Quartieri Spagnoli e murale di Maradona","Quartieri Spagnoli",0,""],["Reggia di Caserta","Caserta",0,""],["San Gregorio Armeno","Centro storico",0,""],["Scaturchio","Centro storico",0,""],["Spaccanapoli e Via dei Tribunali","Centro storico",0,""],["Tandem","Centro storico",0,""],["Teatro San Carlo","Via Toledo / Plebiscito",0,""],["Tèmpora - La Figlia del Pizzaiolo","San Marco Evangelista (CE)",0,""],["Trattoria da Nennella","Quartieri Spagnoli",0,""],["Trattoria Pizzeria Vasinicola","Caserta",0,""],["Trianon da Ciro","Centro storico",0,""],["Via Toledo e stazione metro Toledo","Via Toledo / Plebiscito",0,""]];window.ZONE=["centro storico","materdei","via toledo plebiscito","vicino alla stazione","municipio porto","lungomare","vomero","quartieri spagnoli","caserta","casertavecchia","sanita","san marco evangelista ce","caiazzo ce","capodimonte","san leucio"];</script>
+<script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+ "cartocciata": "intitle:cartocciata OR intitle:cartocciate",
+ "cipollina": "intitle:cipolline OR intitle:\"rosticceria siciliana\"",
+ "iris": "intitle:\"iris fritta\" OR intitle:\"iris al forno\" OR intitle:\"iris con ricotta\"",
+ "minne": "intitle:\"sant'agata\" dolce OR intitle:minni OR intitle:olivette",
+ "schiacciata": "intitle:scacciata OR intitle:\"schiacciata catanese\"",
+ "pidone": "intitle:pitoni OR intitle:pidoni OR intitle:\"pitone messinese\"",
+ "pignolata": "intitle:\"pignolata messinese\" OR intitle:pignolate",
+ "spadaghiotta": "intitle:\"involtini di pesce spada\" OR intitle:\"spada alla ghiotta\"",
+ "stigghiola": "intitle:stigghiole OR intitle:stigghiola",
+ "patacalzone": "intitle:\"calzone fritto\"",
+ "cassatelle": "intitle:\"cassatelle trapanesi\" OR intitle:\"cassatelle di ricotta\"",
+ "rianata": "intitle:\"pizza rianata\" OR intitle:rianata trapani",
+ "vini": "intitle:vigneti Etna OR intitle:\"Etna DOC\" OR intitle:Passopisciaro vigneto"
+}

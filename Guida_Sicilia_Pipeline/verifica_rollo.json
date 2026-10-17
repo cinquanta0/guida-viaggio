@@ -1,0 +1,68 @@
+{
+ "rollo": [
+  {
+   "title": "Rollò in vetrina.jpg",
+   "w": 3024,
+   "h": 4032,
+   "proporzione": 0.75,
+   "lat": 37.490539,
+   "lon": 14.065678,
+   "kmDaAciCatena": 95,
+   "categorie": [
+    "CC-BY-SA-4.0",
+    "Cuisine of Caltanissetta",
+    "Files with coordinates missing SDC location of creation",
+    "Images with extracted images",
+    "Marzipan in Italy",
+    "Rollò",
+    "Self-published work",
+    "Wiki Loves Sicilia 2024"
+   ],
+   "descrizione": "Rollò in vetrina",
+   "author": "OppidumNissenae",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Rollò con cuore di marzapane.jpg",
+   "w": 4032,
+   "h": 3024,
+   "proporzione": 1.33,
+   "lat": 37.490556,
+   "lon": 14.065614,
+   "kmDaAciCatena": 95,
+   "categorie": [
+    "CC-BY-SA-4.0",
+    "Cuisine of Caltanissetta",
+    "Files with coordinates missing SDC location of creation",
+    "Marzipan in Italy",
+    "Rollò",
+    "Self-published work",
+    "Wiki Loves Sicilia 2024"
+   ],
+   "descrizione": "Rollò con cuore di marzapane",
+   "author": "OppidumNissenae",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Rollò preparativi - prima del taglio 01.jpg",
+   "w": 3024,
+   "h": 4032,
+   "proporzione": 0.75,
+   "lat": 37.490556,
+   "lon": 14.065611,
+   "kmDaAciCatena": 95,
+   "categorie": [
+    "CC-BY-SA-4.0",
+    "Cuisine of Caltanissetta",
+    "Files with coordinates missing SDC location of creation",
+    "Marzipan in Italy",
+    "Rollò",
+    "Self-published work",
+    "Wiki Loves Sicilia 2024"
+   ],
+   "descrizione": "Preparazione del rollò, prima della rifinitura e del taglio",
+   "author": "OppidumNissenae",
+   "license": "CC BY-SA 4.0"
+  }
+ ]
+}

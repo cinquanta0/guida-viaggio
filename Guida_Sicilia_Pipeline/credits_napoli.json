@@ -1,0 +1,26 @@
+[
+ {
+  "file": "nap-caserta-reggia.jpg",
+  "slug": "caserta-reggia",
+  "voce": "Reggia di Caserta",
+  "autore": "Carlo Napolitano",
+  "licenza": "CC BY-SA 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Reggia_di_Caserta_vista_estesa.jpg"
+ },
+ {
+  "file": "nap-caserta-parco.jpg",
+  "slug": "caserta-parco",
+  "voce": "Reggia di Caserta",
+  "autore": "Carlo Napolitano",
+  "licenza": "CC BY-SA 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Reggia_di_Caserta_vista_estesa.jpg"
+ },
+ {
+  "file": "nap-caserta-san-leucio.jpg",
+  "slug": "caserta-san-leucio",
+  "voce": "San Leucio (Caserta)",
+  "autore": "Mel22",
+  "licenza": "CC BY-SA 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:San_Leucio_-_Fontana.jpg"
+ }
+]

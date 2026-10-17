@@ -1,0 +1,551 @@
+/* Sicilia — i posti.
+   CSS volutamente semplice: niente variabili, niente grid, niente clamp,
+   niente animazioni. Deve funzionare anche su telefoni vecchi. */
+
+* { -webkit-box-sizing: border-box; box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0; padding: 0;
+  background: #f7f2e8; color: #2b2320;
+  font-family: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px; line-height: 1.5; word-wrap: break-word;
+}
+img { max-width: 100%; height: auto; display: block; border: 0; }
+a { color: #1c6a86; }
+h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; font-weight: normal; margin: 0; }
+p { margin: 0 0 10px; }
+.wrap { max-width: 700px; margin: 0 auto; padding: 0 14px; }
+
+/* ---------- testata ---------- */
+.top { background: #2b2320; color: #f7f2e8; padding-bottom: 18px; }
+.top img { width: 100%; max-width: 700px; margin: 0 auto; }
+.top-txt { padding: 14px 14px 0; max-width: 700px; margin: 0 auto; }
+.top h1 { font-size: 42px; line-height: 1; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 8px; }
+.top .when { color: #f0c94b; font-size: 13px; letter-spacing: 1px; text-transform: uppercase; margin: 0 0 8px; }
+.top .base { font-size: 15px; color: #d8cec2; margin: 0; }
+.top .base b { color: #fff; }
+
+/* ---------- filtri ---------- */
+/* ---------- campo di ricerca ---------- */
+.f-cerca { position: relative; margin: 0 0 12px; }
+#cerca {
+  font: inherit; font-size: 16px; width: 100%;
+  padding: 11px 38px 11px 12px;
+  border: 2px solid #c1441f; border-radius: 3px;
+  background: #fff; color: #2b2320;
+  -webkit-appearance: none; appearance: none;
+}
+#cerca::-webkit-search-cancel-button { display: none; }
+.b-pulisci {
+  display: none; position: absolute; right: 4px; bottom: 4px;
+  width: 34px; height: 34px; border: 0; background: transparent;
+  font-size: 24px; line-height: 1; color: #8a7d72; cursor: pointer;
+}
+
+.filtri { background: #fff; border-bottom: 3px solid #c1441f; padding: 12px 0 10px; }
+.f-riga { margin: 0 0 8px; }
+.f-lab {
+  display: block; font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase;
+  color: #a3907c; margin: 0 0 5px;
+}
+.fb {
+  font: inherit; font-size: 14px; cursor: pointer;
+  background: #faf6ee; color: #2b2320; border: 1px solid #ddd2c0;
+  padding: 7px 11px; margin: 0 5px 5px 0; border-radius: 3px;
+}
+.fb.on { background: #2b2320; color: #fff; border-color: #2b2320; }
+
+/* I bottoni della riga COME portano le stesse classi dei badge nelle schede
+   (.g-top, .g-loc...), che li dipingevano a tinta piena anche da spenti:
+   acceso e spento si distinguevano solo per il colore di un bordo da 1px,
+   praticamente invisibile al sole. Da spenti restano chiari come gli altri
+   filtri, col colore della categoria nel bordo; accesi si riempiono.
+   Il fondo e il testo vanno ripetuti perche' .g-top & co. li impostano. */
+.fb.g-sic, .fb.g-top, .fb.g-loc, .fb.g-eco, .fb.g-nas,
+.fb.g-cre, .fb.g-vis, .fb.g-gra, .fb.g-pre {
+  background: #faf6ee; color: #2b2320;
+}
+.fb.g-sic { border-color: #9d2933; }
+.fb.g-top { border-color: #d9ae2e; }
+.fb.g-loc { border-color: #6d8a35; }
+.fb.g-eco { border-color: #1c6a86; }
+.fb.g-nas { border-color: #8e4767; }
+.fb.g-cre { border-color: #b1401d; }
+.fb.g-vis { border-color: #10495d; }
+.fb.g-gra { border-color: #3f7d3a; }
+.fb.g-pre { border-color: #8a3b8f; }
+.fb.g-sic.on { background: #9d2933; color: #fff; border-color: #9d2933; }
+.fb.g-top.on { background: #f0c94b; color: #4a3600; border-color: #f0c94b; }
+.fb.g-loc.on { background: #6d8a35; color: #fff; border-color: #6d8a35; }
+.fb.g-eco.on { background: #1c6a86; color: #fff; border-color: #1c6a86; }
+.fb.g-nas.on { background: #8e4767; color: #fff; border-color: #8e4767; }
+.fb.g-cre.on { background: #b1401d; color: #fff; border-color: #b1401d; }
+.fb.g-vis.on { background: #10495d; color: #fff; border-color: #10495d; }
+
+.f-azioni { margin: 10px 0 0; }
+.oltre-wrap { margin: 2px 0 0; }
+.b-reset, .b-caso {
+  font: inherit; font-size: 14px; cursor: pointer; border: 0; border-radius: 3px;
+  padding: 9px 13px; margin: 0 6px 6px 0;
+}
+.b-reset { background: #ece2d2; color: #2b2320; }
+.b-caso { background: #c1441f; color: #fff; }
+.conta { font-size: 13px; color: #6b5f57; }
+
+.b-oltre {
+  display: inline-block; font: inherit; font-size: 14px; text-decoration: none;
+  border: 1px solid #1c6a86; border-radius: 3px; color: #1c6a86;
+  padding: 8px 12px; margin: 0 6px 6px 0;
+}
+
+.pescato { display: none; }
+.pescato.on {
+  display: block; background: #fdf6e3; border: 1px solid #f0c94b;
+  padding: 11px 13px; margin: 8px 0 0; font-size: 15px;
+}
+.pescato b { font-family: Georgia, serif; font-size: 19px; }
+.pescato .pk { display: block; font-size: 13px; color: #6b5f57; margin-top: 2px; }
+
+/* ---------- avviso lista vuota ---------- */
+.avviso { display: none; background: #fdeee9; border-left: 4px solid #c1441f; padding: 12px 14px; margin: 16px 0; }
+.avviso.on { display: block; }
+
+/* ---------- fasce di distanza ---------- */
+.fascia { background: #fff; border: 1px solid #e3d9c8; margin: 12px 0 0; }
+.fascia.vuota { display: none; }
+.fascia > summary {
+  display: block; cursor: pointer; padding: 12px 40px 12px 14px;
+  list-style: none; position: relative; background: #faf6ee;
+}
+.fascia > summary::-webkit-details-marker { display: none; }
+.fascia > summary::after {
+  content: "+"; position: absolute; right: 14px; top: 11px;
+  font-size: 24px; line-height: 1; color: #c1441f;
+}
+.fascia[open] > summary::after { content: "\2013"; }
+.fascia[open] > summary { border-bottom: 1px solid #e3d9c8; }
+.f-t { display: block; font-family: Georgia, "Times New Roman", serif; font-size: 21px; line-height: 1.2; }
+.f-s { display: block; font-size: 13px; color: #6b5f57; margin-top: 2px; }
+.f-c { display: block; font-size: 12px; color: #a3907c; letter-spacing: 1px; text-transform: uppercase; margin-top: 4px; }
+.f-c b { color: #c1441f; }
+.f-in { padding: 0 14px; }
+
+/* ---------- singolo posto ---------- */
+.p { padding: 14px 0; border-bottom: 1px solid #eee5d6; }
+.p:last-child { border-bottom: 0; }
+.p.no { display: none; }
+.p.evidenzia { background: #fdf6e3; box-shadow: 0 0 0 3px #f0c94b; }
+.p > img { margin: 0 0 10px; }
+/* ---------- carosello delle foto ---------- */
+/* Lo scorrimento e' quello nativo del browser con lo scatto (scroll-snap):
+   e' il browser a decidere se il dito sta scorrendo in orizzontale o in
+   verticale, e lo indovina meglio di qualsiasi codice scritto a mano.
+   Le freccette muovono lo stesso contenitore, non uno stato parallelo. */
+.gal { position: relative; margin: 0 0 10px; }
+.gal-str {
+  display: -webkit-box; display: -ms-flexbox; display: flex;
+  overflow-x: auto; overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  -ms-scroll-snap-type: x mandatory;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+.gal-str::-webkit-scrollbar { display: none; }
+.gal-i {
+  -webkit-box-flex: 0; -ms-flex: 0 0 100%; flex: 0 0 100%;
+  width: 100%;
+  scroll-snap-align: center;
+  scroll-snap-stop: always;
+}
+
+/* Le freccette: bianche su fondo scuro semitrasparente, perche' devono
+   restare leggibili sia su un cielo bianco sia su uno scoglio nero. */
+.gal-f {
+  position: absolute; top: 50%; margin-top: -19px;
+  width: 38px; height: 38px; padding: 0;
+  border: 0; border-radius: 50%;
+  background: rgba(43, 35, 32, 0.62); color: #fff;
+  font: inherit; font-size: 26px; line-height: 36px;
+  cursor: pointer; z-index: 2;
+  -webkit-appearance: none; appearance: none;
+}
+.gal-prec { left: 8px; }
+.gal-succ { right: 8px; }
+.gal-f:active { background: rgba(43, 35, 32, 0.85); }
+/* a inizio e fine corsa la freccia inutile sparisce, non resta finta */
+.gal-f[hidden] { display: none; }
+
+.gal-pt { margin: 6px 0 0; text-align: center; line-height: 1; }
+.gal-pt i {
+  display: inline-block; width: 6px; height: 6px; margin: 0 3px;
+  border-radius: 50%; background: #d5c9b6;
+}
+.gal-pt i.on { background: #c1441f; }
+
+@media (min-width: 700px) {
+  .gal-f { width: 42px; height: 42px; margin-top: -21px; font-size: 28px; line-height: 40px; }
+}
+
+.p-km { font-size: 13px; color: #6b5f57; margin: 0 0 3px; }
+.km-n {
+  display: inline-block; background: #2b2320; color: #f7f2e8;
+  font-size: 12px; font-weight: bold; padding: 2px 7px; border-radius: 2px; margin-right: 5px;
+}
+.km-d { color: #a3907c; font-size: 12px; }
+.p h3 { font-size: 19px; line-height: 1.2; margin: 0 0 2px; }
+.p-a { font-size: 13px; color: #1c6a86; margin: 0 0 5px; }
+.p-tag { margin: 5px 0 6px; }
+.ti, .tg {
+  display: inline-block; font-size: 11px; letter-spacing: 0.5px; text-transform: uppercase;
+  padding: 2px 7px; margin: 0 4px 4px 0; border-radius: 2px; line-height: 1.7;
+}
+.ti { background: #ece2d2; color: #5a4d42; }
+.tg { font-weight: bold; }
+.g-sic { background: #9d2933; color: #fff; }
+.g-top { background: #f0c94b; color: #4a3600; }
+.g-loc { background: #6d8a35; color: #fff; }
+.g-eco { background: #1c6a86; color: #fff; }
+.g-nas { background: #8e4767; color: #fff; }
+.g-cre { background: #b1401d; color: #fff; }
+.g-vis { background: #10495d; color: #fff; }
+.p-d { font-size: 14px; color: #554c45; margin: 0; }
+
+/* ---------- sezione del cibo: zona e prezzo ---------- */
+.p-zona {
+  font-size: 11px; letter-spacing: 1.2px; text-transform: uppercase;
+  color: #a3907c; margin: 0 0 5px;
+}
+/* Il prezzo e' una stima, non un dato calcolato come i tempi: la parola
+   "indicativo" gli sta accanto sempre, in chiaro, non in una nota a pie'
+   di pagina che nessuno legge. */
+.p-prezzo {
+  font-size: 13px; color: #8a7d72; margin: 7px 0 0;
+}
+.p-prezzo span {
+  display: inline-block; background: #f3ede1; color: #4a3f36;
+  font-weight: bold; padding: 2px 7px; border-radius: 2px; margin-right: 5px;
+}
+.avviso-prezzi {
+  font-size: 13px; line-height: 1.45; color: #6b5f57;
+  background: #faf6ee; border-left: 3px solid #d9ae2e;
+  padding: 9px 11px; margin: 0 0 14px;
+}
+
+/* ---------- sezione finale ---------- */
+.sec { padding: 26px 0 4px; }
+.sec-h { font-size: 26px; border-bottom: 2px solid #2b2320; padding-bottom: 8px; margin: 0; }
+.su { display: block; text-align: center; font-size: 14px; padding: 18px 10px; color: #6b5f57; }
+
+/* ---------- fondo ---------- */
+.fondo { background: #2b2320; color: #d8cec2; margin-top: 26px; padding: 22px 0 30px; font-size: 14px; }
+.fondo h2 { color: #f7f2e8; font-size: 24px; margin: 0 0 8px; }
+.fondo a { color: #e5b93c; }
+.fondo .crediti { font-size: 12px; line-height: 1.6; color: #9a8f84; }
+.fondo ul.crediti { margin: 0; padding: 0; list-style: none; }
+.fondo .crediti li { margin: 0 0 4px; }
+.fondo summary { cursor: pointer; color: #d8cec2; margin: 14px 0 8px; }
+
+/* ---------- schermi grandi ---------- */
+@media (min-width: 760px) {
+  body { font-size: 17px; }
+  .top h1 { font-size: 62px; }
+  .f-t { font-size: 24px; }
+  .p h3 { font-size: 21px; }
+}
+
+@media print {
+  .filtri, .su { display: none; }
+  body { background: #fff; }
+}
+
+/* ---------- chip del tipo, colorati per categoria ---------- */
+.ti-mare   { background: #cfe9f1; color: #0f4a5e; }
+.ti-pizza  { background: #f6ddc8; color: #7a3d12; }
+.ti-street { background: #f4e3b8; color: #6b4e00; }
+.ti-carne  { background: #eed3d3; color: #7d2b2b; }
+.ti-pesce  { background: #d5e8e2; color: #1c5748; }
+.ti-pasta  { background: #f0e4c4; color: #6a5312; }
+.ti-dolci  { background: #f2d9e4; color: #7c2f52; }
+.ti-vedere { background: #ddd9ee; color: #3d3470; }
+.ti-spesa  { background: #dfe7d3; color: #40542a; }
+
+/* fondo della spiaggia */
+.fo-sabbia   { background: #e8c96a; color: #4a3600; }
+.fo-ciottoli { background: #b9b2a4; color: #2f2a22; }
+.fo-scogli   { background: #6f7d86; color: #fff; }
+.fb.fo-sabbia.on   { background: #d4ae3a; color: #3a2900; border-color: #d4ae3a; }
+.fb.fo-ciottoli.on { background: #8d8577; color: #fff; border-color: #8d8577; }
+.fb.fo-scogli.on   { background: #4d5a63; color: #fff; border-color: #4d5a63; }
+
+/* gratis e prenotare */
+.g-gra { background: #3f7d3a; color: #fff; }
+.g-pre { background: #8a3b8f; color: #fff; }
+.fb.g-gra.on { background: #3f7d3a; color: #fff; border-color: #3f7d3a; }
+.fb.g-pre.on { background: #8a3b8f; color: #fff; border-color: #8a3b8f; }
+
+/* i bottoni-filtro del tipo restano neutri quando spenti */
+.fb.ti-ristorante, .fb.ti-mangiare, .fb.ti-mare, .fb.ti-pizza, .fb.ti-street, .fb.ti-carne, .fb.ti-pesce,
+.fb.ti-pasta, .fb.ti-dolci, .fb.ti-vedere, .fb.ti-spesa {
+  background: #faf6ee; color: #2b2320; border: 1px solid #ddd2c0;
+}
+.fb.ti-ristorante.on, .fb.ti-mangiare.on, .fb.ti-mare.on, .fb.ti-pizza.on, .fb.ti-street.on, .fb.ti-carne.on, .fb.ti-pesce.on,
+.fb.ti-pasta.on, .fb.ti-dolci.on, .fb.ti-vedere.on, .fb.ti-spesa.on {
+  background: #2b2320; color: #fff; border-color: #2b2320;
+}
+
+/* ---------- link alla mappa ---------- */
+/* i due collegamenti in fondo alla scheda stanno sulla stessa riga e vanno
+   a capo insieme sui telefoni stretti */
+.p-map { display: flex; flex-wrap: wrap; gap: 8px; }
+.p-fork { border-color: #1f7a63 !important; color: #14513f !important; }
+
+.p-map { margin: 8px 0 0; }
+.p-map a {
+  display: inline-block; font-size: 13px; font-weight: bold;
+  color: #1c6a86; text-decoration: none;
+  border: 1px solid #cfe0e7; background: #f2f8fa;
+  padding: 6px 11px; border-radius: 3px;
+}
+.p-map a:active { background: #e2eef3; }
+
+/* ---------- suggerimenti della ricerca ---------- */
+.sugg { display: none; }
+.sugg.on {
+  display: block; position: absolute; z-index: 40; left: 0; right: 0; top: 100%;
+  background: #fff; border: 2px solid #c1441f; border-top: 0;
+  margin: 0; padding: 0; list-style: none;
+  box-shadow: 0 6px 14px rgba(43, 35, 32, 0.16);
+  /* Otto suggerimenti sono ~550px: col telefono e la tastiera aperta ne
+     restano fuori piu' della meta'. La tendina si scorre da sola, cosi'
+     non serve scorrere la pagina per arrivare in fondo all'elenco.
+     Il valore vero lo ricalcola app.js sullo spazio davvero disponibile;
+     questo e' il ripiego se visualViewport non c'e'. */
+  max-height: 45vh;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.sugg li {
+  padding: 11px 12px; border-bottom: 1px solid #eee5d6; cursor: pointer;
+}
+.sugg li:last-child { border-bottom: 0; }
+.sugg li:active { background: #fdf6e3; }
+.sugg li b {
+  display: block; font-family: Georgia, "Times New Roman", serif;
+  font-size: 17px; font-weight: normal; color: #2b2320;
+}
+.sugg li span { display: block; font-size: 12px; color: #8a7d72; margin-top: 1px; }
+
+/* il tempo dentro il suggerimento, come il badge nelle schede */
+.sugg li span i {
+  font-style: normal; display: inline-block;
+  background: #2b2320; color: #f7f2e8;
+  font-size: 11px; font-weight: bold;
+  padding: 1px 6px; border-radius: 2px; margin-right: 6px;
+}
+
+/* ---------- bottone "torna su" ---------- */
+#torna-su {
+  position: fixed; right: 14px; bottom: 14px; z-index: 60;
+  width: 46px; height: 46px; line-height: 46px; text-align: center;
+  background: #2b2320; color: #f7f2e8; text-decoration: none;
+  border-radius: 3px; font-size: 15px;
+  box-shadow: 0 2px 8px rgba(43, 35, 32, 0.3);
+}
+#torna-su:active { background: #c1441f; }
+
+/* il posto raggiunto dalla ricerca non deve finire sotto il bordo dello schermo */
+.p.evidenzia { scroll-margin-top: 12px; }
+
+/* ============================================================
+   MOVIMENTO
+   Solo dove serve a capire cosa sta succedendo: conferma del
+   tocco, comparsa della tendina, richiamo sul posto trovato.
+   Transizioni CSS con prefisso -webkit-: vanno da Android 4 e iOS 6.
+   ============================================================ */
+
+/* --- conferma del tocco: sul telefono senza questo non sai se hai premuto --- */
+.fb, .b-reset, .b-caso, .b-oltre, .b-pulisci, .p-map a, .menu a, #torna-su {
+  -webkit-transition: background-color .15s ease, color .15s ease,
+                      border-color .15s ease, -webkit-transform .08s ease;
+  transition: background-color .15s ease, color .15s ease,
+              border-color .15s ease, transform .08s ease;
+}
+.fb:active, .b-reset:active, .b-caso:active, .b-oltre:active, .p-map a:active, #torna-su:active {
+  -webkit-transform: scale(.96);
+  transform: scale(.96);
+}
+
+/* la riga del posto reagisce al tocco */
+.p { -webkit-transition: background-color .18s ease; transition: background-color .18s ease; }
+.p:active { background: #fbf7ef; }
+
+/* la testata della fascia: si capisce che e' premibile */
+.fascia > summary {
+  -webkit-transition: background-color .15s ease;
+  transition: background-color .15s ease;
+}
+.fascia > summary:active { background: #f2ebdd; }
+.fascia > summary::after {
+  -webkit-transition: -webkit-transform .2s ease;
+  transition: transform .2s ease;
+}
+.fascia[open] > summary::after { -webkit-transform: rotate(180deg); transform: rotate(180deg); }
+
+/* --- la tendina dei suggerimenti entra invece di apparire di scatto --- */
+@-webkit-keyframes scendi { from { opacity: 0; -webkit-transform: translateY(-6px); } to { opacity: 1; -webkit-transform: none; } }
+@keyframes scendi { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
+.sugg.on {
+  -webkit-animation: scendi .16s ease-out;
+  animation: scendi .16s ease-out;
+}
+.sugg li { -webkit-transition: background-color .12s ease; transition: background-color .12s ease; }
+.sugg li:active { background: #fdf6e3; }
+
+/* --- il posto raggiunto dalla ricerca fa un battito, poi si calma --- */
+@-webkit-keyframes battito {
+  0%   { -webkit-box-shadow: 0 0 0 3px #f0c94b; background: #fdf6e3; }
+  30%  { -webkit-box-shadow: 0 0 0 9px rgba(240, 201, 58, .45); background: #fdf1cd; }
+  100% { -webkit-box-shadow: 0 0 0 3px #f0c94b; background: #fdf6e3; }
+}
+@keyframes battito {
+  0%   { box-shadow: 0 0 0 3px #f0c94b; background: #fdf6e3; }
+  30%  { box-shadow: 0 0 0 9px rgba(240, 201, 58, .45); background: #fdf1cd; }
+  100% { box-shadow: 0 0 0 3px #f0c94b; background: #fdf6e3; }
+}
+.p.evidenzia { -webkit-animation: battito 1s ease-out; animation: battito 1s ease-out; }
+
+/* --- il risultato del dado e il bottone "torna su" entrano in dissolvenza --- */
+@-webkit-keyframes entra { from { opacity: 0; } to { opacity: 1; } }
+@keyframes entra { from { opacity: 0; } to { opacity: 1; } }
+.pescato.on, #torna-su { -webkit-animation: entra .22s ease-out; animation: entra .22s ease-out; }
+
+/* --- le foto sfumano quando arrivano, invece di comparire di colpo --- */
+.p > img { opacity: 1; }
+.p > img.attesa { opacity: 0; }
+.p > img.caricata {
+  opacity: 1;
+  -webkit-animation: entra .3s ease-out;
+  animation: entra .3s ease-out;
+}
+
+/* --- messa a fuoco visibile: serve a chi naviga da tastiera --- */
+.fb:focus, .b-reset:focus, .b-caso:focus, .b-oltre:focus, #cerca:focus,
+.p-map a:focus, .menu a:focus, .fascia > summary:focus {
+  outline: 2px solid #1c6a86;
+  outline-offset: 2px;
+}
+
+/* --- chi ha chiesto meno movimento non lo riceve --- */
+@media (prefers-reduced-motion: reduce) {
+  .fb, .b-reset, .b-caso, .b-oltre, .b-pulisci, .p-map a, .menu a, #torna-su,
+  .p, .fascia > summary, .fascia > summary::after, .sugg li {
+    -webkit-transition: none !important;
+    transition: none !important;
+  }
+  .sugg.on, .p.evidenzia, .pescato.on, #torna-su, .p > img.caricata {
+    -webkit-animation: none !important;
+    animation: none !important;
+  }
+  .fb:active, .b-reset:active, .b-caso:active, .b-oltre:active, .p-map a:active, #torna-su:active {
+    -webkit-transform: none; transform: none;
+  }
+}
+
+/* ---- badge affidabilita' del dato (sel / ver / auto) ---- */
+.af{display:inline-block;font-size:.68rem;font-weight:700;line-height:1.4;
+  padding:.05em .55em;border-radius:1em;margin-right:.35em;vertical-align:middle;
+  letter-spacing:.02em;white-space:nowrap}
+.af-sel{background:#1f7a4d;color:#fff}
+.af-ver{background:#e2efe7;color:#1f5c3a;border:1px solid #9cc7ad}
+.af-auto{background:#efe7d6;color:#8a6d2f;border:1px solid #d8c594}
+/* interruttore "mostra anche i non verificati" */
+.fb-aff.on{background:#8a6d2f;color:#fff;border-color:#8a6d2f}
+
+/* ============================================================
+   RESTYLE 2026-10 — look "guida editoriale" (layer di rifinitura)
+   Sovrascrive per valore, non tocca la struttura. Reversibile.
+   ============================================================ */
+body{ background:#f4ecdc; color:#26201b; }
+h1,h2,h3,.f-t,.sugg li b,.pescato b{
+  font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+}
+
+/* --- testata piu' editoriale --- */
+.top{ background:#231c17; }
+.top .when{ color:#e6b23c; letter-spacing:2.5px; }
+.top h1{ letter-spacing:3px; }
+.top .base b{ color:#e6b23c; }
+
+/* --- barra filtri: pillole morbide --- */
+.filtri{ border-bottom:3px solid #e6b23c; }
+.fb,.b-reset,.b-caso,.b-oltre,.fb-aff{ border-radius:999px; }
+.fb{ padding:7px 13px; }
+.b-caso{ background:#c1441f; }
+
+/* --- le fasce diventano una sezione aperta, le schede "galleggiano" --- */
+.fascia{ background:transparent; border:0; margin:20px 0 0; }
+.fascia>summary{ background:transparent; padding:4px 34px 10px 0; }
+.fascia>summary::after{ top:2px; color:#c1441f; }
+.fascia[open]>summary{ border-bottom:0; }
+.f-in{ padding:0; }
+
+/* --- ogni posto e' una SCHEDA (card) --- */
+.p{
+  background:#fff; border:1px solid #e8ddc9; border-radius:14px;
+  padding:14px 16px; margin:0 0 12px;
+  box-shadow:0 1px 2px rgba(36,29,24,.05), 0 6px 18px rgba(36,29,24,.06);
+}
+.p:last-child{ border-bottom:1px solid #e8ddc9; }
+.p:active{ background:#fffdf8; }
+.p > img, .gal-i, .gal{ border-radius:10px; }
+.p h3{ font-size:22px; line-height:1.18; margin-top:2px; }
+
+/* --- "I migliori" valorizzati in oro (senza toccare il box-shadow della ricerca) --- */
+.p[data-aff="sel"]{ border-color:#e6b23c; background:#fffdf4; }
+
+/* --- badge affidabilita' in stile guida --- */
+.af{
+  border-radius:999px; text-transform:uppercase; letter-spacing:.07em;
+  font-size:.62rem; padding:.22em .66em;
+}
+.af-sel{ background:#e6b23c; color:#3a2a00; border:0; }
+.af-ver{ background:#eaf1eb; color:#285c3c; border:1px solid #bdd7c4; }
+.af-auto{ background:#efe6d4; color:#8a6d2f; border:1px solid #ddcea6; }
+
+/* --- badge del tempo e chip: piu' morbidi --- */
+.km-n{ border-radius:999px; background:#285c3c; }
+.ti,.tg{ border-radius:999px; }
+
+/* --- intestazioni sezioni --- */
+.sec-h{ border-bottom:2px solid #e6b23c; }
+
+/* --- link mappa/fork a pillola --- */
+.p-map a{ border-radius:999px; }
+
+/* --- Il consiglio di oggi (evidenza che cambia ogni giorno) --- */
+.oggi{ background:#fff; border:1px solid #e6b23c; border-left:5px solid #e6b23c;
+  border-radius:14px; padding:16px 18px; margin:18px 0 0;
+  box-shadow:0 6px 20px rgba(201,150,30,.12); }
+.oggi-k{ font-size:11px; letter-spacing:2px; text-transform:uppercase;
+  color:#b07d12; font-weight:700; margin:0 0 4px; }
+.oggi-n{ font-size:26px; line-height:1.12; margin:0 0 2px; }
+.oggi-z{ font-size:13px; color:#8a7d72; margin:0 0 8px; }
+.oggi-d{ font-size:15px; color:#4a4038; margin:0 0 10px; }
+.oggi-m a{ display:inline-block; font-size:13px; font-weight:700; text-decoration:none;
+  color:#1c6a86; border:1px solid #cfe0e7; background:#f2f8fa;
+  padding:6px 12px; border-radius:999px; }
+
+/* --- selettore destinazione (tab in alto) --- */
+.dest-nav{ display:flex; background:#1a1512; }
+.dest-nav a{ flex:1 1 0; text-align:center; text-decoration:none; color:#cdbfa8;
+  font-family:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif; font-size:16px;
+  padding:12px 8px; border-bottom:3px solid transparent; letter-spacing:.5px; }
+.dest-nav a.on{ color:#f4ecdc; border-bottom-color:#e6b23c; background:#231c17; }
+
+/* --- hero di solo testo (Napoli, senza foto) --- */
+.top-testo{ padding-top:22px; }
+.top-testo .top-txt{ padding-top:0; }
+
+/* --- sottotitolo di sezione --- */
+.sec-s{ font-size:14px; color:#8a7d72; margin:2px 0 0; }

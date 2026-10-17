@@ -1,0 +1,91 @@
+comune,min,tipo,nome,voto,recensioni,note
+Misterbianco,24,carne,Old Wild West - Catania Centro Sicilia,4.2,2988,catena nazionale steakhouse
+Misterbianco,24,carne pasta,A Nica trattoria pizzeria,4.3,61,
+Misterbianco,24,carne pesce,Ristorante degli Amici,4.0,456,
+Misterbianco,24,pasta,Angel's Pub Misterbianco,4.4,712,
+Misterbianco,24,pasta,New Londoners,4.8,54,
+Misterbianco,24,pizza,Ducale AV - Ristorante & Pizzeria,4.4,480,
+Misterbianco,24,pasta,Il Covo,4.4,789,
+Misterbianco,24,dolci,Bar pasticceria Angelo Santapaola,4.6,1303,gelato
+Misterbianco,24,dolci,Pasticceria Cav. Belfiore,4.5,568,
+Misterbianco,24,dolci,Stella del gelato,4.2,89,
+Misterbianco,24,pizza,Pizz'e Core (tradizione napoletana),4.7,362,
+Misterbianco,24,pizza,Peppe's Pizza,4.8,26,poche recensioni
+Misterbianco,24,pizza,Pizza Spettacolo,4.7,105,
+Mascalucia,20,carne,Artu' fuori le mura,4.9,63,
+Mascalucia,20,carne,Casale Marretti,4.2,529,
+Mascalucia,20,dolci,Pasticceria Zuccarata,4.7,131,verificare confine con Tremestieri (via Tremestieri 13)
+Mascalucia,20,dolci,Ottagono 1983,4.0,3231,gelato+pasticceria, molto popolare
+Mascalucia,20,dolci,Pasticceria Dolci Pasticci,4.3,500,gelato
+Mascalucia,20,pizza,Pizzika,4.6,1029,
+Mascalucia,20,pizza pasta,Miseria e Nobiltà,4.2,1873,piatti siciliani
+Mascalucia,20,pizza,Pizzeria Antica Roma,4.5,59,
+Mascalucia,20,pizza,Pizzeria Michelangelo di Nicotra Salvatore,4.4,302,
+Belpasso,28,carne pasta,Da Borzì,4.7,181,
+Belpasso,28,carne,Old Wild West - Catania Etnapolis,4.6,5225,catena nazionale steakhouse
+Belpasso,28,carne pasta,Ristorante Osteria Le Miniminagghie,4.2,1908,taglieri
+Belpasso,28,dolci,Pasticceria Condorelli,4.3,2479,marchio storico siciliano
+Belpasso,28,dolci,Arte in Torta,4.4,793,
+Belpasso,28,dolci,Vittoria pasticceria,4.4,204,
+Belpasso,28,dolci,Dolci Tentazioni,4.7,50,poche recensioni
+Belpasso,28,pizza,Antica Pizzeria Belpasso,4.7,92,
+Belpasso,28,pizza,Pizzeria La Villetta,5.0,71,
+Belpasso,28,pizza,Pizzeria L'angoletto,4.8,109,
+Belpasso,28,pizza,Pizzeria El Paso,4.5,215,
+San Giovanni la Punta,15,pasta,M.I.C. - San Giovanni La Punta,4.7,285,
+San Giovanni la Punta,15,pasta,La Diavola Since 1997,4.6,833,
+San Giovanni la Punta,15,carne,La Braceria,4.2,56,
+San Giovanni la Punta,15,carne pesce,Giardino di Bacco,4.7,713,siciliana in villa 900, 40-70 euro
+San Giovanni la Punta,15,dolci,Mon Chery,4.5,509,
+San Giovanni la Punta,15,dolci,Il Cioccolatino di Leone Giuseppe,4.9,43,poche recensioni
+San Giovanni la Punta,15,dolci,Bar Centrale Srl,4.2,1169,granita e brioche
+San Giovanni la Punta,15,pizza,Pizzeria della regione,4.8,91,
+San Giovanni la Punta,15,pizza,A Modo Mio Pizzeria Naturale,4.5,178,
+San Giovanni la Punta,15,pizza,Tutto Pizza di Marino Giuseppe,4.7,155,
+San Giovanni la Punta,15,pizza,Basilium pizzeria,4.5,321,
+San Giovanni la Punta,15,pizza,Pizzeria Sale e Pepe,4.6,52,
+Tremestieri Etneo,16,carne,Brace Tremestieri,4.5,798,
+Tremestieri Etneo,16,carne,MoMA - Beef Club,4.2,607,
+Tremestieri Etneo,16,dolci,Pasticceria Chantilly,4.5,517,
+Tremestieri Etneo,16,dolci,Pasticceria Ambra,4.5,194,
+Tremestieri Etneo,16,dolci,Caffe' Armando,4.4,1401,
+Tremestieri Etneo,16,pizza,Sapori di Grano,4.5,1072,
+Tremestieri Etneo,16,pizza,Pizzeria A Cuttigghiara,4.8,104,
+Tremestieri Etneo,16,pizza,Cortile Siciliano,4.4,2616,menu siciliano in luogo del 900
+Tremestieri Etneo,16,pizza,Pizzeria l'Azalea,4.5,292,
+San Gregorio di Catania,12,pizza,Spirito Di...Vino Cinecittà,4.3,2416,
+San Gregorio di Catania,12,pizza pasta,Ninnetti Trattoria Pizzeria,4.4,783,pizza gourmet siciliana
+San Gregorio di Catania,12,pesce,La Locandiera,4.4,2225,30-50 euro
+San Gregorio di Catania,12,carne,Al Cavallino Rampante,4.5,1144,panini
+San Gregorio di Catania,12,carne,Al Braciere Da Donna Pippa,4.4,539,
+San Gregorio di Catania,12,dolci,Pasticceria Pappalardo,4.6,224,
+San Gregorio di Catania,12,dolci,Pasticceria Sottile,4.8,509,gelato
+San Gregorio di Catania,12,dolci,Pasticceria Verona & Bonvegna,4.7,1886,gelato
+Pedara,16,pizza carne,Camurrìa PEDARA - Pizza&Food,4.6,485,
+Pedara,16,pizza,Ara di Sciacca,4.8,45,poche recensioni
+Pedara,16,carne,La Tana Del Lupo,4.5,533,ATTENZIONE nome uguale a un birrificio scartato ad Acireale in sessione precedente - questo e' un ristorante diverso a Pedara
+Pedara,16,pizza carne,Belladonna,4.4,1345,
+Pedara,16,pizza,Al Frastucheto,4.5,259,
+Pedara,16,dolci,Gelatisù,4.6,256,gelato
+Pedara,16,dolci,Pasticceria Messina di Rosario Messina,4.4,396,
+Motta Sant'Anastasia,30,pizza,La Bottega Del Buongustaio,4.6,120,
+Motta Sant'Anastasia,30,pizza,Valentino,4.5,532,
+Motta Sant'Anastasia,30,pizza,Ristorante Pizzeria Del Duca,4.5,344,
+Motta Sant'Anastasia,30,pizza,Ristorante Pizzeria Donna Fortunata,4.2,579,
+Motta Sant'Anastasia,30,dolci,La Biscotteria Siciliana Di Culosi Gisella,4.6,816,gelato e granite
+Viagrande,10,pizza,Viagrande Pizzeria Bistrot,4.5,432,
+Viagrande,10,pizza,Antico Campanile,4.4,259,
+Viagrande,10,pizza,Pizzeria DOPPIO ZERO,4.2,767,
+Viagrande,10,dolci,La Dolce Vita Luxury Dessert,4.8,60,poche recensioni
+Viagrande,10,dolci,Caffè Valentino,4.6,367,
+Viagrande,10,dolci,Gran Caffè Urna dal 1885,3.9,2694,storico dal 1885, voto medio ma rilevante per storia
+Viagrande,10,dolci,Laboratorio Torrisi,4.4,252,gelato
+Sant'Agata li Battiati,17,pizza,Pop's Pizza & More,4.5,155,
+Sant'Agata li Battiati,17,carne,Girarrosto 2000,4.6,343,pollo e rosticceria
+Sant'Agata li Battiati,17,dolci,Fratelli Aiello Bar Pasticceria,4.2,2261,catena locale storica
+Sant'Agata li Battiati,17,dolci,Pasticceria Antica Tradizione Lombardo,4.5,83,
+Sant'Agata li Battiati,17,dolci,Cafè Battiati,4.2,722,
+San Pietro Clarenza,22,carne,Girarrosto Leonardi,4.5,42,pollo, poche recensioni
+San Pietro Clarenza,22,pizza,Pizzeria All the night,4.1,757,
+San Pietro Clarenza,22,dolci,Pasticceria Vinci,4.3,247,
+San Pietro Clarenza,22,pizza,Crispizza pizzeria,4.1,135,

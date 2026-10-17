@@ -1,0 +1,394 @@
+{
+ "cartocciata": [
+  {
+   "voce": "Acireale",
+   "title": "Granita brioche.JPG",
+   "w": 2576,
+   "h": 1932,
+   "prop": 1.33,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Sebastian Fischer"
+  },
+  {
+   "voce": "Acireale",
+   "title": "Carnevale di Acireale.JPG",
+   "w": 1280,
+   "h": 960,
+   "prop": 1.33,
+   "lic": "Public domain",
+   "artist": "User Salvorapi on it.wikipedia"
+  },
+  {
+   "voce": "Acireale",
+   "title": "Etna from acireale.JPG",
+   "w": 2048,
+   "h": 1536,
+   "prop": 1.33,
+   "lic": "Public domain",
+   "artist": "Skyluke"
+  },
+  {
+   "voce": "Acireale",
+   "title": "Acireale, piazza del duomo.JPG",
+   "w": 2048,
+   "h": 1536,
+   "prop": 1.33,
+   "lic": "CC BY-SA 3.0",
+   "artist": "sailko"
+  },
+  {
+   "voce": "Acireale",
+   "title": "Acireale Aerea.jpg",
+   "w": 1024,
+   "h": 640,
+   "prop": 1.6,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Emilioba93"
+  },
+  {
+   "voce": "Acireale",
+   "title": "Acirealeren eliza 1.JPG",
+   "w": 1536,
+   "h": 2048,
+   "prop": 0.75,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Lasterketak"
+  }
+ ],
+ "cipollina": [
+  {
+   "voce": "Marco Castello",
+   "title": "Marco Castello in Live.jpg",
+   "w": 1280,
+   "h": 1280,
+   "prop": 1,
+   "lic": "CC0",
+   "artist": "GiuseppeLago"
+  }
+ ],
+ "iris": [
+  {
+   "voce": "Iris (gastronomia)",
+   "title": "Iris cioccolato e panna 2.jpg",
+   "w": 3472,
+   "h": 4624,
+   "prop": 0.75,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Auregann"
+  }
+ ],
+ "minne": [
+  {
+   "voce": "Cassatella di sant'Agata",
+   "title": "Minnuzze di sant'aita.jpg",
+   "w": 1354,
+   "h": 1693,
+   "prop": 0.8,
+   "lic": "CC BY 2.0",
+   "artist": "Stefano Mortellaro from Catania, Italy"
+  }
+ ],
+ "schiacciata": [
+  {
+   "voce": "Cucina catanese",
+   "title": "Minnuzze di sant'aita.jpg",
+   "w": 1354,
+   "h": 1693,
+   "prop": 0.8,
+   "lic": "CC BY 2.0",
+   "artist": "Stefano Mortellaro from Catania, Italy"
+  },
+  {
+   "voce": "Cucina catanese",
+   "title": "Olive siciliane condite.jpg",
+   "w": 1280,
+   "h": 856,
+   "prop": 1.5,
+   "lic": "CC BY-SA 2.0",
+   "artist": "miss_yasmina"
+  },
+  {
+   "voce": "Cucina catanese",
+   "title": "Chiosco Giammona.jpg",
+   "w": 3024,
+   "h": 4032,
+   "prop": 0.75,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Francesco Lombardi"
+  },
+  {
+   "voce": "Cucina catanese",
+   "title": "Arancini .jpg",
+   "w": 750,
+   "h": 490,
+   "prop": 1.53,
+   "lic": "CC BY-SA 4.0",
+   "artist": "AndreaTartaglia"
+  },
+  {
+   "voce": "Cucina catanese",
+   "title": "Bolognese tavola calda.png",
+   "w": 728,
+   "h": 610,
+   "prop": 1.19,
+   "lic": "CC BY-SA 4.0",
+   "artist": "AndreaTartaglia"
+  },
+  {
+   "voce": "Scaccia",
+   "title": "Scacce salsa-ricotta.jpg",
+   "w": 2972,
+   "h": 2044,
+   "prop": 1.45,
+   "lic": "CC BY 3.0",
+   "artist": "JuliaK"
+  },
+  {
+   "voce": "Scaccia",
+   "title": "PreparazioneScaccia.jpg",
+   "w": 3072,
+   "h": 2144,
+   "prop": 1.43,
+   "lic": "CC BY 3.0",
+   "artist": "JuliaK"
+  },
+  {
+   "voce": "Scaccia",
+   "title": "'Mpanate.jpg",
+   "w": 3734,
+   "h": 2976,
+   "prop": 1.25,
+   "lic": "CC BY-SA 4.0",
+   "artist": "No3mi 98"
+  }
+ ],
+ "pidone": [
+  {
+   "voce": "Pidone",
+   "title": "Pidoni-Wikipedia.jpg",
+   "w": 1920,
+   "h": 1280,
+   "prop": 1.5,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Morabito92"
+  },
+  {
+   "voce": "Focaccia messinese",
+   "title": "FOCACCIA TRADIZIONALE MESSINESE.jpg",
+   "w": 3968,
+   "h": 2976,
+   "prop": 1.33,
+   "lic": "Public domain",
+   "artist": "D. Mazza"
+  }
+ ],
+ "pignolata": [],
+ "spadaghiotta": [
+  {
+   "voce": "Pesce spada alla ghiotta",
+   "title": "Barca pescespada 3.jpg",
+   "w": 1521,
+   "h": 1033,
+   "prop": 1.47,
+   "lic": "Public domain",
+   "artist": "Villese92"
+  }
+ ],
+ "stigghiola": [
+  {
+   "voce": "Stigghiola",
+   "title": "Stigghiole alla Pescheria di Catania.JPG",
+   "w": 1280,
+   "h": 960,
+   "prop": 1.33,
+   "lic": "Public domain",
+   "artist": "Pequod76"
+  },
+  {
+   "voce": "Frittola (gastronomia palermitana)",
+   "title": "Frittola & Vespa in Ballaro market Palermo.jpg",
+   "w": 1280,
+   "h": 975,
+   "prop": 1.31,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Stephen Woolverton"
+  }
+ ],
+ "cassatelle": [
+  {
+   "voce": "Cassatella",
+   "title": "Cassateddi.jpg",
+   "w": 800,
+   "h": 600,
+   "prop": 1.33,
+   "lic": "Public domain",
+   "artist": "Gmelfi"
+  },
+  {
+   "voce": "Cassatella",
+   "title": "Cassatelle in brodo di pesce.jpg",
+   "w": 2861,
+   "h": 2876,
+   "prop": 0.99,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Civa61"
+  },
+  {
+   "voce": "Cucina trapanese",
+   "title": "Fish couscous from Kerkenah, Tunisia, August 16th, 2007.jpg",
+   "w": 2048,
+   "h": 1360,
+   "prop": 1.51,
+   "lic": "CC BY-SA 3.0",
+   "artist": "No machine-readable author provided. Elc"
+  },
+  {
+   "voce": "Cucina trapanese",
+   "title": "Cannoli.jpg",
+   "w": 1944,
+   "h": 2592,
+   "prop": 0.75,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Dedda71"
+  },
+  {
+   "voce": "Cucina trapanese",
+   "title": "Farsu magru-01.jpg",
+   "w": 3128,
+   "h": 2244,
+   "prop": 1.39,
+   "lic": "CC BY 2.0",
+   "artist": "Jim Holmes OH"
+  },
+  {
+   "voce": "Cucina trapanese",
+   "title": "Busiate with Pesto alla trapanese.jpg",
+   "w": 3024,
+   "h": 4032,
+   "prop": 0.75,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Amire80"
+  }
+ ],
+ "rianata": [
+  {
+   "voce": "Pizza siciliana",
+   "title": "Pizzolo.JPG",
+   "w": 1110,
+   "h": 857,
+   "prop": 1.3,
+   "lic": "Public domain",
+   "artist": "Azotoliquido"
+  },
+  {
+   "voce": "Pizza siciliana",
+   "title": "Scacce2.JPG",
+   "w": 2636,
+   "h": 2268,
+   "prop": 1.16,
+   "lic": "CC BY 3.0",
+   "artist": "JuliaK"
+  },
+  {
+   "voce": "Pizza siciliana",
+   "title": "Siciliana2024.jpg",
+   "w": 1600,
+   "h": 1200,
+   "prop": 1.33,
+   "lic": "CC0",
+   "artist": "Drunkpiper"
+  },
+  {
+   "voce": "Cucina trapanese",
+   "title": "Fish couscous from Kerkenah, Tunisia, August 16th, 2007.jpg",
+   "w": 2048,
+   "h": 1360,
+   "prop": 1.51,
+   "lic": "CC BY-SA 3.0",
+   "artist": "No machine-readable author provided. Elc"
+  },
+  {
+   "voce": "Cucina trapanese",
+   "title": "Cannoli.jpg",
+   "w": 1944,
+   "h": 2592,
+   "prop": 0.75,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Dedda71"
+  },
+  {
+   "voce": "Cucina trapanese",
+   "title": "Farsu magru-01.jpg",
+   "w": 3128,
+   "h": 2244,
+   "prop": 1.39,
+   "lic": "CC BY 2.0",
+   "artist": "Jim Holmes OH"
+  },
+  {
+   "voce": "Cucina trapanese",
+   "title": "Busiate with Pesto alla trapanese.jpg",
+   "w": 3024,
+   "h": 4032,
+   "prop": 0.75,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Amire80"
+  }
+ ],
+ "vini": [
+  {
+   "voce": "Etna (vino)",
+   "title": "Etna Wine Agriturismo, Passopisciaro, Sicily, Italy. Field blend.jpg",
+   "w": 2272,
+   "h": 1704,
+   "prop": 1.33,
+   "lic": "CC BY 2.0",
+   "artist": "Neil Weightman"
+  },
+  {
+   "voce": "Etna (vino)",
+   "title": "Etna Wine, Passopisciaro, Sicily, Italy.jpg",
+   "w": 1704,
+   "h": 2272,
+   "prop": 0.75,
+   "lic": "CC BY 2.0",
+   "artist": "Neil Weightman"
+  },
+  {
+   "voce": "Etna (vino)",
+   "title": "Cuve tronconique.jpg",
+   "w": 3648,
+   "h": 5472,
+   "prop": 0.67,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Olivier Lemoine (https://Photo-Terroir.f"
+  },
+  {
+   "voce": "Soave (vino)",
+   "title": "Castello Soave.jpg",
+   "w": 900,
+   "h": 675,
+   "prop": 1.33,
+   "lic": "Public domain",
+   "artist": "Io"
+  },
+  {
+   "voce": "Soave (vino)",
+   "title": "Cuve tronconique.jpg",
+   "w": 3648,
+   "h": 5472,
+   "prop": 0.67,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Olivier Lemoine (https://Photo-Terroir.f"
+  },
+  {
+   "voce": "Soave (vino)",
+   "title": "Soave Lamberti.jpg",
+   "w": 976,
+   "h": 1473,
+   "prop": 0.66,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Yozh"
+  }
+ ]
+}

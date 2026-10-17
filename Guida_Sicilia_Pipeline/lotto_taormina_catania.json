@@ -1,0 +1,1838 @@
+[
+ {
+  "n": "Agriturismo Passitti Catania",
+  "z": "Catania",
+  "a": "c.da Fiumazzo s.s. 417 (km 66+500)",
+  "lat": 37.44269437,
+  "lon": 14.94566598,
+  "sito": "http://www.passitti.it/",
+  "tel": "+393284768338"
+ },
+ {
+  "n": "Sapore di Stelle Catania",
+  "z": "Catania",
+  "a": "S.S. 114 km 107.620 95/225 ",
+  "lat": 37.412638715416,
+  "lon": 15.064440110187,
+  "sito": "https://www.bistrosaporedistelle.it/",
+  "tel": "+390957212706"
+ },
+ {
+  "n": "Glamour Food",
+  "z": "Catania",
+  "a": "Contrada Pantano D'Arci",
+  "lat": 37.42667136835009,
+  "lon": 15.062796842822278,
+  "sito": "https://www.glamourfoodcatania.com/",
+  "tel": "0950908138"
+ },
+ {
+  "n": "Al Gazebo",
+  "z": "Catania",
+  "a": "Str. VIII Zona Industriale, 5",
+  "lat": 37.44219548,
+  "lon": 15.06302947,
+  "sito": null,
+  "tel": "+390955968615"
+ },
+ {
+  "n": "Les Chefs Ristorazione Collettiva",
+  "z": "Catania",
+  "a": "Zona Industriale Strada 5, 20",
+  "lat": 37.4504724,
+  "lon": 15.0577695,
+  "sito": null,
+  "tel": "+39095592844"
+ },
+ {
+  "n": "The Original Cucaracha",
+  "z": "Catania",
+  "a": "Viale Presidente Kennedy, 47",
+  "lat": 37.47135,
+  "lon": 15.084739,
+  "sito": "http://www.villaggiolaplajaclub.com",
+  "tel": "+39095340880"
+ },
+ {
+  "n": "Synbiofood",
+  "z": "Catania",
+  "a": "Via Gelso Bianco",
+  "lat": 37.47078171,
+  "lon": 15.0465717,
+  "sito": "http://synbiofood.com/synbiofood/?lang=it",
+  "tel": "+39095551161"
+ },
+ {
+  "n": "Il Coriandolo",
+  "z": "Catania",
+  "a": "Viale Presidente Kennedy, 28",
+  "lat": 37.47860069,
+  "lon": 15.08298771,
+  "sito": "http://www.romanopalace.it/it/ristorante-coriandolo-catania",
+  "tel": "+390955967521"
+ },
+ {
+  "n": "Nero Bollente",
+  "z": "Catania",
+  "a": "Via Gelso Bianco s.n.c.",
+  "lat": 37.476405,
+  "lon": 15.055745,
+  "sito": "http://www.portedicatania.gallerieauchan.it/it/stores.html",
+  "tel": "095 570047"
+ },
+ {
+  "n": "Spaghetteria Seven",
+  "z": "Catania",
+  "a": "Viale Presidente Kennedy, 7",
+  "lat": 37.48689907,
+  "lon": 15.08422178,
+  "sito": "https://www.bizweek.it/index.php/th/ads/5d1b771a9e80a/No-parent/Chiosco-SEVEN---Panineria-e-Spaghetteria-alla-playa",
+  "tel": "+393420693382"
+ },
+ {
+  "n": "La Baracca",
+  "z": "Catania",
+  "a": "Viale Kennedy 9",
+  "lat": 37.483700467698974,
+  "lon": 15.083945810102103,
+  "sito": "http://ristorantelabaraccacatania.it",
+  "tel": "095 723 7594"
+ },
+ {
+  "n": "Ristorante La Baracca",
+  "z": "Catania",
+  "a": "Viale Presidente Kennedy, 9",
+  "lat": 37.48376016,
+  "lon": 15.08391217,
+  "sito": "https://ristorantelabaraccacatania.it/",
+  "tel": "+390957237594"
+ },
+ {
+  "n": "Caffe Lore",
+  "z": "Catania",
+  "a": "Via Acquicella Porto, 4",
+  "lat": 37.489049,
+  "lon": 15.083202,
+  "sito": null,
+  "tel": null
+ },
+ {
+  "n": "Villaggio S.Agata",
+  "z": "Catania",
+  "a": null,
+  "lat": 37.490716574177746,
+  "lon": 15.059434977233533,
+  "sito": null,
+  "tel": null
+ },
+ {
+  "n": "La Reggia dei Sapori",
+  "z": "Catania",
+  "a": "Via della Concordia, 110",
+  "lat": 37.49391938,
+  "lon": 15.07829026,
+  "sito": null,
+  "tel": "+39095348181"
+ },
+ {
+  "n": "A Putia Do Calabrisi",
+  "z": "Catania",
+  "a": "Via della Concordia, 185",
+  "lat": 37.49383234,
+  "lon": 15.07812926,
+  "sito": "http://aputiadocalabrisi.placeweb.site",
+  "tel": "+393498436479"
+ },
+ {
+  "n": "Al Cavalier Roxy",
+  "z": "Catania",
+  "a": "P.za Federico di Svevia, 51",
+  "lat": 37.49843786,
+  "lon": 15.08405967,
+  "sito": "http://www.cavaliereroxy.it/",
+  "tel": "+39095340418"
+ },
+ {
+  "n": "Cascia",
+  "z": "Catania",
+  "a": "Via Giuseppe Garibaldi, 5",
+  "lat": 37.50212909,
+  "lon": 15.08679214,
+  "sito": "http://Www.cascialab.org/",
+  "tel": "+393512420035"
+ },
+ {
+  "n": "Sikulè",
+  "z": "Catania",
+  "a": "Piazza Duomo 6",
+  "lat": 37.50208442134829,
+  "lon": 15.086816767669207,
+  "sito": "https://ristorantesikule.it",
+  "tel": "399 5286 0403"
+ },
+ {
+  "n": "Shibuya Sushi Restaurant",
+  "z": "Catania",
+  "a": "Via Beato Cardinale G. Benedetto Dusmet 53",
+  "lat": 37.50181463187729,
+  "lon": 15.090580345521333,
+  "sito": "https://www.shibuyasushirestaurant.it",
+  "tel": "095 342 0025"
+ },
+ {
+  "n": "Magna Roma",
+  "z": "Catania",
+  "a": "Via Beato Cardinale G. Benedetto Dusmet, 47",
+  "lat": 37.501713,
+  "lon": 15.091015,
+  "sito": "http://www.magnaromatrattoria.com/",
+  "tel": "+393201729295"
+ },
+ {
+  "n": "Mangiadischi",
+  "z": "Catania",
+  "a": "Piazza dell' Indirizzo, 1",
+  "lat": 37.5014698,
+  "lon": 15.08615906,
+  "sito": "https://www.mangiadischicatania.it/",
+  "tel": "+393334802795"
+ },
+ {
+  "n": "Vecchi Sapori",
+  "z": "Catania",
+  "a": "Piazza Mazzini, 6",
+  "lat": 37.50159574,
+  "lon": 15.08519919,
+  "sito": null,
+  "tel": "+39095349535"
+ },
+ {
+  "n": "Ammucca Ammucca",
+  "z": "Catania",
+  "a": "Piazza Alonzo di Benedetto, 1",
+  "lat": 37.50174306,
+  "lon": 15.08660821,
+  "sito": null,
+  "tel": "+393206339991"
+ },
+ {
+  "n": "Il Cortile dei Fiori",
+  "z": "Catania",
+  "a": "Piazza Giuseppe Mazzini, 8-9",
+  "lat": 37.50177552,
+  "lon": 15.08487401,
+  "sito": null,
+  "tel": "+393457135960"
+ },
+ {
+  "n": "Vuciata - kitchen market",
+  "z": "Catania",
+  "a": "V. Gisira, 8",
+  "lat": 37.50168446,
+  "lon": 15.08613419,
+  "sito": "https://vuciata.com/",
+  "tel": "+390953788169"
+ },
+ {
+  "n": "Camelot",
+  "z": "Catania",
+  "a": "P.za Federico di Svevia, 73",
+  "lat": 37.49972864,
+  "lon": 15.08392827,
+  "sito": "http://www.ristorantecamelotcatania.it/",
+  "tel": "+393533632047"
+ },
+ {
+  "n": "Grande Birraria Svizzera",
+  "z": "Catania",
+  "a": "Via Piazza S.Nicolella, incrocio Via A.Manzoni - Via G.Biscari",
+  "lat": 37.5,
+  "lon": 15.0903,
+  "sito": "https://it.m.wikipedia.org/wiki/La_Birraria_Svizzera",
+  "tel": null
+ },
+ {
+  "n": "Vecchia Dogana",
+  "z": "Catania",
+  "a": "Via Cardinale Dusmet",
+  "lat": 37.500799,
+  "lon": 15.093335,
+  "sito": "http://www.vecchiadogana.it/",
+  "tel": "+390957477736"
+ },
+ {
+  "n": "Zio Enki",
+  "z": "Catania",
+  "a": "Piazza Scammacca, 9",
+  "lat": 37.5035577,
+  "lon": 15.08904447,
+  "sito": "http://www.piazzascammacca.com/",
+  "tel": "+390956784170"
+ },
+ {
+  "n": "La Locandolina",
+  "z": "Catania",
+  "a": "Via Landolina, 50",
+  "lat": 37.50356882,
+  "lon": 15.0908309,
+  "sito": "https://lalocandolina.my.canva.site/lalocandolina",
+  "tel": "+393518471820"
+ },
+ {
+  "n": "Muve - Mensa Universitaria",
+  "z": "Catania",
+  "a": "Via Vittorio Emanuele II 36",
+  "lat": 37.50365743804961,
+  "lon": 15.094094920839332,
+  "sito": "https://sciarashop.com",
+  "tel": "328 384 1073"
+ },
+ {
+  "n": "Propaganda.bio",
+  "z": "Catania",
+  "a": "Via Vittorio Emanuele II, 94",
+  "lat": 37.503317,
+  "lon": 15.091346,
+  "sito": "http://www.propaganda.bio/website",
+  "tel": "+390957159605"
+ },
+ {
+  "n": "Eat&Drink23",
+  "z": "Catania",
+  "a": "Via Giuseppe Terranova, 10",
+  "lat": 37.50462574,
+  "lon": 15.09598057,
+  "sito": null,
+  "tel": "+393497727177"
+ },
+ {
+  "n": "Mafaldineria",
+  "z": "Catania",
+  "a": "Via Vasta, 10",
+  "lat": 37.50462095,
+  "lon": 15.0872665,
+  "sito": null,
+  "tel": "+390952881280"
+ },
+ {
+  "n": "Barrique Bistrot",
+  "z": "Catania",
+  "a": "Via Etnea, 56",
+  "lat": 37.5044097,
+  "lon": 15.08702842,
+  "sito": null,
+  "tel": "+393427701420"
+ },
+ {
+  "n": "Plaza",
+  "z": "Catania",
+  "a": "Via Teatro Massimo, 39",
+  "lat": 37.5041021,
+  "lon": 15.09125756,
+  "sito": "https://plaza.jimdosite.com/",
+  "tel": "+393791904567"
+ },
+ {
+  "n": "Materia Spazio Cucina",
+  "z": "Catania",
+  "a": "Via Teatro Massimo, 29",
+  "lat": 37.50401123,
+  "lon": 15.09156531,
+  "sito": "http://www.materiaspaziocucina.it/",
+  "tel": "+3909516931045"
+ },
+ {
+  "n": "Vineria Picasso",
+  "z": "Catania",
+  "a": "piazza Ogninella",
+  "lat": 37.50386191387637,
+  "lon": 15.088607678237329,
+  "sito": "http://www.vineriapicasso.com",
+  "tel": "347 863 2282"
+ },
+ {
+  "n": "Cortile Alessi",
+  "z": "Catania",
+  "a": "Via Alessi, 28",
+  "lat": 37.50391121,
+  "lon": 15.08525678,
+  "sito": "https://cortilealessi.it/",
+  "tel": "+393514197676"
+ },
+ {
+  "n": "Cu A Voli Cotta",
+  "z": "Catania",
+  "a": "Via Euplio Reina, 18",
+  "lat": 37.50403311,
+  "lon": 15.08820912,
+  "sito": "https://osteriacuavolicottacuavolicruda.it/",
+  "tel": "+393793724916"
+ },
+ {
+  "n": "Ménage",
+  "z": "Catania",
+  "a": "Via Euplio Reina, 13",
+  "lat": 37.50408396,
+  "lon": 15.08794506,
+  "sito": "https://www.menagelounge.it/",
+  "tel": "+393515137687"
+ },
+ {
+  "n": "20 Cinque",
+  "z": "Catania",
+  "a": "Esedra di Piazza Dante, Piazza Dante Alighieri, 25",
+  "lat": 37.50384192,
+  "lon": 15.0810639,
+  "sito": null,
+  "tel": null
+ },
+ {
+  "n": "Ristorante Coria",
+  "z": "Catania",
+  "a": "Via Prefettura, 21",
+  "lat": 37.50532881,
+  "lon": 15.08601086,
+  "sito": "https://www.ristorantecoria.it/",
+  "tel": "+390952864291"
+ },
+ {
+  "n": "Trattoria Casalinga da Nino Mannino",
+  "z": "Catania",
+  "a": "Via Biondi, 19",
+  "lat": 37.50561837,
+  "lon": 15.08888225,
+  "sito": "https://trattoriacasalinga.blogspot.com",
+  "tel": "+39095311319"
+ },
+ {
+  "n": "Sapio",
+  "z": "Catania",
+  "a": "Piazza Gandolfo Antonino, 11",
+  "lat": 37.50532432,
+  "lon": 15.09482617,
+  "sito": "http://www.sapiorestaurant.it/",
+  "tel": "+393501947542"
+ },
+ {
+  "n": "Fierolune",
+  "z": "Catania",
+  "a": "Via Giuseppe Terranova, 37",
+  "lat": 37.5050969,
+  "lon": 15.09564826,
+  "sito": "http://fierolune.com/",
+  "tel": "+390950861620"
+ },
+ {
+  "n": "Sikulo Restaurant",
+  "z": "Catania",
+  "a": "Via Antonino di Sangiuliano, 83",
+  "lat": 37.50511295,
+  "lon": 15.09298857,
+  "sito": "http://www.sikulorestaurant.it",
+  "tel": "+390953784089"
+ },
+ {
+  "n": "Cantina Manganelli",
+  "z": "Catania",
+  "a": "Via Antonino di Sangiuliano, 202",
+  "lat": 37.505111,
+  "lon": 15.087354,
+  "sito": "http://www.cantinamanganelli.eu/",
+  "tel": "+393927064810"
+ },
+ {
+  "n": "Calarittu",
+  "z": "Catania",
+  "a": "Via Michele Rapisardi, 6",
+  "lat": 37.504958,
+  "lon": 15.09008624,
+  "sito": "https://calarittu.wowplate360.it/",
+  "tel": "+393426702669"
+ },
+ {
+  "n": "Gasparino",
+  "z": "Catania",
+  "a": "Via Michele Rapisardi, 1/3",
+  "lat": 37.50485837,
+  "lon": 15.09024412,
+  "sito": null,
+  "tel": "+393427807501"
+ },
+ {
+  "n": "Mirò Lounge Bar",
+  "z": "Catania",
+  "a": "Via Vasta, 17",
+  "lat": 37.504818,
+  "lon": 15.087408,
+  "sito": "http://miroloungebar.business.site",
+  "tel": "+393450123705"
+ },
+ {
+  "n": "Zarathustra Art&Food Bistrot Associazione Culturale",
+  "z": "Catania",
+  "a": "Via Antonino di Sangiuliano, 361",
+  "lat": 37.50484,
+  "lon": 15.0836,
+  "sito": null,
+  "tel": "+393920902335"
+ },
+ {
+  "n": "docalquadrato",
+  "z": "Catania",
+  "a": "Via Gesualdo Clementi, 1",
+  "lat": 37.50483021,
+  "lon": 15.08303093,
+  "sito": "http://docalquadrato.it/",
+  "tel": "+3909516945710"
+ },
+ {
+  "n": "L'Oste Pazzo",
+  "z": "Catania",
+  "a": "Via Monsignor Ventimiglia, 72",
+  "lat": 37.50637666,
+  "lon": 15.09315833,
+  "sito": null,
+  "tel": "+393401014808"
+ },
+ {
+  "n": "Bistro Uzeta",
+  "z": "Catania",
+  "a": "Via Penninello, 41",
+  "lat": 37.50647709,
+  "lon": 15.08517721,
+  "sito": "https://uzetabistrosiciliano.superbexperience.com/",
+  "tel": "+390952503374"
+ },
+ {
+  "n": "House Bar",
+  "z": "Catania",
+  "a": "Via Giovanni di Prima, 16",
+  "lat": 37.506249,
+  "lon": 15.089384,
+  "sito": "http://www.romanohouse.it/",
+  "tel": "+390953520611"
+ },
+ {
+  "n": "Spaghetti & Co.",
+  "z": "Catania",
+  "a": "Via Crociferi, 77",
+  "lat": 37.5059982,
+  "lon": 15.08477741,
+  "sito": "http://spaghettiandco.it/",
+  "tel": "+393407917554"
+ },
+ {
+  "n": "Trattoria Marinara La Croce del Sud",
+  "z": "Catania",
+  "a": "Via Caff, 12",
+  "lat": 37.50590356,
+  "lon": 15.0881113,
+  "sito": "http://www.trattoriamarinaralacrocedelsud.it/",
+  "tel": "+393471594991"
+ },
+ {
+  "n": "Tarricrii",
+  "z": "Catania",
+  "a": "Via Pietro Antonio Coppola, 47",
+  "lat": 37.5059491,
+  "lon": 15.08876686,
+  "sito": null,
+  "tel": "+393516187297"
+ },
+ {
+  "n": "Masaniello - Tradizioni Napoletane",
+  "z": "Catania",
+  "a": "Via Pietro Antonio Coppola, 62",
+  "lat": 37.50595522,
+  "lon": 15.08891705,
+  "sito": "http://masaniello-tradizioninapoletane.it/",
+  "tel": "+393452344019"
+ },
+ {
+  "n": "La Cucina Dei Colori",
+  "z": "Catania",
+  "a": "Via S. Michele, 9",
+  "lat": 37.50595131,
+  "lon": 15.08744812,
+  "sito": "http://www.lacucinadeicolori.it",
+  "tel": "+390957176146"
+ },
+ {
+  "n": "L'altra Akkademia",
+  "z": "Catania",
+  "a": "Via Gemmellaro 24",
+  "lat": 37.50875431620894,
+  "lon": 15.087049564429876,
+  "sito": "https://laltraakkademia.it",
+  "tel": "349 693 6811"
+ },
+ {
+  "n": "Uselle",
+  "z": "Catania",
+  "a": "Via Gemmellaro, 33/35",
+  "lat": 37.50880929,
+  "lon": 15.08684284,
+  "sito": "www.esploriamo.org",
+  "tel": null
+ },
+ {
+  "n": "Easycafe",
+  "z": "Catania",
+  "a": "Via Spedalieri 14",
+  "lat": 37.50886707645764,
+  "lon": 15.08536262638181,
+  "sito": "http://www.easycafect.it",
+  "tel": "095 218 0368"
+ },
+ {
+  "n": "Etnea Rooftop",
+  "z": "Catania",
+  "a": "Via Etnea, 218",
+  "lat": 37.50907,
+  "lon": 15.08591,
+  "sito": "https://www.unaitalianhospitality.com/it/ristoranti/etnea-roof-bar-and-restaurant",
+  "tel": "+393387316877"
+ },
+ {
+  "n": "Ciurma Catania",
+  "z": "Catania",
+  "a": "Via Gemmellaro, 42",
+  "lat": 37.50916091,
+  "lon": 15.0868166,
+  "sito": "https://www.ciurma.it/",
+  "tel": "+390957046841"
+ },
+ {
+  "n": "Trattoria Aldo Lunch",
+  "z": "Catania",
+  "a": "Via calvagna, 3",
+  "lat": 37.50923312,
+  "lon": 15.08768733,
+  "sito": null,
+  "tel": "+39095311158"
+ },
+ {
+  "n": "Toasty",
+  "z": "Catania",
+  "a": "Via Etnea, 185",
+  "lat": 37.509376,
+  "lon": 15.08570317,
+  "sito": null,
+  "tel": "+3909516936820"
+ },
+ {
+  "n": "Due Pistacchi Restaurant",
+  "z": "Catania",
+  "a": "Via Salvatore Tomaselli, 9",
+  "lat": 37.50943625,
+  "lon": 15.08254087,
+  "sito": "https://prenota.guestplan.io/",
+  "tel": "+393891754516"
+ },
+ {
+  "n": "Green Bar",
+  "z": "Catania",
+  "a": "Via Androne, 21",
+  "lat": 37.50980941,
+  "lon": 15.08142965,
+  "sito": "http://m.facebook.com/greenbarfloridia/?locale2=it_IT",
+  "tel": "+39095327967"
+ },
+ {
+  "n": "Taverna Dei Conti",
+  "z": "Catania",
+  "a": "Via Guglielmo Oberdan, 43",
+  "lat": 37.51022059,
+  "lon": 15.08969824,
+  "sito": "http://www.tavernadeiconti.it/",
+  "tel": "+39095310035"
+ },
+ {
+  "n": "Fud Bottega sicula",
+  "z": "Catania",
+  "a": "Via Santa Filomena, 35",
+  "lat": 37.51036372,
+  "lon": 15.08658333,
+  "sito": "http://www.fud.it/",
+  "tel": "+390957153518"
+ },
+ {
+  "n": "Il Tagliere",
+  "z": "Catania",
+  "a": "Via Filippo Corridoni, 17",
+  "lat": 37.51041612,
+  "lon": 15.08729924,
+  "sito": "https://iltaglierect.it/",
+  "tel": "+390950906922"
+ },
+ {
+  "n": "Trattoria Don Turiddu Da Gaetano",
+  "z": "Catania",
+  "a": "Via Musumeci, 50",
+  "lat": 37.51009858,
+  "lon": 15.09095058,
+  "sito": null,
+  "tel": "+39095537844"
+ },
+ {
+  "n": "Etna kebab",
+  "z": "Catania",
+  "a": "Via Musumeci, 41",
+  "lat": 37.51003809,
+  "lon": 15.09086662,
+  "sito": null,
+  "tel": null
+ },
+ {
+  "n": "Etna Rosso",
+  "z": "Catania",
+  "a": "Via Etnea, 258",
+  "lat": 37.50994432,
+  "lon": 15.08569424,
+  "sito": "http://www.etnarossowinebar.it",
+  "tel": "+39095325030"
+ },
+ {
+  "n": "LOCALE Catania",
+  "z": "Catania",
+  "a": "Via Santa Filomena, 1",
+  "lat": 37.50969401,
+  "lon": 15.08649791,
+  "sito": null,
+  "tel": "+390957394964"
+ },
+ {
+  "n": "Be Quiet",
+  "z": "Catania",
+  "a": "Via Monte Sant'Agata, 6",
+  "lat": 37.50838911,
+  "lon": 15.08577457,
+  "sito": "http://www.ristorantebequiet.it/",
+  "tel": "+390952262180"
+ },
+ {
+  "n": "Tipica Catanese",
+  "z": "Catania",
+  "a": "Via Carlo Felice Gambino, 11",
+  "lat": 37.50718216,
+  "lon": 15.08763339,
+  "sito": null,
+  "tel": "+393200246340"
+ },
+ {
+  "n": "indian food resturent",
+  "z": "Catania",
+  "a": "Piazza Turi Ferro, 16/17",
+  "lat": 37.50690183,
+  "lon": 15.0885365,
+  "sito": "https://cityfoodcatania.com/",
+  "tel": "+393341115006"
+ },
+ {
+  "n": "Trattoria Saltimbocca Da Giancarlo",
+  "z": "Catania",
+  "a": "Via Asilo Sant'Agata, 24",
+  "lat": 37.51324652,
+  "lon": 15.09614223,
+  "sito": "http://www.trattoriasaltimboccadagiancarlo.it/",
+  "tel": "+39095531337"
+ },
+ {
+  "n": "Catania Ruffiana",
+  "z": "Catania",
+  "a": "Via Aloi, 50",
+  "lat": 37.51329651,
+  "lon": 15.0910005,
+  "sito": "http://www.cataniaruffiana.it",
+  "tel": "+390952162222"
+ },
+ {
+  "n": "GG Bistrot",
+  "z": "Catania",
+  "a": "Via Monsignor Ventimiglia, 317",
+  "lat": 37.51312875,
+  "lon": 15.09217686,
+  "sito": "https://www.tiktok.com/@gg.bistrot",
+  "tel": "+393472942012"
+ },
+ {
+  "n": "Officina del Gusto",
+  "z": "Catania",
+  "a": "Via Conte Ruggero 59",
+  "lat": 37.51299756064675,
+  "lon": 15.091685607090456,
+  "sito": "http://officinadelgustocatania.it",
+  "tel": "391 393 3667"
+ },
+ {
+  "n": "Ristorante Officina Del Gusto",
+  "z": "Catania",
+  "a": "Via Conte Ruggero, 59",
+  "lat": 37.51308831,
+  "lon": 15.09160011,
+  "sito": "https://officinadelgusto-restaurant.business.site/?m=true",
+  "tel": "+393913933667"
+ },
+ {
+  "n": "Chef Dede",
+  "z": "Catania",
+  "a": "Via Guglielmo Oberdan, 126",
+  "lat": 37.51250399,
+  "lon": 15.08941294,
+  "sito": "http://www.chefdede.it/",
+  "tel": "+390954682177"
+ },
+ {
+  "n": "Olio",
+  "z": "Catania",
+  "a": "Via Umberto I, 233",
+  "lat": 37.51255675,
+  "lon": 15.09545191,
+  "sito": "http://www.oliocatania.it/",
+  "tel": "+393936475942"
+ },
+ {
+  "n": "Vite",
+  "z": "Catania",
+  "a": "Via Enrico Adolfo Pantano, 61",
+  "lat": 37.5125558,
+  "lon": 15.091024,
+  "sito": "https://viterestaurant.it/",
+  "tel": "+3909516947698"
+ },
+ {
+  "n": "20 Sapori",
+  "z": "Catania",
+  "a": "Via Monsignor Ventimiglia, 258",
+  "lat": 37.512433703335724,
+  "lon": 15.0925507433355,
+  "sito": null,
+  "tel": "+393442452142"
+ },
+ {
+  "n": "Du Mori gastrOsteria",
+  "z": "Catania",
+  "a": "Via Umberto I, 256",
+  "lat": 37.51247006,
+  "lon": 15.09556185,
+  "sito": "https://ristorantedumori.it/",
+  "tel": "+393454182392"
+ },
+ {
+  "n": "Piruntha Ceylon Restaurant",
+  "z": "Catania",
+  "a": "V. Francesco Crispi, 216",
+  "lat": 37.51136689,
+  "lon": 15.09419578,
+  "sito": null,
+  "tel": "+393277526496"
+ },
+ {
+  "n": "FAB",
+  "z": "Catania",
+  "a": "Via delle Scale, 10",
+  "lat": 37.51136685,
+  "lon": 15.08712329,
+  "sito": null,
+  "tel": "+393911871664"
+ },
+ {
+  "n": "Sette Più",
+  "z": "Catania",
+  "a": "Via Sant'Euplio, 78",
+  "lat": 37.5110256,
+  "lon": 15.08466512,
+  "sito": null,
+  "tel": "+393473129660"
+ },
+ {
+  "n": "Chiosco Bellini - Giardino Bellini",
+  "z": "Catania",
+  "a": "Via Sant'Euplio, 94",
+  "lat": 37.51104492,
+  "lon": 15.08466909,
+  "sito": null,
+  "tel": null
+ },
+ {
+  "n": "Concezione Restaurant",
+  "z": "Catania",
+  "a": "Via Giuseppe Verdi, 143",
+  "lat": 37.51087253,
+  "lon": 15.09265686,
+  "sito": "http://www.concezionerestaurant.com/",
+  "tel": "+3909516936122"
+ },
+ {
+  "n": "L'Horloge",
+  "z": "Catania",
+  "a": "Via Santa Filomena, 42",
+  "lat": 37.51064079,
+  "lon": 15.08644496,
+  "sito": "http://l-horloge-catania.guzs.com",
+  "tel": "+390950976065"
+ },
+ {
+  "n": "Polpetteria",
+  "z": "Catania",
+  "a": "Via Santa Filomena, 48",
+  "lat": 37.51074543,
+  "lon": 15.08641705,
+  "sito": "http://www.polpetteria.it",
+  "tel": "+390957159433"
+ },
+ {
+  "n": "Radice",
+  "z": "Catania",
+  "a": "Via Filippo Corridoni, 37",
+  "lat": 37.510762,
+  "lon": 15.087149,
+  "sito": null,
+  "tel": "+393491782968"
+ },
+ {
+  "n": "Magna Roma",
+  "z": "Catania",
+  "a": "Via Filippo Corridoni, 37",
+  "lat": 37.510853,
+  "lon": 15.087159,
+  "sito": "http://www.magnaromatrattoria.com/",
+  "tel": "+393386529370"
+ },
+ {
+  "n": "Menza",
+  "z": "Catania",
+  "a": "Viale Mario Rapisardi, 143/147",
+  "lat": 37.51078667,
+  "lon": 15.07013308,
+  "sito": "http://www.menza.it",
+  "tel": "+39095350606"
+ },
+ {
+  "n": "Villa delle Ninfe",
+  "z": "Catania",
+  "a": "Viale Mario Rapisardi, 122/124",
+  "lat": 37.51109611,
+  "lon": 15.07077315,
+  "sito": null,
+  "tel": "+39095350606"
+ },
+ {
+  "n": "Sesto Senso",
+  "z": "Catania",
+  "a": "Viale Mario Rapisardi, 60",
+  "lat": 37.51180283,
+  "lon": 15.07544261,
+  "sito": "http://www.ilsestosenso.it/",
+  "tel": "+393533599881"
+ },
+ {
+  "n": "Puti",
+  "z": "Catania",
+  "a": "Via Sant'Euplio, 108",
+  "lat": 37.51164877,
+  "lon": 15.08431529,
+  "sito": "https://www.puticatania.it/",
+  "tel": "+393468002859"
+ },
+ {
+  "n": "Ristorante Bianca di Navarra",
+  "z": "Catania",
+  "a": "Via Giuseppe De Felice, 14",
+  "lat": 37.51166766,
+  "lon": 15.08598784,
+  "sito": "https://www.biancadinavarra.it/",
+  "tel": "+393513144684"
+ },
+ {
+  "n": "Il Cuciniere Restaurant",
+  "z": "Catania",
+  "a": "Via Luigi Capuana 145",
+  "lat": 37.51147850476138,
+  "lon": 15.09359615319031,
+  "sito": "https://www.katanepalace.it/ristorante-il-cuciniere",
+  "tel": "095 747 0702"
+ },
+ {
+  "n": "Bat il Trattore",
+  "z": "Catania",
+  "a": "Via Francesco Riso, 39",
+  "lat": 37.51496699,
+  "lon": 15.09046607,
+  "sito": null,
+  "tel": "+39330847579"
+ },
+ {
+  "n": "Al Tortellino",
+  "z": "Catania",
+  "a": "Via Alberto Mario, 36",
+  "lat": 37.51455119,
+  "lon": 15.09658901,
+  "sito": "http://www.altortellinocatania.it",
+  "tel": "+39095532186"
+ },
+ {
+  "n": "Trattoria da Rinaldo",
+  "z": "Catania",
+  "a": "Via Alberto Mario, 57",
+  "lat": 37.51441807,
+  "lon": 15.09630332,
+  "sito": "https://www.trattoriadarinaldo.com",
+  "tel": "+393383397992"
+ },
+ {
+  "n": "Gastronomia Vittorio",
+  "z": "Catania",
+  "a": "Viale Jonio, 58/60",
+  "lat": 37.51464977,
+  "lon": 15.10073546,
+  "sito": "https://gastronomiavittorio.com/",
+  "tel": "+39095531131"
+ },
+ {
+  "n": "Good Natural Food",
+  "z": "Catania",
+  "a": "Corso Italia, 67",
+  "lat": 37.51533351,
+  "lon": 15.09643032,
+  "sito": "http://www.goodnaturalfood.it/",
+  "tel": "+393758452273"
+ },
+ {
+  "n": "Commercio",
+  "z": "Catania",
+  "a": "Via Francesco Riso, 14",
+  "lat": 37.51529661,
+  "lon": 15.09170238,
+  "sito": null,
+  "tel": "+39095447289"
+ },
+ {
+  "n": "Student Lab",
+  "z": "Catania",
+  "a": "Via Firenze, 204-210",
+  "lat": 37.51537019,
+  "lon": 15.08816186,
+  "sito": "https://www.studentlab.online",
+  "tel": "+393203165707"
+ },
+ {
+  "n": "Bavetta - Osteria d'Oggi",
+  "z": "Catania",
+  "a": "Via Antonino Longo, 26",
+  "lat": 37.51566674,
+  "lon": 15.08260344,
+  "sito": "http://www.osteriabavetta.com/",
+  "tel": "+393477327788"
+ },
+ {
+  "n": "La Locanda del Borgo Restaurant and wine",
+  "z": "Catania",
+  "a": "Via San Nicolò Al Borgo, 126",
+  "lat": 37.516352,
+  "lon": 15.0813715,
+  "sito": "https://lalocandadelborgocatania.it/",
+  "tel": "3482749921"
+ },
+ {
+  "n": "La Caverna del Borgo",
+  "z": "Catania",
+  "a": "Via S. Nicolò Al Borgo, 126",
+  "lat": 37.5163946,
+  "lon": 15.08127431,
+  "sito": "http://www.lacavernadelborgo.it/",
+  "tel": "+393468174912"
+ },
+ {
+  "n": "Biscka Catania",
+  "z": "Catania",
+  "a": "Livello -1 Borghetto Europa, Piazza Europa, 1",
+  "lat": 37.51707649,
+  "lon": 15.10635414,
+  "sito": null,
+  "tel": "+393701559861"
+ },
+ {
+  "n": "U Tjanu",
+  "z": "Catania",
+  "a": "Via Gabriele D'Annunzio, 190",
+  "lat": 37.5181274,
+  "lon": 15.09728715,
+  "sito": null,
+  "tel": "+393888919170"
+ },
+ {
+  "n": "Cafe Saint Honore",
+  "z": "Catania",
+  "a": "Via Gabriele D'Annunzio, 173",
+  "lat": 37.518092,
+  "lon": 15.097867,
+  "sito": null,
+  "tel": "+393428087274"
+ },
+ {
+  "n": "Sagre Ristorante",
+  "z": "Catania",
+  "a": "Corso delle Province, 99",
+  "lat": 37.51736338,
+  "lon": 15.09399657,
+  "sito": "https://linktr.ee/sagre.ristorante",
+  "tel": "+390958846786"
+ },
+ {
+  "n": "Carboni Ardenti",
+  "z": "Catania",
+  "a": "Via Cifali, 108",
+  "lat": 37.51724974,
+  "lon": 15.07047754,
+  "sito": "https://www.giniuspos.it/clienti/carboniardenti/about-us",
+  "tel": "+39095351922"
+ },
+ {
+  "n": "Gastronomia Ciu Ricu",
+  "z": "Catania",
+  "a": "Via Lineri, 22",
+  "lat": 37.51756908,
+  "lon": 15.03762054,
+  "sito": null,
+  "tel": "+393292761184"
+ },
+ {
+  "n": "Laboratorio Gastronomico Dario Pistorio",
+  "z": "Catania",
+  "a": "Via Sassari, 64",
+  "lat": 37.521668,
+  "lon": 15.09431,
+  "sito": null,
+  "tel": "+39095539794"
+ },
+ {
+  "n": "Andrew's Faro",
+  "z": "Catania",
+  "a": "Via S. Giovanni Li Cuti, 36/38",
+  "lat": 37.51993553,
+  "lon": 15.1096875,
+  "sito": "https://www.andrewsfaro.com/",
+  "tel": "+39095382642"
+ },
+ {
+  "n": "Cuk Restaurant",
+  "z": "Catania",
+  "a": "Via San Giovanni Licuti 36",
+  "lat": 37.519868678741375,
+  "lon": 15.109692172764278,
+  "sito": "http://www.cukrestaurant.com",
+  "tel": "095 388516"
+ },
+ {
+  "n": "Panificio Il Grano D'Oro",
+  "z": "Catania",
+  "a": "Via Oliveto Scammacca, 40",
+  "lat": 37.5198768,
+  "lon": 15.0952004,
+  "sito": "https://www.facebook.com/ilgranodorocatania/",
+  "tel": "3272889968"
+ },
+ {
+  "n": "Taverna Peppino",
+  "z": "Catania",
+  "a": "Via Empedocle, 43",
+  "lat": 37.51905524,
+  "lon": 15.08308004,
+  "sito": "http://www.tavernapeppino.it/",
+  "tel": "+393470164544"
+ },
+ {
+  "n": "Calicenero",
+  "z": "Catania",
+  "a": "Via Giacomo Leopardi, 2 Bis",
+  "lat": 37.51835082,
+  "lon": 15.0990431,
+  "sito": "http://www.calicenero.it/",
+  "tel": "+393285793470"
+ },
+ {
+  "n": "Booqr",
+  "z": "Catania",
+  "a": "Via Giacomo Leopardi, 96",
+  "lat": 37.51890234951874,
+  "lon": 15.102914612301115,
+  "sito": "https://www.booqr.me/",
+  "tel": null
+ },
+ {
+  "n": "La Casa Di Luca Ristoranti",
+  "z": "Catania",
+  "a": "Via Etnea, 684",
+  "lat": 37.522172,
+  "lon": 15.08271001,
+  "sito": null,
+  "tel": "+3909516963707"
+ },
+ {
+  "n": "Giardino di Bacco Catania",
+  "z": "Catania",
+  "a": "Via Etnea, 704",
+  "lat": 37.52313099,
+  "lon": 15.08244052,
+  "sito": "http://www.giardinodibacco.com",
+  "tel": "+39095438173"
+ },
+ {
+  "n": "Addi Parati",
+  "z": "Catania",
+  "a": "Via Vincenzo Giuffrida, 195/197",
+  "lat": 37.52595247,
+  "lon": 15.09055867,
+  "sito": "http://www.addiparati.com/",
+  "tel": "+39095445252"
+ },
+ {
+  "n": "Il Ghiottone",
+  "z": "Catania",
+  "a": "Via Ravenna, 7",
+  "lat": 37.52595709,
+  "lon": 15.09509483,
+  "sito": "https://gastronomiailghiottonecatania.com/",
+  "tel": "+393487828592"
+ },
+ {
+  "n": "Panificio Giannino",
+  "z": "Catania",
+  "a": "Via Galatioto, 129/B",
+  "lat": 37.5271757,
+  "lon": 15.1052749,
+  "sito": "",
+  "tel": "095494222"
+ },
+ {
+  "n": "Sant'Ana - Pescado y Tequila",
+  "z": "Catania",
+  "a": "Via Marittima, 24",
+  "lat": 37.52895,
+  "lon": 15.11521,
+  "sito": null,
+  "tel": "+393927192728"
+ },
+ {
+  "n": "Lognina",
+  "z": "Catania",
+  "a": "Via Marittima, 26",
+  "lat": 37.528913,
+  "lon": 15.115064,
+  "sito": "http://lognina.wixsite.com/home",
+  "tel": "+390952868590"
+ },
+ {
+  "n": "Kalamarè Fish & Wine Restaurant",
+  "z": "Catania",
+  "a": "Vle Artale Alagona, 109",
+  "lat": 37.52959887,
+  "lon": 15.11239714,
+  "sito": null,
+  "tel": "+393455115341"
+ },
+ {
+  "n": "Magma Cafè Home Restaurant",
+  "z": "Catania",
+  "a": "Via Sebastiano Catania, 312",
+  "lat": 37.53069,
+  "lon": 15.0557,
+  "sito": null,
+  "tel": "+393311757924"
+ },
+ {
+  "n": "Longana",
+  "z": "Catania",
+  "a": "Via Acicastello, 2",
+  "lat": 37.53302077,
+  "lon": 15.11489482,
+  "sito": "https://www.ristorantelongana.it/",
+  "tel": "+390958256240"
+ },
+ {
+  "n": "La Vecchia Dogana, Porto Di Catania",
+  "z": "Catania",
+  "a": null,
+  "lat": 37.53308582,
+  "lon": 15.10476475,
+  "sito": "http://www.vecchiadogana.it/",
+  "tel": null
+ },
+ {
+  "n": "La drogheria",
+  "z": "Catania",
+  "a": "Viale Ulisse, 10",
+  "lat": 37.53191885,
+  "lon": 15.10680527,
+  "sito": "https://www.instagram.com/ladrogheriacatania/",
+  "tel": "+393496840524"
+ },
+ {
+  "n": "L'Orafo del Gusto",
+  "z": "Catania",
+  "a": "Via del Bosco, 58/B",
+  "lat": 37.53155621,
+  "lon": 15.08057059,
+  "sito": "https://www.lorafodelgusto.it/",
+  "tel": "+39095221401"
+ },
+ {
+  "n": "Al Rinascimento",
+  "z": "Catania",
+  "a": "Via Glauco",
+  "lat": 37.53646229,
+  "lon": 15.11774812,
+  "sito": null,
+  "tel": "+393452115075"
+ },
+ {
+  "n": "Al Nuovo Braciere",
+  "z": "Catania",
+  "a": "Via San Giovanni Galermo, 310E",
+  "lat": 37.54249652,
+  "lon": 15.05523732,
+  "sito": "https://www.instagram.com/alnuovobracieregalermo",
+  "tel": "+390957142700"
+ },
+ {
+  "n": "KIKO - CATANIA - Le Zagare",
+  "z": "Catania",
+  "a": "Via A. Manzoni",
+  "lat": 37.587437274989774,
+  "lon": 15.102885884290567,
+  "sito": "http://www.rossopomodoro.it/",
+  "tel": "+390957707736"
+ },
+ {
+  "n": "Le Delizie Dei Saponari ' Tra Due Terre'",
+  "z": "Catania",
+  "a": "Via Francesco Crispi 201",
+  "lat": 37.61611288446403,
+  "lon": 15.072913274489155,
+  "sito": "https://al-convivium-restaurant-pizzeria.business.site",
+  "tel": "095 780 7729"
+ },
+ {
+  "n": "La Barchetta",
+  "z": "Catania",
+  "a": "Piazza Santa Margherita Regina 7",
+  "lat": 37.66104212214802,
+  "lon": 15.195852481009874,
+  "sito": "http://trattorialabarchetta.it",
+  "tel": "095 764 2118"
+ },
+ {
+  "n": "Al Gattonero & C snc",
+  "z": "Taormina",
+  "a": "Via Chianchitta, 37",
+  "lat": 37.82540347890268,
+  "lon": 15.256748819875991,
+  "sito": "http://www.algattonero.net/",
+  "tel": "+393292368431"
+ },
+ {
+  "n": "Laboratorio Gourmet",
+  "z": "Taormina",
+  "a": "Via Santa Filomena, 28/30",
+  "lat": 37.83239173,
+  "lon": 15.23785684,
+  "sito": "https://www.agriturismoterrenia.it/it/",
+  "tel": "+393662410333"
+ },
+ {
+  "n": "Poste Italiane",
+  "z": "Taormina",
+  "a": null,
+  "lat": 37.833342360434,
+  "lon": 15.237299601051,
+  "sito": "http://www.poste.it/",
+  "tel": null
+ },
+ {
+  "n": "Lorenzina Beach Club Taormina",
+  "z": "Taormina",
+  "a": "Via Nazionale, 35",
+  "lat": 37.84795,
+  "lon": 15.2854,
+  "sito": "https://lorenzina.it/",
+  "tel": "+393278574924"
+ },
+ {
+  "n": "Euphoria Taormina",
+  "z": "Taormina",
+  "a": "Via Luigi Pirandello, 81",
+  "lat": 37.85058,
+  "lon": 15.29402,
+  "sito": "https://hotelvillacarlottataormina.com/restaurant/",
+  "tel": "+390942626058"
+ },
+ {
+  "n": "Rosso",
+  "z": "Taormina",
+  "a": "Via S. Domenico, 5",
+  "lat": 37.849962,
+  "lon": 15.2834255,
+  "sito": "https://www.fourseasons.com/taormina/dining/restaurants/rosso/",
+  "tel": "0942613254"
+ },
+ {
+  "n": "Nunziatina Ristorante",
+  "z": "Taormina",
+  "a": "Via Roma, 12",
+  "lat": 37.85001719,
+  "lon": 15.28270517,
+  "sito": "http://www.nunziatinataormina.it/",
+  "tel": "+393881257275"
+ },
+ {
+  "n": "San Michele Ristorante Taormina",
+  "z": "Taormina",
+  "a": "Piazza S. Domenico de Guzman, 2B",
+  "lat": 37.8504762,
+  "lon": 15.28351348,
+  "sito": "https://www.villazuccaro.com/san-michele/",
+  "tel": "+390942628874"
+ },
+ {
+  "n": "Kisté",
+  "z": "Taormina",
+  "a": "Via S. Maria de Greci, 2",
+  "lat": 37.85073414,
+  "lon": 15.28303885,
+  "sito": "https://www.pietrodagostino.it/",
+  "tel": "+393333711606"
+ },
+ {
+  "n": "Restaurant Rosso Peperoncino",
+  "z": "Taormina",
+  "a": "Vico Sacramento, 2",
+  "lat": 37.85073671,
+  "lon": 15.2833526,
+  "sito": "http://Www.rossopeperoncino.eu/",
+  "tel": "+390942625150"
+ },
+ {
+  "n": "Plaza Champagne",
+  "z": "Taormina",
+  "a": "La Piazzetta, Vico Francesco Paladini, 5",
+  "lat": 37.850912,
+  "lon": 15.283538,
+  "sito": null,
+  "tel": "+393661593591"
+ },
+ {
+  "n": "Le Quattro Fontane",
+  "z": "Taormina",
+  "a": "Piazza Duomo",
+  "lat": 37.85100192,
+  "lon": 15.28256902,
+  "sito": "http://www.lequattrofontanetaormina.com/",
+  "tel": "+39094223400"
+ },
+ {
+  "n": "Osteria Rosso Divino",
+  "z": "Taormina",
+  "a": "Via De Spuches, 8",
+  "lat": 37.8509309,
+  "lon": 15.28188099,
+  "sito": "http://osteriarossodivinotaormina.com/",
+  "tel": "+390942628653"
+ },
+ {
+  "n": "Poste Italiane",
+  "z": "Taormina",
+  "a": "Taormina 82",
+  "lat": 37.851043,
+  "lon": 15.281504,
+  "sito": "http://www.poste.it/",
+  "tel": null
+ },
+ {
+  "n": "Ferrara Restaurant & Lounge",
+  "z": "Taormina",
+  "a": "Corso Umberto, 215",
+  "lat": 37.85115413,
+  "lon": 15.28315751,
+  "sito": "https://ferrara-restaurant-taormina.business.site/",
+  "tel": "+39094221296"
+ },
+ {
+  "n": "Ciampoli Restaurant - Panoramic Terrace Taormina",
+  "z": "Taormina",
+  "a": "Salita Ciampoli, 7",
+  "lat": 37.85119641,
+  "lon": 15.28355498,
+  "sito": "http://www.hoteleljebel.com",
+  "tel": "+390942556629"
+ },
+ {
+  "n": "La Cisterna del Moro",
+  "z": "Taormina",
+  "a": "Via Bonifacio, 1",
+  "lat": 37.85117954,
+  "lon": 15.28464071,
+  "sito": "http://Lacisternadelmoro.wixsite.com/taormina",
+  "tel": "+39094223001"
+ },
+ {
+  "n": "La Trattoria da Ugo",
+  "z": "Taormina",
+  "a": "Viale Apollo Arcageta, 2",
+  "lat": 37.85123317,
+  "lon": 15.28123892,
+  "sito": "http://www.trattoriadaugo.com/",
+  "tel": "+39094223239"
+ },
+ {
+  "n": "Malvasia",
+  "z": "Taormina",
+  "a": "via, Viale Apollo Arcageta, 8",
+  "lat": 37.85134898,
+  "lon": 15.28126646,
+  "sito": "https://ristorantemalvasiataormina.it/",
+  "tel": "+390942625858"
+ },
+ {
+  "n": "Le Moresche",
+  "z": "Taormina",
+  "a": "Salita del Carmine, 4",
+  "lat": 37.8512903,
+  "lon": 15.28219172,
+  "sito": "http://www.lemoresche.it/",
+  "tel": "+393392946551"
+ },
+ {
+  "n": "La Lanterna Ristorante Taormina",
+  "z": "Taormina",
+  "a": "Via Giordano Bruno, 2",
+  "lat": 37.851391805009925,
+  "lon": 15.282511900028643,
+  "sito": "https://m.facebook.com/lalanternataormina",
+  "tel": "+393489271800"
+ },
+ {
+  "n": "Casa Niclodi",
+  "z": "Taormina",
+  "a": "Salita Alexander Humboldt, 2",
+  "lat": 37.8514685,
+  "lon": 15.28395524,
+  "sito": "http://www.casaniclodi.com/",
+  "tel": "+390942628723"
+ },
+ {
+  "n": "Ristorante L'Orologio",
+  "z": "Taormina",
+  "a": "Via Don Giovanni Bosco, 37A",
+  "lat": 37.85185045,
+  "lon": 15.2853595,
+  "sito": "http://www.ristorantelorologio.it/",
+  "tel": "+393514748116"
+ },
+ {
+  "n": "Gourmet 32 Restaurant",
+  "z": "Taormina",
+  "a": "Via Bagnoli Croci, 31",
+  "lat": 37.85201816,
+  "lon": 15.28843172,
+  "sito": "http://www.gourmet32.it/",
+  "tel": "+393885620381"
+ },
+ {
+  "n": "Osteria da Rita",
+  "z": "Taormina",
+  "a": "Via Calapitrulli, 3",
+  "lat": 37.85220972,
+  "lon": 15.28819509,
+  "sito": "https://instagram.com/osteriadarita?igshid=pz6pwva9b89e",
+  "tel": "+390942681015"
+ },
+ {
+  "n": "Valor Flight Vip",
+  "z": "Taormina",
+  "a": "Salita Guglielmo Melivia, 7",
+  "lat": 37.852371,
+  "lon": 15.286407,
+  "sito": "https://www.google.it/maps/place/TreQuarti+Taormina+Antipasteria+Siciliana/@37.8523385,15.2865548,15z/data=!4m5!3m4!1s0x0:0x779ea01bb7cbb4!8m2!3d37.8523385!4d15.2865548",
+  "tel": "+393512874780"
+ },
+ {
+  "n": "Vineria Modi",
+  "z": "Taormina",
+  "a": "Via Calapitrulli, 13",
+  "lat": 37.85251333,
+  "lon": 15.28835568,
+  "sito": "http://vineriamodi.com/",
+  "tel": "+39094223658"
+ },
+ {
+  "n": "La Locanda Dei Mori",
+  "z": "Taormina",
+  "a": "Vico di Via Iallia Bassia, 1",
+  "lat": 37.85252616,
+  "lon": 15.28923415,
+  "sito": null,
+  "tel": "+393348497735"
+ },
+ {
+  "n": "Teatro 44",
+  "z": "Taormina",
+  "a": "Via Iallia Bassia, 11",
+  "lat": 37.85252979,
+  "lon": 15.28924809,
+  "sito": "http://www.teatro44taormina.it/",
+  "tel": "+393312741051"
+ },
+ {
+  "n": "Ristorante Le Namauchie",
+  "z": "Taormina",
+  "a": "Via Giardinazzo 8",
+  "lat": 37.85261742868619,
+  "lon": 15.287546428091666,
+  "sito": "http://www.ristorantelenaumachie.com",
+  "tel": "0942 625145"
+ },
+ {
+  "n": "Aversa Group SRL",
+  "z": "Taormina",
+  "a": "Via Giardinazzo, 8",
+  "lat": 37.852603,
+  "lon": 15.287796,
+  "sito": "http://www.ristorantelenaumachie.com/",
+  "tel": "+390942625145"
+ },
+ {
+  "n": "Wood house Bar Gastronomia",
+  "z": "Taormina",
+  "a": "Via Giovanni di Giovanni, 36",
+  "lat": 37.85258,
+  "lon": 15.28858,
+  "sito": "http://woodhousetaormina.com/",
+  "tel": "+393926878381"
+ },
+ {
+  "n": "Pescatori Al Bar",
+  "z": "Taormina",
+  "a": "Via Giardinazzo, 1",
+  "lat": 37.852530370181,
+  "lon": 15.2875238657,
+  "sito": "http://www.mycia.it/dettaglio/Pescatorialbar/9851",
+  "tel": "+390942090608"
+ },
+ {
+  "n": "Rist. Del Corso",
+  "z": "Taormina",
+  "a": "Corso Umberto, 141",
+  "lat": 37.85176595,
+  "lon": 15.2859602,
+  "sito": "https://www.pellegrinorestaurants.com/cafe-del-corso",
+  "tel": "+390942625783"
+ },
+ {
+  "n": "Andreas Restaurant",
+  "z": "Taormina",
+  "a": "Andreas Restaurant, Via Bagnoli Croci, 88",
+  "lat": 37.85131239,
+  "lon": 15.28999588,
+  "sito": "http://www.andreasrestaurant.it",
+  "tel": "+393493939340"
+ },
+ {
+  "n": "Oliviero",
+  "z": "Taormina",
+  "a": "Via Nazionale, 137",
+  "lat": 37.854823,
+  "lon": 15.300719,
+  "sito": "https://www.belmond.com/hotels/europe/italy/taormina/belmond-villa-sant-andrea/dining",
+  "tel": "+3909426271200"
+ },
+ {
+  "n": "Liola Osteria and Bar",
+  "z": "Taormina",
+  "a": "Viale S. Pancrazio, 4",
+  "lat": 37.85469779,
+  "lon": 15.28892257,
+  "sito": "http://www.liolaristobar.it/",
+  "tel": "+390942263511"
+ },
+ {
+  "n": "Brizza",
+  "z": "Taormina",
+  "a": "Via Nazionale 137",
+  "lat": 37.8541296,
+  "lon": 15.3023383,
+  "sito": "https://www.belmond.com/hotels/europe/italy/taormina/belmond-villa-sant-andrea/dining",
+  "tel": "09426271200"
+ },
+ {
+  "n": "Bell'Assai",
+  "z": "Taormina",
+  "a": "Via Nazionale, 113",
+  "lat": 37.85366176,
+  "lon": 15.3005801,
+  "sito": "http://www.bellassaitaormina.it/",
+  "tel": "+393806473634"
+ },
+ {
+  "n": "Red & White",
+  "z": "Taormina",
+  "a": "Via di Giovanni, 47",
+  "lat": 37.85307,
+  "lon": 15.28897,
+  "sito": "http://www.redandwhitehostaria.com",
+  "tel": "0942 28599"
+ },
+ {
+  "n": "Myle e I Suoi Sapori",
+  "z": "Taormina",
+  "a": "Via Giardinazzo, 57",
+  "lat": 37.85305781,
+  "lon": 15.28880674,
+  "sito": "https://www.ristorantemyleeisuoisapori.com/",
+  "tel": "+390942625807"
+ },
+ {
+  "n": "Kepos Restaurant Taormina",
+  "z": "Taormina",
+  "a": "Salita Santippo, Snc",
+  "lat": 37.85308368918525,
+  "lon": 15.287254339863798,
+  "sito": "https://www.kepostaormina.com/",
+  "tel": "3806897430"
+ },
+ {
+  "n": "Grotta di Ulisse Ristorante & Lounge Bar",
+  "z": "Taormina",
+  "a": "Salita Lucio Denti, 3",
+  "lat": 37.85322002,
+  "lon": 15.28768111,
+  "sito": "http://www.grottadiulisse.it/",
+  "tel": "+39094224385"
+ },
+ {
+  "n": "Ristorante Badia",
+  "z": "Taormina",
+  "a": "Largo Santa Caterina, 13",
+  "lat": 37.85365944,
+  "lon": 15.28837515,
+  "sito": "http://www.RistoranteBadia.com/",
+  "tel": "+393807046689"
+ },
+ {
+  "n": "Caffè Solaris",
+  "z": "Taormina",
+  "a": "Via Timeo, 31",
+  "lat": 37.8539281,
+  "lon": 15.28780896,
+  "sito": null,
+  "tel": "+393495772732"
+ },
+ {
+  "n": "Shaker Bar",
+  "z": "Taormina",
+  "a": "Via Giovanni di Giovanni, 4",
+  "lat": 37.85394042,
+  "lon": 15.28870198,
+  "sito": null,
+  "tel": "+39094223808"
+ },
+ {
+  "n": "Al Saraceno",
+  "z": "Taormina",
+  "a": "Via Madonna della Rocca, 16",
+  "lat": 37.8542979,
+  "lon": 15.28390401,
+  "sito": "http://www.alsaraceno.it/",
+  "tel": "+393347224790"
+ },
+ {
+  "n": "Incanto Taormina",
+  "z": "Taormina",
+  "a": "Via Leonardo da Vinci, 60",
+  "lat": 37.85544,
+  "lon": 15.28163,
+  "sito": "https://villaducale.com/restaurant/",
+  "tel": "+39094228153"
+ },
+ {
+  "n": "Ristorante Il Barcaiolo",
+  "z": "Taormina",
+  "a": "Via Castelluccio, 43",
+  "lat": 37.85696549,
+  "lon": 15.30157618,
+  "sito": "http://barcaiolo.altervista.org",
+  "tel": "+393792089564"
+ },
+ {
+  "n": "Blum Restaurant",
+  "z": "Taormina",
+  "a": "Via Nazionale",
+  "lat": 37.85597438,
+  "lon": 15.30098665,
+  "sito": "https://bit.ly/TheForkBlum",
+  "tel": "+390942612111"
+ },
+ {
+  "n": "Armonia",
+  "z": "Taormina",
+  "a": "Via Nazionale, 147",
+  "lat": 37.85607891,
+  "lon": 15.30074035,
+  "sito": "https://bit.ly/VRetreatsMazzaroSeaPalace",
+  "tel": "+390942612111"
+ },
+ {
+  "n": "St. George Restaurant",
+  "z": "Taormina",
+  "a": "Viale S. Pancrazio, 46",
+  "lat": 37.85544344,
+  "lon": 15.28999757,
+  "sito": "https://www.theashbeehotel.com/dining/",
+  "tel": "+39094223537"
+ },
+ {
+  "n": "Terrazza Moro",
+  "z": "Taormina",
+  "a": "Viale S. Pancrazio, 56",
+  "lat": 37.8551656,
+  "lon": 15.29094067,
+  "sito": "https://www.terrazzamoro.it/",
+  "tel": "+390942436503"
+ },
+ {
+  "n": "La Marina Restaurant",
+  "z": "Taormina",
+  "a": "Piazza della Funivia, 1",
+  "lat": 37.85523051,
+  "lon": 15.29738615,
+  "sito": null,
+  "tel": "+39094221260"
+ },
+ {
+  "n": "Villa Garbo",
+  "z": "Taormina",
+  "a": "Via Sillemi 18",
+  "lat": 37.88716026409923,
+  "lon": 15.31565634536143,
+  "sito": "http://www.villasicily.it",
+  "tel": "0942 36200"
+ },
+ {
+  "n": "The One Taormina",
+  "z": "Taormina",
+  "a": "Viale Alcide De Gasperi",
+  "lat": 37.87229463,
+  "lon": 15.30140512,
+  "sito": "http://www.theonetaormina.it/",
+  "tel": "+393514284411"
+ },
+ {
+  "n": "Marchesi di Taormina",
+  "z": "Taormina",
+  "a": "Taormina",
+  "lat": 37.872512,
+  "lon": 15.30119,
+  "sito": "http://www.marchesiditaormina.com/",
+  "tel": "+393477423848"
+ }
+]

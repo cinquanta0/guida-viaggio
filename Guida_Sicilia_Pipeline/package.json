@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "duckdb": "^1.4.4",
+    "sharp": "^0.35.5"
+  }
+}

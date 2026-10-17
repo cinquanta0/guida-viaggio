@@ -1,0 +1,974 @@
+[
+ {
+  "n": "Il Timo Bistrot",
+  "z": "Aci Castello",
+  "a": "Via Antonello da Messina, 45",
+  "lat": 37.54204185,
+  "lon": 15.13662714,
+  "sito": "https://www.marriott.com/hotels/hotel-information/restaurant/ctasi-four-points-catania-hotel-and-conference-center",
+  "tel": "+390957114111"
+ },
+ {
+  "n": "Ristorante 4Spa",
+  "z": "Aci Castello",
+  "a": "Via Nazionale, 113",
+  "lat": 37.54553674863452,
+  "lon": 15.136777020977547,
+  "sito": null,
+  "tel": null
+ },
+ {
+  "n": "Il Cortile delle Fate",
+  "z": "Aci Castello",
+  "a": "Via Savoia, 16",
+  "lat": 37.55472863,
+  "lon": 15.14695421,
+  "sito": "http://www.ilcortiledellefate.it/",
+  "tel": "+390958184903"
+ },
+ {
+  "n": "L'Albero Di Dodo",
+  "z": "Aci Castello",
+  "a": "Via Stazione, 14",
+  "lat": 37.5561278,
+  "lon": 15.14375545,
+  "sito": "http://lalberodidodo.jimdo.com/",
+  "tel": "+39095274997"
+ },
+ {
+  "n": "Giovanni Villa Mirador Zafferana",
+  "z": "Aci Castello",
+  "a": "VIA GIACINTO",
+  "lat": 37.564412066668,
+  "lon": 15.161124133334,
+  "sito": "http://www.villamirador.it/",
+  "tel": "+3933974811365"
+ },
+ {
+  "n": "I Malavoglia",
+  "z": "Aci Castello",
+  "a": "Lungomare dei Ciclopi, 167",
+  "lat": 37.56192163655169,
+  "lon": 15.161394503821514,
+  "sito": "http://www.trattoriamalavoglia.com",
+  "tel": null
+ },
+ {
+  "n": "Borgo San Nicolao",
+  "z": "Aci Castello",
+  "a": "Contrada Rumbolo - Calderara SS.120 - Randazzo Km 190",
+  "lat": 37.56181233,
+  "lon": 15.16113723,
+  "sito": "http://www.borgosannicolao.it/",
+  "tel": "+393293809496"
+ },
+ {
+  "n": "Bonu Jè",
+  "z": "Aci Castello",
+  "a": "Via Provinciale 140",
+  "lat": 37.56175054934319,
+  "lon": 15.160776748294806,
+  "sito": "https://www.bonuje.it",
+  "tel": "095 832 0292"
+ },
+ {
+  "n": "Fortuna Sushy Ristorante",
+  "z": "Aci Castello",
+  "a": "Via Provinciale, 140",
+  "lat": 37.56160320578881,
+  "lon": 15.16037377582472,
+  "sito": null,
+  "tel": "+393514416117"
+ },
+ {
+  "n": "Chiosco ai Muretti",
+  "z": "Aci Castello",
+  "a": "Lungomare dei Ciclopi, 99",
+  "lat": 37.560251,
+  "lon": 15.159103,
+  "sito": null,
+  "tel": null
+ },
+ {
+  "n": "Luxury Food",
+  "z": "Aci Castello",
+  "a": null,
+  "lat": 37.56606,
+  "lon": 15.15345,
+  "sito": null,
+  "tel": "+393512340031"
+ },
+ {
+  "n": "Absolut RistoPub",
+  "z": "Aci Catena",
+  "a": "Via Vincenzo Ricca, 1",
+  "lat": 37.56658380740393,
+  "lon": 15.137174179405159,
+  "sito": null,
+  "tel": "+393511503410"
+ },
+ {
+  "n": "Quattro Elementi",
+  "z": "Valverde",
+  "a": "Corso Vittorio Emanuele III, 120",
+  "lat": 37.57894451,
+  "lon": 15.12354715,
+  "sito": "http://www.quattroelementi.com/",
+  "tel": "+393500016983"
+ },
+ {
+  "n": "Cazzalora",
+  "z": "Valverde",
+  "a": "Corso Vittorio Emanuele III, 116",
+  "lat": 37.5789253,
+  "lon": 15.12365864,
+  "sito": null,
+  "tel": "+393899105007"
+ },
+ {
+  "n": "Kokoku Sushi Bar",
+  "z": "Acireale",
+  "a": "Martinez M., 5",
+  "lat": 37.57622780252837,
+  "lon": 15.171276428307126,
+  "sito": "https://www.kokokusushibar-acireale.it",
+  "tel": "329 753 4903"
+ },
+ {
+  "n": "Antica Taverna di Capomulini",
+  "z": "Acireale",
+  "a": "Via Capomulini, 34",
+  "lat": 37.576578,
+  "lon": 15.17106538,
+  "sito": "http://www.anticatavernadicapomulini.flazio.com/home",
+  "tel": "+393472234141"
+ },
+ {
+  "n": "Il Sole e il Sale",
+  "z": "Acireale",
+  "a": "Via Nazionale per Catania, 176",
+  "lat": 37.58293036,
+  "lon": 15.16868898,
+  "sito": "http://www.ilsoleeilsale.it/",
+  "tel": "+393773021982"
+ },
+ {
+  "n": "Trilogy Chiosco Bar",
+  "z": "Aci Catena",
+  "a": "Via dottor Giovanni chiarenza",
+  "lat": 37.585926,
+  "lon": 15.142295,
+  "sito": null,
+  "tel": "+393885837447"
+ },
+ {
+  "n": "Chiosco Sciacca Aci Bonaccorsi",
+  "z": "Aci Bonaccorsi",
+  "a": "Via Giuseppe Garibaldi",
+  "lat": 37.59327745,
+  "lon": 15.10474925,
+  "sito": null,
+  "tel": "+393480389641"
+ },
+ {
+  "n": "Paone Food & Drink",
+  "z": "Nicolosi",
+  "a": "Via Fornace, 32",
+  "lat": 37.6102027,
+  "lon": 15.0181812,
+  "sito": null,
+  "tel": "+393420338838"
+ },
+ {
+  "n": "Rosso Fuoco",
+  "z": "Nicolosi",
+  "a": "Via Fornace, 32",
+  "lat": 37.60953,
+  "lon": 15.018128,
+  "sito": "http://rossofuoco.net/",
+  "tel": "+390952860060"
+ },
+ {
+  "n": "Volcano House Etna",
+  "z": "Nicolosi",
+  "a": "Via Cesare Battisti, 34",
+  "lat": 37.613206816755,
+  "lon": 15.027812969468,
+  "sito": "http://www.volcanohouseetna.com/",
+  "tel": "+393489755287"
+ },
+ {
+  "n": "Antico Orto dei Limoni",
+  "z": "Nicolosi",
+  "a": "Via delle Grotte, 4",
+  "lat": 37.61490666,
+  "lon": 15.02160185,
+  "sito": "http://www.ortolimoni.it",
+  "tel": "+39095910808"
+ },
+ {
+  "n": "Osteria 1877",
+  "z": "Nicolosi",
+  "a": "Via Etnea, 63",
+  "lat": 37.61378626,
+  "lon": 15.02633504,
+  "sito": "http://www.osteria1877.com/",
+  "tel": "+393400576765"
+ },
+ {
+  "n": "Chiosco Al Centro",
+  "z": "Acireale",
+  "a": "Via Vittorio Emanuele II, 219",
+  "lat": 37.61139468,
+  "lon": 15.16519196,
+  "sito": null,
+  "tel": null
+ },
+ {
+  "n": "Sikelia Beer and More",
+  "z": "Acireale",
+  "a": "Via Lancaster, 22-24",
+  "lat": 37.61226767,
+  "lon": 15.16637526,
+  "sito": "https://www.sikeliasrls.it/",
+  "tel": "+393427725356"
+ },
+ {
+  "n": "Moro Acireale",
+  "z": "Acireale",
+  "a": "P.za Duomo, 18",
+  "lat": 37.61298987,
+  "lon": 15.16558196,
+  "sito": "http://moroacireale.it/",
+  "tel": "+393333463500"
+ },
+ {
+  "n": "La Nuova Veranda Risto Pub",
+  "z": "Acireale",
+  "a": "Via Antillo, 18",
+  "lat": 37.60886481,
+  "lon": 15.15027837,
+  "sito": null,
+  "tel": "+393471569001"
+ },
+ {
+  "n": "Salumeria All'ultimo Minuto",
+  "z": "Acireale",
+  "a": "Via Sciarelle, 29 A/B",
+  "lat": 37.60794423,
+  "lon": 15.15297561,
+  "sito": null,
+  "tel": "+393703748989"
+ },
+ {
+  "n": "Ristobar Srl",
+  "z": "Acireale",
+  "a": "Piazza Agostino Pennisi, 1",
+  "lat": 37.60421741,
+  "lon": 15.16614103,
+  "sito": "http://www.ristobarsrl.com/",
+  "tel": "+393428115083"
+ },
+ {
+  "n": "Cavallino d'Oro",
+  "z": "Trecastagni",
+  "a": "Via Catania, 67",
+  "lat": 37.6011624,
+  "lon": 15.08021326,
+  "sito": "https://beacons.ai/cavallinodoro",
+  "tel": "+393406921204"
+ },
+ {
+  "n": "Chiosco City Drink",
+  "z": "Aci Bonaccorsi",
+  "a": "Via Garibaldi, Villetta dei Pini",
+  "lat": 37.598521,
+  "lon": 15.106035,
+  "sito": "https://chiosco-bar-city-drink.business.site",
+  "tel": "+393924629763"
+ },
+ {
+  "n": "la certosa dei cavalieri",
+  "z": "Acireale",
+  "a": "Via Taro 19",
+  "lat": 37.631416799569394,
+  "lon": 15.150305575548527,
+  "sito": "http://www.certosadeicavalieri.it",
+  "tel": "399 5288 4590"
+ },
+ {
+  "n": "Tabare Bistrò Caffè",
+  "z": "Acireale",
+  "a": "Via Loreto Balatelle, 190",
+  "lat": 37.63296226,
+  "lon": 15.15094034,
+  "sito": "https://tabarebistrot.com/menu",
+  "tel": "+393926113702"
+ },
+ {
+  "n": "Flamingó Acireale",
+  "z": "Acireale",
+  "a": "Via Roma, 28",
+  "lat": 37.617576750000495,
+  "lon": 15.168577650002723,
+  "sito": null,
+  "tel": "+393343379060"
+ },
+ {
+  "n": "QiAcireale",
+  "z": "Acireale",
+  "a": "Via Luigi Einaudi, 18",
+  "lat": 37.618726,
+  "lon": 15.161283,
+  "sito": "https://qifoodfocus.it/",
+  "tel": null
+ },
+ {
+  "n": "Trattoria Scalo Grande",
+  "z": "Acireale",
+  "a": "Via Scalo Grande, 68",
+  "lat": 37.61817068,
+  "lon": 15.17315634,
+  "sito": "http://trattoriascalogrande.placeweb.site/",
+  "tel": "+393288832384"
+ },
+ {
+  "n": "Ai 2 Ladroni",
+  "z": "Acireale",
+  "a": "Via Santa Maria la Scala 25",
+  "lat": 37.620010353118175,
+  "lon": 15.172922950790866,
+  "sito": null,
+  "tel": "095 989 2424"
+ },
+ {
+  "n": "CotònPashà",
+  "z": "Aci Sant'Antonio",
+  "a": "Via Nocilla, 155",
+  "lat": 37.616327,
+  "lon": 15.113573,
+  "sito": "https://www.cotonpasha.it/",
+  "tel": "+390958368194"
+ },
+ {
+  "n": "Prizziusi Officina del gusto",
+  "z": "Trecastagni",
+  "a": "Via F. Crispi, 159",
+  "lat": 37.61623271,
+  "lon": 15.07379365,
+  "sito": "http://www.prizziusi.it/",
+  "tel": "+393518269938"
+ },
+ {
+  "n": "Zuccaro Giuseppe",
+  "z": "Trecastagni",
+  "a": "Via Giuseppe Verdi, 69",
+  "lat": 37.6175516,
+  "lon": 15.071302,
+  "sito": "http://barzuccarotto.placeweb.site",
+  "tel": "+390957800972"
+ },
+ {
+  "n": "Ristorante Bar La Cantoniera di Carone & La Rosa",
+  "z": "Nicolosi",
+  "a": "Piazzale Cantoniera",
+  "lat": 37.6174952,
+  "lon": 15.0240927,
+  "sito": "http://www.ristorantelacantonieraetna.com",
+  "tel": "095 914155"
+ },
+ {
+  "n": "Vini Pappalardo",
+  "z": "Nicolosi",
+  "a": "Via Firenze, 19",
+  "lat": 37.61666099,
+  "lon": 15.02647433,
+  "sito": "http://www.vinipappalardo.it/",
+  "tel": "+393288283334"
+ },
+ {
+  "n": "Scorzonera Nicolosi",
+  "z": "Nicolosi",
+  "a": "Viale della Regione, 12",
+  "lat": 37.61627095,
+  "lon": 15.02227601,
+  "sito": "https://www.scorzonera.net/",
+  "tel": "+39095911540"
+ },
+ {
+  "n": "Deco",
+  "z": "Nicolosi",
+  "a": "Via Etnea, 110",
+  "lat": 37.61565113,
+  "lon": 15.02540213,
+  "sito": "https://clubdeco.it/menu-digitale/",
+  "tel": "+393472546581"
+ },
+ {
+  "n": "I Camurriusi",
+  "z": "Nicolosi",
+  "a": "Via Fratelli Gemmellaro, 50",
+  "lat": 37.61583331,
+  "lon": 15.02796487,
+  "sito": "http://www.icamurriusi.com/",
+  "tel": "+393476670196"
+ },
+ {
+  "n": "Settepiu",
+  "z": "Nicolosi",
+  "a": "Viale della Regione, 7",
+  "lat": 37.61610454,
+  "lon": 15.02153597,
+  "sito": null,
+  "tel": "+390957916316"
+ },
+ {
+  "n": "7+ Nicolosi",
+  "z": "Nicolosi",
+  "a": "Viale della Regione, 7/A",
+  "lat": 37.61616591,
+  "lon": 15.02177948,
+  "sito": "https://7piunicolosi.grupposettepiu.it/menu",
+  "tel": "+390957916316"
+ },
+ {
+  "n": "Villa Vittoriale",
+  "z": "Trecastagni",
+  "a": "Via Ronzini, 30",
+  "lat": 37.63392982,
+  "lon": 15.07859423,
+  "sito": "http://www.villavittoriale.com/",
+  "tel": "+393388794897"
+ },
+ {
+  "n": "osteria tre colonne",
+  "z": "Acireale",
+  "a": "Via Argenta",
+  "lat": 37.63660771,
+  "lon": 15.17610311,
+  "sito": "http://it-it.facebook.com/bar.trecolonne",
+  "tel": "+390950923389"
+ },
+ {
+  "n": "La Vignitta Club",
+  "z": "Acireale",
+  "a": "Via Costiglio Casino, 34",
+  "lat": 37.63893094,
+  "lon": 15.18095701,
+  "sito": "https://lavignittaclub.com/",
+  "tel": "+393664133619"
+ },
+ {
+  "n": "Home Restaurant Casa Tua",
+  "z": "Acireale",
+  "a": "Via Torretta, 88/G",
+  "lat": 37.6409174,
+  "lon": 15.133018,
+  "sito": null,
+  "tel": "+393475432686"
+ },
+ {
+  "n": "Gli Ulivi dell'Etna",
+  "z": "Acireale",
+  "a": "Via Cerami, 18",
+  "lat": 37.64639111,
+  "lon": 15.12712937,
+  "sito": "http://www.gliulividelletna.wordpress.com/",
+  "tel": "+393923079438"
+ },
+ {
+  "n": "Officina Gastronomica",
+  "z": "Acireale",
+  "a": "Via Provinciale Per Santa Maria Ammalati, 152",
+  "lat": 37.64347361,
+  "lon": 15.15821932,
+  "sito": null,
+  "tel": "+393498546578"
+ },
+ {
+  "n": "Agriturismo Il Limoneto",
+  "z": "Acireale",
+  "a": "Via D'Amico, 41",
+  "lat": 37.65124986,
+  "lon": 15.16792729,
+  "sito": "http://www.illimoneto.it/",
+  "tel": "+393392683604"
+ },
+ {
+  "n": "Casa della Capinera",
+  "z": "Trecastagni",
+  "a": "Contrada, Sentiero Natura Monte Cicirello",
+  "lat": 37.66507385,
+  "lon": 15.07556433,
+  "sito": null,
+  "tel": "+393924569482"
+ },
+ {
+  "n": "Agriturismo Le Coccinelle",
+  "z": "Acireale",
+  "a": "Via Affitto Manitta, 2",
+  "lat": 37.66449133,
+  "lon": 15.17339012,
+  "sito": null,
+  "tel": "+39095800140"
+ },
+ {
+  "n": "Terra di Venera",
+  "z": "Santa Venerina",
+  "a": "Via Centanni, 13",
+  "lat": 37.66213203,
+  "lon": 15.15601657,
+  "sito": "http://www.terradivenera.com/",
+  "tel": "+393406582828"
+ },
+ {
+  "n": "Ristorante Parco Dei Principi",
+  "z": "Zafferana Etnea",
+  "a": "Via delle ginestre",
+  "lat": 37.68635799576117,
+  "lon": 15.103248390866394,
+  "sito": "http://www.ristoranteparcodeiprincipi.it",
+  "tel": "399 5708 2335"
+ },
+ {
+  "n": "Azienda Agricola Oasi dell'Etna",
+  "z": "Santa Venerina",
+  "a": "Via Princessa 56",
+  "lat": 37.68417609196308,
+  "lon": 15.131127475642216,
+  "sito": "http://www.zafferanaoasidelletna.it",
+  "tel": "347 587 1441"
+ },
+ {
+  "n": "Zest",
+  "z": "Santa Venerina",
+  "a": "Via Passopomo, 101",
+  "lat": 37.67988765,
+  "lon": 15.12610402,
+  "sito": "http://www.zestfood.it/",
+  "tel": "+393286519939"
+ },
+ {
+  "n": "Il limone de La terra del mezzo",
+  "z": "Riposto",
+  "a": "Strada 2, 7",
+  "lat": 37.67619,
+  "lon": 15.1793,
+  "sito": "http://www.laterradelmezzo.com/",
+  "tel": "+393454601535"
+ },
+ {
+  "n": "Giurassico Burger",
+  "z": "Zafferana Etnea",
+  "a": "Via Cassone",
+  "lat": 37.69143589,
+  "lon": 15.09182518,
+  "sito": "http://www.siciliainminiatura.it/",
+  "tel": "+393488468454"
+ },
+ {
+  "n": "Giardini Di Villa Fago",
+  "z": "Santa Venerina",
+  "a": "Via fago 25",
+  "lat": 37.689241532983914,
+  "lon": 15.14988496461698,
+  "sito": "http://www.villafago.com",
+  "tel": "399 5700 0475"
+ },
+ {
+  "n": "Tenuta San Michele",
+  "z": "Santa Venerina",
+  "a": "Via Zafferana, 13",
+  "lat": 37.692545,
+  "lon": 15.126633,
+  "sito": "http://www.tenutasanmichele.it/",
+  "tel": "+39095950520"
+ },
+ {
+  "n": "La Cantoniera Etna",
+  "z": "Nicolosi",
+  "a": "Piazzale Cantoniera",
+  "lat": 37.699113,
+  "lon": 14.995613,
+  "sito": "http://www.ristorantelacantonieraetna.com/",
+  "tel": "+39095914155"
+ },
+ {
+  "n": "A Scialata-Giarre",
+  "z": "Giarre",
+  "a": "Via Luminaria, 180",
+  "lat": 37.700045,
+  "lon": 15.167836,
+  "sito": null,
+  "tel": "+393404074117"
+ },
+ {
+  "n": "Spazio Sapore",
+  "z": "Riposto",
+  "a": "Contrada Rovettazzo Strada Statale 114",
+  "lat": 37.701397,
+  "lon": 15.175809,
+  "sito": "https://www.gruppoarena.it",
+  "tel": "095 970 4117"
+ },
+ {
+  "n": "Agriturismo dell'Etna",
+  "z": "Riposto",
+  "a": "SP2/I-II, 71",
+  "lat": 37.70427606,
+  "lon": 15.2042696,
+  "sito": "http://www.agrietna.com/",
+  "tel": "+393406242900"
+ },
+ {
+  "n": "Monte Gebel",
+  "z": "Nicolosi",
+  "a": "SP92, 19",
+  "lat": 37.70049235,
+  "lon": 14.99919637,
+  "sito": null,
+  "tel": null
+ },
+ {
+  "n": "Villaggio Angelo Musco - Etna Est",
+  "z": "Milo",
+  "a": "Nicolosi",
+  "lat": 37.72167099565506,
+  "lon": 15.11650201924788,
+  "sito": "http://villaggioangelomusco.it/",
+  "tel": "+393348737300"
+ },
+ {
+  "n": "Milo Home Restaurant",
+  "z": "Milo",
+  "a": "Via Pianogrande Caselle, 28",
+  "lat": 37.71875942,
+  "lon": 15.111333,
+  "sito": null,
+  "tel": "+393791586260"
+ },
+ {
+  "n": "Agriturismo Galea",
+  "z": "Riposto",
+  "a": "Strada 4 Provinciale per Riposto, 16",
+  "lat": 37.7157297,
+  "lon": 15.20575268,
+  "sito": "http://www.agriturismogalea.it",
+  "tel": "+390956781756"
+ },
+ {
+  "n": "Chiosco La Briciola",
+  "z": "Giarre",
+  "a": "Piazza Trepunti",
+  "lat": 37.706493341020014,
+  "lon": 15.174107811138448,
+  "sito": "http://www.labriciola.it/",
+  "tel": "+393282486792"
+ },
+ {
+  "n": "Al panino sotto le stelle by Angelo",
+  "z": "Giarre",
+  "a": "Piazza trepunti ",
+  "lat": 37.706569,
+  "lon": 15.17379,
+  "sito": null,
+  "tel": null
+ },
+ {
+  "n": "Ki sushi Delivery",
+  "z": "Giarre",
+  "a": "Via Calderai, 12",
+  "lat": 37.725935,
+  "lon": 15.184611,
+  "sito": "https://www.kisushidelivery.it/",
+  "tel": "+393451150710"
+ },
+ {
+  "n": "Gnam Gnam",
+  "z": "Giarre",
+  "a": "Via Luigi Pirandello, 39",
+  "lat": 37.72505132,
+  "lon": 15.1832686,
+  "sito": null,
+  "tel": "+393512402592"
+ },
+ {
+  "n": "La Cucina di Donna Carmela",
+  "z": "Riposto",
+  "a": "Contrada Grotte, 7 ",
+  "lat": 37.7266199,
+  "lon": 15.20749,
+  "sito": "http://www.lacucinadidonnacarmela.it/",
+  "tel": "+390954682725"
+ },
+ {
+  "n": "Ditta Raciti",
+  "z": "Riposto",
+  "a": "Via Antonio Gramsci, 183",
+  "lat": 37.73013315,
+  "lon": 15.20505534,
+  "sito": null,
+  "tel": "+39095937970"
+ },
+ {
+  "n": "Andremo da Gio",
+  "z": "Giarre",
+  "a": "Via Callipoli, 144",
+  "lat": 37.72884181,
+  "lon": 15.18446611,
+  "sito": "https://www.instagram.com/andremodagio/",
+  "tel": "+393273024931"
+ },
+ {
+  "n": "Ab Sciuri",
+  "z": "Riposto",
+  "a": "Via Mongibello, 20",
+  "lat": 37.73341671,
+  "lon": 15.20300618,
+  "sito": "http://www.absciuri.com/ab-sciuri",
+  "tel": "+390952969078"
+ },
+ {
+  "n": "Il Chiosco di Santa Maria La Strada",
+  "z": "Giarre",
+  "a": "Via Ruggero I, 1",
+  "lat": 37.73913,
+  "lon": 15.186351,
+  "sito": null,
+  "tel": "+393934506402"
+ },
+ {
+  "n": "Mare e Monti by Holidu",
+  "z": "Mascali",
+  "a": "",
+  "lat": 37.75309458,
+  "lon": 15.18276804,
+  "sito": null,
+  "tel": "+390961791319"
+ },
+ {
+  "n": "Lido Moby Dick",
+  "z": "Mascali",
+  "a": "Via Spiaggia, 205",
+  "lat": 37.75063739,
+  "lon": 15.20935214,
+  "sito": null,
+  "tel": "+393497597448"
+ },
+ {
+  "n": "Tra Etna e Mare",
+  "z": "Mascali",
+  "a": "Via Giacomo Matteotti, 11",
+  "lat": 37.7538313,
+  "lon": 15.19724939,
+  "sito": null,
+  "tel": "+393498178219"
+ },
+ {
+  "n": "La pietra antica O' munti Turismo Rurale",
+  "z": "Mascali",
+  "a": "Via Andronico ",
+  "lat": 37.756431686217,
+  "lon": 15.141198635101,
+  "sito": "http://www.lapietraantica.it/",
+  "tel": "+393458208985"
+ },
+ {
+  "n": "Pablo e Teresa",
+  "z": "Fiumefreddo di Sicilia",
+  "a": "Cda mulino sp 71.   vicino la riserva naturale di fiumefreddo di sic (CT)",
+  "lat": 37.78953,
+  "lon": 15.22982,
+  "sito": null,
+  "tel": "+390953784377"
+ },
+ {
+  "n": "C'era Cu C'era",
+  "z": "Giardini Naxos",
+  "a": "Via Naxos, 197",
+  "lat": 37.82676093,
+  "lon": 15.2688542,
+  "sito": "http://www.ceracucera.it/",
+  "tel": "+390942892122"
+ },
+ {
+  "n": "Lido la Romantica",
+  "z": "Giardini Naxos",
+  "a": "Via Naxos",
+  "lat": 37.82661004,
+  "lon": 15.26904793,
+  "sito": "https://www.lidolaromantica.it/",
+  "tel": "+393770815777"
+ },
+ {
+  "n": "Che Bella PinsaTa",
+  "z": "Giardini Naxos",
+  "a": "Lungomare Naxos, 257",
+  "lat": 37.82482,
+  "lon": 15.26962,
+  "sito": null,
+  "tel": "+393270196035"
+ },
+ {
+  "n": "Rendez Vous",
+  "z": "Giardini Naxos",
+  "a": "Via Schisò, 4",
+  "lat": 37.82480566,
+  "lon": 15.2696962,
+  "sito": null,
+  "tel": "+39094252172"
+ },
+ {
+  "n": "Ristorante da Angelina",
+  "z": "Giardini Naxos",
+  "a": "Via Calcide Eubea, n°2",
+  "lat": 37.82456011,
+  "lon": 15.27463296,
+  "sito": "http://www.pensionevillasantantonio.it",
+  "tel": "+39094251477"
+ },
+ {
+  "n": "Ristorante Pozzo Greco",
+  "z": "Giardini Naxos",
+  "a": "Via Stracina, 20",
+  "lat": 37.82240365,
+  "lon": 15.27009035,
+  "sito": null,
+  "tel": "+393478694783"
+ },
+ {
+  "n": "Ristorante Claire De Lune",
+  "z": "Giardini Naxos",
+  "a": "Via Calcide Eubea, 8",
+  "lat": 37.82337543,
+  "lon": 15.27498249,
+  "sito": "https://ristoranteclairedelune.com/",
+  "tel": "+393335952948"
+ },
+ {
+  "n": "Gustá Food and Drink",
+  "z": "Giardini Naxos",
+  "a": "Via Naxos, 281",
+  "lat": 37.82399827,
+  "lon": 15.27001497,
+  "sito": null,
+  "tel": "+393402379903"
+ },
+ {
+  "n": "L' Angolo Divino",
+  "z": "Giardini Naxos",
+  "a": "Via Consolare Valeria, 132",
+  "lat": 37.82045,
+  "lon": 15.252381,
+  "sito": "https://angolodivinoristorante.blogspot.com",
+  "tel": "+393204420010"
+ },
+ {
+  "n": "Cafe O'Neil",
+  "z": "Giardini Naxos",
+  "a": "Viale Jannuzzo, 12",
+  "lat": 37.81648005,
+  "lon": 15.2653873,
+  "sito": "http://cafeoneil.placeweb.site",
+  "tel": "+39094254005"
+ },
+ {
+  "n": "Osteria Cotto&Mangiato",
+  "z": "Giardini Naxos",
+  "a": "Viale Jannuzzo",
+  "lat": 37.81640172,
+  "lon": 15.26510387,
+  "sito": null,
+  "tel": "+39368933048"
+ },
+ {
+  "n": "Sciara",
+  "z": "Giardini Naxos",
+  "a": "Viale Jannuzzo 47",
+  "lat": 37.816040560735225,
+  "lon": 15.265684471548957,
+  "sito": "http://www.hilton.com",
+  "tel": "0942 51931"
+ },
+ {
+  "n": "Ristorante Sire",
+  "z": "Giardini Naxos",
+  "a": "Viale Jannuzzo, 31 f",
+  "lat": 37.81830495,
+  "lon": 15.26644667,
+  "sito": "https://ristorante-sire.business.site",
+  "tel": "+390942261168"
+ },
+ {
+  "n": "Lido Pirata Beach",
+  "z": "Giardini Naxos",
+  "a": "Italy",
+  "lat": 37.81879971563282,
+  "lon": 15.27101948949793,
+  "sito": "http://www.piratabeach.it/",
+  "tel": null
+ },
+ {
+  "n": "Passioni e Sapori Gastronomia",
+  "z": "Fiumefreddo di Sicilia",
+  "a": "Via Diana, 18",
+  "lat": 37.79351499,
+  "lon": 15.20842571,
+  "sito": null,
+  "tel": "+393455017769"
+ },
+ {
+  "n": "Karthago Kebab",
+  "z": "Giardini Naxos",
+  "a": "Via Naxos, 53",
+  "lat": 37.830915,
+  "lon": 15.268891,
+  "sito": null,
+  "tel": "+393292956601"
+ },
+ {
+  "n": "Vinciguerra Roberto",
+  "z": "Giardini Naxos",
+  "a": "Lungomare IV Novembre, 59",
+  "lat": 37.83919886,
+  "lon": 15.27648807,
+  "sito": null,
+  "tel": "+39094253063"
+ },
+ {
+  "n": "Le Desir Piquant",
+  "z": "Giardini Naxos",
+  "a": "Lungomare IV Novembre, 59",
+  "lat": 37.83932237,
+  "lon": 15.2765866,
+  "sito": "http://www.grandtoursiciliagps.it/",
+  "tel": "+39094253063"
+ },
+ {
+  "n": "A’Quartara Bistrot e More",
+  "z": "Giardini Naxos",
+  "a": "Lungomare IV Novembre, 117",
+  "lat": 37.83860114,
+  "lon": 15.27611211,
+  "sito": null,
+  "tel": "+393513991950"
+ },
+ {
+  "n": "Che bella pinsata al bar Italia",
+  "z": "Giardini Naxos",
+  "a": "V.Padre Giuseppe Seminara Parroco, 2/4",
+  "lat": 37.84067107,
+  "lon": 15.27744316,
+  "sito": "http://www.sisal.com",
+  "tel": "+393270196035"
+ },
+ {
+  "n": "Ristorante \"La Taverna 2.0\"",
+  "z": "Giardini Naxos",
+  "a": null,
+  "lat": 37.840551811804026,
+  "lon": 15.27764279813764,
+  "sito": null,
+  "tel": "+393295694627"
+ }
+]

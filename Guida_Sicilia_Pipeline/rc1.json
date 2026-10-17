@@ -1,0 +1,762 @@
+{
+ "granelli": [
+  {
+   "title": "Grotta Calafarina.JPG",
+   "w": 1280,
+   "h": 891,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Azotoliquido"
+  },
+  {
+   "title": "Pachino Panorama.JPG",
+   "w": 1280,
+   "h": 568,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Azotoliquido"
+  },
+  {
+   "title": "Puntorio, 96018 Pachino SR, Italy - panoramio.jpg",
+   "w": 1600,
+   "h": 1200,
+   "lic": "CC BY 3.0",
+   "artist": "www.gironavigando.it"
+  },
+  {
+   "title": "Pachino (SR) piazza centrale - panoramio.jpg",
+   "w": 2896,
+   "h": 1944,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Lamberto Zannotti"
+  },
+  {
+   "title": "96018 Pachino SR, Italy - panoramio.jpg",
+   "w": 4858,
+   "h": 2756,
+   "lic": "CC BY-SA 3.0",
+   "artist": "trolvag"
+  },
+  {
+   "title": "96018 Pachino SR, Italy - panoramio (1).jpg",
+   "w": 4900,
+   "h": 2756,
+   "lic": "CC BY-SA 3.0",
+   "artist": "trolvag"
+  },
+  {
+   "title": "Pachino banner.jpg",
+   "w": 2503,
+   "h": 358,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Lamberto Zannotti"
+  }
+ ],
+ "morghella": [
+  {
+   "title": "Grotta Calafarina.JPG",
+   "w": 1280,
+   "h": 891,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Azotoliquido"
+  },
+  {
+   "title": "Pachino Panorama.JPG",
+   "w": 1280,
+   "h": 568,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Azotoliquido"
+  },
+  {
+   "title": "Puntorio, 96018 Pachino SR, Italy - panoramio.jpg",
+   "w": 1600,
+   "h": 1200,
+   "lic": "CC BY 3.0",
+   "artist": "www.gironavigando.it"
+  },
+  {
+   "title": "Pachino (SR) piazza centrale - panoramio.jpg",
+   "w": 2896,
+   "h": 1944,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Lamberto Zannotti"
+  },
+  {
+   "title": "96018 Pachino SR, Italy - panoramio.jpg",
+   "w": 4858,
+   "h": 2756,
+   "lic": "CC BY-SA 3.0",
+   "artist": "trolvag"
+  },
+  {
+   "title": "96018 Pachino SR, Italy - panoramio (1).jpg",
+   "w": 4900,
+   "h": 2756,
+   "lic": "CC BY-SA 3.0",
+   "artist": "trolvag"
+  },
+  {
+   "title": "Pachino banner.jpg",
+   "w": 2503,
+   "h": 358,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Lamberto Zannotti"
+  }
+ ],
+ "carratois": [
+  {
+   "title": "Porto Palo, vendemmia sul mare di Cantine Settesoli.jpg",
+   "w": 1500,
+   "h": 1000,
+   "lic": "CC BY 2.0",
+   "artist": "Fabio Ingrosso"
+  },
+  {
+   "title": "Portopalo door.jpg",
+   "w": 912,
+   "h": 457,
+   "lic": "CC BY 3.0",
+   "artist": "Enrico Pighetti"
+  },
+  {
+   "title": "Portopalo di capo passero 1.jpg",
+   "w": 1024,
+   "h": 768,
+   "lic": "CC BY 2.0",
+   "artist": "fab."
+  },
+  {
+   "title": "Portopalo di Capo Passero, Syracuse, Italy.jpg",
+   "w": 4899,
+   "h": 2756,
+   "lic": "CC BY-SA 3.0",
+   "artist": "trolvag"
+  },
+  {
+   "title": "Ingranaggi e reti - panoramio.jpg",
+   "w": 2959,
+   "h": 1973,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Salvo Cannizzaro"
+  },
+  {
+   "title": "Capo Passero - panoramio.jpg",
+   "w": 1600,
+   "h": 1200,
+   "lic": "CC BY 3.0",
+   "artist": "www.gironavigando.it"
+  },
+  {
+   "title": "Edificio INFN - Portopalo.jpg",
+   "w": 3264,
+   "h": 2448,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Davide Mauro"
+  },
+  {
+   "title": "Portopalo di Capo Passero, Province of Syracuse, Sicily, Italy - panoramio (1).jpg",
+   "w": 4243,
+   "h": 2756,
+   "lic": "CC BY-SA 3.0",
+   "artist": "trolvag"
+  },
+  {
+   "title": "Portopalo di Capo Passero, Province of Syracuse, Sicily, Italy - panoramio (3).jpg",
+   "w": 4896,
+   "h": 2756,
+   "lic": "CC BY-SA 3.0",
+   "artist": "trolvag"
+  },
+  {
+   "title": "Portopalo di Capo Passero, Province of Syracuse, Sicily, Italy - panoramio (5).jpg",
+   "w": 5155,
+   "h": 3123,
+   "lic": "CC BY-SA 3.0",
+   "artist": "trolvag"
+  },
+  {
+   "title": "Portopalo di Capo Passero, Province of Syracuse, Sicily, Italy - panoramio (6).jpg",
+   "w": 4891,
+   "h": 2756,
+   "lic": "CC BY-SA 3.0",
+   "artist": "trolvag"
+  },
+  {
+   "title": "Portopalo di Capo Passero, Province of Syracuse, Sicily, Italy - panoramio (7).jpg",
+   "w": 4888,
+   "h": 2756,
+   "lic": "CC BY-SA 3.0",
+   "artist": "trolvag"
+  },
+  {
+   "title": "Portopalo di Capo Passero, Province of Syracuse, Sicily, Italy - panoramio (8).jpg",
+   "w": 4896,
+   "h": 2756,
+   "lic": "CC BY-SA 3.0",
+   "artist": "trolvag"
+  },
+  {
+   "title": "Portopalo di Capo Passero SR, Sicily, Italy - panoramio.jpg",
+   "w": 2835,
+   "h": 1890,
+   "lic": "CC BY-SA 3.0",
+   "artist": "trolvag"
+  },
+  {
+   "title": "Scratches (Portopalo).jpg",
+   "w": 5616,
+   "h": 3744,
+   "lic": "CC BY 2.0",
+   "artist": "Paul Keller"
+  },
+  {
+   "title": "Inscription (Portopalo).jpg",
+   "w": 5616,
+   "h": 3744,
+   "lic": "CC BY 2.0",
+   "artist": "Paul Keller"
+  },
+  {
+   "title": "Bow (Portopalo).jpg",
+   "w": 5616,
+   "h": 3744,
+   "lic": "CC BY 2.0",
+   "artist": "Paul Keller"
+  },
+  {
+   "title": "Dolphin (Portopalo).jpg",
+   "w": 5616,
+   "h": 3744,
+   "lic": "CC BY 2.0",
+   "artist": "Paul Keller"
+  },
+  {
+   "title": "Porto Palo.jpg",
+   "w": 4032,
+   "h": 3024,
+   "lic": "CC BY-SA 4.0",
+   "artist": "MaryCinzy"
+  },
+  {
+   "title": "Wv Portopalo di Capo Passero banner.jpg",
+   "w": 4183,
+   "h": 598,
+   "lic": "CC BY-SA 3.0",
+   "artist": "trolvag"
+  },
+  {
+   "title": "Portopalo di Capo Passero 11 07 2021 02.jpg",
+   "w": 4608,
+   "h": 3456,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Effems"
+  },
+  {
+   "title": "Portopalo di Capo Passero 11 07 2021 03.jpg",
+   "w": 4608,
+   "h": 3456,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Effems"
+  },
+  {
+   "title": "Portopalo dal mare.jpg",
+   "w": 3875,
+   "h": 2091,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Davide Mauro"
+  },
+  {
+   "title": "Voyage pittoresque des isles de Sicile T. 3 1785 (5413033).jpg",
+   "w": 8440,
+   "h": 6288,
+   "lic": "Public domain",
+   "artist": "Jean Pierre Louis Laurent Hoüel"
+  },
+  {
+   "title": "Portopalo di Capo Passero - Comune di Portopalo di Capo Passero - 2023-09-27 14-39-22 001.jpg",
+   "w": 2939,
+   "h": 1906,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Acquario51"
+  },
+  {
+   "title": "Portopalo di Capo Passero - Comune di Portopalo di Capo Passero - 2023-09-27 14-39-22 002.jpg",
+   "w": 3008,
+   "h": 2000,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Acquario51"
+  },
+  {
+   "title": "Portopalo di Capo Passero.jpg",
+   "w": 5184,
+   "h": 3888,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Einaz80"
+  },
+  {
+   "title": "The sea at Portopalo di Capo Passero.jpg",
+   "w": 5184,
+   "h": 3888,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Einaz80"
+  },
+  {
+   "title": "Portopalo di Capo Passero-Bandiera.svg",
+   "w": 2721,
+   "h": 1814,
+   "lic": "CC BY-SA 4.0",
+   "artist": "DucadiFraconalto3942"
+  }
+ ],
+ "praiola": [
+  {
+   "title": "Panoramica giarre riposto.jpg",
+   "w": 1500,
+   "h": 394,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Alqasar at it.wikipedia"
+  },
+  {
+   "title": "Comuni parco Etna.svg",
+   "w": 2286,
+   "h": 1475,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Comuni_parco_Etna.png: Archenzo\nderivati"
+  },
+  {
+   "title": "Stadio da Polo - Polo Stadium - panoramio (1).jpg",
+   "w": 1181,
+   "h": 785,
+   "lic": "CC BY-SA 3.0",
+   "artist": "incompiuto siciliano"
+  }
+ ],
+ "mortelle": [
+  {
+   "title": "Klimadiagramm-deutsch-Messina (Sizilien)-Italien.png",
+   "w": 1024,
+   "h": 710,
+   "lic": "CC BY 2.5",
+   "artist": "Hedwig in Washington"
+  },
+  {
+   "title": "Map of comune of Messina (metropolitan city of Messina, region Sicily, Italy).svg",
+   "w": 4538,
+   "h": 3946,
+   "lic": "Public domain",
+   "artist": "Vonvikken"
+  },
+  {
+   "title": "ETH-BIB-Hafen von Messina-Kilimanjaroflug 1929-30-LBS MH02-07-0584.tif",
+   "w": 4961,
+   "h": 4000,
+   "lic": "Public domain",
+   "artist": "Walter Mittelholzer"
+  },
+  {
+   "title": "License Free Photo - Creative Commons by gnuckx (11640182623).jpg",
+   "w": 1467,
+   "h": 1100,
+   "lic": "CC0",
+   "artist": "gnuckx"
+  },
+  {
+   "title": "Messina - panoramio.jpg",
+   "w": 1600,
+   "h": 1200,
+   "lic": "CC BY 3.0",
+   "artist": "kajikawa"
+  },
+  {
+   "title": "Messina - panoramio - kajikawa.jpg",
+   "w": 1600,
+   "h": 1200,
+   "lic": "CC BY 3.0",
+   "artist": "kajikawa"
+  },
+  {
+   "title": "Messina - panoramio (2).jpg",
+   "w": 2048,
+   "h": 2047,
+   "lic": "CC BY 3.0",
+   "artist": "Николай Максимович"
+  },
+  {
+   "title": "Messina - panoramio (3).jpg",
+   "w": 2048,
+   "h": 2042,
+   "lic": "CC BY 3.0",
+   "artist": "Николай Максимович"
+  },
+  {
+   "title": "Messina - panoramio (6).jpg",
+   "w": 2048,
+   "h": 2048,
+   "lic": "CC BY 3.0",
+   "artist": "Николай Максимович"
+  },
+  {
+   "title": "Acquarone, Italia - panoramio.jpg",
+   "w": 2048,
+   "h": 2043,
+   "lic": "CC BY 3.0",
+   "artist": "Николай Максимович"
+  },
+  {
+   "title": "Group of orphans from Messina, shown on American relief ship \"Bayern\" LCCN2014683144.jpg",
+   "w": 5810,
+   "h": 4247,
+   "lic": "Public domain",
+   "artist": "Bain News Service, publisher"
+  },
+  {
+   "title": "Group of orphans from Messina, shown on American relief ship \"Bayern\" LCCN2014683144.tif",
+   "w": 5810,
+   "h": 4247,
+   "lic": "Public domain",
+   "artist": "Bain News Service, publisher"
+  },
+  {
+   "title": "Gasometro di Messina.jpg",
+   "w": 960,
+   "h": 700,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Lillorizzo"
+  },
+  {
+   "title": "\"Casa del Puparo\" o \"Casa Cammarata\".jpg",
+   "w": 975,
+   "h": 573,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Zanclese"
+  },
+  {
+   "title": "Messina 16DSC 0053 (29913124438).jpg",
+   "w": 1612,
+   "h": 1075,
+   "lic": "CC BY-SA 2.0",
+   "artist": "János Korom Dr.  &gt;17 Million views fr"
+  },
+  {
+   "title": "Messina 16DSC 0048 (29913125978).jpg",
+   "w": 1612,
+   "h": 1133,
+   "lic": "CC BY-SA 2.0",
+   "artist": "János Korom Dr.  &gt;17 Million views fr"
+  },
+  {
+   "title": "Messina 16DSC 0047 (43783512871).jpg",
+   "w": 1612,
+   "h": 1075,
+   "lic": "CC BY-SA 2.0",
+   "artist": "János Korom Dr.  &gt;17 Million views fr"
+  },
+  {
+   "title": "Capu Piloru.jpg",
+   "w": 1280,
+   "h": 1024,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Acquamarina"
+  },
+  {
+   "title": "Locandina dell'evento \"Uniti per la Vallata\", 29 luglio 2011.JPG",
+   "w": 3968,
+   "h": 2976,
+   "lic": "Public domain",
+   "artist": "Zoologo DM"
+  },
+  {
+   "title": "Magazzino Generali Messina 24-4-2023.jpg",
+   "w": 3133,
+   "h": 2381,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Jeanne Griffin"
+  },
+  {
+   "title": "Iberia 1960 with Messina.jpg",
+   "w": 2664,
+   "h": 1776,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Anidaat"
+  },
+  {
+   "title": "Hafenschlepper in Messina 1960.jpg",
+   "w": 2754,
+   "h": 1851,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Anidaat"
+  },
+  {
+   "title": "Messina 1960 (6).jpg",
+   "w": 2754,
+   "h": 1851,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Anidaat"
+  },
+  {
+   "title": "Messina 1960 (7).jpg",
+   "w": 2754,
+   "h": 1851,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Anidaat"
+  },
+  {
+   "title": "Messina 1960 (12).jpg",
+   "w": 2754,
+   "h": 1851,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Anidaat"
+  },
+  {
+   "title": "Messina 1960 (14).jpg",
+   "w": 2754,
+   "h": 1851,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Anidaat"
+  },
+  {
+   "title": "Messina 1960 (17).jpg",
+   "w": 2754,
+   "h": 1851,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Anidaat"
+  },
+  {
+   "title": "Messina 1960 (16).jpg",
+   "w": 2754,
+   "h": 1851,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Anidaat"
+  },
+  {
+   "title": "Messina 1960 (19).jpg",
+   "w": 2754,
+   "h": 1851,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Anidaat"
+  },
+  {
+   "title": "Litoranea di Messina.jpg",
+   "w": 1080,
+   "h": 829,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Albe.01"
+  },
+  {
+   "title": "Messina-8015.jpg",
+   "w": 8192,
+   "h": 5464,
+   "lic": "CC BY-SA 4.0",
+   "artist": "GodeNehler"
+  },
+  {
+   "title": "Messina - Chiesa di Santa Maria all'Arcivescovado - 2026-02-28 12-11-50 001.jpg",
+   "w": 4624,
+   "h": 3472,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Auregann"
+  },
+  {
+   "title": "Messina - Piazza della Memoria - 2026-02-28 13-13-33 001.jpg",
+   "w": 4624,
+   "h": 3472,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Auregann"
+  }
+ ],
+ "minareto": [],
+ "paterno": [
+  {
+   "title": "Panorama Paternò 1.JPG",
+   "w": 3648,
+   "h": 2288,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Normangreek"
+  },
+  {
+   "title": "Quartiere Ardizzone a Paternò.jpg",
+   "w": 1024,
+   "h": 768,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Normangreek"
+  },
+  {
+   "title": "Panorama Paternò 2.JPG",
+   "w": 3648,
+   "h": 2736,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Normangreek"
+  },
+  {
+   "title": "Paternò banner.jpg",
+   "w": 3872,
+   "h": 553,
+   "lic": "CC BY-SA 4.0",
+   "artist": "Codas"
+  }
+ ],
+ "lentini": [],
+ "cantineetna": [
+  {
+   "title": "Etna Wine Agriturismo, Passopisciaro, Sicily, Italy. Field blend.jpg",
+   "w": 2272,
+   "h": 1704,
+   "lic": "CC BY 2.0",
+   "artist": "Neil Weightman"
+  },
+  {
+   "title": "Etna Wine Agriturismo, Passopisciaro, Sicily, Italy.jpg",
+   "w": 2272,
+   "h": 1704,
+   "lic": "CC BY 2.0",
+   "artist": "Neil Weightman"
+  },
+  {
+   "title": "Hand harvesting wine grapes in Sicily.jpg",
+   "w": 1500,
+   "h": 1000,
+   "lic": "CC BY 2.0",
+   "artist": "Fabio Ingrosso"
+  },
+  {
+   "title": "Porto Palo, vendemmia sul mare di Cantine Settesoli with green harvest.jpg",
+   "w": 1500,
+   "h": 1000,
+   "lic": "CC BY 2.0",
+   "artist": "Fabio Ingrosso"
+  },
+  {
+   "title": "Basket of freshly harvested grapes.jpg",
+   "w": 1500,
+   "h": 1000,
+   "lic": "CC BY 2.0",
+   "artist": "Fabio Ingrosso"
+  },
+  {
+   "title": "Porto Palo, vendemmia sul mare di Cantine Settesoli.jpg",
+   "w": 1500,
+   "h": 1000,
+   "lic": "CC BY 2.0",
+   "artist": "Fabio Ingrosso"
+  },
+  {
+   "title": "Hand harvesting in Sicily.jpg",
+   "w": 1500,
+   "h": 1000,
+   "lic": "CC BY 2.0",
+   "artist": "Fabio Ingrosso"
+  },
+  {
+   "title": "Wine grapes growing in Sicily.jpg",
+   "w": 1500,
+   "h": 1000,
+   "lic": "CC BY 2.0",
+   "artist": "Fabio Ingrosso"
+  },
+  {
+   "title": "Vineyard along the coast in Sicily.jpg",
+   "w": 1500,
+   "h": 1000,
+   "lic": "CC BY 2.0",
+   "artist": "Fabio Ingrosso"
+  },
+  {
+   "title": "Malfa-Vignoble.jpg",
+   "w": 3648,
+   "h": 2736,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Ji-Elle"
+  },
+  {
+   "title": "Punta Lingua-Salina (2).jpg",
+   "w": 3648,
+   "h": 2736,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Ji-Elle"
+  },
+  {
+   "title": "Punta Lingua-Vignes (2).jpg",
+   "w": 3648,
+   "h": 2736,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Ji-Elle"
+  },
+  {
+   "title": "Punta Lingua-Vignes (1).jpg",
+   "w": 3648,
+   "h": 2736,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Ji-Elle"
+  },
+  {
+   "title": "Valdichiesa-Vignes (1).jpg",
+   "w": 3648,
+   "h": 2736,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Ji-Elle"
+  },
+  {
+   "title": "Valdichiesa-Vignes (2).jpg",
+   "w": 3648,
+   "h": 2736,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Ji-Elle"
+  },
+  {
+   "title": "Salina vegetation (2).jpg",
+   "w": 3648,
+   "h": 2736,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Ji-Elle"
+  },
+  {
+   "title": "Salina vegetation (3).jpg",
+   "w": 3648,
+   "h": 2736,
+   "lic": "CC BY-SA 3.0",
+   "artist": "Ji-Elle"
+  },
+  {
+   "title": "Vineyards of Planeta winery.jpg",
+   "w": 4288,
+   "h": 2540,
+   "lic": "CC BY-SA 2.0",
+   "artist": "Michal Osmenda"
+  },
+  {
+   "title": "Solette di Porto Palo, vigneto..jpg",
+   "w": 3072,
+   "h": 2304,
+   "lic": "CC BY-SA 2.0",
+   "artist": "Salvo Ognibene"
+  },
+  {
+   "title": "Vigneto ed antenne della stazione radiomarittima a Mazara del Vallo 1 - Flickr - Rino Porrovecchio.jpg",
+   "w": 3264,
+   "h": 1836,
+   "lic": "CC BY-SA 2.0",
+   "artist": "Rino Porrovecchio from Palermo, Italy"
+  },
+  {
+   "title": "Vigneto a Mazara del Vallo 1 - Flickr - Rino Porrovecchio.jpg",
+   "w": 3264,
+   "h": 1836,
+   "lic": "CC BY-SA 2.0",
+   "artist": "Rino Porrovecchio from Palermo, Italy"
+  },
+  {
+   "title": "Vineyard along the coast in Sicily (cropped).jpg",
+   "w": 1297,
+   "h": 185,
+   "lic": "CC BY 2.0",
+   "artist": "Fabio Ingrosso"
+  }
+ ],
+ "santannacatena": [
+  {
+   "title": "Acicatena hills.JPG",
+   "w": 2048,
+   "h": 1536,
+   "lic": "Public domain",
+   "artist": "Skyluke"
+  }
+ ]
+}

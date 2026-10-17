@@ -1,0 +1,210 @@
+[
+ {
+  "file": "nap-pizza-margherita.jpg",
+  "slug": "pizza-margherita",
+  "voce": "Pizza Margherita",
+  "autore": "Bex Walton from London, England",
+  "licenza": "CC BY 2.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Neapolitan_pizza_at_Trappica_(48701940197).jpg"
+ },
+ {
+  "file": "nap-pizza-fritta.jpg",
+  "slug": "pizza-fritta",
+  "voce": "Pizza fritta",
+  "autore": "Horcrux",
+  "licenza": "CC BY-SA 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Pizza_fritta_in_Rome_(1).jpg"
+ },
+ {
+  "file": "nap-cuoppo.jpg",
+  "slug": "cuoppo",
+  "voce": "Crocchè",
+  "autore": "Catia Giaccherini",
+  "licenza": "CC BY-SA 3.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Crocch%C3%A9_di_patate_(Naples).jpg"
+ },
+ {
+  "file": "nap-frittatina.jpg",
+  "slug": "frittatina",
+  "voce": "Frittata di pasta",
+  "autore": "Albertomos",
+  "licenza": "CC BY-SA 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Frittata-di-spaghetti.jpg"
+ },
+ {
+  "file": "nap-sfogliatella.jpg",
+  "slug": "sfogliatella",
+  "voce": "Sfogliatella",
+  "autore": "Saggittarius A",
+  "licenza": "CC BY-SA 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Sfogliatelle_ricce_e_frolle.jpg"
+ },
+ {
+  "file": "nap-baba.jpg",
+  "slug": "baba",
+  "voce": "Babà",
+  "autore": "Romainbehar",
+  "licenza": "CC0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Lyon_1er_-_Quai_de_la_P%C3%AAcherie_-_Restaurant_Antolio_-_Baba_au_rhum.jpg"
+ },
+ {
+  "file": "nap-pastiera.jpg",
+  "slug": "pastiera",
+  "voce": "Pastiera napoletana",
+  "autore": "Mattia Luigi Nappi",
+  "licenza": "CC BY-SA 3.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Pastiera_slice_-_ready_to_eat.jpg"
+ },
+ {
+  "file": "nap-struffoli.jpg",
+  "slug": "struffoli",
+  "voce": "Struffoli",
+  "autore": "Steve-081",
+  "licenza": "Public domain",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Struffoli2.JPG"
+ },
+ {
+  "file": "nap-ragu-napoletano.jpg",
+  "slug": "ragu-napoletano",
+  "voce": "Ragù napoletano",
+  "autore": "CristianoMay",
+  "licenza": "CC BY-SA 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Paccheri_rigati_al_rag%C3%B9_Napoletano.jpg"
+ },
+ {
+  "file": "nap-genovese.jpg",
+  "slug": "genovese",
+  "voce": "Genovese (sugo)",
+  "autore": "Darouet",
+  "licenza": "CC BY-SA 3.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Genovesesauce.jpg"
+ },
+ {
+  "file": "nap-sartu.jpg",
+  "slug": "sartu",
+  "voce": "Sartù di riso",
+  "autore": "Ruthven",
+  "licenza": "CC0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Sart%C3%B9_di_riso_alla_napoletana-3.jpg"
+ },
+ {
+  "file": "nap-parmigiana.jpg",
+  "slug": "parmigiana",
+  "voce": "Parmigiana di melanzane",
+  "autore": "Andy Li",
+  "licenza": "CC0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Parmiggiana_-_Pizza_500_2024-11-16.jpg"
+ },
+ {
+  "file": "nap-casatiello.jpg",
+  "slug": "casatiello",
+  "voce": "Casatiello",
+  "autore": "Effems",
+  "licenza": "CC BY-SA 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Casatiello_(Barcellona_Pozzo_di_Gotto)_09_04_2023_01.jpg"
+ },
+ {
+  "file": "nap-mozzarella-bufala.jpg",
+  "slug": "mozzarella-bufala",
+  "voce": "Mozzarella di bufala campana",
+  "autore": "Popo le Chien",
+  "licenza": "CC BY-SA 3.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Mozzarella_di_bufala2.jpg"
+ },
+ {
+  "file": "nap-caffe-napoletano.jpg",
+  "slug": "caffe-napoletano",
+  "voce": "Caffè",
+  "autore": "Petar Milošević",
+  "licenza": "CC BY-SA 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Cup_of_coffee_(Serbian_cuisine,_Grand_kava).jpg"
+ },
+ {
+  "file": "nap-pizza-portafoglio.jpg",
+  "slug": "pizza-portafoglio",
+  "voce": "Pizza napoletana",
+  "autore": "Valerio Capello at English Wikipedia",
+  "licenza": "CC BY-SA 3.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Eq_it-na_pizza-margherita_sep2005_sml.jpg"
+ },
+ {
+  "file": "nap-mozzarella-carrozza.jpg",
+  "slug": "mozzarella-carrozza",
+  "voce": "Mozzarella in carrozza",
+  "autore": "Catia Giaccherini",
+  "licenza": "CC BY-SA 3.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Starters_06.jpg"
+ },
+ {
+  "file": "nap-spaghetti-vongole.jpg",
+  "slug": "spaghetti-vongole",
+  "voce": "Spaghetti alle vongole",
+  "autore": "cyclonebill",
+  "licenza": "CC BY-SA 2.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Spaghetti_med_muslinger.jpg"
+ },
+ {
+  "file": "nap-polpo-luciana.jpg",
+  "slug": "polpo-luciana",
+  "voce": "Polpi alla luciana",
+  "autore": "Enzo Rippa",
+  "licenza": "CC BY-SA 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Polipo_alla_Luciana.jpg"
+ },
+ {
+  "file": "nap-pasta-patate.jpg",
+  "slug": "pasta-patate",
+  "voce": "Gattò di patate",
+  "autore": "Stefania Curci",
+  "licenza": "CC BY-SA 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Gatt%C3%B2_di_patate.jpg"
+ },
+ {
+  "file": "nap-roccoco.jpg",
+  "slug": "roccoco",
+  "voce": "Roccocò",
+  "autore": "Rollopack",
+  "licenza": "CC BY-SA 4.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Roccoc%C3%B2_-_1.JPG"
+ },
+ {
+  "file": "nap-mostaccioli.jpg",
+  "slug": "mostaccioli",
+  "voce": "Mustaccioli (gastronomia campana)",
+  "autore": "Ruthven",
+  "licenza": "CC0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Mustacciuoli.jpg"
+ },
+ {
+  "file": "nap-pere-muss.jpg",
+  "slug": "pere-muss",
+  "voce": "'O pere e 'o musso",
+  "autore": "jimmyweee",
+  "licenza": "CC BY 2.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:%27O_pere_e_%27o_musso_and_offal,_on_sale_on_a_truck_in_Naples,_Italy.jpg"
+ },
+ {
+  "file": "nap-taralli.jpg",
+  "slug": "taralli",
+  "voce": "Tarallo",
+  "autore": "Haragayato",
+  "licenza": "Public domain",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Tarallini2.JPG"
+ },
+ {
+  "file": "nap-scagliozzi.jpg",
+  "slug": "scagliozzi",
+  "voce": "Scagliozzi",
+  "autore": "La.blasco",
+  "licenza": "CC BY 2.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Scagliozzi.jpg"
+ },
+ {
+  "file": "nap-crocche.jpg",
+  "slug": "crocche",
+  "voce": "Crocchè",
+  "autore": "Catia Giaccherini",
+  "licenza": "CC BY-SA 3.0",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Crocch%C3%A9_di_patate_(Naples).jpg"
+ }
+]

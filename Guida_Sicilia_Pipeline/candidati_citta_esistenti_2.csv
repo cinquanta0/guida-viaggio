@@ -1,0 +1,13 @@
+comune,tipo,nome,voto,recensioni,note
+Taormina,carne,Gianfranco'S Steak House,4.7,575,
+Taormina,pesce,Ristorante La Griglia,4.3,214,
+Taormina,dolci,Gelateria Ciuri Ciuri Taormina,4.8,501,
+Taormina,dolci,Levante Gelato Artigianale (Taormina),4.7,417,marchio diverso sede da quello di Catania/Ortigia
+Taormina,dolci,Don Diego Gelateria Caffetteria,4.7,1706,standout
+Taormina,dolci,Crema e cioccolato,4.8,400,
+Giardini-Naxos,carne,Brace Giardini,4.7,154,indirizzo Lungomare Tysandros - verificare se Taormina o Giardini-Naxos
+Siracusa,dolci,Bar Gelateria Pasticceria Bianca,4.3,1162,
+Siracusa,dolci,Florio Granita Artigianale dal 1952,4.9,70,storica
+"Ortigia, Siracusa",dolci,Levante Gelato Artigianale (Ortigia),4.8,2310,
+"Ortigia, Siracusa",dolci,Dentro Ortigia Gelateria,4.4,315,
+"Ortigia, Siracusa",dolci,CCA' e DDA',4.9,689,standout granita

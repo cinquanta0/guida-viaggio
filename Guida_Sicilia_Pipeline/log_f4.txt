@@ -1,0 +1,17 @@
+  ok  cipollina.jpg             27KB  <- Cipollina.jpg
+  ok  rollo.jpg                 83KB  <- Rollò in vetrina.jpg
+  ok  nzuddi.jpg                90KB  <- Nzuddi.jpg
+  ok  rianata.jpg               67KB  <- Pizza "Arianata" a Partinico.jpg
+  ok  salsiccia.jpg             116KB  <- Salsiccia2.jpg
+      polpette.jpg :: HTTP 429 (aspetto 45s)
+  ok  polpette.jpg              70KB  <- Polpette di pesce - Lo Sperone, Alcamo.jpg
+  ok  lattemandorla.jpg         56KB  <- Latte di mandorle.jpg
+      focacciamessinese.jpg :: HTTP 429 (aspetto 45s)
+  ok  focacciamessinese.jpg     97KB  <- FOCACCIA TRADIZIONALE MESSINESE.jpg
+  ok  pizzasiciliana.jpg        50KB  <- Pizza trapanese.jpg
+      patacalzone.jpg :: HTTP 429 (aspetto 45s)
+  ok  patacalzone.jpg           78KB  <- Calzoni.jpg
+  ok  arrusti.jpg               42KB  <- Ristorante Ardigna - Carne.jpg
+
+scaricate 11, gia' presenti 0
+elenco per dati.js scritto in gallerie_fatte.json

@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Come è fatto — Sicilia, i posti</title>
+<meta name="description" content="Come è stata costruita la guida: estrazione da PDF, percorsi calcolati con OSRM, 244 foto con licenza verificata, zero dipendenze.">
+<meta name="theme-color" content="#f7f2e8">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%232b2320'/%3E%3Ctext x='32' y='46' font-size='40' text-anchor='middle' fill='%23f0c94b' font-family='Georgia,serif'%3ES%3C/text%3E%3C/svg%3E">
+<style>
+/* qualche stile in piu' solo per questa pagina */
+.doc { max-width: 700px; margin: 0 auto; padding: 0 14px; }
+.doc h2 { font-size: 24px; margin: 34px 0 6px; border-bottom: 2px solid #2b2320; padding-bottom: 8px; }
+.doc h3 { font-size: 19px; margin: 22px 0 4px; color: #b1401d; }
+.doc p { font-size: 16px; margin: 0 0 12px; color: #3c352f; }
+.doc code { background: #ece2d2; padding: 1px 5px; border-radius: 2px; font-size: 14px; }
+.numeri { display: block; margin: 18px 0; }
+.numeri div {
+  display: inline-block; vertical-align: top; width: 46%; min-width: 130px;
+  background: #fff; border: 1px solid #e3d9c8; padding: 12px 13px; margin: 0 6px 8px 0;
+}
+.numeri b { display: block; font-family: Georgia, serif; font-size: 26px; color: #b1401d; line-height: 1.1; }
+.numeri span { font-size: 13px; color: #6b5f57; }
+.storia { background: #fff; border-left: 4px solid #c1441f; padding: 14px 16px; margin: 14px 0; }
+.storia p:last-child { margin-bottom: 0; }
+.prima-dopo { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 15px; }
+.prima-dopo th, .prima-dopo td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #e3d9c8; }
+.prima-dopo th { font-size: 12px; text-transform: uppercase; letter-spacing: 1px; color: #8a7d72; font-weight: normal; }
+.prima-dopo td:first-child { color: #6b5f57; }
+.prima-dopo td b { color: #b1401d; }
+.stack { width: 100%; border-collapse: collapse; margin: 14px 0; }
+.stack th {
+  text-align: left; vertical-align: top; white-space: nowrap;
+  width: 1%; padding: 10px 14px 10px 0; border-bottom: 1px solid #e3d9c8;
+  font-size: 12px; text-transform: uppercase; letter-spacing: 1px;
+  color: #b1401d; font-weight: bold;
+}
+.stack td {
+  vertical-align: top; padding: 10px 0; border-bottom: 1px solid #e3d9c8;
+  font-size: 15px; color: #3c352f;
+}
+.stack tr:last-child th, .stack tr:last-child td { border-bottom: 0; }
+@media (max-width: 560px) {
+  /* su schermo stretto l'etichetta va sopra, altrimenti la colonna si strozza */
+  .stack th, .stack td { display: block; width: auto; }
+  .stack th { border-bottom: 0; padding: 12px 0 2px; }
+  .stack td { padding: 0 0 10px; }
+}
+
+.torna { display: block; text-align: center; padding: 20px 10px; }
+.torna a { font-weight: bold; }
+</style>
+</head>
+<body>
+
+<div class="top" id="su">
+  <div class="top-txt">
+    <p class="when">Nota tecnica</p>
+    <h1>Come<br>è fatto</h1>
+    <p class="base">Una guida di viaggio per cinque persone, costruita a partire da un PDF di 28 pagine.
+    Nessun framework, nessuna dipendenza, nessun dato inventato.</p>
+  </div>
+</div>
+
+<div class="doc">
+
+<div class="numeri">
+  <div><b>1184</b><span>posti, in 103 zone</span></div>
+  <div><b>244</b><span>foto, licenza verificata</span></div>
+  <div><b>159</b><span>percorsi stradali calcolati</span></div>
+  <div><b>0</b><span>dipendenze esterne</span></div>
+</div>
+
+<h2>Il punto di partenza</h2>
+<p>Un PDF di 28 pagine con ristoranti, spiagge e distanze, senza una sola immagine. La richiesta era
+trasformarlo in qualcosa di consultabile dal telefono durante il viaggio.</p>
+
+<h3>Estrarre il testo</h3>
+<p>Il PDF era generato con ReportLab e sul computer non c'era nessuna libreria per leggerlo:
+niente <code>poppler</code>, niente Python. Ho scritto un estrattore in Node partendo dai byte grezzi.</p>
+<p>Il primo tentativo ha trovato zero stream: i contenuti non erano compressi solo con Flate, ma
+incapsulati anche in <strong>ASCII85</strong>. Si vedeva dai primi byte di ogni blocco, <code>4761…</code>,
+cioè <code>Ga</code> in ASCII. Ho implementato il decoder ASCII85, poi l'inflate, poi il parsing degli
+operatori <code>Tj</code> per ricavare le stringhe di testo. Risultato: 34 KB di testo pulito, 28 pagine.</p>
+
+<h2>La cosa più importante: i dati erano sbagliati</h2>
+<p>Il PDF diceva che Messina era a <strong>40 km, 35–45 minuti</strong> da Acireale. Ho costruito la prima
+versione del sito fidandomi di quel numero.</p>
+
+<div class="storia">
+  <p><strong>Poi è arrivata la domanda giusta:</strong> «Acireale e duomo Messina dice 40 min, ma è vero o no?»</p>
+  <p>Non lo era. Messina è a <strong>81 km e 1h03</strong>. Il PDF sbagliava di più del doppio, e io avevo
+  propagato l'errore.</p>
+</div>
+
+<p>La correzione non poteva essere puntuale: se un dato era sbagliato, lo erano probabilmente anche gli altri.
+Ho buttato via tutte le stime e ricostruito i tempi da zero:</p>
+<table class="stack">
+  <tr>
+    <th>Nominatim</th>
+    <td>Geocoding di ogni destinazione, una richiesta al secondo come da policy di OpenStreetMap</td>
+  </tr>
+  <tr>
+    <th>OSRM</th>
+    <td>Percorso stradale reale da Aci Catena a ciascuna destinazione</td>
+  </tr>
+</table>
+<p>Sono uscite <strong>129 tratte</strong>, ognuna con distanza e durata effettive al posto della stima.</p>
+
+<p>Poi ho scritto un controllo che rilegge l'HTML generato, estrae ogni tempo mostrato e lo confronta
+con il valore calcolato. Ha girato a ogni pubblicazione. La prima volta ha trovato una discordanza
+— Mondello aveva ereditato il tempo di Palermo centro — e l'ho corretta.</p>
+
+<table class="prima-dopo">
+  <tr><th>Destinazione</th><th>Dal PDF</th><th>Reale</th></tr>
+  <tr><td>Duomo di Messina</td><td>40 min</td><td><b>1h03</b></td></tr>
+  <tr><td>Rifugio Sapienza</td><td>60 min</td><td><b>44 min</b></td></tr>
+  <tr><td>Taormina</td><td>40 min</td><td><b>33 min</b></td></tr>
+  <tr><td>San Vito Lo Capo</td><td>3h30</td><td><b>4h49</b></td></tr>
+</table>
+
+<h2>Le foto</h2>
+<p>La guida ne aveva zero. Servivano immagini reali dei luoghi, non decorazioni generiche, e dovevano
+essere <strong>legalmente utilizzabili</strong>.</p>
+<p>Ho usato l'API di Wikimedia Commons: ricerca per soggetto, filtro per dimensione minima, download
+del file e registrazione di autore, licenza e URL di origine per ogni singola immagine. I crediti in
+fondo alla guida sono generati da quel registro, non scritti a mano.</p>
+
+<h3>Il rate limiting</h3>
+<p>Commons risponde <code>429</code> in modo aggressivo. Il primo downloader è andato in loop:
+riceveva pagine di errore da 2 KB, le scartava come «troppo piccole» e riprovava subito. Ho
+riscritto la logica con backoff dedicato — 45 secondi sul 429, progressivo sugli altri errori,
+massimo sei tentativi con candidati alternativi. Da lì in poi nessun download perso.</p>
+
+<h3>Il peso</h3>
+<p>Le foto scaricate da Commons arrivano a piena risoluzione, spesso diversi megabyte
+l'una. Troppi per un telefono in viaggio, con la connessione che in Sicilia non è
+ovunque. Ogni foto viene ridotta a due misure con <code>ffmpeg</code>:</p>
+<table class="stack">
+  <tr>
+    <th>Prima misura</th>
+    <td>900px sul lato lungo, per il desktop: <strong>19,9 MB</strong> in tutto</td>
+  </tr>
+  <tr>
+    <th>Seconda misura</th>
+    <td>480px per gli schermi piccoli, servita via <code>srcset</code>:
+    <strong>5,7 MB</strong> in tutto</td>
+  </tr>
+</table>
+<p>Ma non arrivano nemmeno quelli. Le foto sono tutte a <strong>caricamento pigro</strong>:
+il telefono scarica solo quelle che entrano davvero nello schermo. Aprendo la guida
+su uno schermo da 390&times;780 e stando fermi, il traffico misurato è di
+<strong>0,66 MB</strong>, di cui una sola foto: tutto il resto è la pagina stessa,
+che di posti ne contiene 1184. Le altre duecentoquarantatre immagini arrivano una alla
+volta, mentre si scorre, e quelle dentro un carosello solo se qualcuno le sfoglia.
+Il numero si rifà con <code>test/peso.js</code>, che misura l’apertura senza
+scorrere la pagina.</p>
+
+<h3>Più di una foto</h3>
+<p>Di certi posti una foto sola non basta. Una spiaggia la scegli guardandola, e se vedi
+solo l'inquadratura buona non sai se sotto c'è sabbia o ciottoli, né se è larga un chilometro
+o è una pozza tra due scogli.</p>
+<p>Trentotto schede adesso hanno più foto, con le freccette ai lati per passare alla
+successiva. Si può anche trascinare col dito.</p>
+<p>Lo scorrimento non l'ho scritto io. Nel CSS c'è una cosa che si chiama
+<code>scroll-snap</code>: gli dici che le foto stanno in fila e che si devono fermare una
+per volta, e al resto pensa il browser. Sembra una scorciatoia. È l'unica strada che funziona.
+Se lo scrivo a mano devo intercettare il dito, e nel momento in cui lo intercetto devo
+indovinare se stai sfogliando le foto o stai scorrendo la pagina. Se sbaglio, la pagina si
+inchioda sotto le dita. Il browser lo indovina meglio di me: lui ce l'ha, il dito vero.
+Io ho solo due coordinate.</p>
+<p>Le foto in più non pesano finché non le guardi. Aprendo la guida ne arrivano sempre
+diciassette, come prima; le altre partono solo se qualcuno le sfoglia. La pagina è passata
+da 1,59 a 1,63 MB, e quei 40 KB in più sono l'HTML, non le immagini.</p>
+
+<h2>Le scelte tecniche, e perché</h2>
+
+<h3>Niente framework</h3>
+<p>Il sito è HTML statico, 19 KB di CSS e 17 KB di JavaScript. Nessuna libreria, nessun CDN, nessun
+passo di build lato client.</p>
+<p>Non è pigrizia: il vincolo era «deve funzionare su tutti i telefoni, anche vecchi». Quindi niente
+variabili CSS, niente <code>grid</code>, niente <code>clamp()</code>, niente <code>aspect-ratio</code>,
+JavaScript in ES5. Le sezioni a fisarmonica sono <code>&lt;details&gt;</code> nativi: se un browser non
+li supporta, la pagina si vede tutta aperta invece di rompersi. Se il JavaScript non parte, restano
+i contenuti e i link. <strong>Nessuno scenario produce una pagina bianca.</strong></p>
+
+<h3>Tema chiaro</h3>
+<p>La prima versione era scura ed era più bella. L'ho cambiata perché la guida si usa <strong>fuori,
+a fine agosto, in Sicilia</strong>: testo scuro su fondo chiaro si legge al sole, il contrario no.</p>
+
+<h3>Ordinamento per distanza</h3>
+<p>Non per città e non per categoria, ma per <strong>minuti d'auto dall'alloggio</strong>, raggruppati
+in fasce. La domanda vera in vacanza non è «cosa c'è a Catania», è «cosa riesco a fare oggi».</p>
+
+<h3>La ricerca è nata da un bug d'uso</h3>
+<p>Con oltre trecento voci divise in fasce chiuse, chi cercava Pachino non lo trovava: c'era, ma dentro una
+sezione da aprire. Ho aggiunto un campo di ricerca che filtra su nome, zona, indirizzo e descrizione,
+apre da sola la fascia con i risultati e ignora gli accenti — «cefalu» trova «Cefalù».</p>
+<p>Testandola sono usciti due bug miei. Uno cancellava gli accenti invece di convertirli, e «cefalu»
+dava zero risultati. L'altro, un errore di escaping nella shell, aveva trasformato <code>\s+</code>
+in <code>s+</code> nell'indice di ricerca: <em>«spiaggia sotto la rocca»</em> era diventato
+<em>«piaggia otto la rocca»</em>. Entrambi trovati da un test automatico, non a occhio.</p>
+
+<h3>Scrivere una domanda invece di una parola</h3>
+<p>Chi cerca non pensa per categorie, pensa per frasi: <em>dove si mangia carne ad Acireale</em>.
+Scritta cos&igrave;, fino a ieri, non trovava <strong>niente</strong>. La ricerca spezzava la frase e
+pretendeva che ogni parola comparisse nel testo della scheda, ma il tipo di un posto non sta nel
+testo: sta in un attributo. La parola &ldquo;carne&rdquo; non era scritta da nessuna parte nella
+scheda di una braceria.</p>
+<p>Ora le parole che sono categorie vengono riconosciute e diventano un filtro, e il resto della
+frase &mdash; di solito il nome di un paese &mdash; resta ricerca. <em>Carne ad Acireale</em> accende
+<em>Carne</em> e cerca Acireale; il bottone si illumina da solo, cos&igrave; si vede cosa ha capito e
+lo si pu&ograve; smentire premendone un altro.</p>
+<p>Due cose sono state pi&ugrave; difficili di quanto sembri. La prima: in
+&ldquo;dove si <strong>mangia</strong> <strong>carne</strong>&rdquo; ci sono due categorie, e la
+prima che si incontra &egrave; quella pi&ugrave; generica. Prendendo la prima, la frase pi&ugrave;
+naturale dava il risultato pi&ugrave; vago: adesso vince sempre la pi&ugrave; precisa. La seconda:
+nel vocabolario ci sono solo parole generiche, <strong>mai nomi di piatti</strong>. Se
+&ldquo;arancino&rdquo; accendesse il filtro street food, cercare &ldquo;arancino&rdquo; non
+troverebbe pi&ugrave; la scheda dell&rsquo;arancino &mdash; che &egrave; esattamente quello che uno
+sta cercando.</p>
+<p>Per lo stesso motivo, se in una frase non c&rsquo;&egrave; nessuna categoria la ricerca resta
+identica a prima. Un miglioramento che rompe quello che gi&agrave; funzionava non &egrave; un
+miglioramento: quattro delle undici verifiche di questa funzione servono solo a controllare che
+cercare <em>Pachino</em>, <em>arancino</em>, <em>granita</em> o il nome di una trattoria dia ancora
+gli stessi risultati di prima.</p>
+
+<h2>Cosa ho deciso di non fare</h2>
+
+<h3>Niente foto finte sui ristoranti</h3>
+<p>237 schede su 385 sono pizzerie, trattorie e pasticcerie, e 228 di loro restano senza foto. Foto degli interni con licenza libera non
+esistono, e una foto generica di pizza sotto un nome preciso sarebbe un'immagine falsa. Al loro posto
+ci sono etichette colorate per categoria, che danno la stessa leggibilità a colpo
+d'occhio senza mentire.</p>
+<p>Lo stesso vale per il posto sbagliato. Cercando le foto delle spiagge rimaste scoperte ho
+quasi messo la Praiola che non c'entrava niente: ce n'è una a Giarre, venti minuti da casa, e
+una a Terrasini, dall'altra parte dell'isola. Su Commons le foto belle sono quelle di Terrasini.
+Me ne sono accorto perché prima di scaricare una foto guardo le coordinate del file, e dicevano
+duecentocinquanta chilometri più in là. Sette spiagge hanno trovato la loro immagine, sei restano
+senza: di tre non esiste proprio niente, su tutto Commons.</p>
+
+<h3>Niente dati raschiati</h3>
+<p>Un database da migliaia di voci prese da siti di recensioni sarebbe stato più veloce da fare e
+peggiore: non ridistribuibile legalmente, e senza il valore che ha una selezione fatta da qualcuno che
+ha deciso cosa vale. 1184 posti scelti battono 30.000 copiati.</p>
+
+<h3>Un&rsquo;etichetta che qualcuno deve firmare</h3>
+<p>Quarantuno schede portano il segno <em>Ci vanno i siciliani</em>. &Egrave; l&rsquo;affermazione pi&ugrave;
+rischiosa di tutta la guida: dire che un posto &egrave; quello vero e non quello per turisti &egrave; un
+giudizio, e un giudizio ha bisogno di qualcuno che se lo prenda. Non sono io.</p>
+<p>Ci entra solo un locale segnalato per la cucina da una guida gastronomica &mdash; la Chiocciola di
+Slow Food, il Bib Gourmand della Michelin, i Gamberi del Gambero Rosso, la classifica 50 Top
+Italy delle trattorie &mdash; e <strong>ogni scheda
+dice quale</strong>, dentro il testo, dove la legge chiunque. Le classifiche di prenotazione online
+non contano come fonte: sono i voti di chi prenota su internet, cio&egrave; esattamente il pubblico da
+cui l&rsquo;etichetta vorrebbe distinguersi. Per la stessa ragione restano fuori i tre stellati
+dell&rsquo;Etna: si mangia benissimo, ma a centoventi euro non &egrave; pi&ugrave; la domanda a cui
+questo segno risponde.</p>
+<p>Il nome sulla guida per&ograve; non prova che il locale esista ancora, n&eacute; dove sia. Cos&igrave;
+ognuno &egrave; stato cercato su OpenStreetMap, e i tempi calcolati con OSRM sull&rsquo;indirizzo
+trovato, come per tutti gli altri posti. Su quarantotto candidati ne sono passati quarantuno. Quattro
+non risultano mappati da nessuna parte; un altro risulta, ma a ventisette chilometri da dove la
+guida lo colloca, e non ho modo di sapere se &egrave; lo stesso locale o un altro con lo stesso nome.</p>
+<p>Due erano peggio che assenti. Il confronto automatico fra le insegne aveva dato per buono
+<em>&ldquo;Trattoria Il Mare&rdquo;</em> al posto di <em>Angi&ograve;, macelleria di mare</em>, con
+il massimo del punteggio, perch&eacute; la parola &ldquo;mare&rdquo; compare in tutti e due i nomi; e
+aveva agganciato un&rsquo;altra scheda a una pasticceria qualsiasi, perch&eacute; la sigla accorciata
+del nome era una lettera sola e una lettera sola sta dentro qualunque parola. Nessuna soglia sistemava
+tutti e due i casi insieme. L&rsquo;ho risolta stampando i cinque nomi pi&ugrave; vicini per ogni
+locale e guardandoli: a quel punto l&rsquo;errore si vede in un secondo, mentre un numero da solo non
+lo mostra mai.</p>
+
+<p>E c&rsquo;&egrave; una cosa che ho dovuto togliere. Scrivendo le schede avevo messo
+l&rsquo;indirizzo anche dove la guida mi dava solo il nome e il paese: quei numeri civici non li
+aveva detti nessuno, li avevo scritti io. Me ne sono accorto quando una fonte successiva ha
+pubblicato gli indirizzi per esteso e due non combaciavano &mdash; Fratelli Borrello non &egrave; in
+contrada Fiumara ma in contrada Forte, e Andrea non &egrave; in via Machiavelli ma sul corso.
+Ho corretto quei due e <strong>cancellato gli altri diciotto</strong>, lasciando solo il paese.
+In un sito che calcola i tempi sul percorso vero e verifica la licenza di ogni foto, un civico
+inventato &egrave; il dato peggiore di tutti: sembra preciso quanto gli altri, e manda una persona
+al portone sbagliato. Il collegamento alla mappa funziona lo stesso, perch&eacute; usa il nome e il
+paese, non il numero.</p>
+
+<h3>E poi TheFork, con un distinguo</h3>
+<p>Su ogni scheda dove si mangia c&rsquo;&egrave; un collegamento a TheFork, accanto a quello per la
+mappa: serve a vedere se il locale prende prenotazioni online e che sconto ha <em>in quel
+momento</em>. Lo sconto non &egrave; scritto qui dentro apposta: TheFork lo cambia ogni giorno, e un
+numero fisso in questa pagina sarebbe falso nel giro di una settimana.</p>
+<p>&Egrave; una deroga a una regola che questa guida si era data, e va detta. Le classifiche di
+prenotazione restano <strong>fuori come fonte</strong>: nessun locale entra nel tag
+<em>Ci vanno i siciliani</em> perch&eacute; ha molte stelline su una piattaforma. Ma come
+<strong>strumento</strong> per prenotare sono un&rsquo;altra cosa, e tenerle fuori per coerenza
+sarebbe stato un dispetto a chi la guida la usa davvero.</p>
+<p>L&rsquo;eccezione sono le due bracerie di Acireale. Aci Catena e Acireale non avevano
+<strong>un solo posto dove mangiare carne</strong>: le guide gastronomiche non arrivano fin qui, e su
+OpenStreetMap in tutta la zona non c&rsquo;&egrave; una braceria mappata &mdash; quindici macellerie e
+nessun ristorante. Quelle due vengono da TheFork, e <strong>la loro scheda lo dice</strong>, come le
+altre dicono &ldquo;Chiocciola Slow Food&rdquo;. Portano l&rsquo;indirizzo perch&eacute; l&rsquo;ho
+trovato confermato da quattro fonti diverse, ma non portano il tag: un voto su una piattaforma di
+prenotazioni non &egrave; una segnalazione per la cucina.</p>
+
+<h3>Google Maps per le zone vicino casa</h3>
+<p>Con TheFork ammesso come fonte, restava un problema pratico: sia TheFork sia Google Maps
+rispondono <strong>403</strong> a qualsiasi richiesta automatica, anche a un browser vero se non
+c&rsquo;&egrave; una persona dietro. Curl, script, tutto respinto. La soluzione &egrave; stata
+leggerli <strong>col browser</strong>, come fa chiunque altro: a quel punto sono pagine normali.</p>
+<p>Serviva perch&eacute; Acireale e Aci Catena, cercando solo dentro i loro confini, sembravano
+avere pochissimo da mangiare &mdash; ad Aci Catena, zero carne e zero pesce. L&rsquo;errore era
+cercare per comune: qui i paesi sono attaccati uno all&rsquo;altro, e allargando a Aci Castello, Aci
+Trezza e Valverde sono usciti sedici locali buoni che prima non c&rsquo;erano. <strong>Aci Castello
+non aveva un solo posto dove mangiare</strong>, e ora ne ha quattro.</p>
+<p>La selezione incrocia voto alto e numero di recensioni insieme: un 4,9 su nove recensioni non
+dice niente, un 4,3 su duemila s&igrave;. Ogni scheda <strong>scrive il voto e il campione</strong>,
+non solo la media, e dice che viene da Google Maps &mdash; queste schede non hanno il tag
+<em>Ci vanno i siciliani</em>, che resta riservato a chi &egrave; segnalato da una guida
+gastronomica.</p>
+<p>Una trappola, di nuovo la stessa famiglia della Praiola: cercando i ristoranti di Aci Castello
+sono usciti alcuni indirizzi su &ldquo;Lungomare dei Ciclopi&rdquo;, una via che Google conosce ma
+che il servizio di geocodifica usato per i tempi non indicizza. Ogni indirizzo &egrave; stato
+controllato che cadesse davvero entro pochi chilometri dal centro del comune dichiarato prima di
+essere accettato.</p>
+
+<h3>L&rsquo;audit non finisce a casa</h3>
+<p>Dopo aver sistemato le zone vicino ad Aci Catena, la domanda giusta era: <em>e il resto?</em>
+Rifacendo la stessa tabella per-zona-per-tipo su <strong>tutto</strong> il sito sono usciti buchi
+seri anche in destinazioni importanti, non periferiche: <strong>Siracusa città non aveva un solo
+posto per la carne, e nemmeno per la pizza</strong>. Ragusa era quasi vuota su tutti i tipi.
+Modica &mdash; la città del cioccolato &mdash; Cefalù, Trapani e Messina non avevano un solo posto
+per la carne. Sistemate tutte e sei con lo stesso metodo: ricerche mirate su Google Maps, verifica
+che il locale esista davvero, tempo calcolato con OSRM.</p>
+<p>Anche Acireale, dopo tre giri di ricerche mirate per tipo, non era ancora esaurita: una ricerca
+<strong>generica</strong> &ldquo;ristoranti Acireale&rdquo;, senza filtrare per categoria, ha
+tirato fuori cinque locali buoni mai visti. Non c&rsquo;è un punto in cui Google smette di dare
+risultati nuovi: c&rsquo;è solo il punto in cui io smetto di provare query diverse. La differenza
+fra questo sito e una copia di Google Maps è che qui qualcuno ha scelto, non che la lista sia
+finita.</p>
+<p>Un bug, in questo giro, ha insegnato una cosa sulla geografia amministrativa italiana: il
+controllo che scarta gli indirizzi omonimi cercava la parola &ldquo;Siracusa&rdquo; da qualche
+parte nell&rsquo;indirizzo trovato. Ma Siracusa è insieme il nome della città <strong>e</strong>
+della sua provincia, quindi un locale a Portopalo di Capo Passero &mdash; che sta in provincia di
+Siracusa, a un&rsquo;ora abbondante dalla città &mdash; passava il controllo lo stesso, e un
+ristorante e&rsquo; finito in guida con <strong>116 minuti di distanza</strong> spacciati per gli
+stessi 70 dei suoi vicini di scheda. Il controllo ora legge il campo strutturato che Nominatim
+restituisce per il comune, separato da quello della provincia, invece di cercare una parola dentro
+un indirizzo scritto in prosa.</p>
+
+<h3>Il cambio di metodo: dal browser alle API</h3>
+<p>Cercare col browser, un paese alla volta, funziona ma non scala: aprire una pagina, aspettare
+che carichi, scorrere, leggere il testo &mdash; per ogni singola ricerca. L&rsquo;utente ha fatto la
+domanda giusta: <em>come fanno gli sviluppatori veri?</em> La risposta &egrave; che non usano un
+browser, usano un&rsquo;API strutturata: una chiamata restituisce fino a venti locali gi&agrave; con
+nome, indirizzo, voto, numero di recensioni e coordinate, invece di una pagina web da far scorrere
+e interpretare.</p>
+<p>Con la Google Places API attivata, i <strong>73 buchi rimasti su tutto il sito</strong> &mdash;
+zone come Noto, Ragusa, Modica, Agrigento, San Vito Lo Capo che non avevano un solo posto per un
+tipo di cibo &mdash; sono stati chiusi in una sessione sola: 73 chiamate, 339 candidati trovati,
+<strong>90 scelti</strong> con lo stesso criterio di sempre (voto alto insieme a molte recensioni,
+non uno dei due da solo) e uno o due per buco, mai tutti. Restano due buchi soli, entrambi per un
+motivo preciso: Marzamemi non aveva un candidato sopra soglia per lo street food, e a Ragusa Ibla
+l&rsquo;unico risultato per i dolci era lo stesso locale gi&agrave; scelto per Ragusa &mdash; stessa
+gelateria, due ricerche diverse, tenuta una volta sola.</p>
+<p>Una cosa e&rsquo; cambiata in meglio nel processo stesso: le coordinate di ogni locale sono
+adesso quelle che Google d&agrave; per il locale, non quelle di un indirizzo scritto in prosa da
+un secondo servizio di geocodifica. Elimina alla radice l&rsquo;errore di stamattina &mdash; un
+locale a Portopalo di Capo Passero scambiato per uno a Siracusa perch&eacute; condividono il nome
+della provincia. Ne &egrave; comunque emerso un caso simile: un locale a Palazzolo Acreide il cui
+indirizzo diceva chiaramente Siracusa, quaranta chilometri pi&ugrave; in l&agrave;. Il
+<em>locationBias</em> con cui la ricerca viene centrata su un paese e&rsquo; un suggerimento per
+Google, non un vincolo: pu&ograve; comunque proporre un risultato fuori zona se lo ritiene
+pertinente al testo cercato. Scoperto con lo stesso controllo usato per Portopalo &mdash;
+confrontare il tempo di ogni scheda nuova con la media della sua zona &mdash; e corretto aggiungendo
+un filtro che scarta chi non menziona il comune cercato nel proprio indirizzo.</p>
+
+<h3>Niente itinerario rigido</h3>
+<p>La prima versione proponeva un programma giorno per giorno. È stata scartata su richiesta: chi
+viaggia vuole scegliere sul momento. L'unica struttura rimasta è la distanza.</p>
+
+<h3>Niente inventato</h3>
+<p>Per Avola, Pachino e Augusta i ristoranti non erano nella ricerca originale. Li ho cercati sul web
+e aggiunti citando le fonti — e nella guida è scritto che vengono da lì, non dalla ricerca di partenza.
+Dove una foto libera non esiste, la voce resta senza, ed è dichiarato.</p>
+
+<h3>Tranne i prezzi</h3>
+<p>C'è un numero, in tutta la guida, che non è misurato.</p>
+<p>I tempi in auto sono calcolati sul percorso vero, chilometro per chilometro. I prezzi no.
+Quelli li ho scritti a naso: quanto ci si aspetta di pagare un arancino, una granita, un piatto
+di busiate. Un listino non ce l'ho, e non esiste nemmeno — in una friggitoria di quartiere e in
+un lido di Taormina lo stesso arancino costa il doppio.</p>
+<p>Potevo lasciarli fuori. Ho preferito metterli e dirlo: accanto a ogni prezzo c'è scritto
+«indicativo», e in cima alla sezione c'è un avviso. Un numero tirato a indovinare, messo in
+mezzo a numeri veri senza avvisare, sembra vero anche lui.</p>
+<p>La sezione dei piatti intanto è passata da sedici a cinquantasei voci. Mancava roba che si mangia
+sotto casa: le crispelle, la cipollina, le minne di Sant'Agata. E mancava il patacalzone, che era
+scritto pure nel PDF di partenza.</p>
+
+<h2>In sintesi</h2>
+<table class="stack">
+  <tr>
+    <th>Estrazione</th>
+    <td>Decoder PDF scritto a mano: ASCII85, Flate, parsing degli operatori di testo</td>
+  </tr>
+  <tr>
+    <th>Arricchimento</th>
+    <td>Wikimedia Commons per le immagini, Nominatim per il geocoding, OSRM per i percorsi</td>
+  </tr>
+  <tr>
+    <th>Elaborazione</th>
+    <td>Node per la pipeline, ffmpeg per il ridimensionamento e la compressione</td>
+  </tr>
+  <tr>
+    <th>Output</th>
+    <td>Generatore statico su misura &rarr; HTML, CSS e JavaScript senza dipendenze</td>
+  </tr>
+  <tr>
+    <th>Verifica</th>
+    <td>Confronto automatico dei tempi, test dei filtri in Chrome headless, validazione dei tag</td>
+  </tr>
+  <tr>
+    <th>Pubblicazione</th>
+    <td>Firebase Hosting, con header di cache impostati a mano dopo che quelli di default
+    avevano nascosto un aggiornamento per un&rsquo;ora</td>
+  </tr>
+</table>
+
+<p class="torna"><a href="index.html">&larr; Torna alla guida</a></p>
+</div>
+
+<div class="fondo">
+  <div class="wrap">
+    <p>Sicilia, 25–29 agosto 2026 &middot; 1184 posti &middot; 244 foto con licenza libera.<br>
+    Tempi e distanze calcolati su percorso stradale reale da Aci Catena.</p>
+  </div>
+</div>
+
+</body>
+</html>

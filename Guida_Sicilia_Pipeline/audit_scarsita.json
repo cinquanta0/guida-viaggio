@@ -1,0 +1,1510 @@
+[
+  {
+    "zona": "Aci Catena",
+    "min": 0,
+    "conteggi": {
+      "pizza": 6,
+      "pasta": 6,
+      "dolci": 3,
+      "pesce": 1,
+      "carne": 3,
+      "street": 1
+    },
+    "debole": [
+      "pesce",
+      "street"
+    ]
+  },
+  {
+    "zona": "Acireale",
+    "min": 5,
+    "conteggi": {
+      "pizza": 9,
+      "pesce": 13,
+      "dolci": 3,
+      "carne": 11,
+      "pasta": 11,
+      "street": 3
+    },
+    "debole": []
+  },
+  {
+    "zona": "Aci Sant’Antonio",
+    "min": 5,
+    "conteggi": {
+      "pesce": 2,
+      "street": 1,
+      "carne": 2,
+      "pasta": 3,
+      "pizza": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Aci Bonaccorsi",
+    "min": 8,
+    "conteggi": {
+      "carne": 1,
+      "pesce": 1,
+      "pasta": 3
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Valverde",
+    "min": 9,
+    "conteggi": {
+      "carne": 2,
+      "pizza": 3,
+      "pesce": 1,
+      "pasta": 1,
+      "dolci": 1,
+      "street": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Costa acese",
+    "min": 11,
+    "conteggi": {
+      "pesce": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Aci Trezza",
+    "min": 11,
+    "conteggi": {
+      "pesce": 3,
+      "street": 1,
+      "carne": 1,
+      "pasta": 2,
+      "pizza": 1,
+      "dolci": 1
+    },
+    "debole": [
+      "carne",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Aci Castello",
+    "min": 11,
+    "conteggi": {
+      "pesce": 7,
+      "carne": 4,
+      "pasta": 1,
+      "street": 1,
+      "pizza": 3,
+      "dolci": 2
+    },
+    "debole": [
+      "pasta",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Frazioni di Acireale",
+    "min": 11,
+    "conteggi": {
+      "pesce": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Trecastagni",
+    "min": 13,
+    "conteggi": {
+      "carne": 4,
+      "pizza": 3
+    },
+    "debole": [
+      "pesce",
+      "pasta",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Santa Venerina",
+    "min": 15,
+    "conteggi": {
+      "dolci": 1,
+      "carne": 1,
+      "pesce": 3,
+      "pasta": 3,
+      "pizza": 3
+    },
+    "debole": [
+      "carne",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Zafferana Etnea",
+    "min": 16,
+    "conteggi": {
+      "dolci": 1,
+      "carne": 3,
+      "pesce": 1,
+      "pasta": 3,
+      "pizza": 1
+    },
+    "debole": [
+      "pesce",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Giarre",
+    "min": 16,
+    "conteggi": {
+      "pasta": 4,
+      "pesce": 4,
+      "carne": 4,
+      "street": 3,
+      "pizza": 4,
+      "dolci": 2
+    },
+    "debole": [
+      "dolci"
+    ]
+  },
+  {
+    "zona": "Acireale nord",
+    "min": 16,
+    "conteggi": {
+      "pesce": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Gravina di Catania",
+    "min": 18,
+    "conteggi": {
+      "carne": 1,
+      "pesce": 2,
+      "pasta": 3,
+      "pizza": 3,
+      "dolci": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Nicolosi",
+    "min": 19,
+    "conteggi": {
+      "carne": 2,
+      "pesce": 3,
+      "pasta": 3,
+      "pizza": 3
+    },
+    "debole": [
+      "carne",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Catania",
+    "min": 20,
+    "conteggi": {
+      "pizza": 10,
+      "street": 11,
+      "dolci": 11,
+      "carne": 9,
+      "pasta": 11,
+      "pesce": 4
+    },
+    "debole": []
+  },
+  {
+    "zona": "Riposto",
+    "min": 20,
+    "conteggi": {
+      "pesce": 5,
+      "street": 2,
+      "carne": 1,
+      "pasta": 4,
+      "pizza": 3,
+      "dolci": 1
+    },
+    "debole": [
+      "carne",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Catania — Via Plebiscito",
+    "min": 22,
+    "conteggi": {
+      "carne": 5
+    },
+    "debole": [
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Mascali",
+    "min": 22,
+    "conteggi": {
+      "pesce": 2,
+      "pasta": 2,
+      "pizza": 2,
+      "dolci": 2,
+      "street": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Catania — Pescheria",
+    "min": 23,
+    "conteggi": {
+      "street": 2,
+      "pesce": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Fiumefreddo di Sicilia",
+    "min": 24,
+    "conteggi": {
+      "pesce": 2,
+      "pasta": 2,
+      "pizza": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Milo",
+    "min": 26,
+    "conteggi": {
+      "pasta": 1,
+      "carne": 1,
+      "pesce": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Giardini Naxos",
+    "min": 28,
+    "conteggi": {
+      "carne": 1,
+      "pesce": 2,
+      "pasta": 2,
+      "pizza": 2,
+      "street": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Linguaglossa",
+    "min": 32,
+    "conteggi": {
+      "carne": 3,
+      "pasta": 1,
+      "pesce": 3,
+      "pizza": 3,
+      "dolci": 1,
+      "street": 1
+    },
+    "debole": [
+      "pasta",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Letojanni",
+    "min": 32,
+    "conteggi": {
+      "carne": 2,
+      "pesce": 2,
+      "pasta": 2,
+      "pizza": 2,
+      "dolci": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Taormina",
+    "min": 33,
+    "conteggi": {
+      "dolci": 2,
+      "pasta": 5,
+      "pesce": 5,
+      "pizza": 6,
+      "street": 3,
+      "carne": 2
+    },
+    "debole": [
+      "carne",
+      "dolci"
+    ]
+  },
+  {
+    "zona": "Paternò",
+    "min": 34,
+    "conteggi": {
+      "pesce": 2,
+      "pasta": 2,
+      "pizza": 2,
+      "dolci": 2,
+      "street": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Motta Camastra",
+    "min": 40,
+    "conteggi": {
+      "carne": 2,
+      "pesce": 2,
+      "pasta": 2,
+      "pizza": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Santa Teresa di Riva",
+    "min": 41,
+    "conteggi": {
+      "carne": 2,
+      "pesce": 2,
+      "pasta": 2,
+      "pizza": 2,
+      "dolci": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Castiglione di Sicilia",
+    "min": 43,
+    "conteggi": {
+      "pasta": 3,
+      "carne": 3,
+      "pesce": 2,
+      "pizza": 2
+    },
+    "debole": [
+      "pesce",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Forza d'Agrò",
+    "min": 43,
+    "conteggi": {
+      "pesce": 3,
+      "carne": 1,
+      "pasta": 1
+    },
+    "debole": [
+      "carne",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Savoca",
+    "min": 43,
+    "conteggi": {
+      "carne": 2,
+      "pesce": 2,
+      "pasta": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Lentini",
+    "min": 44,
+    "conteggi": {
+      "carne": 2,
+      "pesce": 2,
+      "pasta": 2,
+      "pizza": 2,
+      "dolci": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Randazzo",
+    "min": 50,
+    "conteggi": {
+      "pasta": 4,
+      "carne": 4,
+      "dolci": 1,
+      "pesce": 3,
+      "pizza": 3,
+      "street": 1
+    },
+    "debole": [
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Augusta",
+    "min": 56,
+    "conteggi": {
+      "pesce": 3,
+      "street": 1,
+      "carne": 3,
+      "pasta": 3,
+      "pizza": 3,
+      "dolci": 2
+    },
+    "debole": [
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Messina",
+    "min": 56,
+    "conteggi": {
+      "pizza": 6,
+      "dolci": 4,
+      "pasta": 3,
+      "pesce": 3,
+      "carne": 3,
+      "street": 3
+    },
+    "debole": []
+  },
+  {
+    "zona": "Priolo Gargallo",
+    "min": 57,
+    "conteggi": {
+      "carne": 2,
+      "pesce": 2,
+      "pizza": 1,
+      "dolci": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Brucoli, Augusta",
+    "min": 60,
+    "conteggi": {
+      "pesce": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Brucoli",
+    "min": 60,
+    "conteggi": {
+      "pesce": 3,
+      "carne": 1,
+      "pasta": 1
+    },
+    "debole": [
+      "carne",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Bronte",
+    "min": 62,
+    "conteggi": {
+      "dolci": 3,
+      "street": 1,
+      "pasta": 3,
+      "carne": 2,
+      "pesce": 3,
+      "pizza": 3
+    },
+    "debole": [
+      "carne",
+      "street"
+    ]
+  },
+  {
+    "zona": "Militello",
+    "min": 67,
+    "conteggi": {
+      "dolci": 1,
+      "carne": 2,
+      "pasta": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Siracusa",
+    "min": 67,
+    "conteggi": {
+      "dolci": 1,
+      "pasta": 3,
+      "carne": 4,
+      "pizza": 4,
+      "pesce": 3,
+      "street": 3
+    },
+    "debole": [
+      "dolci"
+    ]
+  },
+  {
+    "zona": "Ortigia",
+    "min": 70,
+    "conteggi": {
+      "carne": 2,
+      "pesce": 2,
+      "pasta": 2,
+      "pizza": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Ortigia, Siracusa",
+    "min": 72,
+    "conteggi": {
+      "dolci": 3,
+      "pizza": 4,
+      "street": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "street"
+    ]
+  },
+  {
+    "zona": "Maniace",
+    "min": 73,
+    "conteggi": {
+      "carne": 1,
+      "pesce": 2,
+      "pizza": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Buccheri",
+    "min": 76,
+    "conteggi": {
+      "carne": 3,
+      "pasta": 1,
+      "pesce": 1
+    },
+    "debole": [
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Avola",
+    "min": 79,
+    "conteggi": {
+      "pesce": 9,
+      "pasta": 4,
+      "pizza": 4,
+      "carne": 3,
+      "dolci": 3,
+      "street": 2
+    },
+    "debole": [
+      "street"
+    ]
+  },
+  {
+    "zona": "Enna",
+    "min": 82,
+    "conteggi": {
+      "carne": 2,
+      "pesce": 2,
+      "pasta": 2,
+      "pizza": 2,
+      "dolci": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Caltagirone",
+    "min": 84,
+    "conteggi": {
+      "pesce": 2,
+      "pasta": 2,
+      "pizza": 2,
+      "dolci": 2,
+      "street": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Noto",
+    "min": 88,
+    "conteggi": {
+      "dolci": 2,
+      "carne": 1,
+      "pesce": 4,
+      "pasta": 4,
+      "pizza": 4,
+      "street": 1
+    },
+    "debole": [
+      "carne",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Milazzo",
+    "min": 91,
+    "conteggi": {
+      "pasta": 3,
+      "carne": 1,
+      "pesce": 2,
+      "pizza": 2,
+      "street": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Palazzolo Acreide",
+    "min": 94,
+    "conteggi": {
+      "carne": 6,
+      "pasta": 6,
+      "pesce": 4,
+      "pizza": 4,
+      "dolci": 2,
+      "street": 1
+    },
+    "debole": [
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Piazza Armerina",
+    "min": 96,
+    "conteggi": {
+      "carne": 2,
+      "pesce": 1,
+      "pasta": 2,
+      "pizza": 2,
+      "street": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "San Piero Patti",
+    "min": 101,
+    "conteggi": {
+      "pasta": 2,
+      "carne": 1,
+      "pesce": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Tindari",
+    "min": 101,
+    "conteggi": {
+      "carne": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Rosolini",
+    "min": 102,
+    "conteggi": {
+      "pasta": 3,
+      "carne": 3,
+      "pesce": 2,
+      "pizza": 2,
+      "dolci": 2,
+      "street": 1
+    },
+    "debole": [
+      "pesce",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Sinagra",
+    "min": 102,
+    "conteggi": {
+      "carne": 3,
+      "dolci": 1
+    },
+    "debole": [
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Raccuja",
+    "min": 102,
+    "conteggi": {
+      "carne": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Pachino",
+    "min": 104,
+    "conteggi": {
+      "pesce": 3,
+      "pasta": 3,
+      "carne": 2,
+      "pizza": 3,
+      "dolci": 3,
+      "street": 1
+    },
+    "debole": [
+      "carne",
+      "street"
+    ]
+  },
+  {
+    "zona": "Marzamemi",
+    "min": 108,
+    "conteggi": {
+      "carne": 2,
+      "pizza": 2,
+      "dolci": 1,
+      "pesce": 3,
+      "pasta": 2
+    },
+    "debole": [
+      "carne",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Marzamemi, Pachino",
+    "min": 110,
+    "conteggi": {
+      "pasta": 2,
+      "pesce": 5
+    },
+    "debole": [
+      "carne",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Ispica",
+    "min": 110,
+    "conteggi": {
+      "carne": 1,
+      "pesce": 2,
+      "pasta": 2,
+      "pizza": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Ragusa",
+    "min": 113,
+    "conteggi": {
+      "street": 2,
+      "pasta": 7,
+      "pesce": 3,
+      "carne": 1,
+      "pizza": 3,
+      "dolci": 1
+    },
+    "debole": [
+      "carne",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Portopalo di Capo Passero",
+    "min": 116,
+    "conteggi": {
+      "pesce": 7,
+      "pizza": 2,
+      "carne": 1,
+      "pasta": 3,
+      "dolci": 1,
+      "street": 1
+    },
+    "debole": [
+      "carne",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Pozzallo",
+    "min": 116,
+    "conteggi": {
+      "carne": 2,
+      "pesce": 2,
+      "pasta": 2,
+      "pizza": 2,
+      "street": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Ragusa Ibla",
+    "min": 117,
+    "conteggi": {
+      "street": 1,
+      "pasta": 2,
+      "carne": 1,
+      "pizza": 1,
+      "pesce": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Modica",
+    "min": 123,
+    "conteggi": {
+      "dolci": 2,
+      "pasta": 3,
+      "pesce": 3,
+      "carne": 3,
+      "pizza": 4,
+      "street": 3
+    },
+    "debole": [
+      "dolci"
+    ]
+  },
+  {
+    "zona": "Sampieri",
+    "min": 132,
+    "conteggi": {
+      "carne": 2,
+      "pesce": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Scicli",
+    "min": 134,
+    "conteggi": {
+      "carne": 2,
+      "pesce": 2,
+      "pasta": 2,
+      "pizza": 2
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Agrigento",
+    "min": 135,
+    "conteggi": {
+      "pasta": 4,
+      "carne": 3,
+      "pesce": 3,
+      "pizza": 4,
+      "dolci": 3,
+      "street": 2
+    },
+    "debole": [
+      "street"
+    ]
+  },
+  {
+    "zona": "Marina di Ragusa",
+    "min": 136,
+    "conteggi": {
+      "carne": 1,
+      "pesce": 2,
+      "pizza": 3,
+      "street": 1,
+      "pasta": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Licata",
+    "min": 140,
+    "conteggi": {
+      "pesce": 3,
+      "carne": 2,
+      "pasta": 2,
+      "pizza": 2,
+      "dolci": 2
+    },
+    "debole": [
+      "carne",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Cefalù",
+    "min": 152,
+    "conteggi": {
+      "pizza": 3,
+      "pesce": 4,
+      "carne": 1,
+      "dolci": 2,
+      "pasta": 3,
+      "street": 3
+    },
+    "debole": [
+      "carne",
+      "dolci"
+    ]
+  },
+  {
+    "zona": "Realmonte",
+    "min": 153,
+    "conteggi": {
+      "carne": 1,
+      "pasta": 2,
+      "street": 2,
+      "pesce": 1,
+      "pizza": 1,
+      "dolci": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Castelbuono",
+    "min": 158,
+    "conteggi": {
+      "carne": 2,
+      "pasta": 2,
+      "pesce": 1,
+      "pizza": 1,
+      "street": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Bagheria",
+    "min": 159,
+    "conteggi": {
+      "pasta": 2,
+      "carne": 2,
+      "pesce": 1,
+      "pizza": 1,
+      "dolci": 1,
+      "street": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Pollina",
+    "min": 162,
+    "conteggi": {
+      "carne": 2,
+      "pasta": 2,
+      "pizza": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Palermo",
+    "min": 173,
+    "conteggi": {
+      "street": 6,
+      "pizza": 6,
+      "carne": 8,
+      "dolci": 10,
+      "pesce": 4,
+      "pasta": 4
+    },
+    "debole": []
+  },
+  {
+    "zona": "Palermo, Mercato Ballarò",
+    "min": 174,
+    "conteggi": {
+      "pasta": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Palermo, zona Ballarò",
+    "min": 174,
+    "conteggi": {
+      "pasta": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Monreale",
+    "min": 177,
+    "conteggi": {
+      "pizza": 2,
+      "pasta": 2,
+      "carne": 1,
+      "pesce": 1,
+      "street": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Mondello, Palermo",
+    "min": 192,
+    "conteggi": {
+      "pesce": 1,
+      "pasta": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Mondello",
+    "min": 192,
+    "conteggi": {
+      "pesce": 1,
+      "pasta": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Castellammare del Golfo",
+    "min": 224,
+    "conteggi": {
+      "pesce": 2,
+      "pasta": 1,
+      "pizza": 1,
+      "dolci": 1,
+      "street": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Trapani",
+    "min": 255,
+    "conteggi": {
+      "dolci": 3,
+      "pizza": 5,
+      "pesce": 4,
+      "pasta": 6,
+      "carne": 2,
+      "street": 2
+    },
+    "debole": [
+      "carne",
+      "street"
+    ]
+  },
+  {
+    "zona": "Sopra Trapani",
+    "min": 264,
+    "conteggi": {
+      "dolci": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Erice",
+    "min": 264,
+    "conteggi": {
+      "dolci": 1,
+      "carne": 1,
+      "pesce": 1,
+      "pasta": 1,
+      "pizza": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "San Vito Lo Capo",
+    "min": 273,
+    "conteggi": {
+      "pesce": 4,
+      "pasta": 2,
+      "carne": 3,
+      "pizza": 3,
+      "dolci": 2,
+      "street": 2
+    },
+    "debole": [
+      "pasta",
+      "dolci",
+      "street"
+    ]
+  },
+  {
+    "zona": "Favignana",
+    "min": 291,
+    "conteggi": {
+      "carne": 1,
+      "pesce": 1,
+      "pasta": 1,
+      "pizza": 1,
+      "dolci": 1,
+      "street": 1
+    },
+    "debole": [
+      "carne",
+      "pesce",
+      "pasta",
+      "pizza",
+      "dolci",
+      "street"
+    ]
+  }
+]

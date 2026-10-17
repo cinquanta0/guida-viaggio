@@ -1,0 +1,60 @@
+# BOZZA del workflow automatico. NON è ancora attivo.
+# Quando metteremo il progetto su GitHub, questo file va in:
+#     .github/workflows/freshness.yml
+# e servono 2 SEGRETI nel repo (Settings → Secrets → Actions):
+#   GOOGLE_PLACES_KEY  = la chiave (NON committare mai chiave_google.js!)
+#   FIREBASE_TOKEN     = token di deploy ( `firebase login:ci` lo genera )
+#
+# Cosa fa, da solo, ogni lunedì mattina:
+#   1. controlla un lotto di posti (chi ha chiuso, segnali) — a rotazione, costo ~0
+#   2. rigenera il sito (build) e fa il DEPLOY su Firebase
+#   3. salva il report nel repo (così resta lo storico)
+# NON aggiunge né promuove posti: quello resta scelta umana.
+
+name: freshness
+on:
+  schedule:
+    - cron: '0 6 * * 1'     # ogni lunedì 06:00 UTC
+  workflow_dispatch: {}       # + bottone per lanciarlo a mano
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+
+      - name: Installa dipendenze pipeline
+        working-directory: Guida_Sicilia_Pipeline
+        run: npm install
+
+      - name: Controllo freshness (chiusi / segnali)
+        working-directory: Guida_Sicilia_Pipeline
+        env:
+          GOOGLE_PLACES_KEY: ${{ secrets.GOOGLE_PLACES_KEY }}
+          FRESHNESS_MAX: '80'
+        run: node freshness.js
+
+      # (opzionale, quando pronto) applica le chiusure trovate ai dati:
+      # - run: node applica_freshness.js   # segna/toglie i posti chiusi
+
+      - name: Rigenera il sito
+        working-directory: Guida_Sicilia_Pipeline
+        run: |
+          node build.js
+          node crediti.js
+          node build_napoli.js
+
+      - name: Deploy su Firebase
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+        run: npx firebase-tools deploy --only hosting --project guida-sicilia-2026 --token "$FIREBASE_TOKEN"
+
+      - name: Salva il report nello storico
+        run: |
+          git config user.name "freshness-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add Guida_Sicilia_Pipeline/freshness_report.md Guida_Sicilia_Pipeline/freshness_flags.json Guida_Sicilia_Pipeline/freshness_cursor.json || true
+          git commit -m "freshness: report automatico" || echo "niente da committare"
+          git push || true

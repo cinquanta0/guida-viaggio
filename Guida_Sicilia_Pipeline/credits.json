@@ -1,0 +1,1765 @@
+{
+ "hero": {
+  "file": "hero.jpg",
+  "title": "The city of Taormina, Sicily, and the Mediterranean sea.jpg",
+  "author": "Nicolas Chadeville",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:The_city_of_Taormina,_Sicily,_and_the_Mediterranean_sea.jpg"
+ },
+ "acireale": {
+  "file": "acireale.jpg",
+  "title": "Acireale, Piazza Duomo - panoramio.jpg",
+  "author": "Carlo Pelagalli",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Acireale,_Piazza_Duomo_-_panoramio.jpg"
+ },
+ "santamarialascala": {
+  "file": "santamarialascala.jpg",
+  "titolo": "Santa Maria la Scala 06.jpg",
+  "title": "Santa Maria la Scala 06.jpg",
+  "author": "Davide Mauro",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Santa_Maria_la_Scala_06.jpg"
+ },
+ "timpa": {
+  "file": "timpa.jpg",
+  "title": "Riserva naturale orientata La Timpa, Acireale, Aprile 2023 03.jpg",
+  "author": "Auregann",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Riserva_naturale_orientata_La_Timpa,_Acireale,_Aprile_2023_03.jpg"
+ },
+ "santatecla": {
+  "file": "santatecla.jpg",
+  "titolo": "Timpa di santa tecla vista dal mare.jpg",
+  "title": "Timpa di santa tecla vista dal mare.jpg",
+  "author": "Cataniaan",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Timpa_di_santa_tecla_vista_dal_mare.jpg"
+ },
+ "capomulini": {
+  "file": "capomulini.jpg",
+  "titolo": "View of Capo Mulini (Acireale).jpg",
+  "title": "View of Capo Mulini (Acireale).jpg",
+  "author": "Graziampl",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Capo_Mulini_(Acireale).jpg"
+ },
+ "acitrezza": {
+  "file": "acitrezza.jpg",
+  "title": "Faraglioni (Aci Trezza) 08 06 2025 01.jpg",
+  "author": "Effems",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Faraglioni_(Aci_Trezza)_08_06_2025_01.jpg"
+ },
+ "catania_duomo": {
+  "file": "catania_duomo.jpg",
+  "title": "Piazza del Duomo, Catania 2024.jpg",
+  "author": "Cayambe",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Piazza_del_Duomo,_Catania_2024.jpg"
+ },
+ "catania_pescheria": {
+  "file": "catania_pescheria.jpg",
+  "title": "Pescheria (Catania) 10 11 2025 03.jpg",
+  "author": "Effems",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pescheria_(Catania)_10_11_2025_03.jpg"
+ },
+ "catania_pescheria2": {
+  "file": "catania_pescheria2.jpg",
+  "title": "Pescheria (Catania) 08 11 2025 15.jpg",
+  "author": "Effems",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pescheria_(Catania)_08_11_2025_15.jpg"
+ },
+ "taormina_teatro": {
+  "file": "taormina_teatro.jpg",
+  "title": "Taormina - Teatro antico di Taormina.jpg",
+  "author": "231286M",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Taormina_-_Teatro_antico_di_Taormina.jpg"
+ },
+ "isolabella": {
+  "file": "isolabella.jpg",
+  "title": "Isola Bella Island Taormina Sicily 03.jpg",
+  "author": "Scott Wylie",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Isola_Bella_Island_Taormina_Sicily_03.jpg"
+ },
+ "mazzaro": {
+  "file": "mazzaro.jpg",
+  "titolo": "Taormina-Messina-Sicilia-Italy-Castielli CC0 HQ - panoramio (18).jpg",
+  "title": "Taormina-Messina-Sicilia-Italy-Castielli CC0 HQ - panoramio (18).jpg",
+  "author": "gnuckx",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Taormina-Messina-Sicilia-Italy-Castielli_CC0_HQ_-_panoramio_(18).jpg"
+ },
+ "giardininaxos": {
+  "file": "giardininaxos.jpg",
+  "titolo": "Giardini Naxos (Sicily).jpg",
+  "title": "Giardini Naxos (Sicily).jpg",
+  "author": "Bernard Gagnon",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Giardini_Naxos_(Sicily).jpg"
+ },
+ "nelson": {
+  "file": "nelson.jpg",
+  "titolo": "Castello di nelson a maniace.jpg",
+  "title": "Castello di nelson a maniace.jpg",
+  "author": "epanto",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Castello_di_nelson_a_maniace.jpg"
+ },
+ "pistacchio": {
+  "file": "pistacchio.jpg",
+  "title": "Pistacchio di Bronte (pesto).jpg",
+  "author": "_quest",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pistacchio_di_Bronte_(pesto).jpg"
+ },
+ "messina": {
+  "file": "messina.jpg",
+  "title": "Duomo di Messina 07.JPG",
+  "author": "Superchilum",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Duomo_di_Messina_07.JPG"
+ },
+ "ortigia": {
+  "file": "ortigia.jpg",
+  "title": "Siracusa, Ortigia, Piazza Duomo.jpg",
+  "author": "Rosaria Privitera Saggio",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Siracusa,_Ortigia,_Piazza_Duomo.jpg"
+ },
+ "ortigia_lungomare": {
+  "file": "ortigia_lungomare.jpg",
+  "titolo": "View of Syracuse and Mount Etna from Lungomare Di Levante Ortigia. Sicily, Italy.jpg",
+  "title": "View of Syracuse and Mount Etna from Lungomare Di Levante Ortigia. Sicily, Italy.jpg",
+  "author": "Ввласенко",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Syracuse_and_Mount_Etna_from_Lungomare_Di_Levante_Ortigia._Sicily,_Italy.jpg"
+ },
+ "aretusa": {
+  "file": "aretusa.jpg",
+  "titolo": "Fonte Aretusa (Siracusa) 10 11 2019 01.jpg",
+  "title": "Fonte Aretusa (Siracusa) 10 11 2019 01.jpg",
+  "author": "Effems",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Fonte_Aretusa_(Siracusa)_10_11_2019_01.jpg"
+ },
+ "plemmirio": {
+  "file": "plemmirio.jpg",
+  "title": "Varco 28, Plemmirio 2.jpg",
+  "author": "Davide Mauro",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Varco_28,_Plemmirio_2.jpg"
+ },
+ "fontanebianche": {
+  "file": "fontanebianche.jpg",
+  "titolo": "Mare di Fontane Bianche (Siracusa).jpg",
+  "title": "Mare di Fontane Bianche (Siracusa).jpg",
+  "author": "Gianfranco Vitolo",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Mare_di_Fontane_Bianche_(Siracusa).jpg"
+ },
+ "teatro_siracusa": {
+  "file": "teatro_siracusa.jpg",
+  "titolo": "Teatro Greco (Siracusa).jpg",
+  "title": "Teatro Greco (Siracusa).jpg",
+  "author": "Allie_Caulfield",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Teatro_Greco_(Siracusa).jpg"
+ },
+ "mercatoortigia": {
+  "file": "mercatoortigia.jpg",
+  "titolo": "4551 - Mercato di Ortigia, Siracusa - Foto Giovanni Dall'Orto, 20 marzo 2014.jpg",
+  "title": "4551 - Mercato di Ortigia, Siracusa - Foto Giovanni Dall'Orto, 20 marzo 2014.jpg",
+  "author": "Giovanni Dall'Orto",
+  "license": "Attribution",
+  "source": "https://commons.wikimedia.org/wiki/File:4551_-_Mercato_di_Ortigia,_Siracusa_-_Foto_Giovanni_Dall'Orto,_20_marzo_2014.jpg"
+ },
+ "palermo_cattedrale": {
+  "file": "palermo_cattedrale.jpg",
+  "titolo": "Palermo Cathedral BW 2025-04-29 11-14-42.jpg",
+  "title": "Palermo Cathedral BW 2025-04-29 11-14-42.jpg",
+  "author": "Berthold Werner",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Palermo_Cathedral_BW_2025-04-29_11-14-42.jpg"
+ },
+ "palermo_quattrocanti": {
+  "file": "palermo_quattrocanti.jpg",
+  "title": "Palermo. Quattro Canti, GD008222.jpg",
+  "author": "Unknown authorUnknown author",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Palermo._Quattro_Canti,_GD008222.jpg"
+ },
+ "ballaro": {
+  "file": "ballaro.jpg",
+  "title": "Ballarò, gente en el mercado, Palermo, Sicilia, Italia, 2015.JPG",
+  "author": "Benjamín Núñez González",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ballarò,_gente_en_el_mercado,_Palermo,_Sicilia,_Italia,_2015.JPG"
+ },
+ "mondello": {
+  "file": "mondello.jpg",
+  "titolo": "Mondello Beach in Spring.jpg",
+  "title": "Mondello Beach in Spring.jpg",
+  "author": "Joefromthebay",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Mondello_Beach_in_Spring.jpg"
+ },
+ "cefalu": {
+  "file": "cefalu.jpg",
+  "title": "Cefalù BW 2025-05-01 09-35-46.jpg",
+  "author": "Berthold Werner",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cefalù_BW_2025-05-01_09-35-46.jpg"
+ },
+ "sanvito": {
+  "file": "sanvito.jpg",
+  "title": "San Vito Lo Capo Beach.JPG",
+  "author": "Lost passenger",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:San_Vito_Lo_Capo_Beach.JPG"
+ },
+ "trapani": {
+  "file": "trapani.jpg",
+  "titolo": "Mulino. Saline di Trapani.jpg",
+  "title": "Mulino. Saline di Trapani.jpg",
+  "author": "La mia avventura",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Mulino._Saline_di_Trapani.jpg"
+ },
+ "egadi": {
+  "file": "egadi.jpg",
+  "titolo": "Favignana Cala Rossa.JPG",
+  "title": "Favignana Cala Rossa.JPG",
+  "author": "Pizzodaniele",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Favignana_Cala_Rossa.JPG"
+ },
+ "etna": {
+  "file": "etna.jpg",
+  "title": "Etna eruptions April 2012.JPG",
+  "author": "Walter Isack (isiwal)",
+  "license": "CC BY-SA 3.0 at",
+  "source": "https://commons.wikimedia.org/wiki/File:Etna_eruptions_April_2012.JPG"
+ },
+ "etna_dawn": {
+  "file": "etna_dawn.jpg",
+  "title": "Mount Etna Volcano Dawn at Paternò Sicilia Italy - Creative Commons by gnuckx (4773785162).jpg",
+  "author": "gnuckx",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Mount_Etna_Volcano_Dawn_at_Paternò_Sicilia_Italy_-_Creative_Commons_by_gnuckx_(4773785162).jpg"
+ },
+ "arancini": {
+  "file": "arancini.jpg",
+  "title": "Arancino al ragù.jpg",
+  "author": "Stella",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Arancino_al_ragù.jpg"
+ },
+ "arancini2": {
+  "file": "arancini2.jpg",
+  "title": "Arancini 002.jpg",
+  "author": "No machine-readable author provided. Gmelfi assume",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Arancini_002.jpg"
+ },
+ "norma": {
+  "file": "norma.jpg",
+  "title": "Pasta alla Norma - Wiki Loves Sicilia.jpg",
+  "author": "8w9d",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pasta_alla_Norma_-_Wiki_Loves_Sicilia.jpg"
+ },
+ "granita": {
+  "file": "granita.jpg",
+  "title": "Granita ai gusti mandorla e cioccolato con brioche siciliana.jpg",
+  "author": "Giovanni.grasso",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Granita_ai_gusti_mandorla_e_cioccolato_con_brioche_siciliana.jpg"
+ },
+ "granita2": {
+  "file": "granita2.jpg",
+  "title": "Sagra del pesce spada Aci Trezza 2025 - Granita and brioche.jpg",
+  "author": "Auregann",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sagra_del_pesce_spada_Aci_Trezza_2025_-_Granita_and_brioche.jpg"
+ },
+ "panemeusa": {
+  "file": "panemeusa.jpg",
+  "title": "Pani ca meusa.jpg",
+  "author": "Popo le Chien",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pani_ca_meusa.jpg"
+ },
+ "panelle": {
+  "file": "panelle.jpg",
+  "title": "Pane e panelle.jpg",
+  "author": "Dedda71",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pane_e_panelle.jpg"
+ },
+ "couscous": {
+  "file": "couscous.jpg",
+  "title": "Cous Cous Mediterraneo - Ristorante Pizzeria Cortile di Cerere - San Vito Lo Capo.jpg",
+  "author": "Ensahequ",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cous_Cous_Mediterraneo_-_Ristorante_Pizzeria_Cortile_di_Cerere_-_San_Vito_Lo_Capo.jpg"
+ },
+ "pizza": {
+  "file": "pizza.jpg",
+  "title": "Pizza Napoletana Contemporanea.jpg",
+  "author": "CDibisceglia",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pizza_Napoletana_Contemporanea.jpg"
+ },
+ "cassata": {
+  "file": "cassata.jpg",
+  "title": "CASSATA SICILIANA.jpg",
+  "author": "EraclitoPantaRei",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:CASSATA_SICILIANA.jpg"
+ },
+ "martorana": {
+  "file": "martorana.jpg",
+  "title": "Frutta martorana 1.jpg",
+  "author": "Auregann",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Frutta_martorana_1.jpg"
+ },
+ "sfincione": {
+  "file": "sfincione.jpg",
+  "title": "Sfincione palermitano 3.jpg",
+  "author": "Scott Weiner",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sfincione_palermitano_3.jpg"
+ },
+ "gelato": {
+  "file": "gelato.jpg",
+  "title": "Semifreddo ai pistacchi.jpg",
+  "author": "_quest",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Semifreddo_ai_pistacchi.jpg"
+ },
+ "caponata": {
+  "file": "caponata.jpg",
+  "title": "Caponata nissena.jpg",
+  "author": "Auregann",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Caponata_nissena.jpg"
+ },
+ "busiate": {
+  "file": "busiate.jpg",
+  "title": "Pesto alla Trapanese - Wiki Loves Sicilia.jpg",
+  "author": "8w9d",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pesto_alla_Trapanese_-_Wiki_Loves_Sicilia.jpg"
+ },
+ "ceramica": {
+  "file": "ceramica.jpg",
+  "title": "Coppia Teste di Moro H36 colaggio fumè-rosso ceramica di caltagirone-8.jpg",
+  "author": "And92guit",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Coppia_Teste_di_Moro_H36_colaggio_fumè-rosso_ceramica_di_caltagirone-8.jpg"
+ },
+ "cannolo": {
+  "file": "cannolo.jpg",
+  "title": "Cannoli tipo mignon con ripieno 02.jpg",
+  "author": "OppidumNissenae",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cannoli_tipo_mignon_con_ripieno_02.jpg"
+ },
+ "laplaia": {
+  "file": "laplaia.jpg",
+  "titolo": "Playa Etna (244613663).jpeg",
+  "title": "Playa Etna (244613663).jpeg",
+  "author": "Gabriele Falco",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Playa_Etna_(244613663).jpeg"
+ },
+ "licuti": {
+  "file": "licuti.jpg",
+  "titolo": "Volcanic rock beach in San Giovanni li Cuti, Catania 2.jpg",
+  "title": "Volcanic rock beach in San Giovanni li Cuti, Catania 2.jpg",
+  "author": "Auregann",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Volcanic_rock_beach_in_San_Giovanni_li_Cuti,_Catania_2.jpg"
+ },
+ "arenella": {
+  "file": "arenella.jpg",
+  "titolo": "Spiaggia dell'Arenella (Siracusa) 03.jpg",
+  "title": "Spiaggia dell'Arenella (Siracusa) 03.jpg",
+  "author": "Derbrauni",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Spiaggia_dell'Arenella_(Siracusa)_03.jpg"
+ },
+ "zingaro": {
+  "file": "zingaro.jpg",
+  "titolo": "Riserva naturale orientata dello Zingaro, aprile 2026 - WLE2026 03.jpg",
+  "title": "Riserva naturale orientata dello Zingaro, aprile 2026 - WLE2026 03.jpg",
+  "author": "Auregann",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Riserva_naturale_orientata_dello_Zingaro,_aprile_2026_-_WLE2026_03.jpg"
+ },
+ "alcantara": {
+  "file": "alcantara.jpg",
+  "titolo": "Gole dell'Alcantara-pjt1.jpg",
+  "title": "Gole dell'Alcantara-pjt1.jpg",
+  "author": "pjt56 ---",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Gole_dell'Alcantara-pjt1.jpg"
+ },
+ "acicastello": {
+  "file": "acicastello.jpg",
+  "title": "Aci Castello Sicily Italy - Creative Commons by gnuckx (5085398127).jpg",
+  "author": "gnuckx",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Aci_Castello_Sicily_Italy_-_Creative_Commons_by_gnuckx_(5085398127).jpg"
+ },
+ "riposto": {
+  "file": "riposto.jpg",
+  "title": "Riposto (Catania province).jpg",
+  "author": "PhotographerTranslator",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Riposto_(Catania_province).jpg"
+ },
+ "torrearchirafi": {
+  "file": "torrearchirafi.jpg",
+  "title": "Torre Archirafi 02.jpg",
+  "author": "Davide Mauro",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Torre_Archirafi_02.jpg"
+ },
+ "fiumefreddo": {
+  "file": "fiumefreddo.jpg",
+  "title": "Oasi Fiumefreddo - panoramio.jpg",
+  "author": "Gianluca Pat",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Oasi_Fiumefreddo_-_panoramio.jpg"
+ },
+ "zafferana": {
+  "file": "zafferana.jpg",
+  "title": "Zafferana Etnea 2017-04-27h.jpg",
+  "author": "Rabe!",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Zafferana_Etnea_2017-04-27h.jpg"
+ },
+ "trecastagni": {
+  "file": "trecastagni.jpg",
+  "title": "Trecastagni panorama.jpg",
+  "author": "Giuseppe ME",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Trecastagni_panorama.jpg"
+ },
+ "milo": {
+  "file": "milo.jpg",
+  "title": "Edificio del Comune di Milo.jpg",
+  "author": "Davide Mauro",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Edificio_del_Comune_di_Milo.jpg"
+ },
+ "randazzo": {
+  "file": "randazzo.jpg",
+  "title": "Randazzo, Catania, Sicily, Italy.jpg",
+  "author": "trolvag",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Randazzo,_Catania,_Sicily,_Italy.jpg"
+ },
+ "castiglione": {
+  "file": "castiglione.jpg",
+  "title": "Vista di Castiglione di Sicilia.jpg",
+  "author": "Pequod76",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Vista_di_Castiglione_di_Sicilia.jpg"
+ },
+ "savoca": {
+  "file": "savoca.jpg",
+  "title": "Savoca.jpg",
+  "author": "",
+  "license": "CC BY-SA",
+  "source": "https://commons.wikimedia.org/wiki/File:Savoca.jpg"
+ },
+ "forzadagro": {
+  "file": "forzadagro.jpg",
+  "title": "Forza d'Agro 009 4019.jpg",
+  "author": "Ludvig14",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Forza_d'Agro_009_4019.jpg"
+ },
+ "milazzo": {
+  "file": "milazzo.jpg",
+  "title": "Castello (Milazzo) 03 11 2024 33.jpg",
+  "author": "Effems",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Castello_(Milazzo)_03_11_2024_33.jpg"
+ },
+ "augusta": {
+  "file": "augusta.jpg",
+  "title": "Augusta - Castello svevo 3376.jpg",
+  "author": "Phyrexian",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Augusta_-_Castello_svevo_3376.jpg"
+ },
+ "brucoli": {
+  "file": "brucoli.jpg",
+  "title": "Brucoli Syracuse Sicily Italy - Creative Commons by gnuckx - panoramio (64).jpg",
+  "author": "gnuckx",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Brucoli_Syracuse_Sicily_Italy_-_Creative_Commons_by_gnuckx_-_panoramio_(64).jpg"
+ },
+ "avola": {
+  "file": "avola.jpg",
+  "title": "Panorama di Avola (Sicilia) - panoramio.jpg",
+  "author": "Lamberto Zannotti",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Panorama_di_Avola_(Sicilia)_-_panoramio.jpg"
+ },
+ "cavagrande": {
+  "file": "cavagrande.jpg",
+  "title": "Cavagrande del Cassibile-pjt.jpg",
+  "author": "pjt56",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cavagrande_del_Cassibile-pjt.jpg"
+ },
+ "notomarina": {
+  "file": "notomarina.jpg",
+  "title": "Spiaggia del Lido di Noto.jpg",
+  "author": "Antonio Fassina",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Spiaggia_del_Lido_di_Noto.jpg"
+ },
+ "vendicari": {
+  "file": "vendicari.jpg",
+  "title": "Tonnara Vendicari (2017).jpg",
+  "author": "Einaz80",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Tonnara_Vendicari_(2017).jpg"
+ },
+ "pachino": {
+  "file": "pachino.jpg",
+  "title": "Pomodoro di Pachino.jpg",
+  "author": "sunshinecity",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pomodoro_di_Pachino.jpg"
+ },
+ "portopalo": {
+  "file": "portopalo.jpg",
+  "title": "Portopalo di Capo Passero.jpg",
+  "author": "Einaz80",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Portopalo_di_Capo_Passero.jpg"
+ },
+ "isolacorrenti": {
+  "file": "isolacorrenti.jpg",
+  "title": "Isola delle Correnti, Portopalo di Capo Passero, Syracuse, Sicily, Italy - panoramio.jpg",
+  "author": "trolvag",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Isola_delle_Correnti,_Portopalo_di_Capo_Passero,_Syracuse,_Sicily,_Italy_-_panoramio.jpg"
+ },
+ "caltagirone": {
+  "file": "caltagirone.jpg",
+  "title": "Scalinata di Santa Maria del Monte, Caltagirone, Sicily, Italy (4894141011).jpg",
+  "author": "Michal Osmenda from Brussels, Belgium",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Scalinata_di_Santa_Maria_del_Monte,_Caltagirone,_Sicily,_Italy_(4894141011).jpg"
+ },
+ "scicli": {
+  "file": "scicli.jpg",
+  "title": "Scicli ChurchSanta Maria della Croce 010 0873.jpg",
+  "author": "Ludvig14",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Scicli_ChurchSanta_Maria_della_Croce_010_0873.jpg"
+ },
+ "marinaragusa": {
+  "file": "marinaragusa.jpg",
+  "title": "Marina di Ragusa, Province of Ragusa, Italy - panoramio (2).jpg",
+  "author": "trolvag",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Marina_di_Ragusa,_Province_of_Ragusa,_Italy_-_panoramio_(2).jpg"
+ },
+ "sampieri": {
+  "file": "sampieri.jpg",
+  "title": "Fornace penna 4-1-2020.jpg",
+  "author": "Bruco17",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Fornace_penna_4-1-2020.jpg"
+ },
+ "catania_ursino": {
+  "file": "catania_ursino.jpg",
+  "title": "Castello Ursino, Catania 2024.jpg",
+  "author": "Cayambe",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Castello_Ursino,_Catania_2024.jpg"
+ },
+ "catania_benedettini": {
+  "file": "catania_benedettini.jpg",
+  "title": "Catania, ex Monastero dei Benedettini 1.jpg",
+  "author": "Carmelovunque",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Catania,_ex_Monastero_dei_Benedettini_1.jpg"
+ },
+ "maniace": {
+  "file": "maniace.jpg",
+  "title": "The Castle of Maniace, Ortigia, Siracusa, Sicily.jpg",
+  "author": "cattan2011",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Castle_of_Maniace,_Ortigia,_Siracusa,_Sicily.jpg"
+ },
+ "pupi": {
+  "file": "pupi.jpg",
+  "title": "Pupi siciliani.jpg",
+  "author": "Harvey Barrison",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pupi_siciliani.jpg"
+ },
+ "lachea": {
+  "file": "lachea.jpg",
+  "title": "Islas Cíclope, Aci Trezza, Sicilia, Italia, 2025-04-08, DD 10.jpg",
+  "author": "Diego Delso",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Islas_Cíclope,_Aci_Trezza,_Sicilia,_Italia,_2025-04-08,_DD_10.jpg"
+ },
+ "teatroromano": {
+  "file": "teatroromano.jpg",
+  "title": "Teatro Romano di Catania 2024i.jpg",
+  "author": "Cayambe",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Teatro_Romano_di_Catania_2024i.jpg"
+ },
+ "eurialo": {
+  "file": "eurialo.jpg",
+  "title": "0932 - Siracusa - Castello Eurialo - Bastione e Pentapylon - Foto Giovanni Dall'Orto - 17-Oct-2008.jpg",
+  "author": "Giovanni Dall'Orto",
+  "license": "Attribution",
+  "source": "https://commons.wikimedia.org/wiki/File:0932_-_Siracusa_-_Castello_Eurialo_-_Bastione_e_Pentapylon_-_Foto_Giovanni_Dall'Orto_-_17-Oct-2008.jpg"
+ },
+ "orsi": {
+  "file": "orsi.jpg",
+  "title": "Siracusa, Museo Archeologico Regionale Paolo Orsi, sezione vasi.jpg",
+  "author": "Herbert Frank",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Siracusa,_Museo_Archeologico_Regionale_Paolo_Orsi,_sezione_vasi.jpg"
+ },
+ "priolo": {
+  "file": "priolo.jpg",
+  "title": "Saline di Priolo (specchio).jpg",
+  "author": "Salvo Cannizzaro",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Saline_di_Priolo_(specchio).jpg"
+ },
+ "militello": {
+  "file": "militello.jpg",
+  "title": "Veduta di Militello.jpg",
+  "author": "Masigu",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Veduta_di_Militello.jpg"
+ },
+ "palazzolo": {
+  "file": "palazzolo.jpg",
+  "title": "Palazzolo Acreide Theater.jpg",
+  "author": "Clemensfranz",
+  "license": "CC BY 2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:Palazzolo_Acreide_Theater.jpg"
+ },
+ "enna": {
+  "file": "enna.jpg",
+  "title": "Castello di Lombardia (Enna) - Panarama.jpg",
+  "author": "Sweetie candykim",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Castello_di_Lombardia_(Enna)_-_Panarama.jpg"
+ },
+ "tellaro": {
+  "file": "tellaro.jpg",
+  "title": "Villa romana del Tellaro - mosaici 1510.JPG",
+  "author": "Carlomorino",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Villa_romana_del_Tellaro_-_mosaici_1510.JPG"
+ },
+ "tindari": {
+  "file": "tindari.jpg",
+  "title": "Santuario en lo alto, Marinello, Sicilia, Italia, 2015.JPG",
+  "author": "Benjamín Núñez González",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Santuario_en_lo_alto,_Marinello,_Sicilia,_Italia,_2015.JPG"
+ },
+ "piazzaarmerina": {
+  "file": "piazzaarmerina.jpg",
+  "title": "Villa romana del Casale - Mosaici del Vestibolo di Polifemo (7831474200).jpg",
+  "author": "Rino Porrovecchio from Palermo, Italy",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Villa_romana_del_Casale_-_Mosaici_del_Vestibolo_di_Polifemo_(7831474200).jpg"
+ },
+ "ispica": {
+  "file": "ispica.jpg",
+  "title": "Ispica.jpg",
+  "author": "",
+  "license": "CC BY-SA",
+  "source": "https://commons.wikimedia.org/wiki/File:Ispica.jpg"
+ },
+ "cavadispica": {
+  "file": "cavadispica.jpg",
+  "title": "Area archeologica di Cava d'Ispica (Ispica) 14 01 2024 31.jpg",
+  "author": "Effems",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Area_archeologica_di_Cava_d'Ispica_(Ispica)_14_01_2024_31.jpg"
+ },
+ "agrigento": {
+  "file": "agrigento.jpg",
+  "title": "Tempio della Concordia, Valle dei Templi, Agrigento, Sicilia, Italia 2024.jpg",
+  "author": "Sharon Hahn Darlin",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Tempio_della_Concordia,_Valle_dei_Templi,_Agrigento,_Sicilia,_Italia_2024.jpg"
+ },
+ "scaladeiturchi": {
+  "file": "scaladeiturchi.jpg",
+  "title": "Scala dei Turchi 2017.jpg",
+  "author": "Enrico Strocchi",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Scala_dei_Turchi_2017.jpg"
+ },
+ "pozzillo": {
+  "file": "pozzillo.jpg",
+  "title": "Alba Pozzillo (Acireale) (33353246753).jpg",
+  "author": "andrea",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Alba_Pozzillo_(Acireale)_(33353246753).jpg"
+ },
+ "fondachello": {
+  "file": "fondachello.jpg",
+  "title": "Fondachello.jpg",
+  "author": "Ciccioconti",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Fondachello.jpg"
+ },
+ "agnone": {
+  "file": "agnone.jpg",
+  "title": "Agnone Bagni 2024.jpg",
+  "author": "Antony-22",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Agnone_Bagni_2024.jpg"
+ },
+ "magnisi": {
+  "file": "magnisi.jpg",
+  "title": "Penisola di Magnisi (Thapsos).jpg",
+  "author": "Giuseppe Famoso",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Penisola_di_Magnisi_(Thapsos).jpg"
+ },
+ "spinazza": {
+  "file": "spinazza.jpg",
+  "title": "Spiaggia a nord di Marzamemi.jpg",
+  "author": "Davide Mauro",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Spiaggia_a_nord_di_Marzamemi.jpg"
+ },
+ "sanlorenzo": {
+  "file": "sanlorenzo.jpg",
+  "title": "Spiaggia di San Lorenzo.jpg",
+  "author": "Sicilia!",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Spiaggia_di_San_Lorenzo.jpg"
+ },
+ "focallo": {
+  "file": "focallo.jpg",
+  "title": "Santa Maria del Focallo.JPG",
+  "author": "Cypher84 at Italian Wikipedia",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Santa_Maria_del_Focallo.JPG"
+ },
+ "marzamare": {
+  "file": "marzamare.jpg",
+  "title": "SpiaggiaFaraglioniCiriga.jpg",
+  "author": "Gmelfi",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:SpiaggiaFaraglioniCiriga.jpg"
+ },
+ "donnalucata": {
+  "file": "donnalucata.jpg",
+  "title": "Donnalucata. Scicli, Sicilia.jpg",
+  "author": "Davide Mauro",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Donnalucata._Scicli,_Sicilia.jpg"
+ },
+ "torrefaro": {
+  "file": "torrefaro.jpg",
+  "title": "Torre Faro lighthouse - Capo Peloro - Messina, Italy - 20 Oct. 2010.jpg",
+  "author": "Dennis G. Jarvis",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Torre_Faro_lighthouse_-_Capo_Peloro_-_Messina,_Italy_-_20_Oct._2010.jpg"
+ },
+ "ganzirri": {
+  "file": "ganzirri.jpg",
+  "title": "Capo Peloro - Laghi di Ganzirri.jpg",
+  "author": "I viaggi della Van",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Capo_Peloro_-_Laghi_di_Ganzirri.jpg"
+ },
+ "sanleone": {
+  "file": "sanleone.jpg",
+  "title": "San Leone Agrigento.JPG",
+  "author": "Toni Pecoraro",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:San_Leone_Agrigento.JPG"
+ },
+ "noto": {
+  "file": "noto.jpg",
+  "title": "Noto, cattedrale (2).jpg",
+  "author": "Palickap",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Noto,_cattedrale_(2).jpg"
+ },
+ "modica": {
+  "file": "modica.jpg",
+  "title": "Duomo di San Giorgio 3.jpg",
+  "author": "Alexdechi",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Duomo_di_San_Giorgio_3.jpg"
+ },
+ "ragusaibla": {
+  "file": "ragusaibla.jpg",
+  "title": "Ragusa Ibla, Sicilia.JPG",
+  "author": "Giorgio Curioni",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ragusa_Ibla,_Sicilia.JPG"
+ },
+ "erice": {
+  "file": "erice.jpg",
+  "title": "Castle of Balio, Torretta Pepoli, Erice, Trapani province, Italy, july 2023.jpg",
+  "author": "Krzysztof Popławski",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Castle_of_Balio,_Torretta_Pepoli,_Erice,_Trapani_province,_Italy,_july_2023.jpg"
+ },
+ "castelmola": {
+  "file": "castelmola.jpg",
+  "title": "Castelmola and Taormina in Sicily.jpg",
+  "author": "Cayambe",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Castelmola_and_Taormina_in_Sicily.jpg"
+ },
+ "bellini": {
+  "file": "bellini.jpg",
+  "title": "Catania, Villa Bellini 2024b.jpg",
+  "author": "Cayambe",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Catania,_Villa_Bellini_2024b.jpg"
+ },
+ "provenzana": {
+  "file": "provenzana.jpg",
+  "title": "Etna nord skiresort.JPG",
+  "author": "Nasoallinsu",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Etna_nord_skiresort.JPG"
+ },
+ "montirossi": {
+  "file": "montirossi.jpg",
+  "title": "Monti Rossi hp.png",
+  "author": "Pampuco",
+  "license": "CC BY 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Monti_Rossi_hp.png"
+ },
+ "marzamemi": {
+  "file": "marzamemi.jpg",
+  "title": "Marzamemi 1496.JPG",
+  "author": "Carlomorino",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Marzamemi_1496.JPG"
+ },
+ "tonnara": {
+  "file": "tonnara.jpg",
+  "title": "Marzamemi 1497.JPG",
+  "author": "Carlomorino",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Marzamemi_1497.JPG"
+ },
+ "funivia": {
+  "file": "funivia.jpg",
+  "title": "Funivia dell Etna (13).jpg",
+  "author": "Hein56didden",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Funivia_dell_Etna_(13).jpg"
+ },
+ "brontecentro": {
+  "file": "brontecentro.jpg",
+  "title": "Chiesa di San Silvestro, Bronte, Sicilia.jpg",
+  "author": "Effems",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Chiesa_di_San_Silvestro,_Bronte,_Sicilia.jpg"
+ },
+ "scoglieraacicastello": {
+  "file": "scoglieraacicastello.jpg",
+  "title": "Mare Mosso Acicastello (6833203368).jpg",
+  "author": "andrea",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Mare_Mosso_Acicastello_(6833203368).jpg"
+ },
+ "duomoortigia": {
+  "file": "duomoortigia.jpg",
+  "title": "Ortigia, duomo, facciata 05.JPG",
+  "author": "sailko",
+  "license": "CC BY 2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:Ortigia,_duomo,_facciata_05.JPG"
+ },
+ "tempioapollo": {
+  "file": "tempioapollo.jpg",
+  "title": "4586 - Il tempio di Apollo dal lato del mercato di Ortigia, Siracusa - Foto Giovanni Dall'Orto, 20 marzo 2014.jpg",
+  "author": "Giovanni Dall'Orto",
+  "license": "Attribution",
+  "source": "https://commons.wikimedia.org/wiki/File:4586_-_Il_tempio_di_Apollo_dal_lato_del_mercato_di_Ortigia,_Siracusa_-_Foto_Giovanni_Dall'Orto,_20_marzo_2014.jpg"
+ },
+ "nicolaci": {
+  "file": "nicolaci.jpg",
+  "title": "Noto, palazzo nicolaci, balconi 07 mascheroni.JPG",
+  "author": "sailko",
+  "license": "CC BY 2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:Noto,_palazzo_nicolaci,_balconi_07_mascheroni.JPG"
+ },
+ "anfiteatro": {
+  "file": "anfiteatro.jpg",
+  "title": "Catania anfiteatro romano2423.jpg",
+  "author": "",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Catania_anfiteatro_romano2423.jpg"
+ },
+ "villacomunale": {
+  "file": "villacomunale.jpg",
+  "title": "0987 - Taormina - Villa Comunale - Foto G. DallOrto.jpg",
+  "author": "Giovanni Dall'Orto.",
+  "license": "Attribution",
+  "source": "https://commons.wikimedia.org/wiki/File:0987_-_Taormina_-_Villa_Comunale_-_Foto_G._DallOrto.jpg"
+ },
+ "sartorius": {
+  "file": "sartorius.jpg",
+  "title": "Eruzione Monti Sartorius (1865).jpg",
+  "author": "Archeo",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Eruzione_Monti_Sartorius_(1865).jpg"
+ },
+ "chiazzette": {
+  "file": "chiazzette.jpg",
+  "title": "Santa Maria la Scala Chiazzette.JPG",
+  "author": "Giuseppe ME",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Santa_Maria_la_Scala_Chiazzette.JPG"
+ },
+ "capopassero": {
+  "file": "capopassero.jpg",
+  "title": "Portopalo di Capo Passero - Forte di Capo Passero.jpeg",
+  "author": "AlMo18",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Portopalo_di_Capo_Passero_-_Forte_di_Capo_Passero.jpeg"
+ },
+ "ognina": {
+  "file": "ognina.jpg",
+  "title": "Porto Ulisse, Ognina, Catania, from viale Ulisse.jpg",
+  "author": "Auregann",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Porto_Ulisse,_Ognina,_Catania,_from_viale_Ulisse.jpg"
+ },
+ "sangiorgioragusa": {
+  "file": "sangiorgioragusa.jpg",
+  "title": "San giorgio Ragusa Ibla.jpg",
+  "author": "Cypher84",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:San_giorgio_Ragusa_Ibla.jpg"
+ },
+ "paterno": {
+  "file": "paterno.jpg",
+  "title": "Panorama Paternò 1.JPG",
+  "author": "",
+  "license": "CC BY-SA",
+  "source": "https://commons.wikimedia.org/wiki/File:Panorama_Paternò_1.JPG"
+ },
+ "cantineetna": {
+  "file": "cantineetna.jpg",
+  "title": "Etna Wine Agriturismo, Passopisciaro, Sicily, Italy. Field blend.jpg",
+  "author": "",
+  "license": "CC BY-SA",
+  "source": "https://commons.wikimedia.org/wiki/File:Etna_Wine_Agriturismo,_Passopisciaro,_Sicily,_Italy._Field_blend.jpg"
+ },
+ "calafarina": {
+  "file": "calafarina.jpg",
+  "title": "Grotta Calafarina.JPG",
+  "author": "",
+  "license": "CC BY-SA",
+  "source": "https://commons.wikimedia.org/wiki/File:Grotta_Calafarina.JPG"
+ },
+ "duomogiarre": {
+  "file": "duomogiarre.jpg",
+  "title": "Faccata Duomo Giarre.jpg",
+  "author": "User:Emme17",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Faccata_Duomo_Giarre.jpg"
+ },
+ "incompiuti": {
+  "file": "incompiuti.jpg",
+  "title": "Stadio da Polo - Polo Stadium - panoramio (1).jpg",
+  "author": "incompiuto siciliano",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Stadio_da_Polo_-_Polo_Stadium_-_panoramio_(1).jpg"
+ },
+ "circumetnea": {
+  "file": "circumetnea.jpg",
+  "title": "La stazione di Riposto della Ferrovia Circumetnea.jpg",
+  "author": "",
+  "license": "CC BY-SA",
+  "source": "https://commons.wikimedia.org/wiki/File:La_stazione_di_Riposto_della_Ferrovia_Circumetnea.jpg"
+ },
+ "megara": {
+  "file": "megara.jpg",
+  "title": "Megara Hyblaea - Main road looking north.jpg",
+  "author": "",
+  "license": "CC BY-SA",
+  "source": "https://commons.wikimedia.org/wiki/File:Megara_Hyblaea_-_Main_road_looking_north.jpg"
+ },
+ "farosantacroce": {
+  "file": "farosantacroce.jpg",
+  "title": "Faro di Santa Croce ad Augusta - Sicilia - cropped.jpg",
+  "author": "Paolo Costa Baldi",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Faro_di_Santa_Croce_ad_Augusta_-_Sicilia_-_cropped.jpg"
+ },
+ "letojanni": {
+  "file": "letojanni.jpg",
+  "title": "Letojanni-Sicilia-Italy-Castielli CC0 HQ1.jpg",
+  "author": "Castielli",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Letojanni-Sicilia-Italy-Castielli_CC0_HQ1.jpg"
+ },
+ "letojanni-2": {
+  "file": "letojanni-2.jpg",
+  "title": "Letojanni-Sicilia-Italy-Castielli CC0 HQ2.jpg",
+  "author": "Castielli",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Letojanni-Sicilia-Italy-Castielli_CC0_HQ2.jpg"
+ },
+ "simeto": {
+  "file": "simeto.jpg",
+  "title": "Oasi del Simeto sdc 1.jpg",
+  "author": "SDC20",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Oasi_del_Simeto_sdc_1.jpg"
+ },
+ "simeto-2": {
+  "file": "simeto-2.jpg",
+  "title": "Oasi del Simeto sdc 3.jpg",
+  "author": "SDC20",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Oasi_del_Simeto_sdc_3.jpg"
+ },
+ "simeto-3": {
+  "file": "simeto-3.jpg",
+  "title": "Oasi del Simeto sdc 4.jpg",
+  "author": "SDC20",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Oasi_del_Simeto_sdc_4.jpg"
+ },
+ "santateresariva": {
+  "file": "santateresariva.jpg",
+  "title": "Small boat to the dusk on beach of Santa Teresa di Riva.JPG",
+  "author": "Aynos Siderale",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Small_boat_to_the_dusk_on_beach_of_Santa_Teresa_di_Riva.JPG"
+ },
+ "santateresariva-2": {
+  "file": "santateresariva-2.jpg",
+  "title": "Borgo Marino mare Santa Teresa di Riva.jpg",
+  "author": "Eugenio Nicola Scarcella",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Borgo_Marino_mare_Santa_Teresa_di_Riva.jpg"
+ },
+ "gelsomineto": {
+  "file": "gelsomineto.jpg",
+  "title": "Oasi del Gelsomineto - foce del Cassibile.jpg",
+  "author": "Stebar2",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Oasi_del_Gelsomineto_-_foce_del_Cassibile.jpg"
+ },
+ "lidoavola": {
+  "file": "lidoavola.jpg",
+  "title": "Avola spiaggia.jpg",
+  "author": "Stella",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Avola_spiaggia.jpg"
+ },
+ "lidoavola-2": {
+  "file": "lidoavola-2.jpg",
+  "title": "Scivolo d'acqua alla spiaggia di Avola.jpg",
+  "author": "Stella",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Scivolo_d'acqua_alla_spiaggia_di_Avola.jpg"
+ },
+ "minareto": {
+  "file": "minareto.jpg",
+  "title": "Spiaggia del Minareto.jpg",
+  "author": "Davide Mauro",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Spiaggia_del_Minareto.jpg"
+ },
+ "pozzallospiaggia": {
+  "file": "pozzallospiaggia.jpg",
+  "title": "Pozzallo - panoramio.jpg",
+  "author": "www.gironavigando.it",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pozzallo_-_panoramio.jpg"
+ },
+ "pozzallospiaggia-2": {
+  "file": "pozzallospiaggia-2.jpg",
+  "title": "Pozzallo Sunset.jpg",
+  "author": "Josif Rosenkreutz",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pozzallo_Sunset.jpg"
+ },
+ "timpa-2": {
+  "file": "timpa-2.jpg",
+  "title": "Timpa di Acireale.jpg",
+  "author": "Pannucci Stfano",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Timpa_di_Acireale.jpg"
+ },
+ "acitrezza-2": {
+  "file": "acitrezza-2.jpg",
+  "title": "Aci Trezza01.jpg",
+  "author": "Frabuleuse",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Aci_Trezza01.jpg"
+ },
+ "acitrezza-3": {
+  "file": "acitrezza-3.jpg",
+  "title": "Aci Trezza-Italy-Castielli CC0 HQ2.jpg",
+  "author": "Castielli",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Aci_Trezza-Italy-Castielli_CC0_HQ2.jpg"
+ },
+ "capomulini-2": {
+  "file": "capomulini-2.jpg",
+  "title": "Port of Capo Mulini (Acireale).jpg",
+  "author": "Jeanne boleyn",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Port_of_Capo_Mulini_(Acireale).jpg"
+ },
+ "santamarialascala-2": {
+  "file": "santamarialascala-2.jpg",
+  "title": "Santa Maria la Scala night.JPG",
+  "author": "Giuseppe ME",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Santa_Maria_la_Scala_night.JPG"
+ },
+ "santamarialascala-3": {
+  "file": "santamarialascala-3.jpg",
+  "title": "Santa Maria la Scala 01.jpg",
+  "author": "Davide Mauro",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Santa_Maria_la_Scala_01.jpg"
+ },
+ "lachea-2": {
+  "file": "lachea-2.jpg",
+  "title": "Isola Lachea.jpg",
+  "author": "Andretna AndreaFiore (www.andreafiore.com)",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Isola_Lachea.jpg"
+ },
+ "santatecla-2": {
+  "file": "santatecla-2.jpg",
+  "title": "Santa Tecla coast.JPG",
+  "author": "Giuseppe ME",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Santa_Tecla_coast.JPG"
+ },
+ "santatecla-3": {
+  "file": "santatecla-3.jpg",
+  "title": "Santa Tecla BW 2012-10-05 08-06-21.JPG",
+  "author": "Berthold Werner",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Santa_Tecla_BW_2012-10-05_08-06-21.JPG"
+ },
+ "scoglieraacicastello-2": {
+  "file": "scoglieraacicastello-2.jpg",
+  "title": "Aci Castello Sicily Italy - Creative Commons by gnuckx (5085355685).jpg",
+  "author": "gnuckx",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Aci_Castello_Sicily_Italy_-_Creative_Commons_by_gnuckx_(5085355685).jpg"
+ },
+ "scoglieraacicastello-3": {
+  "file": "scoglieraacicastello-3.jpg",
+  "title": "Acitrezza Cyclops Faraglioni Sicily Italy - Creative Commons by gnuckx - panoramio (80).jpg",
+  "author": "gnuckx",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Acitrezza_Cyclops_Faraglioni_Sicily_Italy_-_Creative_Commons_by_gnuckx_-_panoramio_(80).jpg"
+ },
+ "licuti-2": {
+  "file": "licuti-2.jpg",
+  "title": "Praia \"vulcânica\" (2761234130).jpg",
+  "author": "Leandro Neumann Ciuffo",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Praia_\"vulcânica\"_(2761234130).jpg"
+ },
+ "riposto-2": {
+  "file": "riposto-2.jpg",
+  "title": "Etna Volcano Paroxysmal Eruption July 30 2011 - Creative Commons by gnuckx (5992125965).jpg",
+  "author": "gnuckx",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Etna_Volcano_Paroxysmal_Eruption_July_30_2011_-_Creative_Commons_by_gnuckx_(5992125965).jpg"
+ },
+ "riposto-3": {
+  "file": "riposto-3.jpg",
+  "title": "Etna Volcano Paroxysmal Eruption July 30 2011 - Creative Commons by gnuckx (5992121523).jpg",
+  "author": "gnuckx",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Etna_Volcano_Paroxysmal_Eruption_July_30_2011_-_Creative_Commons_by_gnuckx_(5992121523).jpg"
+ },
+ "torrearchirafi-2": {
+  "file": "torrearchirafi-2.jpg",
+  "title": "Torre Archirafi 01.jpg",
+  "author": "Davide Mauro",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Torre_Archirafi_01.jpg"
+ },
+ "torrearchirafi-3": {
+  "file": "torrearchirafi-3.jpg",
+  "title": "Torre Archirafi 03.jpg",
+  "author": "Davide Mauro",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Torre_Archirafi_03.jpg"
+ },
+ "fiumefreddo-2": {
+  "file": "fiumefreddo-2.jpg",
+  "title": "Fiumefreddo.jpg",
+  "author": "Emanuele Rosso from Bologna, Italy",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Fiumefreddo.jpg"
+ },
+ "fiumefreddo-3": {
+  "file": "fiumefreddo-3.jpg",
+  "title": "Foce del Fiumefreddo.jpg",
+  "author": "Sipa95",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Foce_del_Fiumefreddo.jpg"
+ },
+ "giardininaxos-2": {
+  "file": "giardininaxos-2.jpg",
+  "title": "Beach Giardini Naxos.jpg",
+  "author": "Jeanne boleyn",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Beach_Giardini_Naxos.jpg"
+ },
+ "giardininaxos-3": {
+  "file": "giardininaxos-3.jpg",
+  "title": "Giardini-naxsos02.jpg",
+  "author": "dumbfoundling",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Giardini-naxsos02.jpg"
+ },
+ "mazzaro-2": {
+  "file": "mazzaro-2.jpg",
+  "title": "Taormina-Messina-Sicilia-Italy-Castielli CC0 HQ - panoramio (14).jpg",
+  "author": "gnuckx",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Taormina-Messina-Sicilia-Italy-Castielli_CC0_HQ_-_panoramio_(14).jpg"
+ },
+ "isolabella-2": {
+  "file": "isolabella-2.jpg",
+  "title": "Isola Bella Island Sicily.jpg",
+  "author": "Codepen",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Isola_Bella_Island_Sicily.jpg"
+ },
+ "alcantara-2": {
+  "file": "alcantara-2.jpg",
+  "title": "Alcantara canyon 4.jpg",
+  "author": "kallerna",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Alcantara_canyon_4.jpg"
+ },
+ "alcantara-3": {
+  "file": "alcantara-3.jpg",
+  "title": "Alcantara canyon 5.jpg",
+  "author": "kallerna",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Alcantara_canyon_5.jpg"
+ },
+ "brucoli-2": {
+  "file": "brucoli-2.jpg",
+  "title": "Brucoli Sicilia Italy - Creative Commons by gnuckx (5017927153).jpg",
+  "author": "gnuckx",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Brucoli_Sicilia_Italy_-_Creative_Commons_by_gnuckx_(5017927153).jpg"
+ },
+ "brucoli-3": {
+  "file": "brucoli-3.jpg",
+  "title": "Brucoli Sicilia Italy - Creative Commons by gnuckx (5017932333).jpg",
+  "author": "gnuckx",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Brucoli_Sicilia_Italy_-_Creative_Commons_by_gnuckx_(5017932333).jpg"
+ },
+ "farosantacroce-2": {
+  "file": "farosantacroce-2.jpg",
+  "title": "Faro di Augusta - Sicilia.jpg",
+  "author": "Paolo Costa Baldi",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Faro_di_Augusta_-_Sicilia.jpg"
+ },
+ "farosantacroce-3": {
+  "file": "farosantacroce-3.jpg",
+  "title": "Costa nord da Faro Santa Croce 2.jpg",
+  "author": "Davide Mauro",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Costa_nord_da_Faro_Santa_Croce_2.jpg"
+ },
+ "ganzirri-2": {
+  "file": "ganzirri-2.jpg",
+  "title": "LagoGanzirri.jpg",
+  "author": "Enzian44",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:LagoGanzirri.jpg"
+ },
+ "ganzirri-3": {
+  "file": "ganzirri-3.jpg",
+  "title": "Peloro.JPG",
+  "author": "Giuseppe ME",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Peloro.JPG"
+ },
+ "fontanebianche-3": {
+  "file": "fontanebianche-3.jpg",
+  "title": "Sea beach at summer in Fontane Bianche, Sicily.jpg",
+  "author": "Elisa (Vincenzo Carrubba - VinX.org)",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sea_beach_at_summer_in_Fontane_Bianche,_Sicily.jpg"
+ },
+ "torrefaro-2": {
+  "file": "torrefaro-2.jpg",
+  "title": "Pilone di Torre Faro, Messina, Italy.jpg",
+  "author": "ColdShine",
+  "license": "CC BY-SA 2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:Pilone_di_Torre_Faro,_Messina,_Italy.jpg"
+ },
+ "torrefaro-3": {
+  "file": "torrefaro-3.jpg",
+  "title": "Torre Faro.JPG",
+  "author": "Giuseppe ME",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Torre_Faro.JPG"
+ },
+ "arenella-3": {
+  "file": "arenella-3.jpg",
+  "title": "Scogliera dell'Arenella.jpg",
+  "author": "Gianfranco Vitolo",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Scogliera_dell'Arenella.jpg"
+ },
+ "plemmirio-2": {
+  "file": "plemmirio-2.jpg",
+  "title": "Paesaggio scogliera Plemmirio.jpg",
+  "author": "Antonio D'Emanuele",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Paesaggio_scogliera_Plemmirio.jpg"
+ },
+ "plemmirio-3": {
+  "file": "plemmirio-3.jpg",
+  "title": "Grotta Pillirina.JPG",
+  "author": "Davide Mauro",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Grotta_Pillirina.JPG"
+ },
+ "vendicari-2": {
+  "file": "vendicari-2.jpg",
+  "title": "Natural Reserve Vendicari Noto Sicilia Italy - Creative Commons by gnuckx (5788596441).jpg",
+  "author": "gnuckx",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Natural_Reserve_Vendicari_Noto_Sicilia_Italy_-_Creative_Commons_by_gnuckx_(5788596441).jpg"
+ },
+ "tindari-2": {
+  "file": "tindari-2.jpg",
+  "title": "Tindari.jpg",
+  "author": "",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Tindari.jpg"
+ },
+ "tindari-3": {
+  "file": "tindari-3.jpg",
+  "title": "PattiTindarisLagune.jpg",
+  "author": "Joergsam",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:PattiTindarisLagune.jpg"
+ },
+ "cavagrande-2": {
+  "file": "cavagrande-2.jpg",
+  "title": "Riserva Naturale Orientata Cava Grande del Cassibile.jpg",
+  "author": "Cavagrande",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Riserva_Naturale_Orientata_Cava_Grande_del_Cassibile.jpg"
+ },
+ "cavagrande-3": {
+  "file": "cavagrande-3.jpg",
+  "title": "Cava Grande del Cassibile Avola.jpg",
+  "author": "Cavagrande",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Cava_Grande_del_Cassibile_Avola.jpg"
+ },
+ "capopassero-2": {
+  "file": "capopassero-2.jpg",
+  "title": "Isola Capo Passero.JPG",
+  "author": "Azotoliquido",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Isola_Capo_Passero.JPG"
+ },
+ "capopassero-3": {
+  "file": "capopassero-3.jpg",
+  "title": "Stella maris portopalo.jpg",
+  "author": "Paul Keller",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Stella_maris_portopalo.jpg"
+ },
+ "focallo-2": {
+  "file": "focallo-2.jpg",
+  "title": "Marispica - Santa Maria del focallo.jpg",
+  "author": "Carlotta Saporito from Bologna",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Marispica_-_Santa_Maria_del_focallo.jpg"
+ },
+ "focallo-3": {
+  "file": "focallo-3.jpg",
+  "title": "Isola dei Porri.jpg",
+  "author": "AzaZ",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Isola_dei_Porri.jpg"
+ },
+ "isolacorrenti-2": {
+  "file": "isolacorrenti-2.jpg",
+  "title": "Isola delle Correnti, 2007.jpg",
+  "author": "Matthias Süßen",
+  "license": "CC BY-SA 2.5",
+  "source": "https://commons.wikimedia.org/wiki/File:Isola_delle_Correnti,_2007.jpg"
+ },
+ "isolacorrenti-3": {
+  "file": "isolacorrenti-3.jpg",
+  "title": "Isola delle correnti.jpg",
+  "author": "3x0=3",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Isola_delle_correnti.jpg"
+ },
+ "sampieri-2": {
+  "file": "sampieri-2.jpg",
+  "title": "FornacePenna.JPG",
+  "author": "",
+  "license": "FAL",
+  "source": "https://commons.wikimedia.org/wiki/File:FornacePenna.JPG"
+ },
+ "sampieri-3": {
+  "file": "sampieri-3.jpg",
+  "title": "Fornace Penna (Sicilia).JPG",
+  "author": "Emilianozapata",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Fornace_Penna_(Sicilia).JPG"
+ },
+ "sanleone-2": {
+  "file": "sanleone-2.jpg",
+  "title": "San Leone, Agrigento, Sicily, Italy - panoramio.jpg",
+  "author": "trolvag",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:San_Leone,_Agrigento,_Sicily,_Italy_-_panoramio.jpg"
+ },
+ "donnalucata-2": {
+  "file": "donnalucata-2.jpg",
+  "title": "Passeggiata di donna lucata - panoramio.jpg",
+  "author": "Emanuela Meme Giudic…",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Passeggiata_di_donna_lucata_-_panoramio.jpg"
+ },
+ "scaladeiturchi-3": {
+  "file": "scaladeiturchi-3.jpg",
+  "title": "532 Scala dei Turchi (Ag) Sicily, Italy.jpg",
+  "author": "Tiberio Frascari",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:532_Scala_dei_Turchi_(Ag)_Sicily,_Italy.jpg"
+ },
+ "egadi-2": {
+  "file": "egadi-2.jpg",
+  "title": "Sicily - Favignana - Cala Rossa.jpg",
+  "author": "Maxdonati",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sicily_-_Favignana_-_Cala_Rossa.jpg"
+ },
+ "crispelle": {
+  "file": "crispelle.jpg",
+  "title": "ItWikiCon2025 -Spuntino con le crispelle di riso uso Benedettini-dolce caratteristico Catanese.jpg",
+  "author": "Poly anthropos",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:ItWikiCon2025_-Spuntino_con_le_crispelle_di_riso_uso_Benedettini-dolce_caratteristico_Catanese.jpg"
+ },
+ "scaccia": {
+  "file": "scaccia.jpg",
+  "title": "Scaccia.jpg",
+  "author": "L'Ibleo at Italian Wikipedia",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Scaccia.jpg"
+ },
+ "mpanatigghi": {
+  "file": "mpanatigghi.jpg",
+  "title": "'Mpanatigghi.JPG",
+  "author": "Adriao",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:'Mpanatigghi.JPG"
+ },
+ "frittola": {
+  "file": "frittola.jpg",
+  "title": "Frittola & Vespa in Ballaro market Palermo.jpg",
+  "author": "Stephen Woolverton",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Frittola_&_Vespa_in_Ballaro_market_Palermo.jpg"
+ },
+ "panecunzato": {
+  "file": "panecunzato.jpg",
+  "title": "Lipari. Pane cunzato a Marina Corta (01393).JPG",
+  "author": "Francesco Tosoni",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Lipari._Pane_cunzato_a_Marina_Corta_(01393).JPG"
+ },
+ "beccafico": {
+  "file": "beccafico.jpg",
+  "title": "Sarde a beccafico.jpg",
+  "author": "franzconde from Amsterdam, The Netherlands",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Sarde_a_beccafico.jpg"
+ },
+ "gelomelone": {
+  "file": "gelomelone.jpg",
+  "title": "Gelo di melone - gelo di anguria. ph Salvatore Farina.jpg",
+  "author": "EraclitoPantaRei",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Gelo_di_melone_-_gelo_di_anguria._ph_Salvatore_Farina.jpg"
+ },
+ "pastasarde": {
+  "file": "pastasarde.jpg",
+  "title": "Pasta con le sarde.jpg",
+  "author": "Sebastian Fischer",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pasta_con_le_sarde.jpg"
+ },
+ "cioccolatomodica": {
+  "file": "cioccolatomodica.jpg",
+  "title": "CioccolatoModicano2012-10.jpg",
+  "author": "Mussklprozz",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:CioccolatoModicano2012-10.jpg"
+ },
+ "iris": {
+  "file": "iris.jpg",
+  "title": "Iris cioccolato e panna 2.jpg",
+  "author": "Auregann",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Iris_cioccolato_e_panna_2.jpg"
+ },
+ "minne": {
+  "file": "minne.jpg",
+  "title": "Minnuzze di sant'aita.jpg",
+  "author": "Stefano Mortellaro from Catania, Italy",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Minnuzze_di_sant'aita.jpg"
+ },
+ "pidone": {
+  "file": "pidone.jpg",
+  "title": "Pidoni-Wikipedia.jpg",
+  "author": "Morabito92",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pidoni-Wikipedia.jpg"
+ },
+ "stigghiola": {
+  "file": "stigghiola.jpg",
+  "title": "Stigghiole alla Pescheria di Catania.JPG",
+  "author": "Pequod76",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Stigghiole_alla_Pescheria_di_Catania.JPG"
+ },
+ "cassatelle": {
+  "file": "cassatelle.jpg",
+  "title": "Cassateddi.jpg",
+  "author": "Gmelfi",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Cassateddi.jpg"
+ },
+ "vinietna": {
+  "file": "vinietna.jpg",
+  "title": "Etna Wine Agriturismo, Passopisciaro, Sicily, Italy. Field blend.jpg",
+  "author": "Neil Weightman",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Etna_Wine_Agriturismo,_Passopisciaro,_Sicily,_Italy._Field_blend.jpg"
+ },
+ "siciliana": {
+  "file": "siciliana.jpg",
+  "title": "Siciliana2024.jpg",
+  "author": "Drunkpiper",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Siciliana2024.jpg"
+ },
+ "falsomagro": {
+  "file": "falsomagro.jpg",
+  "title": "Farsu magru-01.jpg",
+  "author": "Jim Holmes OH",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Farsu_magru-01.jpg"
+ },
+ "parmigiana": {
+  "file": "parmigiana.jpg",
+  "title": "Parmigiana di melanzane.jpg",
+  "author": "Schellenberg",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Parmigiana_di_melanzane.jpg"
+ },
+ "anelletti": {
+  "file": "anelletti.jpg",
+  "title": "Anelletti al forno.jpg",
+  "author": "Dedda71",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Anelletti_al_forno.jpg"
+ },
+ "pizzolo": {
+  "file": "pizzolo.jpg",
+  "title": "Pizzolo.JPG",
+  "author": "Azotoliquido",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Pizzolo.JPG"
+ },
+ "ricci": {
+  "file": "ricci.jpg",
+  "title": "Gonadi Paracentrotus lividus riccio di mare adventurediving.it.jpg",
+  "author": "Marco Busdraghi",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Gonadi_Paracentrotus_lividus_riccio_di_mare_adventurediving.it.jpg"
+ },
+ "seltz": {
+  "file": "seltz.jpg",
+  "title": "Chiosco Giammona.jpg",
+  "author": "",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Chiosco_Giammona.jpg"
+ },
+ "cipollina": {
+  "file": "cipollina.jpg",
+  "title": "Cipollina.jpg",
+  "author": "Antonino Faro",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Cipollina.jpg"
+ },
+ "nzuddi": {
+  "file": "nzuddi.jpg",
+  "title": "Nzuddi.jpg",
+  "author": "MarioIta",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Nzuddi.jpg"
+ },
+ "rianata": {
+  "file": "rianata.jpg",
+  "title": "Pizza \"Arianata\" a Partinico.jpg",
+  "author": "Daniele Pugliesi",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pizza_\"Arianata\"_a_Partinico.jpg"
+ },
+ "salsiccia": {
+  "file": "salsiccia.jpg",
+  "title": "Salsiccia2.jpg",
+  "author": "Dedda 71",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Salsiccia2.jpg"
+ },
+ "polpette": {
+  "file": "polpette.jpg",
+  "title": "Polpette di pesce - Lo Sperone, Alcamo.jpg",
+  "author": "Daniele Pugliesi",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Polpette_di_pesce_-_Lo_Sperone,_Alcamo.jpg"
+ },
+ "lattemandorla": {
+  "file": "lattemandorla.jpg",
+  "title": "Latte di mandorle.jpg",
+  "author": "Gastronomia Slow",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Latte_di_mandorle.jpg"
+ },
+ "focacciamessinese": {
+  "file": "focacciamessinese.jpg",
+  "title": "FOCACCIA TRADIZIONALE MESSINESE.jpg",
+  "author": "D. Mazza",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:FOCACCIA_TRADIZIONALE_MESSINESE.jpg"
+ },
+ "pizzasiciliana": {
+  "file": "pizzasiciliana.jpg",
+  "title": "Pizza trapanese.jpg",
+  "author": "Civa61",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Pizza_trapanese.jpg"
+ },
+ "bolognese": {
+  "file": "bolognese.jpg",
+  "title": "Bolognese tavola calda.png",
+  "author": "",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Bolognese_tavola_calda.png"
+ },
+ "arrusti": {
+  "file": "arrusti.jpg",
+  "title": "Butchers Sicily 1-10-21.jpg",
+  "author": "Jeanne Griffin",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Butchers_Sicily_1-10-21.jpg"
+ },
+ "patacalzone": {
+  "file": "patacalzone.jpg",
+  "title": "Calzoni.jpg",
+  "author": "Dedda71",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Calzoni.jpg"
+ },
+ "viaetnea": {
+  "file": "viaetnea.jpg",
+  "title": "Catania - Via Etnea.jpg",
+  "author": "Luca Aless",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Catania_-_Via_Etnea.jpg"
+ },
+ "corsoumberto": {
+  "file": "corsoumberto.jpg",
+  "title": "Corso Umberto Taormina - panoramio.jpg",
+  "author": "trolvag",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Corso_Umberto_Taormina_-_panoramio.jpg"
+ },
+ "corsoruggero": {
+  "file": "corsoruggero.jpg",
+  "title": "Crowded street with tourists, Cefalú, Sicily, Italy (9449811633).jpg",
+  "author": "l0da_ralta",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Crowded_street_with_tourists,_Cefalú,_Sicily,_Italy_(9449811633).jpg"
+ },
+ "corsovittoriotp": {
+  "file": "corsovittoriotp.jpg",
+  "title": "Trapani - Corso Vittorio Emanuele - panoramio (1).jpg",
+  "author": "Andrea Albini",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Trapani_-_Corso_Vittorio_Emanuele_-_panoramio_(1).jpg"
+ },
+ "macchiagiarre": {
+  "file": "macchiagiarre.jpg",
+  "title": "Chiesa Madre di Macchia.jpg",
+  "author": "Davide Mauro",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Chiesa_Madre_di_Macchia.jpg"
+ },
+ "polpo": {
+  "file": "polpo.jpg",
+  "title": "Polpo all'olio di oliva e limone.jpg",
+  "author": "",
+  "license": "CC BY-SA",
+  "source": "https://commons.wikimedia.org/wiki/File:Polpo_all'olio_di_oliva_e_limone.jpg"
+ },
+ "neonata": {
+  "file": "neonata.jpg",
+  "title": "Neonata (novellame).jpg",
+  "author": "",
+  "license": "CC BY-SA",
+  "source": "https://commons.wikimedia.org/wiki/File:Neonata_(novellame).jpg"
+ }
+}

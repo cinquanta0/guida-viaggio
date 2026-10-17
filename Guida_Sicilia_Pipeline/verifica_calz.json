@@ -1,0 +1,42 @@
+{
+ "calzone": [
+  {
+   "title": "Calzone fritto.jpg",
+   "w": 1024,
+   "h": 768,
+   "proporzione": 1.33,
+   "lat": null,
+   "lon": null,
+   "kmDaAciCatena": null,
+   "categorie": [
+    "CC-BY-SA-3.0-migrated",
+    "GFDL",
+    "License migration completed",
+    "Panzerotti",
+    "Taken with Fujifilm FinePix E500"
+   ],
+   "descrizione": "Calzone Fritto Pugliese, versione con pomodoro, mozzarella, prosciutto e oliva (Apulian fried calzone this ver",
+   "author": "I, Calcagnile Floriano, User:Florixc",
+   "license": "CC BY-SA 3.0"
+  },
+  {
+   "title": "Calzoni.jpg",
+   "w": 2592,
+   "h": 1944,
+   "proporzione": 1.33,
+   "lat": null,
+   "lon": null,
+   "kmDaAciCatena": null,
+   "categorie": [
+    "CC-BY-3.0",
+    "Calzone",
+    "Cuisine of Sicily",
+    "Self-published work",
+    "Taken with Nokia N95"
+   ],
+   "descrizione": "Rosticceria siciliana",
+   "author": "Dedda71",
+   "license": "CC BY 3.0"
+  }
+ ]
+}

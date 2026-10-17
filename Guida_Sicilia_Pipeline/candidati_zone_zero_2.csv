@@ -1,0 +1,74 @@
+comune,min,tipo,nome,voto,recensioni,note
+Misterbianco,24,dolci,Yogurtlandia Misterbianco c/o L'Arena,5.0,29,poche recensioni
+Misterbianco,24,dolci,I KONE ice cream and more,4.9,31,poche recensioni
+Misterbianco,24,dolci,Gelateria Ferrarotti,5.0,20,poche recensioni
+Misterbianco,24,dolci,Costa Domenico,4.8,186,
+Misterbianco,24,dolci,Dolci Sinceri Pasticceria Adornetto,4.4,273,
+Misterbianco,24,carne,Girarrosto - polli alla brace Sapori Sfiziosi,4.1,55,rosticceria
+Calatabiano,29,carne pasta,Il Borgo del Saraceno,4.8,1140,vicino al castello
+Calatabiano,29,pizza,Duina Maria - Hamburgeria/Pizzeria,4.6,275,
+Calatabiano,29,pasta,Blue Ice Restaurant,4.5,768,
+Calatabiano,29,pizza,La Tana Dell'Orso Di Spinella Giuseppe,4.6,496,
+Calatabiano,29,pasta,Giardino di Pietra Ristorante Siciliano,4.8,92,50-100 euro
+Calatabiano,29,dolci,Sweet Bar Fortunato,4.8,140,
+Calatabiano,29,dolci,Bar Duina,4.6,331,
+Calatabiano,29,dolci,Antica Caffetteria di Riolo,4.6,113,
+Santa Maria di Licodia,41,pasta,Noi VanGogh,4.5,336,
+Santa Maria di Licodia,41,pizza,Casale 1911,4.1,287,
+Santa Maria di Licodia,41,pizza,Bersó Licodia,4.5,181,
+Santa Maria di Licodia,41,dolci,Pasticceria Greco,4.7,75,
+Santa Maria di Licodia,41,dolci,Di Stefano Francesco,4.7,47,
+Santa Maria di Licodia,41,dolci,Royal Bar,4.6,243,
+Camporotondo Etneo,24,pizza,Il Capriccio,4.3,110,
+Camporotondo Etneo,24,pizza,Pizzeria Cacio e Mollica,4.5,169,
+Furci Siculo,39,pasta,Da Onofrio Ristorante,4.3,615,
+Furci Siculo,39,dolci,Bar Mimmo Pasticceria Gelateria,4.4,781,
+Furci Siculo,39,pesce pizza,Ristorante Pizzeria Sapori Di Mare,4.3,1029,
+Roccalumera,41,dolci,Bar Ciccio Parisi,4.6,1013,
+Roccalumera,41,pasta,Club Bocca di Rosa Roccalumera,4.6,316,
+Roccalumera,41,pizza,PIU 39 Pizza Burger & More,4.4,609,
+Roccalumera,41,dolci,Pasticceria Gelateria Trecorone,4.3,438,
+Roccalumera,41,pasta,Il Giardino Saraceno Pane Cunzatu,4.3,686,siciliano
+Nizza di Sicilia,43,carne,Crudo Cotto e Mangiato - Bistrot Coledi,4.8,393,
+Nizza di Sicilia,43,dolci,Micalizzi Giuseppe,4.5,291,granita e brioche
+Nizza di Sicilia,43,pizza,A Casa Pinta,4.4,492,
+Francavilla di Sicilia,45,carne,Macelleria Braceria U Pacciu,4.7,1596,ristorante vero non solo negozio
+Francavilla di Sicilia,45,pasta,Trattoria Rapisardi,4.7,566,siciliana
+Francavilla di Sicilia,45,dolci,Vincenzino Pasticceria Gelateria,4.6,276,
+Francavilla di Sicilia,45,pasta,Ilquadrifoglioblu,4.4,384,
+Sant'Alfio,26,pasta,L'Antica Taverna,4.4,538,
+Sant'Alfio,26,pasta,Tenuta Minicucco,4.3,575,panoramico
+Sant'Alfio,26,pizza,Pizzeria Al Pino,4.4,487,
+Piedimonte Etneo,28,pasta,Ristorante Gianluca Pizzeria,4.4,530,
+Piedimonte Etneo,28,pizza,CKJ restaurant Pizzeria,4.5,329,
+Piedimonte Etneo,28,dolci,Caffè Calì,4.5,673,pasticceria e gelateria
+Piedimonte Etneo,28,pizza,Il Cigno,4.5,286,
+Ragalna,31,pasta,A Cisterna - Trattoria,4.8,308,
+Ragalna,31,pizza,Pietra Nera 2.0,4.5,856,
+Ragalna,31,pizza carne,4 Palmenti,4.0,385,
+Ragalna,31,carne,Nuovo K2 ristorante,4.1,412,
+Gaggi,32,carne,Fantasie Di Carne - Grigliate carne al forno,4.6,112,verificato con query disambiguata
+Gaggi,32,pasta carne,Alcantara Bistrot,4.9,244,verificato con query disambiguata
+Gaggi,32,pizza,il Sole in Tavola,4.7,134,
+Gaggi,32,pizza,Pronto Pizza,4.8,55,
+Gaggi,32,dolci,Pasticceria plumari,4.8,165,
+Sant'Alessio Siculo,40,carne pizza,Gelateria Rosticceria La Bella,4.3,522,
+Sant'Alessio Siculo,40,pasta,A18 Sottozero - Ristorante Pizzeria,4.4,1269,
+Sant'Alessio Siculo,40,pizza,Pizzeria Trocadero,4.6,174,
+Sant'Alessio Siculo,40,pizza,La Tavoloccia,4.5,529,
+Sant'Alessio Siculo,40,pasta,Ristorante Bar S. Margherita,4.7,73,
+Castelmola,42,dolci,I Pititti di Stefania,4.9,600,gelato panoramico famoso
+Castelmola,42,carne,Bistrot A' Ficaredda - Piatti Tipici Siciliani,4.7,565,
+Castelmola,42,pasta,Bar Turrisi,4.4,6554,storico molto famoso
+Castelmola,42,pizza,Pizzeria Nina,4.7,1640,vista su Taormina
+Castelmola,42,pasta,La Taverna Dell'Etna,4.4,981,terrazza panoramica
+Graniti,39,dolci,Caffè & Dintorni Di Scalisi Gianluca,4.7,97,
+Graniti,39,carne,Feo Pub,4.6,130,
+Graniti,39,pasta,Paradise Alcantara,4.3,847,siciliano
+Alì Terme,45,pasta,Il Piccadilly,4.7,111,
+Alì Terme,45,pizza,Pizzeria il Magazzino,4.3,110,
+Alì Terme,45,pizza,Camelot,4.0,145,
+Alì Terme,45,dolci,Pasticceria Todaro,4.5,328,
+Scaletta Zanclea,45,pizza,La Bifora Pizzeria Ristorante,4.6,475,
+Scaletta Zanclea,45,pasta,Osteria A Me Casa,4.3,365,siciliano
+Scaletta Zanclea,45,dolci,Pasticceria Miceli - Il Primario,4.5,31,poche recensioni

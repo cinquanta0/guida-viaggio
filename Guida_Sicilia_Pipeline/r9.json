@@ -1,0 +1,986 @@
+{
+ "pupi": [
+  {
+   "title": "Pupi siciliani.jpg",
+   "w": 7360,
+   "h": 4912,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pupi_siciliani.jpg/1920px-Pupi_siciliani.jpg",
+   "artist": "Harvey Barrison",
+   "lic": "CC BY-SA 2.0"
+  },
+  {
+   "title": "Museo internazionale delle marionette Antonio Pasqualino, ingresso.jpg",
+   "w": 5265,
+   "h": 3747,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Museo_internazionale_delle_marionette_Antonio_Pasqualino%2C_ingresso.jpg/1920px-Museo_internazionale_delle_marionette_Antonio_Pasqualino%2C_ingresso.jpg",
+   "artist": "Giacomo Bordonaro",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Museo internazionale delle marionette Antonio Pasqualino, Sala dell’opera dei pupi.jpg",
+   "w": 5581,
+   "h": 2607,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Museo_internazionale_delle_marionette_Antonio_Pasqualino%2C_Sala_dell%E2%80%99opera_dei_pupi.jpg/1920px-Museo_internazionale_delle_marionette_Antonio_Pasqualino%2C_Sala_dell%E2%80%99opera_dei_pupi.jpg",
+   "artist": "Giacomo Bordonaro",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Laboratorio pupi Italici.jpg",
+   "w": 2717,
+   "h": 1866,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Laboratorio_pupi_Italici.jpg/1920px-Laboratorio_pupi_Italici.jpg",
+   "artist": "Artgbotta",
+   "lic": "CC BY-SA 4.0"
+  }
+ ],
+ "lachea": [
+  {
+   "title": "Islas Cíclope, Aci Trezza, Sicilia, Italia, 2025-04-08, DD 10.jpg",
+   "w": 8191,
+   "h": 5461,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Islas_C%C3%ADclope%2C_Aci_Trezza%2C_Sicilia%2C_Italia%2C_2025-04-08%2C_DD_10.jpg/1920px-Islas_C%C3%ADclope%2C_Aci_Trezza%2C_Sicilia%2C_Italia%2C_2025-04-08%2C_DD_10.jpg",
+   "artist": "Diego Delso",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Isola Lachea Acitrezza Summer.jpg",
+   "w": 8208,
+   "h": 2444,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Isola_Lachea_Acitrezza_Summer.jpg/1920px-Isola_Lachea_Acitrezza_Summer.jpg",
+   "artist": "Mariom990",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "ITA-SIC-AciTrezza-IsolaLachea2.jpg",
+   "w": 3264,
+   "h": 2448,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ITA-SIC-AciTrezza-IsolaLachea2.jpg/1920px-ITA-SIC-AciTrezza-IsolaLachea2.jpg",
+   "artist": "Settimio caroli",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Museo della stazione di Biologia marittima dell'Isola Lachea.jpg",
+   "w": 1566,
+   "h": 1175,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/07/Museo_della_stazione_di_Biologia_marittima_dell%27Isola_Lachea.jpg",
+   "artist": "Giovanni.grasso",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Aurora ai faraglioni.jpg",
+   "w": 5908,
+   "h": 3939,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aurora_ai_faraglioni.jpg/1920px-Aurora_ai_faraglioni.jpg",
+   "artist": "Vincenzo Miconi",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Islands of the Cyclops at Dawn Sicily Italy - Creative Commons by gnuckx (5040125477).jpg",
+   "w": 4288,
+   "h": 2848,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Islands_of_the_Cyclops_at_Dawn_Sicily_Italy_-_Creative_Commons_by_gnuckx_%285040125477%29.jpg/1920px-Islands_of_the_Cyclops_at_Dawn_Sicily_Italy_-_Creative_Commons_by_gnuckx_%285040125477%29.jpg",
+   "artist": "gnuckx",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "title": "Islands of the Cyclops at Dawn Sicily Italy2 - Creative Commons by gnuckx.jpg",
+   "w": 4288,
+   "h": 2848,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Islands_of_the_Cyclops_at_Dawn_Sicily_Italy2_-_Creative_Commons_by_gnuckx.jpg/1920px-Islands_of_the_Cyclops_at_Dawn_Sicily_Italy2_-_Creative_Commons_by_gnuckx.jpg",
+   "artist": "gnuckx",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "title": "Islands of the Cyclops at Dawn Sicily Italy - Creative Commons by gnuckx.jpg",
+   "w": 4288,
+   "h": 2848,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Islands_of_the_Cyclops_at_Dawn_Sicily_Italy_-_Creative_Commons_by_gnuckx.jpg/1920px-Islands_of_the_Cyclops_at_Dawn_Sicily_Italy_-_Creative_Commons_by_gnuckx.jpg",
+   "artist": "gnuckx",
+   "lic": "CC BY 2.0"
+  }
+ ],
+ "teatroromano": [
+  {
+   "title": "Teatro Romano di Catania 2024i.jpg",
+   "w": 8256,
+   "h": 5504,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Teatro_Romano_di_Catania_2024i.jpg/1920px-Teatro_Romano_di_Catania_2024i.jpg",
+   "artist": "Cayambe",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Teatro Romano di Catania 2024d.jpg",
+   "w": 8256,
+   "h": 5504,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Teatro_Romano_di_Catania_2024d.jpg/1920px-Teatro_Romano_di_Catania_2024d.jpg",
+   "artist": "Cayambe",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Teatro Romano di Catania 2024j.jpg",
+   "w": 8256,
+   "h": 5280,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Teatro_Romano_di_Catania_2024j.jpg/1920px-Teatro_Romano_di_Catania_2024j.jpg",
+   "artist": "Cayambe",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Teatro Romano di Catania 2024f.jpg",
+   "w": 6572,
+   "h": 4590,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Teatro_Romano_di_Catania_2024f.jpg/1920px-Teatro_Romano_di_Catania_2024f.jpg",
+   "artist": "Cayambe",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Teatro Romano di Catania 2024c.jpg",
+   "w": 6106,
+   "h": 4403,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Teatro_Romano_di_Catania_2024c.jpg/1920px-Teatro_Romano_di_Catania_2024c.jpg",
+   "artist": "Cayambe",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Teatro Romano di Catania 2024e.jpg",
+   "w": 8256,
+   "h": 5504,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Teatro_Romano_di_Catania_2024e.jpg/1920px-Teatro_Romano_di_Catania_2024e.jpg",
+   "artist": "Cayambe",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Teatro Romano di Catania 2024k.jpg",
+   "w": 4620,
+   "h": 4640,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Teatro_Romano_di_Catania_2024k.jpg/1920px-Teatro_Romano_di_Catania_2024k.jpg",
+   "artist": "Cayambe",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Teatro Romano di Catania 2024a.jpg",
+   "w": 8256,
+   "h": 4113,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Teatro_Romano_di_Catania_2024a.jpg/1920px-Teatro_Romano_di_Catania_2024a.jpg",
+   "artist": "Cayambe",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Teatro Romano di Catania 2024b.jpg",
+   "w": 6605,
+   "h": 3646,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Teatro_Romano_di_Catania_2024b.jpg/1920px-Teatro_Romano_di_Catania_2024b.jpg",
+   "artist": "Cayambe",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Teatro Romano di Catania 2024h.jpg",
+   "w": 6499,
+   "h": 4399,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Teatro_Romano_di_Catania_2024h.jpg/1920px-Teatro_Romano_di_Catania_2024h.jpg",
+   "artist": "Cayambe",
+   "lic": "CC BY-SA 4.0"
+  }
+ ],
+ "paterno": [],
+ "eurialo": [
+  {
+   "title": "0932 - Siracusa - Castello Eurialo - Bastione e Pentapylon - Foto Giovanni Dall'Orto - 17-Oct-2008.jpg",
+   "w": 1632,
+   "h": 1224,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/23/0932_-_Siracusa_-_Castello_Eurialo_-_Bastione_e_Pentapylon_-_Foto_Giovanni_Dall%27Orto_-_17-Oct-2008.jpg",
+   "artist": "Giovanni Dall'Orto",
+   "lic": "Attribution"
+  },
+  {
+   "title": "Il Castello Eurialo - Siracusa.png",
+   "w": 1419,
+   "h": 1090,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Il_Castello_Eurialo_-_Siracusa.png",
+   "artist": "Stella",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Castello di Eurialo, Siracusa - Archivio Ugolini Sapienza.jpg",
+   "w": 2914,
+   "h": 3856,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Castello_di_Eurialo%2C_Siracusa_-_Archivio_Ugolini_Sapienza.jpg/1920px-Castello_di_Eurialo%2C_Siracusa_-_Archivio_Ugolini_Sapienza.jpg",
+   "artist": "Luigi Maria Ugolini",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Gloeden, Wilhelm von (1856-1931) - n. 1570 - Siracusa, Castello Eurialo - Auch ich in Arkadien p. 62, n. 312.jpg",
+   "w": 1031,
+   "h": 758,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Gloeden%2C_Wilhelm_von_%281856-1931%29_-_n._1570_-_Siracusa%2C_Castello_Eurialo_-_Auch_ich_in_Arkadien_p._62%2C_n._312.jpg",
+   "artist": "Wilhelm von Gloeden",
+   "lic": "Public domain"
+  },
+  {
+   "title": "Siracusa Castello Eurialo Vorfestung.jpg",
+   "w": 2848,
+   "h": 2138,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Siracusa_Castello_Eurialo_Vorfestung.jpg/1920px-Siracusa_Castello_Eurialo_Vorfestung.jpg",
+   "artist": "Clemensfranz",
+   "lic": "CC BY 2.5"
+  },
+  {
+   "title": "Castello Eurialo 360° - panoramio.jpg",
+   "w": 13871,
+   "h": 1524,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Castello_Eurialo_360%C2%B0_-_panoramio.jpg/1920px-Castello_Eurialo_360%C2%B0_-_panoramio.jpg",
+   "artist": "Salvo Cannizzaro",
+   "lic": "CC BY-SA 3.0"
+  },
+  {
+   "title": "Castello Eurialo 360° - panoramio (cropped).jpg",
+   "w": 1843,
+   "h": 980,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Castello_Eurialo_360%C2%B0_-_panoramio_%28cropped%29.jpg",
+   "artist": "Salvo Cannizzaro",
+   "lic": "CC BY-SA 3.0"
+  },
+  {
+   "title": "Castello Eurialo 360° - panoramio (cropped1).jpg",
+   "w": 3385,
+   "h": 1219,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Castello_Eurialo_360%C2%B0_-_panoramio_%28cropped1%29.jpg/1920px-Castello_Eurialo_360%C2%B0_-_panoramio_%28cropped1%29.jpg",
+   "artist": "Salvo Cannizzaro",
+   "lic": "CC BY-SA 3.0"
+  },
+  {
+   "title": "0935 - Siracusa - Castello Eurialo - Pentapylon - Foto Giovanni Dall'Orto - 17-Oct-2008.jpg",
+   "w": 1632,
+   "h": 1224,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/26/0935_-_Siracusa_-_Castello_Eurialo_-_Pentapylon_-_Foto_Giovanni_Dall%27Orto_-_17-Oct-2008.jpg",
+   "artist": "Giovanni Dall'Orto",
+   "lic": "Attribution"
+  },
+  {
+   "title": "0929 - Siracusa - Castello Eurialo - Secondo fossato - Foto Giovanni Dall'Orto - 17-Oct-2008.jpg",
+   "w": 1632,
+   "h": 1224,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/25/0929_-_Siracusa_-_Castello_Eurialo_-_Secondo_fossato_-_Foto_Giovanni_Dall%27Orto_-_17-Oct-2008.jpg",
+   "artist": "Giovanni Dall'Orto",
+   "lic": "Attribution"
+  }
+ ],
+ "orsi": [
+  {
+   "title": "Siracusa, Museo Archeologico Regionale Paolo Orsi, sezione vasi.jpg",
+   "w": 3840,
+   "h": 2560,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi%2C_sezione_vasi.jpg/1920px-Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi%2C_sezione_vasi.jpg",
+   "artist": "Herbert Frank",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "title": "Siracusa, Museo Archeologico Regionale Paolo Orsi (1).jpg",
+   "w": 3840,
+   "h": 2560,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi_%281%29.jpg/1920px-Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi_%281%29.jpg",
+   "artist": "Herbert Frank",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "title": "Orecchini - Museo Archeologico Regionale Paolo Orsi - Siracusa - Sicilia.jpg",
+   "w": 2288,
+   "h": 1712,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Orecchini_-_Museo_Archeologico_Regionale_Paolo_Orsi_-_Siracusa_-_Sicilia.jpg/1920px-Orecchini_-_Museo_Archeologico_Regionale_Paolo_Orsi_-_Siracusa_-_Sicilia.jpg",
+   "artist": "Verity Cridland",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "title": "Dea museo archeologico regionale Paolo Orsi Siracusa.png",
+   "w": 900,
+   "h": 1125,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Dea_museo_archeologico_regionale_Paolo_Orsi_Siracusa.png",
+   "artist": "Stella",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Siracusa, Museo Archeologico Regionale Paolo Orsi.jpg",
+   "w": 3840,
+   "h": 2560,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi.jpg/1920px-Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi.jpg",
+   "artist": "Herbert Frank",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "title": "Museo archeologico regionale paolo orsi, sileno, 520-480 ac. 01.JPG",
+   "w": 1182,
+   "h": 1693,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/49/Museo_archeologico_regionale_paolo_orsi%2C_sileno%2C_520-480_ac._01.JPG",
+   "artist": "sailko",
+   "lic": "CC BY 2.5"
+  },
+  {
+   "title": "Museo archeologico regionale paolo orsi, sileno, 520-480 ac. 02.JPG",
+   "w": 1476,
+   "h": 1777,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Museo_archeologico_regionale_paolo_orsi%2C_sileno%2C_520-480_ac._02.JPG",
+   "artist": "sailko",
+   "lic": "CC BY 2.5"
+  },
+  {
+   "title": "Siracusa, Museo Archeologico Regionale Paolo Orsi - 31332759048.jpg",
+   "w": 3840,
+   "h": 2560,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi_-_31332759048.jpg/1920px-Siracusa%2C_Museo_Archeologico_Regionale_Paolo_Orsi_-_31332759048.jpg",
+   "artist": "Herbert Frank",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "title": "Museo archeologico regionale paolo orsi, testa mascile da grammichele, 550-525 a.c. 02.JPG",
+   "w": 1278,
+   "h": 1399,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/61/Museo_archeologico_regionale_paolo_orsi%2C_testa_mascile_da_grammichele%2C_550-525_a.c._02.JPG",
+   "artist": "sailko",
+   "lic": "CC BY 2.5"
+  },
+  {
+   "title": "Museo archeologico regionale paolo orsi, testa mascile da grammichele, 550-525 a.c. 03.JPG",
+   "w": 1314,
+   "h": 1225,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/23/Museo_archeologico_regionale_paolo_orsi%2C_testa_mascile_da_grammichele%2C_550-525_a.c._03.JPG",
+   "artist": "sailko",
+   "lic": "CC BY 2.5"
+  }
+ ],
+ "priolo": [
+  {
+   "title": "Road to....Capanno 4.jpg",
+   "w": 2748,
+   "h": 4122,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Road_to....Capanno_4.jpg/1920px-Road_to....Capanno_4.jpg",
+   "artist": "Alessandro Tringale",
+   "lic": "CC BY-SA 4.0"
+  }
+ ],
+ "militello": [
+  {
+   "title": "Qanat di Militello in Val di Catania.jpg",
+   "w": 2976,
+   "h": 3968,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Qanat_di_Militello_in_Val_di_Catania.jpg/1920px-Qanat_di_Militello_in_Val_di_Catania.jpg",
+   "artist": "Matteo Malgioglio",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Veduta di Militello.jpg",
+   "w": 1024,
+   "h": 456,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Veduta_di_Militello.jpg",
+   "artist": "Masigu",
+   "lic": "CC BY-SA 3.0"
+  },
+  {
+   "title": "Panorama di Militello Val di Catania.jpg",
+   "w": 4032,
+   "h": 3024,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Panorama_di_Militello_Val_di_Catania.jpg/1920px-Panorama_di_Militello_Val_di_Catania.jpg",
+   "artist": "Davide Mauro",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Edificio al cimitero di Militello in Val di Catania.jpg",
+   "w": 3024,
+   "h": 4032,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Edificio_al_cimitero_di_Militello_in_Val_di_Catania.jpg/1920px-Edificio_al_cimitero_di_Militello_in_Val_di_Catania.jpg",
+   "artist": "Davide Mauro",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Chiesa di San Sebastiano (Militello in Val di Catania).jpg",
+   "w": 3024,
+   "h": 4032,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chiesa_di_San_Sebastiano_%28Militello_in_Val_di_Catania%29.jpg/1920px-Chiesa_di_San_Sebastiano_%28Militello_in_Val_di_Catania%29.jpg",
+   "artist": "Davide Mauro",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Militello in Val di Catania . Palazzo Niceforo (sec. XVIII)..jpg",
+   "w": 1986,
+   "h": 2329,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Militello_in_Val_di_Catania_._Palazzo_Niceforo_%28sec._XVIII%29..jpg/1920px-Militello_in_Val_di_Catania_._Palazzo_Niceforo_%28sec._XVIII%29..jpg",
+   "artist": "Gimalgi73",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Madonna della Catena (Militello in Val di Catania) 1.jpg",
+   "w": 4032,
+   "h": 3024,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Madonna_della_Catena_%28Militello_in_Val_di_Catania%29_1.jpg/1920px-Madonna_della_Catena_%28Militello_in_Val_di_Catania%29_1.jpg",
+   "artist": "Davide Mauro",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Madonna della Catena (Militello in Val di Catania).jpg",
+   "w": 3024,
+   "h": 4032,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Madonna_della_Catena_%28Militello_in_Val_di_Catania%29.jpg/1920px-Madonna_della_Catena_%28Militello_in_Val_di_Catania%29.jpg",
+   "artist": "Davide Mauro",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Chiesa Sant'Agata (sec. XVI-XVIII) Militello in Val di Catania.jpg",
+   "w": 1728,
+   "h": 2151,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Chiesa_Sant%27Agata_%28sec._XVI-XVIII%29_Militello_in_Val_di_Catania.jpg",
+   "artist": "Gimalgi73",
+   "lic": "CC BY-SA 3.0"
+  },
+  {
+   "title": "Chiesa al cimitero di Militello in Val di Catania.jpg",
+   "w": 4032,
+   "h": 3024,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Chiesa_al_cimitero_di_Militello_in_Val_di_Catania.jpg/1920px-Chiesa_al_cimitero_di_Militello_in_Val_di_Catania.jpg",
+   "artist": "Davide Mauro",
+   "lic": "CC BY-SA 4.0"
+  }
+ ],
+ "palazzolo": [
+  {
+   "title": "Palazzolo Acreide Theater.jpg",
+   "w": 4048,
+   "h": 3040,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Palazzolo_Acreide_Theater.jpg/1920px-Palazzolo_Acreide_Theater.jpg",
+   "artist": "Clemensfranz",
+   "lic": "CC BY 2.5"
+  },
+  {
+   "title": "Teatro greco Akrai.jpg",
+   "w": 2560,
+   "h": 1920,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Teatro_greco_Akrai.jpg/1920px-Teatro_greco_Akrai.jpg",
+   "artist": "Mαρκος",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Adelphoe locandina 1950 Teatro Akrai.jpg",
+   "w": 6070,
+   "h": 8598,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Adelphoe_locandina_1950_Teatro_Akrai.jpg/1920px-Adelphoe_locandina_1950_Teatro_Akrai.jpg",
+   "artist": "Elyparker",
+   "lic": "CC BY 4.0"
+  },
+  {
+   "title": "Ifigenia in Aulide - 1953 - regia Accursio di Leo.jpg",
+   "w": 1106,
+   "h": 1509,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ifigenia_in_Aulide_-_1953_-_regia_Accursio_di_Leo.jpg",
+   "artist": "Elyparker",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Akrai - Theater - 2005-10-12 - 7621d.jpg",
+   "w": 2560,
+   "h": 1920,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Akrai_-_Theater_-_2005-10-12_-_7621d.jpg/1920px-Akrai_-_Theater_-_2005-10-12_-_7621d.jpg",
+   "artist": "Martinus KE",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Akrai - Theater - 2005-10-12 - 7624d.jpg",
+   "w": 2560,
+   "h": 1920,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Akrai_-_Theater_-_2005-10-12_-_7624d.jpg/1920px-Akrai_-_Theater_-_2005-10-12_-_7624d.jpg",
+   "artist": "Martinus KE",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Akrai - Theater - 2005-10-12 - 7626d.jpg",
+   "w": 2560,
+   "h": 1920,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Akrai_-_Theater_-_2005-10-12_-_7626d.jpg/1920px-Akrai_-_Theater_-_2005-10-12_-_7626d.jpg",
+   "artist": "Martinus KE",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Akrai - Theater - 2005-10-12 - 7625d.jpg",
+   "w": 2560,
+   "h": 1920,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Akrai_-_Theater_-_2005-10-12_-_7625d.jpg/1920px-Akrai_-_Theater_-_2005-10-12_-_7625d.jpg",
+   "artist": "Martinus KE",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Akrai - Theater - 2005-10-12 - 7627d.jpg",
+   "w": 2560,
+   "h": 1920,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Akrai_-_Theater_-_2005-10-12_-_7627d.jpg/1920px-Akrai_-_Theater_-_2005-10-12_-_7627d.jpg",
+   "artist": "Martinus KE",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Akrai - Theater - 2005-10-12 - 7623f.jpg",
+   "w": 2560,
+   "h": 1920,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Akrai_-_Theater_-_2005-10-12_-_7623f.jpg/1920px-Akrai_-_Theater_-_2005-10-12_-_7623f.jpg",
+   "artist": "Martinus KE",
+   "lic": "CC BY-SA 4.0"
+  }
+ ],
+ "enna": [
+  {
+   "title": "Castello di Lombardia (Enna) - Panarama.jpg",
+   "w": 3872,
+   "h": 2592,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Castello_di_Lombardia_%28Enna%29_-_Panarama.jpg/1920px-Castello_di_Lombardia_%28Enna%29_-_Panarama.jpg",
+   "artist": "Sweetie candykim",
+   "lic": "CC0"
+  },
+  {
+   "title": "Castello di Lombardia (Enna) - Euno.jpg",
+   "w": 2592,
+   "h": 3872,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Castello_di_Lombardia_%28Enna%29_-_Euno.jpg/1920px-Castello_di_Lombardia_%28Enna%29_-_Euno.jpg",
+   "artist": "Sweetie candykim",
+   "lic": "CC0"
+  },
+  {
+   "title": "Castello di Lombardia (Enna).jpg",
+   "w": 3872,
+   "h": 2592,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Castello_di_Lombardia_%28Enna%29.jpg/1920px-Castello_di_Lombardia_%28Enna%29.jpg",
+   "artist": "Sweetie candykim",
+   "lic": "CC0"
+  },
+  {
+   "title": "Castello di Lombardia (Enna) Statue.jpg",
+   "w": 4592,
+   "h": 2584,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Castello_di_Lombardia_%28Enna%29_Statue.jpg/1920px-Castello_di_Lombardia_%28Enna%29_Statue.jpg",
+   "artist": "Moleskine",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Castello di Lombardia (Enna) Ansicht.jpg",
+   "w": 4592,
+   "h": 2584,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Castello_di_Lombardia_%28Enna%29_Ansicht.jpg/1920px-Castello_di_Lombardia_%28Enna%29_Ansicht.jpg",
+   "artist": "Moleskine",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Castello di Lombardia (Enna) 2.jpg",
+   "w": 2592,
+   "h": 3872,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Castello_di_Lombardia_%28Enna%29_2.jpg/1920px-Castello_di_Lombardia_%28Enna%29_2.jpg",
+   "artist": "Sweetie candykim",
+   "lic": "CC0"
+  },
+  {
+   "title": "Castello di Lombardia (Enna) - Restoration.jpg",
+   "w": 3872,
+   "h": 2592,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Castello_di_Lombardia_%28Enna%29_-_Restoration.jpg/1920px-Castello_di_Lombardia_%28Enna%29_-_Restoration.jpg",
+   "artist": "Sweetie candykim",
+   "lic": "CC0"
+  },
+  {
+   "title": "Castello di Lombardia (Enna) 3.jpg",
+   "w": 3872,
+   "h": 2592,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Castello_di_Lombardia_%28Enna%29_3.jpg/1920px-Castello_di_Lombardia_%28Enna%29_3.jpg",
+   "artist": "Sweetie candykim",
+   "lic": "CC0"
+  },
+  {
+   "title": "Castello di Lombardia (Enna) - Torre Pisana.jpg",
+   "w": 3872,
+   "h": 2592,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Castello_di_Lombardia_%28Enna%29_-_Torre_Pisana.jpg/1920px-Castello_di_Lombardia_%28Enna%29_-_Torre_Pisana.jpg",
+   "artist": "Sweetie candykim",
+   "lic": "CC0"
+  },
+  {
+   "title": "Castello di Lombardia (Enna) Yard.jpg",
+   "w": 3968,
+   "h": 2976,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Castello_di_Lombardia_%28Enna%29_Yard.jpg/1920px-Castello_di_Lombardia_%28Enna%29_Yard.jpg",
+   "artist": "Florian COLLIN",
+   "lic": "CC BY-SA 4.0"
+  }
+ ],
+ "tellaro": [
+  {
+   "title": "Villa romana del Tellaro - mosaici 1510.JPG",
+   "w": 4000,
+   "h": 3000,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Villa_romana_del_Tellaro_-_mosaici_1510.JPG/1920px-Villa_romana_del_Tellaro_-_mosaici_1510.JPG",
+   "artist": "Carlomorino",
+   "lic": "CC BY-SA 3.0"
+  },
+  {
+   "title": "Villa romana del Tellaro - mosaici 1511.JPG",
+   "w": 4000,
+   "h": 3000,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Villa_romana_del_Tellaro_-_mosaici_1511.JPG/1920px-Villa_romana_del_Tellaro_-_mosaici_1511.JPG",
+   "artist": "Carlomorino",
+   "lic": "CC BY-SA 3.0"
+  },
+  {
+   "title": "Vendicari - Mosaici Villa Romana del Tellaro - panoramio.jpg",
+   "w": 3872,
+   "h": 2592,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vendicari_-_Mosaici_Villa_Romana_del_Tellaro_-_panoramio.jpg/1920px-Vendicari_-_Mosaici_Villa_Romana_del_Tellaro_-_panoramio.jpg",
+   "artist": "giomodica",
+   "lic": "CC BY 3.0"
+  },
+  {
+   "title": "Vendicari - Mosaici Villa Romana del Tellaro - panoramio - giomodica.jpg",
+   "w": 3872,
+   "h": 2592,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Vendicari_-_Mosaici_Villa_Romana_del_Tellaro_-_panoramio_-_giomodica.jpg/1920px-Vendicari_-_Mosaici_Villa_Romana_del_Tellaro_-_panoramio_-_giomodica.jpg",
+   "artist": "giomodica",
+   "lic": "CC BY 3.0"
+  },
+  {
+   "title": "Mosaici del Tellaro.jpg",
+   "w": 6000,
+   "h": 3376,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mosaici_del_Tellaro.jpg/1920px-Mosaici_del_Tellaro.jpg",
+   "artist": "Giuseppe C. Mineo",
+   "lic": "CC BY-SA 4.0"
+  }
+ ],
+ "tindari": [
+  {
+   "title": "Santuario en lo alto, Marinello, Sicilia, Italia, 2015.JPG",
+   "w": 4000,
+   "h": 3000,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Santuario_en_lo_alto%2C_Marinello%2C_Sicilia%2C_Italia%2C_2015.JPG/1920px-Santuario_en_lo_alto%2C_Marinello%2C_Sicilia%2C_Italia%2C_2015.JPG",
+   "artist": "Benjamín Núñez González",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Riserva Marinello 16 06 2019 36.jpg",
+   "w": 4608,
+   "h": 3456,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Riserva_Marinello_16_06_2019_36.jpg/1920px-Riserva_Marinello_16_06_2019_36.jpg",
+   "artist": "Effems",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "PattiTindarisLagune.jpg",
+   "w": 4085,
+   "h": 2613,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/PattiTindarisLagune.jpg/1920px-PattiTindarisLagune.jpg",
+   "artist": "Joergsam",
+   "lic": "CC BY-SA 3.0"
+  },
+  {
+   "title": "Riserva Marinello 16 06 2019 11.jpg",
+   "w": 3456,
+   "h": 4608,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Riserva_Marinello_16_06_2019_11.jpg/1920px-Riserva_Marinello_16_06_2019_11.jpg",
+   "artist": "Effems",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Riserva Marinello 16 06 2019 07.jpg",
+   "w": 4608,
+   "h": 3456,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Riserva_Marinello_16_06_2019_07.jpg/1920px-Riserva_Marinello_16_06_2019_07.jpg",
+   "artist": "Effems",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Riserva Marinello 16 06 2019 04.jpg",
+   "w": 4608,
+   "h": 3456,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Riserva_Marinello_16_06_2019_04.jpg/1920px-Riserva_Marinello_16_06_2019_04.jpg",
+   "artist": "Effems",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Riserva Marinello 16 06 2019 08.jpg",
+   "w": 4608,
+   "h": 3456,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Riserva_Marinello_16_06_2019_08.jpg/1920px-Riserva_Marinello_16_06_2019_08.jpg",
+   "artist": "Effems",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Riserva Marinello 16 06 2019 06.jpg",
+   "w": 4608,
+   "h": 3456,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Riserva_Marinello_16_06_2019_06.jpg/1920px-Riserva_Marinello_16_06_2019_06.jpg",
+   "artist": "Effems",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Riserva Marinello 16 06 2019 05.jpg",
+   "w": 4608,
+   "h": 3456,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Riserva_Marinello_16_06_2019_05.jpg/1920px-Riserva_Marinello_16_06_2019_05.jpg",
+   "artist": "Effems",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Riserva Marinello 16 06 2019 09.jpg",
+   "w": 4608,
+   "h": 3456,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Riserva_Marinello_16_06_2019_09.jpg/1920px-Riserva_Marinello_16_06_2019_09.jpg",
+   "artist": "Effems",
+   "lic": "CC BY-SA 4.0"
+  }
+ ],
+ "piazzaarmerina": [
+  {
+   "title": "Villa romana del Casale - Mosaici del Vestibolo di Polifemo (7831474200).jpg",
+   "w": 3721,
+   "h": 2499,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Villa_romana_del_Casale_-_Mosaici_del_Vestibolo_di_Polifemo_%287831474200%29.jpg/1920px-Villa_romana_del_Casale_-_Mosaici_del_Vestibolo_di_Polifemo_%287831474200%29.jpg",
+   "artist": "Rino Porrovecchio from Palermo, Italy",
+   "lic": "CC BY-SA 2.0"
+  },
+  {
+   "title": "Villa romana del Casale - Mosaici del Vestibolo di Polifemo-3 (7831475520).jpg",
+   "w": 3872,
+   "h": 2592,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Villa_romana_del_Casale_-_Mosaici_del_Vestibolo_di_Polifemo-3_%287831475520%29.jpg/1920px-Villa_romana_del_Casale_-_Mosaici_del_Vestibolo_di_Polifemo-3_%287831475520%29.jpg",
+   "artist": "Rino Porrovecchio from Palermo, Italy",
+   "lic": "CC BY-SA 2.0"
+  },
+  {
+   "title": "Villa romana del Casale - Mosaici del Vestibolo di Polifemo-2 (7831473428).jpg",
+   "w": 3253,
+   "h": 2160,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Villa_romana_del_Casale_-_Mosaici_del_Vestibolo_di_Polifemo-2_%287831473428%29.jpg/1920px-Villa_romana_del_Casale_-_Mosaici_del_Vestibolo_di_Polifemo-2_%287831473428%29.jpg",
+   "artist": "Rino Porrovecchio from Palermo, Italy",
+   "lic": "CC BY-SA 2.0"
+  },
+  {
+   "title": "Villa romana del Casale - Mosaici che delimitano il peristilio quadrangolare (7831292798).jpg",
+   "w": 3448,
+   "h": 2237,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Villa_romana_del_Casale_-_Mosaici_che_delimitano_il_peristilio_quadrangolare_%287831292798%29.jpg/1920px-Villa_romana_del_Casale_-_Mosaici_che_delimitano_il_peristilio_quadrangolare_%287831292798%29.jpg",
+   "artist": "Rino Porrovecchio from Palermo, Italy",
+   "lic": "CC BY-SA 2.0"
+  },
+  {
+   "title": "Mosaici della Villa del Casale - Piazza Armerina - Sicilia - lotta con belve.JPG",
+   "w": 4608,
+   "h": 3456,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mosaici_della_Villa_del_Casale_-_Piazza_Armerina_-_Sicilia_-_lotta_con_belve.JPG/1920px-Mosaici_della_Villa_del_Casale_-_Piazza_Armerina_-_Sicilia_-_lotta_con_belve.JPG",
+   "artist": "Robur.q",
+   "lic": "CC BY-SA 3.0"
+  },
+  {
+   "title": "Mosaici della Villa del Casale - Piazza Armerina - Sicilia - imbarcazione.JPG",
+   "w": 4608,
+   "h": 3456,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mosaici_della_Villa_del_Casale_-_Piazza_Armerina_-_Sicilia_-_imbarcazione.JPG/1920px-Mosaici_della_Villa_del_Casale_-_Piazza_Armerina_-_Sicilia_-_imbarcazione.JPG",
+   "artist": "Robur.q",
+   "lic": "CC BY-SA 3.0"
+  },
+  {
+   "title": "Villa romana del Casale - Particolare mosaico geometrico lato nord (7831275254).jpg",
+   "w": 2321,
+   "h": 3643,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Villa_romana_del_Casale_-_Particolare_mosaico_geometrico_lato_nord_%287831275254%29.jpg/1920px-Villa_romana_del_Casale_-_Particolare_mosaico_geometrico_lato_nord_%287831275254%29.jpg",
+   "artist": "Rino Porrovecchio from Palermo, Italy",
+   "lic": "CC BY-SA 2.0"
+  },
+  {
+   "title": "Mosaici che delimitano il peristilio quadrangolare-2 (7831358236).jpg",
+   "w": 3264,
+   "h": 1997,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Mosaici_che_delimitano_il_peristilio_quadrangolare-2_%287831358236%29.jpg/1920px-Mosaici_che_delimitano_il_peristilio_quadrangolare-2_%287831358236%29.jpg",
+   "artist": "Rino Porrovecchio from Palermo, Italy",
+   "lic": "CC BY-SA 2.0"
+  }
+ ],
+ "ispica": [],
+ "cavadispica": [
+  {
+   "title": "Area archeologica di Cava d'Ispica (Ispica) 29 12 2024 26.jpg",
+   "w": 4608,
+   "h": 3456,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Area_archeologica_di_Cava_d%27Ispica_%28Ispica%29_29_12_2024_26.jpg/1920px-Area_archeologica_di_Cava_d%27Ispica_%28Ispica%29_29_12_2024_26.jpg",
+   "artist": "Effems",
+   "lic": "CC0"
+  },
+  {
+   "title": "Area archeologica di Cava d'Ispica (Ispica) 14 01 2024 31.jpg",
+   "w": 4608,
+   "h": 2272,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Area_archeologica_di_Cava_d%27Ispica_%28Ispica%29_14_01_2024_31.jpg/1920px-Area_archeologica_di_Cava_d%27Ispica_%28Ispica%29_14_01_2024_31.jpg",
+   "artist": "Effems",
+   "lic": "CC0"
+  },
+  {
+   "title": "Area archeologica di Cava d'Ispica (Ispica) 14 01 2024 16.jpg",
+   "w": 4608,
+   "h": 2272,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Area_archeologica_di_Cava_d%27Ispica_%28Ispica%29_14_01_2024_16.jpg/1920px-Area_archeologica_di_Cava_d%27Ispica_%28Ispica%29_14_01_2024_16.jpg",
+   "artist": "Effems",
+   "lic": "CC0"
+  }
+ ],
+ "agrigento": [
+  {
+   "title": "Tempio della Concordia, Valle dei Templi, Agrigento, Sicilia, Italia 2024.jpg",
+   "w": 3956,
+   "h": 2967,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Tempio_della_Concordia%2C_Valle_dei_Templi%2C_Agrigento%2C_Sicilia%2C_Italia_2024.jpg/1920px-Tempio_della_Concordia%2C_Valle_dei_Templi%2C_Agrigento%2C_Sicilia%2C_Italia_2024.jpg",
+   "artist": "Sharon Hahn Darlin",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "title": "Agrigento - Valle dei Templi - View of Tempio della Concordia - 2.jpg",
+   "w": 5472,
+   "h": 3648,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Agrigento_-_Valle_dei_Templi_-_View_of_Tempio_della_Concordia_-_2.jpg/1920px-Agrigento_-_Valle_dei_Templi_-_View_of_Tempio_della_Concordia_-_2.jpg",
+   "artist": "Benjamin Smith",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Agrigento - Valle dei Templi - View of Tempio della Concordia - 1.jpg",
+   "w": 5472,
+   "h": 3648,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Agrigento_-_Valle_dei_Templi_-_View_of_Tempio_della_Concordia_-_1.jpg/1920px-Agrigento_-_Valle_dei_Templi_-_View_of_Tempio_della_Concordia_-_1.jpg",
+   "artist": "Benjamin Smith",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Tempio della Concordia, Valle dei Templi, Agrigento, Sicilia, Italia 2024 (cropped).jpg",
+   "w": 3580,
+   "h": 511,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tempio_della_Concordia%2C_Valle_dei_Templi%2C_Agrigento%2C_Sicilia%2C_Italia_2024_%28cropped%29.jpg/1920px-Tempio_della_Concordia%2C_Valle_dei_Templi%2C_Agrigento%2C_Sicilia%2C_Italia_2024_%28cropped%29.jpg",
+   "artist": "Sharon Hahn Darlin",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "title": "Tempio della Concordia, Valle dei templi, Agrigento, Sicily, Italy - panoramio.jpg",
+   "w": 4897,
+   "h": 2756,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Tempio_della_Concordia%2C_Valle_dei_templi%2C_Agrigento%2C_Sicily%2C_Italy_-_panoramio.jpg/1920px-Tempio_della_Concordia%2C_Valle_dei_templi%2C_Agrigento%2C_Sicily%2C_Italy_-_panoramio.jpg",
+   "artist": "trolvag",
+   "lic": "CC BY-SA 3.0"
+  },
+  {
+   "title": "Valle-dei-templi-tempio-della-concordia-f.JPG",
+   "w": 3008,
+   "h": 2000,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Valle-dei-templi-tempio-della-concordia-f.JPG/1920px-Valle-dei-templi-tempio-della-concordia-f.JPG",
+   "artist": "Mboesch",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Valle-dei-templi-tempio-della-concordia-e.JPG",
+   "w": 3008,
+   "h": 2000,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Valle-dei-templi-tempio-della-concordia-e.JPG/1920px-Valle-dei-templi-tempio-della-concordia-e.JPG",
+   "artist": "Mboesch",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Valle-dei-templi-tempio-della-concordia-b.JPG",
+   "w": 3008,
+   "h": 2000,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Valle-dei-templi-tempio-della-concordia-b.JPG/1920px-Valle-dei-templi-tempio-della-concordia-b.JPG",
+   "artist": "Mboesch",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Valle-dei-templi-tempio-della-concordia-c.JPG",
+   "w": 3008,
+   "h": 2000,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Valle-dei-templi-tempio-della-concordia-c.JPG/1920px-Valle-dei-templi-tempio-della-concordia-c.JPG",
+   "artist": "Mboesch",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Concordiatempel Tempio della Temple of Concordia de la Concorde Tal der Tempel Valle dei Templi Agrigento Sizilien Foto Wolfgang Pehlemann DSC07490.jpg",
+   "w": 6000,
+   "h": 4001,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Concordiatempel_Tempio_della_Temple_of_Concordia_de_la_Concorde_Tal_der_Tempel_Valle_dei_Templi_Agrigento_Sizilien_Foto_Wolfgang_Pehlemann_DSC07490.jpg/1920px-Concordiatempel_Tempio_della_Temple_of_Concordia_de_la_Concorde_Tal_der_Tempel_Valle_dei_Templi_Agrigento_Sizilien_Foto_Wolfgang_Pehlemann_DSC07490.jpg",
+   "artist": "Wolfgang Pehlemann",
+   "lic": "CC BY-SA 3.0 de"
+  }
+ ],
+ "scaladeiturchi": [
+  {
+   "title": "Scala dei Turchi panorama.jpg",
+   "w": 1600,
+   "h": 1200,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Scala_dei_Turchi_panorama.jpg",
+   "artist": "Carnby",
+   "lic": "CC BY 3.0"
+  },
+  {
+   "title": "Scala dei Turchi 2017.jpg",
+   "w": 4867,
+   "h": 3234,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Scala_dei_Turchi_2017.jpg/1920px-Scala_dei_Turchi_2017.jpg",
+   "artist": "Enrico Strocchi",
+   "lic": "CC BY-SA 2.0"
+  },
+  {
+   "title": "Scala dei Turchi - Realmonte - 25 Giugno 2020 - 1.jpg",
+   "w": 4002,
+   "h": 3002,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Scala_dei_Turchi_-_Realmonte_-_25_Giugno_2020_-_1.jpg/1920px-Scala_dei_Turchi_-_Realmonte_-_25_Giugno_2020_-_1.jpg",
+   "artist": "Calogero1988",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Realmonte - Scala dei Turchi 7824.jpg",
+   "w": 6579,
+   "h": 3701,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Realmonte_-_Scala_dei_Turchi_7824.jpg/1920px-Realmonte_-_Scala_dei_Turchi_7824.jpg",
+   "artist": "Vincenzo Lana",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Realmonte - Scala dei Turchi 7893.jpg",
+   "w": 6619,
+   "h": 3723,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Realmonte_-_Scala_dei_Turchi_7893.jpg/1920px-Realmonte_-_Scala_dei_Turchi_7893.jpg",
+   "artist": "Vincenzo Lana",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Realmonte - Scala dei Turchi 7869.jpg",
+   "w": 6325,
+   "h": 3558,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Realmonte_-_Scala_dei_Turchi_7869.jpg/1920px-Realmonte_-_Scala_dei_Turchi_7869.jpg",
+   "artist": "Vincenzo Lana",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Realmonte - Scala dei Turchi 7823.jpg",
+   "w": 6687,
+   "h": 3761,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Realmonte_-_Scala_dei_Turchi_7823.jpg/1920px-Realmonte_-_Scala_dei_Turchi_7823.jpg",
+   "artist": "Vincenzo Lana",
+   "lic": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Realmonte - Scala dei Turchi 1008.jpg",
+   "w": 4928,
+   "h": 3264,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Realmonte_-_Scala_dei_Turchi_1008.jpg/1920px-Realmonte_-_Scala_dei_Turchi_1008.jpg",
+   "artist": "Monika Durickova",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "title": "Realmonte - Scala dei Turchi 0972.jpg",
+   "w": 19383,
+   "h": 4549,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Realmonte_-_Scala_dei_Turchi_0972.jpg/1920px-Realmonte_-_Scala_dei_Turchi_0972.jpg",
+   "artist": "Monika Durickova",
+   "lic": "CC BY 2.0"
+  },
+  {
+   "title": "Scala dei Turchi, Realmonte (Agrigento), Sicilia (49625116203).jpg",
+   "w": 4928,
+   "h": 3141,
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Scala_dei_Turchi%2C_Realmonte_%28Agrigento%29%2C_Sicilia_%2849625116203%29.jpg/1920px-Scala_dei_Turchi%2C_Realmonte_%28Agrigento%29%2C_Sicilia_%2849625116203%29.jpg",
+   "artist": "Hervé Simon",
+   "lic": "CC BY-SA 2.0"
+  }
+ ]
+}

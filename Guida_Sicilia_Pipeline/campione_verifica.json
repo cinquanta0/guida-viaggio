@@ -1,0 +1,149 @@
+[
+  {
+    "n": "Grigliados - Churrasco & Steakhouse",
+    "z": "Riposto",
+    "t": "carne",
+    "a": "Via Duca del Mare",
+    "d": "Ristorante di carne a Riposto. Da Google Maps: 3,9 su 115 recensioni."
+  },
+  {
+    "n": "AL BRACIERE MILO",
+    "z": "Milo",
+    "t": "carne",
+    "a": "Corso Italia 38",
+    "d": "Ristorante di carne a Milo. Da Google Maps: 4,0 su 1459 recensioni."
+  },
+  {
+    "n": "Al Braciere dello Chef",
+    "z": "Gravina di Catania",
+    "t": "carne",
+    "a": "V. Fasano 76/78",
+    "d": "Ristorante di carne a Gravina di Catania. Da Google Maps: 4,5 su 289 recensioni."
+  },
+  {
+    "n": "Brace Catania",
+    "z": "Catania — Pescheria",
+    "t": "carne",
+    "a": "Via Domenico Cimarosa 12-14",
+    "d": "Ristorante di carne a Catania - Pescheria. Da Google Maps: 4,3 su 403 recensioni."
+  },
+  {
+    "n": "La Grigliata",
+    "z": "Gravina di Catania",
+    "t": "carne",
+    "a": "Via Duca Degli Abruzzi 133",
+    "d": "Ristorante di carne a Gravina di Catania. Da Google Maps: 4,6 su 241 recensioni."
+  },
+  {
+    "n": "Braceria Gramegna",
+    "z": "Gravina di Catania",
+    "t": "carne",
+    "a": "Via Federico Meninni 200",
+    "d": "Ristorante di carne a Gravina di Catania. Da Google Maps: 4,5 su 203 recensioni."
+  },
+  {
+    "n": "Re Carlo V",
+    "z": "Catania — Via Plebiscito",
+    "t": "pesce",
+    "a": "Via Plebiscito 728",
+    "d": "Ristorante di pesce a Catania - Via Plebiscito. Da Google Maps: 4,3 su 3072 recensioni."
+  },
+  {
+    "n": "Ristorante All'Angolo Di Perni Giovanni",
+    "z": "Trecastagni",
+    "t": "pesce",
+    "a": "Via Catania 32",
+    "d": "Ristorante di pesce a Trecastagni. Da Google Maps: 4,2 su 192 recensioni."
+  },
+  {
+    "n": "Ristorante Il Bell'Antonio",
+    "z": "Catania — Via Plebiscito",
+    "t": "pesce",
+    "a": "Piazzetta Sebastiano Addamo 3/5",
+    "d": "Ristorante di pesce a Catania - Via Plebiscito. Da Google Maps: 4,4 su 1822 recensioni."
+  },
+  {
+    "n": "Ristorante Pizzeria Capitano Uncino",
+    "z": "Giardini Naxos",
+    "t": "pesce",
+    "a": "Lungomare Tysandros 100",
+    "d": "Ristorante di pesce a Giardini Naxos. Da Google Maps: 4,6 su 797 recensioni."
+  },
+  {
+    "n": "Il Covo Marino",
+    "z": "Aci Trezza",
+    "t": "pesce",
+    "a": "Via Lungomare Dei Ciclopi 149",
+    "d": "Ristorante di pesce a Aci Trezza. Da Google Maps: 4,1 su 1415 recensioni."
+  },
+  {
+    "n": "Mare Kambo",
+    "z": "Fiumefreddo di Sicilia",
+    "t": "pesce",
+    "a": "Lungomare Cottone",
+    "d": "Ristorante di pesce a Fiumefreddo di Sicilia. Da Google Maps: 4,2 su 1406 recensioni."
+  },
+  {
+    "n": "Trattoria da Antonio",
+    "z": "Giardini Naxos",
+    "t": "pasta",
+    "a": "Lungomare Tysandros 24",
+    "d": "Trattoria a Giardini Naxos. Da Google Maps: 4,4 su 823 recensioni."
+  },
+  {
+    "n": "Casale Antico Borgo",
+    "z": "Paternò",
+    "t": "pasta",
+    "a": "Contrada Scalilli",
+    "d": "Trattoria a Paternò. Da Google Maps: 3,9 su 452 recensioni."
+  },
+  {
+    "n": "La Cantina di Monsignore",
+    "z": "Castiglione di Sicilia",
+    "t": "pasta",
+    "a": "Piazza S. Antonio, n5",
+    "d": "Trattoria a Castiglione di Sicilia. Da Google Maps: 4,6 su 161 recensioni."
+  },
+  {
+    "n": "Lido Pizzeria Tortuga Beach",
+    "z": "Letojanni",
+    "t": "pizza",
+    "a": "Via Luigi Rizzo, 98037 Letojanni ME",
+    "d": "Pizzeria a Letojanni. Da Google Maps: 4,4 su 136 recensioni."
+  },
+  {
+    "n": "Pizzeria da Toni",
+    "z": "Lentini",
+    "t": "pizza",
+    "a": "Viale Riccardo da Lentini 39",
+    "d": "Pizzeria a Lentini. Da Google Maps: 4,6 su 207 recensioni."
+  },
+  {
+    "n": "Gran Caffè Maugeri",
+    "z": "Aci Sant’Antonio",
+    "t": "dolci",
+    "a": "Piazza Maggiore 4",
+    "d": "Pasticceria/gelateria a Aci Sant’Antonio. Da Google Maps: 4,4 su 190 recensioni."
+  },
+  {
+    "n": "Condorelli",
+    "z": "Mascali",
+    "t": "dolci",
+    "a": "Via Siculo Orientale 124",
+    "d": "Pasticceria/gelateria a Mascali. Da Google Maps: 4,4 su 258 recensioni."
+  },
+  {
+    "n": "Alfio's Pizza & Pasta",
+    "z": "Giardini Naxos",
+    "t": "street",
+    "a": "Via Consolare Valeria 90",
+    "d": "Rosticceria/street food a Giardini Naxos. Da Google Maps: 4,5 su 1099 recensioni."
+  },
+  {
+    "n": "Schilirò Panificio Girarrosto",
+    "z": "Mascali",
+    "t": "street",
+    "a": "Via S. Giuseppe 114",
+    "d": "Rosticceria/street food a Mascali. Da Google Maps: 4,4 su 110 recensioni."
+  }
+]
