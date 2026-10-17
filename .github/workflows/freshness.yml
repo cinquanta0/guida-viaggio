@@ -1,38 +1,28 @@
-# Robot della guida — versione GRATIS (niente Google).
-# Ogni lunedì mattina, da solo:
-#   1. audit: trova buchi di copertura / tag da sistemare (sui dati, 0 chiamate esterne)
-#   2. ricostruisce il sito (Sicilia + Napoli) e aggiorna i crediti foto
-#   3. fa il DEPLOY su Firebase
-#   4. salva il report dell'audit nel repo (storico)
-# NON aggiunge né promuove posti: la scelta del meglio resta umana (vedi CRITERI.md).
-#
-# Serve UN SOLO segreto nel repo (Settings -> Secrets and variables -> Actions):
-#   FIREBASE_TOKEN  = lo generi con `firebase login:ci`
-# (La chiave Google NON serve: la fatturazione è chiusa e non la usiamo.)
-
 name: guida-bot
+
 on:
   schedule:
-    - cron: '0 6 * * 1'      # ogni lunedì 06:00 UTC
-  workflow_dispatch: {}        # + bottone "Run workflow" per lanciarlo a mano
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
 
 permissions:
-  contents: write              # per ri-committare il report dell'audit
+  contents: write
 
 jobs:
   aggiorna:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Audit copertura (buchi / tag)
+      - name: Audit copertura
         working-directory: Guida_Sicilia_Pipeline
         run: node audit_categorie.js || echo "audit saltato"
 
-      - name: Rigenera il sito (Sicilia + Napoli)
+      - name: Rigenera il sito
         working-directory: Guida_Sicilia_Pipeline
         run: |
           node build.js
@@ -44,7 +34,7 @@ jobs:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
         run: npx -y firebase-tools@14 deploy --only hosting --project guida-sicilia-2026 --token "$FIREBASE_TOKEN"
 
-      - name: Salva il report nello storico
+      - name: Salva report
         run: |
           git config user.name "guida-bot"
           git config user.email "bot@users.noreply.github.com"
